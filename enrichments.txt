@@ -27,6 +27,7 @@ anime44.us.intellitxt.com
 animecubed.us.intellitxt.com
 answerbag.us.intellitxt.com
 anvari.us.intellitxt.com
+app.convertkit.com
 app.getsentry.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
@@ -52,8 +53,10 @@ brothersoft.us.intellitxt.com
 businessinsider.us.intellitxt.com
 cache.ltvcms.com
 cdn.adf.ly
+cdn.bitrix24.com
 cdn.dynamicyield.com
 cdn.georiot.com
+cdn.getsmartcontent.com
 cdn.goroost.com
 cdn.izooto.com
 cdn.onesignal.com
@@ -88,6 +91,7 @@ drugscom.us.intellitxt.com
 dsms0mj1bbhn4.cloudfront.net
 ehomeupgrade.us.intellitxt.com
 ehow.us.intellitxt.com
+endian.agilecrm.com
 englishforum.ch.intellitxt.com
 entertainment.msnbc.us.intellitxt.com
 es.intellitxt.com
@@ -106,6 +110,7 @@ filedudes.us.intellitxt.com
 filmhobbit.us.intellitxt.com
 fixya.us.intellitxt.com
 foreign-trade.us.intellitxt.com
+forms.convertkit.com
 fortunecity.us.intellitxt.com
 fox4news.us.intellitxt.com
 foxtv.us.intellitxt.com
@@ -289,6 +294,7 @@ soundcard-drivers.us.intellitxt.com
 soundtrack.us.intellitxt.com
 speedguide.us.intellitxt.com
 sprintusers.us.intellitxt.com
+static.elev.io
 static.plenigo.com
 subscribe.wired.com
 sv1-g007.us.intellitxt.com
@@ -357,6 +363,7 @@ wpcentral.us.intellitxt.com
 wugnet.us.intellitxt.com
 wwtdd.us.intellitxt.com
 www.feedgrabbr.com
+www.geolify.com
 www.intellitxt.com
 xda-developers.us.intellitxt.com
 zataz.fr.intellitxt.com

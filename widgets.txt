@@ -2,6 +2,7 @@
 005.free-counters.co.uk
 1.intellectualselling.com
 a.akncdn.com
+a.mailmunch.co
 a.siteapps.com
 ae.siteapps.com
 ah.pricegrabber.com
@@ -21,6 +22,7 @@ app-sj01.marketo.com
 app-sj10.marketo.com
 app-sj15.marketo.com
 app.popupdomination.com
+assets.contextly.com
 assets.cookieconsent.silktide.com
 assets.freshdesk.com
 assets.kampyle.com
@@ -35,6 +37,7 @@ button.flattr.com
 buzzbox.buzzfeed.com
 c.la1c1.salesforceliveagent.com
 cache1.value-domain.com
+call.chatra.io
 cdn-akamai.mookie1.com
 cdn-widget.stuff.com
 cdn.embedly.com
@@ -44,6 +47,7 @@ cdn.livechatinc.com
 cdn.loop11.com
 cdn.mark.reevoo.com
 cdn.moodly.org
+cdn.playbuzz.com
 cdn.playwire.com
 cdn.prizma.tv
 cdn.pubexchange.com
@@ -69,6 +73,7 @@ ctl.buyt.in
 d1af033869koo7.cloudfront.net
 d24ftjcfgttqm3.cloudfront.net
 d2bw638ufki166.cloudfront.net
+d2ylgh2cnbot5i.cloudfront.net
 d33t3vvu2t2yu5.cloudfront.net
 d3aa0ztdn3oibi.cloudfront.net
 d3qyhjw3i5gtba.cloudfront.net
@@ -89,6 +94,7 @@ embed.tawk.to
 ext.host-tracker.com
 flagcounter.com
 fluidsurveys.com
+free.timeanddate.com
 freegeoip.net
 freshplum.com
 gatewayvortx.whoson.com
@@ -111,10 +117,13 @@ jb.revolvermaps.com
 jc.revolvermaps.com
 jdn.monster.com
 jetpack.wordpress.com
+ji.revolvermaps.com
+jj.revolvermaps.com
 jmn.jangonetwork.com
 jobfeeds.coroflot.com
 js.appboycdn.com
 js.bigdoor.com
+js.driftt.com
 js.ru.redtram.com
 l.addthiscdn.com
 l.sharethis.com
@@ -136,6 +145,7 @@ mpp.vindicosuite.com
 mpsnare.iesnare.com
 native.sharethrough.com
 naytev.global.ssl.fastly.net
+nextclick.pl
 nwidget.networkedblogs.com
 otter.topsy.com
 our.glossip.nl
@@ -148,6 +158,7 @@ platform.linkedin.com
 platform.twitter.com
 plug.plugerr.com
 plusone.google.com
+preferences.truste.com
 pthumbnails.5min.com
 pub.grouvi.im
 ra.revolvermaps.com
@@ -197,6 +208,7 @@ static.olark.com
 static.skimlinks.com
 static.zotabox.com
 statics.apreslachat.com
+staticw2.yotpo.com
 sticky-enterprise-shopify.herokuapp.com
 surveywidget.biz
 suwidget3-bs-fx.sphereup.com
@@ -244,6 +256,7 @@ widget.plugrush.com
 widget.privy.com
 widget.siteheart.com
 widget.socialmart.ru
+widget.spoods.io
 widget.supercounters.com
 widget.uservoice.com
 widget.weibo.com
@@ -265,6 +278,8 @@ widgets.stackcommerce.com
 widgets.webengage.com
 widgets3.flux.com
 widgets4.flux.com
+woobox.com
+wpcomwidgets.com
 wprp.zemanta.com
 ws-na.amazon-adsystem.com
 wt.webstatsdomain.org
@@ -272,15 +287,18 @@ wurfl.io
 www.1414.de
 www.contentexchange.me
 www.cutestat.com
+www.dealsandprices.com
 www.dwin2.com
 www.freebloghitcounter.com
 www.hornywood.tv
 www.hypestat.com
+www.inxero.com
 www.lightboxcdn.com
 www.linkwithin.com
 www.powr.io
 www.salesmanago.pl
 www.smartlinks.dianomi.com
+www.snapengage.com
 www.speakpipe.com
 www.spot.im
 www.stevec.si
