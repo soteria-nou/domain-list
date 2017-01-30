@@ -73,6 +73,7 @@ autolinkmaker.itunes.apple.com
 bet365affiliates.com
 bingo4affiliates.com
 d1gpxn1nf5xsl8.cloudfront.net
+d3qrz9uuaxc8ej.cloudfront.net
 dsnr-affiliates.com
 fileandmore.com
 forex-affiliate.net
@@ -97,6 +98,7 @@ roxyaffiliates.com
 sbaffiliates.com
 scripts.affiliatefuture.com
 stargamesaffiliate.com
+static.leaddyno.com
 sub.reichtron.com
 systemcallpointcamel.info
 travelsim.postaffiliatepro.com
@@ -108,9 +110,11 @@ www.affiliatejunktion.com
 www.affiliation-france.com
 www.appsumo.com
 www.avantlink.com
+www.berush.com
 www.mrvids.com
 www.myaffiliateprogram.com
 www.scriptshead.com
+www.startappexchange.com
 www.youradexchange.com
 www.zanox-affiliate.de
 www8.glam.com

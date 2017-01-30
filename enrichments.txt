@@ -27,7 +27,11 @@ anime44.us.intellitxt.com
 animecubed.us.intellitxt.com
 answerbag.us.intellitxt.com
 anvari.us.intellitxt.com
+api.booster3000.si
+api.facebook.com
+api.pulpix.com
 app.convertkit.com
+app.getresponse.com
 app.getsentry.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
@@ -52,21 +56,26 @@ bluesfear.us.intellitxt.com
 brothersoft.us.intellitxt.com
 businessinsider.us.intellitxt.com
 cache.ltvcms.com
+cackle.me
 cdn.adf.ly
 cdn.bitrix24.com
 cdn.dynamicyield.com
+cdn.feedbackify.com
 cdn.georiot.com
 cdn.getsmartcontent.com
 cdn.goroost.com
 cdn.izooto.com
 cdn.onesignal.com
+cdn.pulpix.com
 cdn.pushcrew.com
 cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com
 celebritywonder.us.intellitxt.com
 cinemablend.us.intellitxt.com
 citizen-times.us.intellitxt.com
+clientcdn.pushengage.com
 code.intext.billboard.cz
+code.tidio.co
 codeproject.us.intellitxt.com
 comingsoon.us.intellitxt.com
 compnet.us.intellitxt.com
@@ -81,6 +90,7 @@ dac.jp.intellitxt.com
 daniweb.us.intellitxt.com
 de.intellitxt.com
 denguru.us.intellitxt.com
+devicedetect.cloud
 devshed.us.intellitxt.com
 digit-life.uk.intellitxt.com
 digitalcamerareview.us.intellitxt.com
@@ -115,6 +125,7 @@ fortunecity.us.intellitxt.com
 fox4news.us.intellitxt.com
 foxtv.us.intellitxt.com
 fr.intellitxt.com
+fr.slidein.clickintext.net
 fragbite.se.intellitxt.com
 freddyo.us.intellitxt.com
 freecodecs.us.intellitxt.com
@@ -168,6 +179,7 @@ jakeludington.us.intellitxt.com
 jeepforum.us.intellitxt.com
 jkontherun.us.intellitxt.com
 jp.intellitxt.com
+js.bronto.com
 jsfiles.rutracker.ga
 jupiter.us.intellitxt.com
 kbalertz.us.intellitxt.com
@@ -239,6 +251,7 @@ pcmag.us.intellitxt.com
 pcpro.uk.intellitxt.com
 pcpro.us.intellitxt.com
 pcreview.uk.intellitxt.com
+pcv1.varinode.com
 penton.us.intellitxt.com
 phonearena.us.intellitxt.com
 photo.us.intellitxt.com
@@ -246,6 +259,7 @@ photographyreview.us.intellitxt.com
 phpbb-host.us.intellitxt.com
 physorg.uk.intellitxt.com
 physorg.us.intellitxt.com
+piskotki.com
 pixel.intellitxt.com
 placehold.it
 planetamd64.us.intellitxt.com
@@ -266,6 +280,7 @@ s.ppjol.net
 savvy.us.intellitxt.com
 sc.intellitxt.com
 scripts.mobdub.com
+sdk.beeketing.com
 seeklyrics.us.intellitxt.com
 shared.9msn.com.au
 shoutwire.us.intellitxt.com
@@ -295,6 +310,7 @@ soundtrack.us.intellitxt.com
 speedguide.us.intellitxt.com
 sprintusers.us.intellitxt.com
 static.elev.io
+static.giftwizard.co
 static.plenigo.com
 subscribe.wired.com
 sv1-g007.us.intellitxt.com
@@ -364,6 +380,9 @@ wugnet.us.intellitxt.com
 wwtdd.us.intellitxt.com
 www.feedgrabbr.com
 www.geolify.com
+www.geoplugin.net
 www.intellitxt.com
+www.searchanise.com
+www.upsite.co.il
 xda-developers.us.intellitxt.com
 zataz.fr.intellitxt.com

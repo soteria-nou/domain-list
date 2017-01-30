@@ -1,5 +1,6 @@
 000001.azureedge.net
 01.creativecdn.com
+04dn8g4f.space
 0aac4e6a54c170b0.se
 0c9d8370d.se
 0gkzz.survey7.2340.info
@@ -18,10 +19,12 @@
 2542116.fls.doubleclick.net
 2982.tm.zedo.com
 2mdn.info
+2ujo8ayw.racing
 3.adbrite.com
 360ads.com
 3718076.fls.doubleclick.net
 3797665.fls.doubleclick.net
+39o9mcr2.party
 3c45d848d99.se
 3rdads.com
 4.adbrite.com
@@ -32,9 +35,12 @@
 4436230.fls.doubleclick.net
 4798504.fls.doubleclick.net
 4854432.fls.doubleclick.net
+4e9wpp17.stream
 5gl1x9qc.com
 6e2bd3848d2b73.se
+6g3am6pr.website
 777seo.com
+7qkuf.voluumtrk.com
 85dcf732d593.se
 89.8ox.cn
 a.abnad.net
@@ -146,6 +152,7 @@ abo.prismamediadigital.com
 abs.proxistore.com
 ac.primeshare.tv
 ac.realvu.net
+acaster.coupons.com
 accuserveadsystem.com
 acdn.adnxs.com
 ace-tag.advertising.com
@@ -264,6 +271,7 @@ ad.es.doubleclick.net
 ad.eurosport.com
 ad.feathr.co
 ad.fi.doubleclick.net
+ad.flurry.com
 ad.foxnetworks.com
 ad.fr.doubleclick.net
 ad.free6.com
@@ -303,6 +311,7 @@ ad.jumbaexchange.com
 ad.kaskus.us
 ad.kickasstorrents.com
 ad.kr.doubleclick.net
+ad.leadbolt.net
 ad.leadboltads.net
 ad.lemde.fr
 ad.linkexchange.com
@@ -358,6 +367,7 @@ ad.sbnation.com
 ad.se.doubleclick.net
 ad.sensismediasmart.com.au
 ad.server1.autooglasi.eu
+ad.server3.autooglasi.eu
 ad.sevenads.net
 ad.seznam.cz
 ad.sg.doubleclick.net
@@ -774,6 +784,7 @@ ads.autotrader.com
 ads.avazu.net
 ads.avocet.io
 ads.avtodirekt.si
+ads.avvo.com
 ads.aws.rubiconproject.com
 ads.aws.sitepoint.com
 ads.ayads.co
@@ -786,6 +797,7 @@ ads.bicikel.com
 ads.bigrebelads.com
 ads.bildschirmarbeiter.com
 ads.bit-tech.net
+ads.bitcoin.com
 ads.blazingporn.com
 ads.blizzard.com
 ads.blog.com
@@ -810,6 +822,7 @@ ads.cartoonnetwork.com
 ads.cc-dt.com
 ads.cdnslate.com
 ads.cdrinfo.com
+ads.celtra.com
 ads.ceneje.si
 ads.centraliprom.com
 ads.chargeplatform.com
@@ -1065,6 +1078,7 @@ ads.njuskalo.hr
 ads.nordichardware.com
 ads.nordichardware.se
 ads.nowmanifest.com
+ads.nq.com
 ads.nwsource.com
 ads.o2.pl
 ads.on-line.lt
@@ -1285,6 +1299,7 @@ ads.wnd.com
 ads.wotanserver.com
 ads.x10.com
 ads.xda-developers.com
+ads.xxxwebtraffic.com
 ads.yahoo.com
 ads.yazzle.net
 ads.yimg.com
@@ -1410,6 +1425,7 @@ adserver-us.adtech.advertising.com
 adserver.24ur.com
 adserver.71i.de
 adserver.adintensity.com
+adserver.adman.si
 adserver.adreactor.com
 adserver.adregate.com
 adserver.adremedy.nl
@@ -1718,6 +1734,7 @@ aka-cdn-ns.adtech.de
 aka-cdn-ns.adtechus.com
 aka-cdn.adtech.de
 aka-cdn.adtechus.com
+akcdn.nativeadsfeed.com
 akdapi.com
 alfalt.adocean.pl
 alleliteads.com
@@ -1728,6 +1745,7 @@ alternads.info
 altsysimg.developpez.com
 alxsite.com
 am.appserver-ap.com
+am.appserver-cp.com
 am10.ru
 am15.net
 amn.doubleclick.net
@@ -1758,8 +1776,10 @@ api.vungle.com
 api.zeti.com
 apmebf.com
 app-ab13.marketo.com
+app.brightinfo.com
 app.cointraffic.in
 app.salecycle.com
+applift-b.apptornado.com
 apps.cointraffic.io
 apps.conduit.com
 apycdn.com
@@ -1780,6 +1800,8 @@ ask-d.openx.net
 asmi-mobile.nuggad.net
 asset.pagefair.com
 asset.pagefair.net
+assets.pixlee.com
+assets.servedby-buysellads.com
 asv.nuggad.net
 async01.admantx.com
 at.ad2click.nl
@@ -1946,6 +1968,7 @@ besthitsnow.com
 bh-engine.intextad.net
 bid.g.doubleclick.net
 bid.openx.net
+bid.pubmatic.com
 big.g.doubleclick.net
 biggestplayer.cachefly.net
 bigmobileads.com
@@ -1986,10 +2009,12 @@ c1.popads.net
 c14.zedo.com
 c2.popads.net
 c21.adshost1.com
+c2s.startappnetwork.com
 cache.adelement.com
 cache.betweendigital.com
 cafemedia-d.openx.net
 campaigns.de.euserv.adaos-ads.net
+canvas.thenextweb.com
 carbonads.com
 carbonads.net
 carrymythrone.info
@@ -2026,6 +2051,7 @@ cdn.afdads.com
 cdn.banners.scubl.com
 cdn.bannersnack.com
 cdn.blueconic.net
+cdn.bronto.com
 cdn.buysellads.com
 cdn.carbonads.com
 cdn.cast.upload.cnet.com
@@ -2034,6 +2060,7 @@ cdn.clickfuse.com
 cdn.clicksondelivery.com
 cdn.conative.de
 cdn.connatix.com
+cdn.cpmstar.com
 cdn.directrev.com
 cdn.directtrk.com
 cdn.districtm.ca
@@ -2055,9 +2082,11 @@ cdn.livefyre.com
 cdn.mediavoice.com
 cdn.midas-network.com
 cdn.nativendo.de
+cdn.nmcdn.us
 cdn.o333o.com
 cdn.onedmp.com
 cdn.onscroll.com
+cdn.pleenq.com
 cdn.popcash.net
 cdn.popmyads.com
 cdn.reporo.net
@@ -2124,6 +2153,7 @@ coadvertise.com
 code.d-agency.net
 code.poptm.com
 code.taggify.net
+code.theads.me
 code2.adtlgc.com
 coinser.in
 coinurl.com
@@ -2133,6 +2163,8 @@ conduit-adverts.com
 conduit-banners.com
 conduit-data.com
 config-ltvp.inmobi.com
+config.ioam.de
+config.seedtag.com
 connect.decknetwork.net
 connect001.com
 connectedads.net
@@ -2192,9 +2224,11 @@ d.openx.org
 d.peoplesearchads.com
 d.tds.adlabs.ru
 d.thelocal.com
+d0z4gwv7.webcam
 d1.openx.org
 d13strl4lo8mtp.cloudfront.net
 d14qd3he45186l.cloudfront.net
+d19o643lxir6wy.cloudfront.net
 d1az0m14mjvs40.cloudfront.net
 d1cerpgff739r9.cloudfront.net
 d1pr3sk5xr0dce.cloudfront.net
@@ -2206,10 +2240,12 @@ d2xkqxdy6ewr93.cloudfront.net
 d3.condenast.servedbyopenx.com
 d3al52d8cojds7.cloudfront.net
 d3iwjrnl4m67rd.cloudfront.net
+d3laygk9zni6hc.cloudfront.net
 d3noqwmgo39at7.cloudfront.net
 d3pkrll6is44dx.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3sxcf6d4hxjd9.cloudfront.net
+d3ujb2t8x8alxd.cloudfront.net
 d3v27wwd40f0xu.cloudfront.net
 d6.zedo.com
 daily-caller-d.openx.net
@@ -2219,6 +2255,7 @@ data.ero-advertising.com
 data.factiousinappeasableprincess.com
 data.ikzikistheking.com
 data.initialcontroledge.info
+data.likablescaldfelted.info
 data.namesakeoscilloscopemarquis.com
 data.privatemedia.com.au
 data.resultlinks.com
@@ -2230,6 +2267,7 @@ dbadk.nuggad.net
 dban.home.ch
 dbg52463.moatads.com
 dcs.adgear.com
+dd6zx4ibq538k.cloudfront.net
 ddnk.advertur.ru
 de.adserver.yahoo.com
 de.mspaceads.com
@@ -2238,6 +2276,7 @@ decals.rcgroups.com
 decals.rcgroups.net
 deletemer.online
 delfilt.adocean.pl
+delivery-cdn-cf.adswizz.com
 delivery.a.switchadhub.com
 delivery.adnetwork.vn
 delivery.adrecover.com
@@ -2247,6 +2286,7 @@ delivery.amessagewithabottle.com
 delivery.clickganic.com
 delivery.d.switchadhub.com
 delivery.e.switchadhub.com
+delivery.myswitchads.com
 delivery.panel100.com
 delivery.reklamz.com
 delivery.swid.switchads.com
@@ -2337,6 +2377,7 @@ emailretargeting.com
 emisja.contentstream.pl
 emjcd.com
 ems2bmen.com
+engine.a.redditmedia.com
 engine.adbooth.com
 engine.adland.ru
 engine.adnet.ru
@@ -2365,6 +2406,7 @@ eu.nuggad.net
 euasync01.admantx.com
 eurostream.adspirit.de
 event.ohmyad.co
+exchange.nativeads.com
 exityield.advertise.com
 extmap.rub.ace.advertising.com
 eyereturn.com
@@ -2396,6 +2438,7 @@ frtyb.com
 ftjcfx.com
 fuegodevida.com
 fusionads.net
+fwbntw.com
 g.doubleclick.net
 g.ezoic.net
 gae.caspion.com
@@ -2434,6 +2477,7 @@ go.goldbachpoland.bbelements.com
 go.idmnet.bbelements.com
 go.livemovies.tv
 go.mobidowr.com
+go.mooncklick.com
 go.onclasrv.com
 go.padsdel.com
 go.padstm.com
@@ -2468,6 +2512,7 @@ himediads.com
 hipersushiads.com
 hitwastedgarden.com
 hlok.qertewrt.com
+hlu9tseh.men
 hm.baidu.com
 holdhelptime.com
 homeads.home.pl
@@ -2496,6 +2541,7 @@ i.total-media.net
 i.w.inmobi.com
 iacas.adbureau.net
 iapref.orange.fr
+ias.1and1.com
 ib.adnxs.com
 ibzmh05ibj.s.ad6media.fr
 icq.advmaker.ru
@@ -2503,6 +2549,7 @@ identads.com
 idg.adocean.pl
 idguk1-d.openx.net
 ifa.camads.net
+ijrah.top
 im.banner.t-online.de
 imads.i-media.si
 imads.integral-marketing.com
@@ -2564,10 +2611,13 @@ ipornia.com
 ir-de.amazon-adsystem.com
 ir.doubleclick.net
 irs09.com
+is3eho4w.download
 it.primary.affinitad.com
 iv.doubleclick.net
 j.adscale.de
+j880iceh.party
 jadserve.postrelease.com
+jp.at.atwola.com
 js-at.goldbach.com
 js-sec.indexww.com
 js.adforgames.com
@@ -2597,14 +2647,17 @@ jsad1.adsflip.com
 jsc.adskeeper.co.uk
 jsc.marketgid.com
 jsc.mgid.com
+jsc.traffic-media.co
 jsonp.moatads.com
 juiceads.net
 juiceadv.com
 jump.to
 jvads.vsads01.com
 keytarget.adnet.lt
+kge1ru01.science
 kleinanzeigen-d.openx.net
 klixfeed.com
+koidt1wn.bid
 kos.interseek.si
 krfwtleggqujgr.net
 kt.h0ok.com
@@ -2624,6 +2677,7 @@ lepubs.com
 letmelook.net
 letzonke.com
 liftdnartb-d.openx.net
+likablescaldfelted.info
 link.mercent.com
 linkbucksmedia.com
 linuxgizmos.advertserve.com
@@ -2651,10 +2705,12 @@ m.adnxs.com
 m.burt.io
 m.doubleclick.net
 m.viglink.com
+m.xp1.ru4.com
 m2.doubleclick.net
 m2m1.inner-active.mobi
 m3.doubleclick.net
 mads.aol.com
+mads.at.atwola.com
 mads.download.com
 mads.webshots.com
 mafia-banner.myftp.org
@@ -2669,6 +2725,7 @@ match.rundsp.com
 matomy.adk2.co
 mc.dailymotion.com
 mcmads.mediacapital.pt
+media.admob.com
 media.adrcdn.com
 media.adrevolver.com
 media.adtrack1.pl
@@ -2687,6 +2744,7 @@ megapopads.com
 mentad.com
 meta.streamcloud.eu
 metroleap.rotator.hadj7.adjuggler.net
+mg.adskeeper.co.uk
 mi.adinterax.com
 miniad2.layer-ad.org
 mixmarket.biz
@@ -2723,6 +2781,7 @@ my.adocean.pl
 my.blueadvertise.com
 my.mobfox.com
 my.popxxx.net
+myadsystem.com
 myao.adocean.pl
 myatorak.ru
 myclickbankads.com
@@ -2848,11 +2907,14 @@ oglasicdn.novilist.hr
 ok.internet-media.si
 ok.internetmedia.si
 ol.at.atwola.com
+ol.jp.at.atwola.com
+ol.uk.at.atwola.com
 oms.nuggad.net
 onads.com
 onceux.unicornmedia.com
 onclickads.net
 onclkds.com
+onderlea.info
 online.adservicemedia.dk
 onlineadtracker.co.uk
 onlinewebfind.com
@@ -2889,6 +2951,7 @@ openx.net
 openx.netzteilreview.de
 openx.org
 openx.promina-sport.si
+openx.racunalo.com
 openx.retail-international.de
 openx.sexsearchcom.com
 openx.shinyads.com
@@ -2991,6 +3054,7 @@ pds.directrev.com
 pentonads.advertising.de
 performanceadvertising.mobi
 performancingads.com
+petrol.iprom.net
 pezrphjl.com
 ph2dwb.oloadcdn.net
 photobucket.adnxs.com
@@ -3031,6 +3095,7 @@ pl3864100.puhtml.com
 pl4492830.puhtml.com
 pl4493458.puhtml.com
 pl4493534.puhtml.com
+pl4518712.puserving.com
 pl5163.putags.com
 pl6452454.puhtml.com
 planetlepote.iprom.net
@@ -3042,9 +3107,11 @@ pntra.com
 pntrac.com
 pntrs.com
 pocketcents.com
+pogledi.iprom.net
 polet.iprom.net
 pool.admedo.com
 pool.ads.netlog.com
+pop.bid
 popadscdn.net
 popcash.net
 popearn.com
@@ -3161,6 +3228,7 @@ rotator.offpageads.com
 rotorads.com
 route.carambo.la
 rps.eads.lt
+rq.vserv.mobi
 rs.adocean.pl
 rs.static.etargetnet.com
 rsgde.adocean.pl
@@ -3208,6 +3276,7 @@ s.pubmine.com
 s.speednetwork4.com
 s.spolecznosci.net
 s.zkcdn.net
+s1-adfly.com
 s1.ad.adocean.pl
 s1.adform.net
 s1.cz.adocean.pl
@@ -3261,6 +3330,7 @@ serve.popads.net
 servedby.adsfactor.net
 servedby.advertising.com
 servedby.flashtalking.com
+servedby.informatm.com
 servedby.openxmarket.asia
 servedby.precisionclick.com
 servedby.revcontent.com
@@ -3338,6 +3408,7 @@ st.adxxx.org
 st.blogads.com
 sta-ads.com
 stackpile.io
+stacksocial.com
 stagens.com
 stat.flashtalking.com
 static.adclick.lt
@@ -3347,6 +3418,7 @@ static.adsnative.com
 static.adtaily.pl
 static.advertone.ru
 static.adx1.com
+static.adxxx.com
 static.adzerk.net
 static.ampxchange.com
 static.bitmedianetwork.com
@@ -3366,6 +3438,7 @@ statserv.net
 stickyads.adswizz.com
 supaads.com
 supremeadsonline.com
+surgeprice.com
 sw.interpolls.com
 switch.d-agency.net
 sync.adap.com
@@ -3396,6 +3469,7 @@ tag1.adaptiveads.com
 tags.bkrtx.com
 tags.dashboardad.net
 tags.deployads.com
+tags.evolvemediallc.com
 tags.h12-media.com
 tags.nabbr.com
 tags.onscroll.com
@@ -3425,6 +3499,7 @@ textsrv.com
 tg-03.yieldpartners.com
 thankyouforadvertising.com
 thebighits.com
+thefoxads.ru
 thefoxes.ru
 thefoxm.com
 this.content.served.by.adshuffle.com
@@ -3446,6 +3521,7 @@ tools.bongacams.com
 tools.bongacash.com
 tools.runetki.co
 toroadvertisingmedia.com
+tororango.com
 tpnads.com
 tqlkg.com
 tr.adsplats.com
@@ -3461,6 +3537,7 @@ tracking.onefeed.co.uk
 tracking100.com
 tradex.openx.com
 traffic.adxprts.com
+traffic.getmyads.com
 traffic.tc-clicks.com
 trafmag.com
 traforet.com
@@ -3496,6 +3573,7 @@ unoblotto.net
 uobsoe.com
 urban.adspirit.de
 us-ads.openx.net
+us-sonar.sociomantic.com
 us-u.openx.net
 us.ads.justpremium.com
 us.adserver.yahoo.com
@@ -3519,6 +3597,7 @@ v4.moatads.com
 vad-us.adbasket.net
 vad.adbasket.net
 valuepubmedia.com
+vast-cdn.mtngt.com
 vast.brandads.net
 vast.vertamedia.com
 vdrn.redplum.com
@@ -3526,18 +3605,21 @@ vice-ads-cdn.vice.com
 vidasco.rotator.hadj7.adjuggler.net
 video-adserver.ibillboard.com
 video.unrulymedia.com
+video.vid4u.org
 videoegg.adbureau.net
 videos-by.vemba.io
 videos.pmi5media.com
 vidtech.cbsima.com
 visualtis.com
 vitalads.net
+vma.tgdaily.com
 vma.tgdaily.net
 vn.grab-credit4u.com
 vogo-vogo.ru
 vogotita.com
 vogozae.ru
 vogozaw.ru
+voltads.com
 vop.sundaysky.com
 vv.vxqpomwum.pw
 vwcsl.com
@@ -3626,6 +3708,7 @@ www.clickterra.net
 www.crispads.com
 www.da-ads.com
 www.daxzupqivdoj.com
+www.dfujqyjifvoe.com
 www.dianomi.com
 www.doubleclickbygoogle.com
 www.dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
@@ -3645,12 +3728,14 @@ www.kbdadsfast.com
 www.kqsipdhvcejx.com
 www.krovrhmqgupd.com
 www.landmineads.com
+www.lbfryfttoihl.com
 www.liveadexchanger.com
 www.loading-delivery2.com
 www.lovetechs.com
 www.maxonclick.com
 www.mgrxsztbcfeg.com
 www.modmyads.com
+www.mttyfwtvyumc.com
 www.mypaidads.com
 www.netvertising.be
 www.networkadvertising.org
@@ -3682,6 +3767,7 @@ www.terraclicks.com
 www.terrapops.com
 www.testroom-ads.de
 www.text-link-ads.com
+www.tfqzkesrzttj.com
 www.tisoomi-services.com
 www.toponclick.com
 www.tr553.com
@@ -3720,8 +3806,10 @@ x.fidelity-media.com
 x.mochiads.com
 x.vindicosuite.com
 x.vipergirls.to
+x19network.com
 xads.zedo.com
 xapi.juicyads.com
+xbfk51p7.review
 xcelsiusadserver.com
 xch.directrev.com
 xchangebanners.com
@@ -3734,9 +3822,11 @@ yahoo.nuggad.net
 yaisha0.bid
 yceml.net
 yie4zooseif.info
+yiq6p.com
 yllix.com
 ym.adnxs.com
 yoda.tsmedia.si
+yourfoxes3.ru
 yqtvvcmd.net
 yqvzrpxxwyk.net
 yzus09by.com
@@ -3749,6 +3839,7 @@ zapbox.ru
 zd1.november-lax.com
 zdbb.net
 zeads.com
+zf2.quebec-bin.com
 zigad.starves.org
 zk.admoldova.org
 zonearmour4u.work

@@ -17,11 +17,14 @@ api.iflychat.com
 api.pinterest.com
 api.solidopinion.com
 api.stacksocial.com
+api.yotpo.com
 apiae.hopscore.com
 app-sj01.marketo.com
 app-sj10.marketo.com
 app-sj15.marketo.com
 app.popupdomination.com
+appnext-a.akamaihd.net
+appnext.hs.llnwd.net
 assets.contextly.com
 assets.cookieconsent.silktide.com
 assets.freshdesk.com
@@ -40,6 +43,7 @@ cache1.value-domain.com
 call.chatra.io
 cdn-akamai.mookie1.com
 cdn-widget.stuff.com
+cdn.earnify.com
 cdn.embedly.com
 cdn.iubenda.com
 cdn.jivosite.com
@@ -70,7 +74,9 @@ counter.personyze.com
 crossss.com
 ct.buzzfeed.com
 ctl.buyt.in
+d172q3toj7w1md.cloudfront.net
 d1af033869koo7.cloudfront.net
+d1ms4csyxwpgv3.cloudfront.net
 d24ftjcfgttqm3.cloudfront.net
 d2bw638ufki166.cloudfront.net
 d2ylgh2cnbot5i.cloudfront.net
@@ -106,6 +112,7 @@ gmodules.com
 go.activengage.com
 go.pardot.com
 goku.brightcove.com
+gradnik.dobrodelen.si
 graph.facebook.com
 hl.hellobar.com
 hnbutton.appspot.com
@@ -113,6 +120,10 @@ host1.easypolls.net
 hostedmax.comm100.com
 i.po.st
 image.providesupport.com
+inffuse-fbpopup.appspot.com
+inffuse-platform.appspot.com
+inffuse-testimonials.appspot.com
+instafeed.n3f.me
 jb.revolvermaps.com
 jc.revolvermaps.com
 jdn.monster.com
@@ -147,6 +158,8 @@ native.sharethrough.com
 naytev.global.ssl.fastly.net
 nextclick.pl
 nwidget.networkedblogs.com
+oap.accuweather.com
+offers.lendingtree.com
 otter.topsy.com
 our.glossip.nl
 p.drivek.it
@@ -159,6 +172,7 @@ platform.twitter.com
 plug.plugerr.com
 plusone.google.com
 preferences.truste.com
+prod-sunbets-widgets.s3-eu-west-1.amazonaws.com
 pthumbnails.5min.com
 pub.grouvi.im
 ra.revolvermaps.com
@@ -183,6 +197,7 @@ se.monetate.net
 secure-api.gravity.com
 secure.providesupport.com
 seg.sharethis.com
+server.connecto.io
 server.iad.liveperson.net
 shares.ahmedzai.com
 shopify.growemail.com
@@ -228,6 +243,7 @@ users.instush.com
 v1.spot.im
 v2.zopim.com
 v2assets.zopim.io
+va.tawk.to
 vms.boldchat.com
 vmss.boldchat.com
 w.chatlio.com
@@ -254,9 +270,11 @@ widget.engageya.com
 widget.intercom.io
 widget.plugrush.com
 widget.privy.com
+widget.pushbullet.com
 widget.siteheart.com
 widget.socialmart.ru
 widget.spoods.io
+widget.stackla.com
 widget.supercounters.com
 widget.uservoice.com
 widget.weibo.com
@@ -264,6 +282,7 @@ widgethost.barnebys.com
 widgets.alexa.com
 widgets.digg.com
 widgets.getglue.com
+widgets.getpocket.com
 widgets.getsitecontrol.com
 widgets.ign.com
 widgets.juiceboxjungle.com
@@ -289,6 +308,7 @@ www.contentexchange.me
 www.cutestat.com
 www.dealsandprices.com
 www.dwin2.com
+www.fanpic.co
 www.freebloghitcounter.com
 www.hornywood.tv
 www.hypestat.com
@@ -297,10 +317,13 @@ www.lightboxcdn.com
 www.linkwithin.com
 www.powr.io
 www.salesmanago.pl
+www.secondego.com
 www.smartlinks.dianomi.com
+www.smartsuppchat.com
 www.snapengage.com
 www.speakpipe.com
 www.spot.im
+www.springboardplatform.com
 www.stevec.si
 www.tribdss.com
 www4.clustrmaps.com
