@@ -217,6 +217,7 @@ st.chatango.com
 st2.freeonlineusers.com
 static-uk.plista.com
 static.addtoany.com
+static.bufferapp.com
 static.freeskreen.com
 static.mailerlite.com
 static.olark.com
@@ -268,6 +269,7 @@ widget.culinaryagents.com
 widget.dihitt.com.br
 widget.engageya.com
 widget.intercom.io
+widget.nepremicnine.net
 widget.plugrush.com
 widget.privy.com
 widget.pushbullet.com
@@ -278,6 +280,7 @@ widget.stackla.com
 widget.supercounters.com
 widget.uservoice.com
 widget.weibo.com
+widget.whatsbroadcast.com
 widgethost.barnebys.com
 widgets.alexa.com
 widgets.digg.com

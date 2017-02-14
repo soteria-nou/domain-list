@@ -130,6 +130,7 @@ fragbite.se.intellitxt.com
 freddyo.us.intellitxt.com
 freecodecs.us.intellitxt.com
 freeonlinegames.us.intellitxt.com
+front.optimonk.com
 futurelooks.us.intellitxt.com
 gabsmash.us.intellitxt.com
 gateworld.us.intellitxt.com
@@ -153,6 +154,7 @@ helium.us.intellitxt.com
 hexus.uk.intellitxt.com
 hitsquad.us.intellitxt.com
 honestjohn.uk.intellitxt.com
+hongkiat.us.intellitxt.com
 hothardware.us.intellitxt.com
 hotscripts.us.intellitxt.com
 hotstockmarket.us.intellitxt.com
@@ -263,6 +265,7 @@ piskotki.com
 pixel.intellitxt.com
 placehold.it
 planetamd64.us.intellitxt.com
+popcornmetrics.zendesk.com
 popularmechanics.us.intellitxt.com
 popup2.lifterapps.com
 prad.de.intellitxt.com

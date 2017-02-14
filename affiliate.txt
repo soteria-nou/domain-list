@@ -24,6 +24,7 @@ affiliate.dateks.lv
 affiliate.doteasy.com
 affiliate.flipkart.com
 affiliate.godaddy.com
+affiliate.idgtracker.com
 affiliate.integral-marketing.com
 affiliate.juno.co.uk
 affiliate.kickapps.com
@@ -90,6 +91,7 @@ lotteryaffiliates.com
 main.pubexchange.com
 megabon.postaffiliatepro.com
 microsoftaffiliates.net
+mrvids.com
 poc-affiliate.com
 postaffiliatepro.com
 redirect2719.ws
@@ -114,6 +116,7 @@ www.berush.com
 www.mrvids.com
 www.myaffiliateprogram.com
 www.scriptshead.com
+www.snrcash.com
 www.startappexchange.com
 www.youradexchange.com
 www.zanox-affiliate.de
