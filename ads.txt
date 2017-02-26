@@ -17,6 +17,7 @@
 24ur.iprom.net
 24ur.iprom.si
 2542116.fls.doubleclick.net
+29443kmq.video
 2982.tm.zedo.com
 2mdn.info
 2ujo8ayw.racing
@@ -134,6 +135,7 @@ a.www.gametracker.com
 a.xvika.com
 a.yu0123456.com
 a5cee7.se
+a80zha8c.webcam
 aa.adfarm1.adition.com
 aa.doubleclick.net
 aadsserver.freeones.com
@@ -1042,6 +1044,7 @@ ads.mobihand.com
 ads.mobile.si
 ads.mobinia.com
 ads.mobisux.com
+ads.mobnativeads.com
 ads.mobygames.com
 ads.mocean.mobi
 ads.moceanads.com
@@ -1067,6 +1070,7 @@ ads.myswitzerland.com
 ads.n.pl
 ads.najdi.si
 ads.napkinnights.com
+ads.native123.com
 ads.nba.com
 ads.neogen.ro
 ads.neoseeker.com
@@ -1309,6 +1313,7 @@ ads.wnd.com
 ads.wotanserver.com
 ads.x10.com
 ads.xda-developers.com
+ads.xinetixstudio.com
 ads.xxxwebtraffic.com
 ads.yahoo.com
 ads.yazzle.net
@@ -1321,6 +1326,7 @@ ads.zadetek.net
 ads.zeusclicks.com
 ads.zvpl.com
 ads.zzounds.com
+ads00.cam4.com
 ads001.top500.org
 ads002.top500.org
 ads01.focalink.com
@@ -1513,6 +1519,7 @@ adserver.spletne-skupnosti.si
 adserver.spletni-marketing.si
 adserver.spritmonitor.de
 adserver.strategyinformer.com
+adserver.tandlpublications.com
 adserver.thedigitalfix.com
 adserver.topspeed.com
 adserver.twitpic.com
@@ -1663,6 +1670,7 @@ adv.wp.pl
 adv.xboard.us
 adv08.edintorni.net
 advaction.ru
+advclick.wecloud.io
 advconversion.com
 advdl.ammadv.it
 adverline.com
@@ -1678,6 +1686,7 @@ advert.savvy.com
 advert.uloz.to
 advertarium.com.ua
 adverticum.net
+advertise.1mobile.com
 advertise.com
 advertiseforfree.co.za
 advertisegame.com
@@ -1768,6 +1777,7 @@ anchor.stailamedia.com
 anrdoezrs.net
 antactica.ad.adnetwork.com.br
 anvil.rubiconproject.com
+ap76rmx3.accountant
 apapi.dc121677.com
 apex-ad.com
 api-proxy.bee7.com
@@ -2254,6 +2264,7 @@ d1pr3sk5xr0dce.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d29gqcij.com
 d2kbaqwa2nt57l.cloudfront.net
+d2pppxxtaciku9.cloudfront.net
 d2psf55e0gm6yv.cloudfront.net
 d2xkqxdy6ewr93.cloudfront.net
 d3.condenast.servedbyopenx.com
@@ -2324,6 +2335,7 @@ dev.iias.eu
 devart.adbureau.net
 dff7tx5c2qbxc.cloudfront.net
 dfp.doubleclick.net
+dhzws7l31cq8p.cloudfront.net
 diff.smartadserver.com
 diff3.smartadserver.com
 digitaltrends-d.openx.net
@@ -2419,6 +2431,7 @@ epicgameads.com
 eplayer.clipsyndicate.com
 epmads.com
 epomads2.4shared.com
+epp.index.hr
 ero-advertising.com
 eroleep.com
 errantolo.com
@@ -2443,6 +2456,7 @@ fcve2mi2.review
 feed-ads.com
 feed.topadvert.ru
 feedads.g.doubleclick.net
+filadmir.site
 files.adbrite.com
 files.adselector.ru
 files.adspdbl.com
@@ -2735,6 +2749,7 @@ lrcm.amgdgt.com
 lrytaslt.adocean.pl
 lt.adocean.pl
 luxup.ru
+lxpl6t0t.cricket
 m.adnxs.com
 m.burt.io
 m.doubleclick.net
@@ -2809,6 +2824,7 @@ mp.weixin.qq.com
 mpp2.vindicosuite.com
 mps.nbcuni.com
 mr1a.exs.pl
+mrkzgpbaapif.com
 mtg.banneradministration.com
 mtvads.nivas.hr
 murava.zaebaladblock.ru
@@ -2943,6 +2959,7 @@ oglasi.unimatrix-one.org
 oglasi.vbg.si
 oglasi.vbg3.si
 oglasicdn.novilist.hr
+oilchange.website
 ok.internet-media.si
 ok.internetmedia.si
 ol.at.atwola.com
@@ -3071,6 +3088,7 @@ p-td.com
 p.adpdx.com
 p.ato.mx
 p.inte.sogou.com
+p.nevtron.si
 p.pxl2015x1.com
 pagead.googlesyndication.com
 pagead.l.doubleclick.net
@@ -3395,6 +3413,7 @@ serving.bepolite.eu
 servingpps.com
 set.adap.com
 set.adap.tv
+sexpennyauctions.com
 sgreen.erne.co
 shareasale.com
 shopbop.sp1.convertro.com
@@ -3613,6 +3632,7 @@ tv3ads.zabec.net
 tvn.adocean.pl
 tvn2.adocean.pl
 twistads.com
+txjdgm53.win
 u-ads.adap.tv
 u1hw38x0.com
 uac.advertising.com
@@ -3757,6 +3777,7 @@ www.advertising365.com
 www.advimgsrv.com
 www.advmedialtd.com
 www.adxpansion.com
+www.allanalpass.com
 www.anrdoezrs.net
 www.asecxggulyrf.com
 www.avsads.com
@@ -3801,13 +3822,16 @@ www.lovetechs.com
 www.maxonclick.com
 www.mgrxsztbcfeg.com
 www.modmyads.com
+www.mrkzgpbaapif.com
 www.mttyfwtvyumc.com
 www.mypaidads.com
 www.netvertising.be
 www.networkadvertising.org
 www.newpoptab.com
 www.nklivofyjkbt.com
+www.nnbestmblotl.com
 www.ntnlawgchgds.com
+www.nzcpdaboaayv.com
 www.oglasevanje.izklop.com
 www.okoads.com
 www.onclickbright.com
@@ -3840,6 +3864,7 @@ www.toponclick.com
 www.tr553.com
 www.tradeadexchange.com
 www.trafficmagnates.com
+www.trumbo.site
 www.usoqghurirvz.com
 www.venturead.com
 www.vipcpms.com
