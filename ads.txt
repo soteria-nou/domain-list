@@ -2094,6 +2094,7 @@ cdn.districtm.ca
 cdn.ebocornac.com
 cdn.elasticad.net
 cdn.engine.adsupply.com
+cdn.exoticads.com
 cdn.fastclick.net
 cdn.firstimpression.io
 cdn.flashtalking.com
@@ -2792,6 +2793,7 @@ medleyads.tv
 medover.iprom.net
 meetthegame.online
 megapopads.com
+mellowads.com
 mentad.com
 meta.streamcloud.eu
 metroleap.rotator.hadj7.adjuggler.net
@@ -3188,6 +3190,7 @@ portkingric.net
 poweredby.creamyads.com
 pozar.iprom.net
 pr.a2dfp.net
+preamp-clients.header.tech
 predictad.com
 prestoris.com
 primaryads.com
@@ -3645,6 +3648,7 @@ uk.ads.hexus.net
 ukbanners.com
 um2.eqads.com
 ums.adtech.de
+unconf.adkmob.com
 unlockproject.github.io
 unoblotto.net
 uobsoe.com
@@ -3742,6 +3746,7 @@ ww4.okoads.com
 ww57.smartadserver.com
 ww881.smartadserver.com
 www.1a-ads.si
+www.20adverts.com
 www.accuserveadsystem.com
 www.acint.net
 www.ad-locator.net
@@ -3786,6 +3791,7 @@ www.blog-hits.com
 www.bnhtml.com
 www.brainboxdigital.com
 www.brightonclick.com
+www.ccefzhxgobjm.com
 www.cityads.ru
 www.clicksgear.com
 www.clickterra.net
@@ -3811,9 +3817,11 @@ www.ihqxhokndcfq.com
 www.insbrvwfrcgb.com
 www.is1.clixgalore.com
 www.isanalyze.com
+www.jbbgczjipjvb.com
 www.kbdadsfast.com
 www.kqsipdhvcejx.com
 www.krovrhmqgupd.com
+www.kyveduvdkbro.com
 www.landmineads.com
 www.lbfryfttoihl.com
 www.liveadexchanger.com

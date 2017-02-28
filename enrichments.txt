@@ -35,6 +35,7 @@ app.getresponse.com
 app.getsentry.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
+assets.juicer.io
 auto-motor-und-sport.de.intellitxt.com
 autobild.de.intellitxt.com
 autoexpress.uk.intellitxt.com
@@ -67,6 +68,7 @@ cdn.goroost.com
 cdn.izooto.com
 cdn.onesignal.com
 cdn.pulpix.com
+cdn.pushassist.com
 cdn.pushcrew.com
 cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com

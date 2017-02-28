@@ -87,6 +87,7 @@
 364bf5fa.mpstat.us
 36c3feee.mpstat.us
 3721509.fls.doubleclick.net
+3878053.fls.doubleclick.net
 4079040.log.optimizely.com
 40nuggets.com
 4197153.fls.doubleclick.net
@@ -121,6 +122,7 @@
 5936060.log.optimizely.com
 599.stats.misstrends.com
 5be16.v.fwmrm.net
+6038712.fls.doubleclick.net
 652760597.log.optimizely.com
 653.stats.stats.fr
 653710485.log.optimizely.com
@@ -143,6 +145,7 @@
 9nl.eu
 9nl.it
 9nl.me
+a.adready.com
 a.apkpure.com
 a.applovin.com
 a.audrte.com
@@ -163,9 +166,11 @@ a1telekom01.webtrekk.net
 a2.mediagra.com
 a2sky.com
 a4.bing.com
+a5c1d3a015e.com
 aax.amazon-adsystem.com
 abandonment6.saas.seewhy.com
 ablsrv.com
+about-d.openx.net
 abtracker.us
 ac.mmstat.com
 ac.perf.linkedin.com
@@ -369,6 +374,7 @@ api.worldgravity.com
 api.xiti.com
 apiv2.xiti.com
 app-ab14.marketo.com
+app-measurement.com
 app.adjust.com
 app.compendium.com
 app.intercom.io
@@ -767,6 +773,7 @@ cloudfront.loggly.com
 cm.adgrx.com
 cm.eyereturn.com
 cm.l.qq.com
+cmdts.ksmobile.com
 cmp.112.2o7.net
 cmpglobalvista.112.2o7.net
 cn01.dwstat.cn
@@ -824,6 +831,7 @@ content.aimatch.com
 content.jwplatform.com
 content.pollster.pl
 contentz.mkt51.net
+contentz.mkt81.net
 contentz.mkt922.com
 contentz.mkt932.com
 converse.112.2o7.net
@@ -936,6 +944,7 @@ d10g4g69moszqp.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d12ulf131zb0yj.cloudfront.net
 d1447tq2m68ekg.cloudfront.net
+d15cjcet1djbmv.cloudfront.net
 d15qhc0lu1ghnk.cloudfront.net
 d1635hfcvs8ero.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
@@ -2457,6 +2466,7 @@ piwik.awn.com
 piwik.charlieharvey.org.uk
 piwik.conx.ch
 piwik.denik.cz
+piwik.digineo.de
 piwik.dnevnik.si
 piwik.dpreview.com
 piwik.fsf.org
@@ -2468,6 +2478,7 @@ piwik.lyonbros.com
 piwik.mladipodjetnik.si
 piwik.mmstudio.si
 piwik.netim.net
+piwik.nic.cz
 piwik.ovpn.se
 piwik.porsche.at
 piwik.preslica.eu
@@ -2654,6 +2665,7 @@ rc.d.chango.com
 rc.rlcdn.com
 rc2.dmtracker.com
 rcv.azureedge.net
+rd.about.com
 rd1.hitbox.com
 rda.net
 realtime.deximedia.com
@@ -3569,6 +3581,7 @@ traffic.livevideo.com
 traffic.outbrain.com
 traffic.styria.hr
 trajan.httpool.com
+trandsey.info
 trckr.click
 tribalddb.122.2o7.net
 tribl.io
@@ -3600,7 +3613,6 @@ tvpgapl.hit.gemius.pl
 twc.demdex.net
 twittercounter.com
 tz.ts.vindicosuite.com
-u.alicdn.com
 u.openx.net
 ua.hit.gemius.pl
 uaadcodedsp.rontar.com
@@ -3621,6 +3633,7 @@ unimusic.ivwbox.de
 unistreamvideoad.iprom.net
 universal.iperceptions.com
 up.nytimes.com
+ups.ksmobile.net
 ups.xplosion.de
 upt.graphiq.com
 urs.cbsnews.com
@@ -3631,6 +3644,8 @@ us-ssl.effectivemeasure.net
 us.af.beap.bc.yahoo.com
 us.sitestat.com
 us.tracking.justpremium.com
+us.ynuf.alipay.com
+us2.siteimprove.com
 usage.trackjs.com
 usasync01.admantx.com
 usatoday1.112.2o7.net
@@ -3699,6 +3714,7 @@ virginmedia.112.2o7.net
 visibility-stats.com
 visit.webhosting.yahoo.com
 visiteurs.xiti.com
+visitorinsight.silverpop.com
 vixnixxer.com
 vlog.leadformix.com
 vnumedia01.webtrekk.net
@@ -3940,6 +3956,7 @@ yepdigital.adk2x.com
 yieldoptimizer.com
 yigg.ivwbox.de
 yjmvx.space
+ynuf.alipay.com
 youtubei.youtube.com
 yp.gw.anametrix.com
 yrtas.btrll.com
