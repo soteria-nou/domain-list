@@ -84,6 +84,7 @@
 340887187.log.optimizely.com
 341800575.log.optimizely.com
 3603226.fls.doubleclick.net
+3632.tm.zedo.com
 364bf5fa.mpstat.us
 36c3feee.mpstat.us
 3721509.fls.doubleclick.net
@@ -158,6 +159,7 @@ a.mobify.com
 a.nexeps.com
 a.ria.ru
 a.surefire.link
+a.targetserving.com
 a.ucoz.net
 a.wishabi.com
 a0ef2haqr0-1.algolia.io
@@ -357,6 +359,7 @@ api.demandbase.com
 api.dimestore.com
 api.europe.kontagent.net
 api.infinario.com
+api.innomdc.com
 api.intellimize.co
 api.keen.io
 api.mixpanel.com
@@ -372,6 +375,7 @@ api.verticalscope.com
 api.wipmania.com
 api.worldgravity.com
 api.xiti.com
+apicit.net
 apiv2.xiti.com
 app-ab14.marketo.com
 app-measurement.com
@@ -623,6 +627,7 @@ cc2.dealer.com
 cdc.112.2o7.net
 cdn-1.convertexperiments.com
 cdn-3.convertexperiments.com
+cdn-gl.imrworldwide.com
 cdn-rtb.sape.ru
 cdn-sec.optmd.com
 cdn.amilliamilli.com
@@ -788,6 +793,7 @@ cnt.sup.com
 cnt.tyxo.bg
 cnt.xhamster.com
 cntr.finx.lt
+code.afsanalytics.com
 code.etracker.com
 code.rtbsystem.com
 code.visitor-track.com
@@ -798,6 +804,7 @@ codiceisp.shinystat.com
 col.eum-appdynamics.com
 collect.octalytics.com
 collector-medium.lightstep.com
+collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
 collector.a.pxi.pub
 collector.githubapp.com
@@ -848,6 +855,7 @@ count.xxxssk.com
 count1.countercentral.com
 counter-new.hitbox.com
 counter-old.hitbox.com
+counter.adguard.com
 counter.goingup.com
 counter.inkfrog.com
 counter.megaindex.ru
@@ -950,6 +958,7 @@ d1635hfcvs8ero.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1epsz32winqbo.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
+d1grtyyel8f1mh.cloudfront.net
 d1ivexoxmp59q7.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1lm7kd3bd3yo9.cloudfront.net
@@ -1419,6 +1428,7 @@ faceoff.112.2o7.net
 factpdf.xiti.com
 factures.xiti.com
 factures2.xiti.com
+fairfax.demdex.net
 fairfaxau.d1.sc.omtrdc.net
 fairfaxau.demdex.net
 fairfaxau.sc.omtrdc.net
@@ -1480,6 +1490,7 @@ fx.gtopstats.com
 g.3gl.net
 g.bing.com
 ga-beacon.appspot.com
+ga.getresponse.com
 gaae.hit.gemius.pl
 gaba.hit.gemius.pl
 gaby1.hit.gemius.pl
@@ -1541,6 +1552,7 @@ gj.mmstat.com
 glassmoni.researchgate.net
 glitter.services.disqus.com
 globalspec.d2.sc.omtrdc.net
+gloomwrite.com
 glumobile.112.2o7.net
 glumobiledev.112.2o7.net
 gm.mmstat.com
@@ -1635,6 +1647,7 @@ hit.stat.pl
 hit.stat24.com
 hit1.hotlog.ru
 hit10.hotlog.ru
+hit19.hotlog.ru
 hit2.hotlog.ru
 hit3.hotlog.ru
 hit4.hotlog.ru
@@ -1745,6 +1758,7 @@ inskin01.wt-eu02.net
 int.teracent.net
 intao.hit.gemius.pl
 intel.112.2o7.net
+intent.cbsi.com
 interet.xiti.com
 interia.hit.gemius.pl
 internettraffic.click
@@ -1787,6 +1801,7 @@ js.clickequations.net
 js.datadome.co
 js.gleam.io
 js.honeybadger.io
+js.hotlog.ru
 js.hs-analytics.net
 js.hscta.net
 js.hubspot.com
@@ -1842,6 +1857,7 @@ lapi.ebay.com
 laptopmag.122.2o7.net
 lastminengb.112.2o7.net
 lastminitit.112.2o7.net
+lb.apicit.net
 lb.fruitflan.com
 lb.liveviewer.ez.no
 lb.web-stat.com
@@ -2365,6 +2381,7 @@ opehs.tanx.com
 openmovesapps.com
 opensharecount.com
 openstat.net
+ophan.theguardian.com
 opservicesltd.d3.sc.omtrdc.net
 opservicesltd.tt.omtrdc.net
 optimize-stats.voxmedia.com
@@ -2449,6 +2466,7 @@ phonograph2.voxmedia.com
 pi.pardot.com
 pier.deepo.io
 ping.dozuki.com
+ping.smyte.com
 ping.typekit.net
 pingback.issuu.com
 pingfore.qq.com
@@ -2461,6 +2479,7 @@ piwik-nw.skoda.at
 piwik-nw.volkswagen.at
 piwik-nw.vw-nutzfahrzeuge.at
 piwik.adriadigital.si
+piwik.aterios.info
 piwik.audi.at
 piwik.awn.com
 piwik.charlieharvey.org.uk
@@ -2469,6 +2488,7 @@ piwik.denik.cz
 piwik.digineo.de
 piwik.dnevnik.si
 piwik.dpreview.com
+piwik.drustvo-dns.si
 piwik.fsf.org
 piwik.ilfllc.com
 piwik.ixelia.fr
@@ -3008,6 +3028,7 @@ smtrcs.redhat.com
 smy.iheart.com
 snap.licdn.com
 sniff.visistat.com
+sockjs.pusher.com
 softlayertechnologie.tt.omtrdc.net
 softonic.112.2o7.net
 sonar.sociomantic.com
@@ -3061,8 +3082,10 @@ ssl-static.vinsight.de
 ssl-vg03.met.vgwort.de
 ssl.convertuum.com
 ssl.google-analytics.com
+ssl.gostats.com
 ssl.luckyorange.com
 ssl.mousestats.com
+ssp.zryydi.com
 sstatic1.histats.com
 sstats.adobe.com
 sstats.teenvogue.com
@@ -3382,6 +3405,7 @@ telenorstartsiden.112.2o7.net
 telstra.demdex.net
 telstracorporationlt.tt.omtrdc.net
 tempox.inc.com
+teraxhif.com
 terra.112.2o7.net
 test.xiti.com
 testasp.xiti.com
@@ -3431,6 +3455,7 @@ top100.6hits.com
 toplist.cz
 toplist.eu
 topwap.lt
+toro-tags.com
 toronto.xiti.com
 tpc.googlesyndication.com
 tr-metrics.loomia.com
@@ -3528,6 +3553,7 @@ tracking.fahrrad.de
 tracking.fanbridge.com
 tracking.fathomseo.com
 tracking.feedperfect.com
+tracking.fortrade.eu
 tracking.foundry42.com
 tracking.foxnews.com
 tracking.godatafeed.com
@@ -3732,6 +3758,7 @@ w88.go.com
 wa.and.co.uk
 wa.aruba.it
 wachovia.112.2o7.net
+wafmedia6.com
 walker.zdbb.net
 walmartcom.112.2o7.net
 wap.xiti.com
@@ -3803,6 +3830,7 @@ wp2b.hit.gemius.pl
 wpni.112.2o7.net
 wredint.com
 ws.pleasedontslaymy.download
+ws.pusherapp.com
 wss-gw-1-gig.hitbox.com
 wss-gw-12008.hitbox.com
 wss-gw-4-gig.hitbox.com
@@ -3846,6 +3874,7 @@ www.fastcounter.de
 www.fullstory.com
 www.getfreebl.com
 www.google-analytics.com
+www.gototrk.com
 www.hey.lt
 www.hlserve.com
 www.hmitf.com
@@ -3967,6 +3996,7 @@ za-ssl.effectivemeasure.net
 zealotnetworks-d.openx.net
 zeemapsmetrics.s3.amazonaws.com
 zero.kz
+zf1.echo-cat.com
 zgi-heise.nuggad.net
 ziffdavisdesktoplinux.112.2o7.net
 ziffdavisenterprise.112.2o7.net

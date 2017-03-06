@@ -322,6 +322,7 @@ ad.leadboltads.net
 ad.lemde.fr
 ad.linkexchange.com
 ad.linksynergy.com
+ad.lkqd.net
 ad.mail.ru
 ad.mbn.bb.ru
 ad.media-servers.net
@@ -870,6 +871,7 @@ ads.datinggold.com
 ads.dedicatedmedia.com
 ads.deliads.com
 ads.deliverimp.com
+ads.deltatv.site
 ads.depositfiles.com
 ads.designworldonline.com
 ads.developershed.com
@@ -1108,6 +1110,7 @@ ads.overclock3d.net
 ads.overclockers.at
 ads.ozs.si
 ads.p161.net
+ads.p2pcast.tv
 ads.palminfocenter.com
 ads.paper.li
 ads.partis.si
@@ -1829,6 +1832,7 @@ assets.servedby-buysellads.com
 assets1.adroll.com
 asv.nuggad.net
 async01.admantx.com
+at-adserver.alltop.com
 at.ad2click.nl
 at.atwola.com
 atlantisjs.brafton.com
@@ -1996,6 +2000,7 @@ bh-engine.intextad.net
 bid.g.doubleclick.net
 bid.openx.net
 bid.pubmatic.com
+biddr.brealtime.com
 big.g.doubleclick.net
 biggestplayer.cachefly.net
 bigmobileads.com
@@ -2099,6 +2104,7 @@ cdn.fastclick.net
 cdn.firstimpression.io
 cdn.flashtalking.com
 cdn.fusionads.net
+cdn.geni.us
 cdn.hoverr.me
 cdn.innity.net
 cdn.intergi.com
@@ -2120,6 +2126,7 @@ cdn.popmyads.com
 cdn.reporo.net
 cdn.revcontent.com
 cdn.samvaulter.com
+cdn.shorte.st
 cdn.static-fra.de
 cdn.stickyadstv.com
 cdn.teads.tv
@@ -2201,6 +2208,7 @@ content.adriver.ru
 content.bannerconnect.net
 content.livesportmedia.eu
 content.pulse360.com
+contentpap.info
 contextuads.com
 contextualads.yahoo.net
 conv.adengage.com
@@ -2265,6 +2273,7 @@ d1pr3sk5xr0dce.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d29gqcij.com
 d2kbaqwa2nt57l.cloudfront.net
+d2lxztepvo7ma1.cloudfront.net
 d2pppxxtaciku9.cloudfront.net
 d2psf55e0gm6yv.cloudfront.net
 d2xkqxdy6ewr93.cloudfront.net
@@ -2470,6 +2479,7 @@ fls.uk.doubleclick.net
 fluxads.com
 focusin.ads.targetnet.com
 forshrd.com
+fr.105.slidein.clickintext.net
 freeads5.com
 freebannerswap.co.uk
 freecodesource.advertserve.com
@@ -2838,6 +2848,7 @@ my.popxxx.net
 myadsystem.com
 myao.adocean.pl
 myatorak.ru
+mycdn.co
 myclickbankads.com
 myroitracking.com
 myxer.adbureau.net
@@ -3089,9 +3100,11 @@ ox2.pron.tv
 p-td.com
 p.adpdx.com
 p.ato.mx
+p.d.ndf81.com
 p.inte.sogou.com
 p.nevtron.si
 p.pxl2015x1.com
+p192159.clksite.com
 pagead.googlesyndication.com
 pagead.l.doubleclick.net
 pagead2.googleadservices.com
@@ -3099,6 +3112,7 @@ pagead2.googlesyndication.com
 pages.etology.com
 pakbanners.com
 panel100.com
+parserord.info
 parserworld.info
 partis.iprom.net
 partner.bergfex.at
@@ -3149,6 +3163,7 @@ pl128193.puhtml.com
 pl128928.puserving.com
 pl131736.puhtml.com
 pl132334.puhtml.com
+pl168555.puhtml.com
 pl177916.puhtml.com
 pl178987.puhtml.com
 pl178988.puhtml.com
@@ -3210,6 +3225,7 @@ propbn.com
 propellerads.com
 propellerpops.com
 proper.io
+prorentisol.com
 prosperent.com
 prpops.com
 prxii.cf
@@ -3278,6 +3294,7 @@ retainguaninefluorite.info
 rev.linuxquestions.org
 revive.adriadigital.si
 revive.adriamedia.hr
+revive.bocoup.com
 rg.appserver-ap.com
 rgadvert.com
 rh.adscale.de
@@ -3322,6 +3339,7 @@ run.admost.com
 ruptly-d.openx.net
 rv.furaffinity.net
 ryano.ru
+s-jsonp.moatads.com
 s.206ads.com
 s.ad120m.com
 s.ad123m.com
@@ -3497,6 +3515,7 @@ static.advertone.ru
 static.adx1.com
 static.adxxx.com
 static.adzerk.net
+static.amp.services
 static.ampxchange.com
 static.bitmedianetwork.com
 static.de.euserv.adaos-ads.net
@@ -3534,6 +3553,7 @@ t.jimdo-platform.net
 t.ju33.com
 t.mdn2015x2.com
 t.mtagmonetizationb.com
+t.mtagmonetizationc.com
 t.nuvidp.com
 t.p.mybuys.com
 t.tmdn2015x11.com
@@ -3791,6 +3811,8 @@ www.blog-hits.com
 www.bnhtml.com
 www.brainboxdigital.com
 www.brightonclick.com
+www.buzzadexchange.com
+www.buzzadnetwork.com
 www.ccefzhxgobjm.com
 www.cityads.ru
 www.clicksgear.com
@@ -3840,6 +3862,7 @@ www.nklivofyjkbt.com
 www.nnbestmblotl.com
 www.ntnlawgchgds.com
 www.nzcpdaboaayv.com
+www.ocydwjnqasrn.com
 www.oglasevanje.izklop.com
 www.okoads.com
 www.onclickbright.com
@@ -3861,6 +3884,7 @@ www.smoozed.rocks
 www.spojsorads.de
 www.sponsorads.de
 www.sufzmohljbgw.com
+www.talkable.com
 www.taqyljgaqsaz.com
 www.terraclicks.com
 www.terrapops.com
@@ -3915,6 +3939,7 @@ xcelsiusadserver.com
 xch.directrev.com
 xchangebanners.com
 xfire.adbureau.net
+xml.pdn-3.com
 xp1.zedo.com
 xpollo.com
 xx.openx.com
