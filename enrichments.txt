@@ -21,6 +21,7 @@ albinoblacksheep.us.intellitxt.com
 allaboutsymbian.intellitxt.com
 allaboutsymbian.uk.intellitxt.com
 allmoviephoto.us.intellitxt.com
+alphr.uk.intellitxt.com
 amdzone.us.intellitxt.com
 androidcentral.us.intellitxt.com
 anime44.us.intellitxt.com
@@ -176,6 +177,7 @@ intomobile.us.intellitxt.com
 invertia.es.intellitxt.com
 investopedia.us.intellitxt.com
 ipodtouchfans.us.intellitxt.com
+itpro.uk.intellitxt.com
 itreviews.uk.intellitxt.com
 ittoolbox.us.intellitxt.com
 itxt3.us.intellitxt.com
@@ -184,6 +186,7 @@ jeepforum.us.intellitxt.com
 jkontherun.us.intellitxt.com
 jp.intellitxt.com
 js.bronto.com
+js.hs-scripts.com
 jsfiles.rutracker.ga
 jupiter.us.intellitxt.com
 kbalertz.us.intellitxt.com
@@ -209,6 +212,7 @@ lon-g010.uk.intellitxt.com
 lon-g011.uk.intellitxt.com
 loopygadgets.us.intellitxt.com
 lsesoutheast.uk.intellitxt.com
+m.platformax.com
 macworld.uk.intellitxt.com
 magic.uk.intellitxt.com
 majorgeeks.us.intellitxt.com
@@ -350,6 +354,7 @@ tomshardware.de.intellitxt.com
 tomshardware.uk.intellitxt.com
 tomshw.it.intellitxt.com
 tomsnetworking.us.intellitxt.com
+toolbar.complex.com
 toolbar.yahoo.com
 top25web.us.intellitxt.com
 topdownloads.nl.intellitxt.com
@@ -389,5 +394,6 @@ www.geoplugin.net
 www.intellitxt.com
 www.searchanise.com
 www.upsite.co.il
+www.wishpond.com
 xda-developers.us.intellitxt.com
 zataz.fr.intellitxt.com

@@ -87,6 +87,7 @@ d3s7ggfq1s6jlj.cloudfront.net
 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d9etzk30b05yg.cloudfront.net
 darangi.ru
+dashboard.secondego.com
 ddlmj2furo6f2.cloudfront.net
 de10.zopim.com
 delo.bin.livenetlife.com
@@ -301,6 +302,7 @@ widgets.stackcommerce.com
 widgets.webengage.com
 widgets3.flux.com
 widgets4.flux.com
+wix.livechatinc.com
 woobox.com
 wpcomwidgets.com
 wprp.zemanta.com
@@ -329,6 +331,7 @@ www.speakpipe.com
 www.spot.im
 www.springboardplatform.com
 www.stevec.si
+www.surveymonkey.com
 www.tribdss.com
 www4.clustrmaps.com
 xdaportal.disqus.com
