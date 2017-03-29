@@ -1,6 +1,7 @@
 0stats.com
 1.tl813.com
 102.112.2o7.net
+10267.10cms.com
 1034291028.log.optimizely.com
 107098409.log.optimizely.com
 10822091.log.optimizely.com
@@ -113,6 +114,7 @@
 4852711.fls.doubleclick.net
 4967807.fls.doubleclick.net
 4d.condenastdigital.com
+5110037.fls.doubleclick.net
 52198.tctm.co
 526710254.log.optimizely.com
 5369219.fls.doubleclick.net
@@ -364,6 +366,7 @@ api.altmetric.com
 api.amplitude.com
 api.autopilothq.com
 api.behavioralengine.com
+api.bounceexchange.com
 api.calq.io
 api.choicestream.com
 api.conductrics.com
@@ -371,6 +374,7 @@ api.cxense.com
 api.demandbase.com
 api.dimestore.com
 api.europe.kontagent.net
+api.fandommetrics.com
 api.infinario.com
 api.infiniamobile.com
 api.innomdc.com
@@ -402,6 +406,7 @@ app.kontextr.eu
 app.link
 app.marketizator.com
 app.ubertags.com
+app.widiz.com
 appleglobal.112.2o7.net
 appload.ingest.crittercism.com
 apps.developermedia.com
@@ -482,6 +487,7 @@ b.techcrunch.com
 b.wishabi.com
 b1sync.zemanta.com
 b2b.cbsimg.net
+b91.yahoo.co.jp
 b92adrs.hit.gemius.pl
 babycenter.112.2o7.net
 babycentercom.112.2o7.net
@@ -537,12 +543,14 @@ blogglisten.no
 bmwmoter.122.2o7.net
 bnkinsur.112.2o7.net
 bo.getjaco.com
+bob.dmpxs.com
 bolha.iprom.net
 bonniercorp.122.2o7.net
 botd2.wordpress.com
 bounceexchange.com
 box.xing.com
 bptracking.com
+bravo-lea.com
 brightcove.112.2o7.net
 brownshoe.112.2o7.net
 browser.pipe.aria.microsoft.com
@@ -665,11 +673,14 @@ cdn.contentspread.net
 cdn.cquotient.com
 cdn.cxense.com
 cdn.decibelinsight.net
+cdn.drnxs.com
 cdn.effectivemeasure.net
 cdn.emetriq.de
 cdn.engine.spotscenered.info
 cdn.engine.trklnks.com
+cdn.fandommetrics.com
 cdn.feathr.co
+cdn.fuelx.com
 cdn.getkya.com
 cdn.gigya.com
 cdn.granify.com
@@ -792,6 +803,7 @@ clientlog.portal.office.com
 clients.bluecava.com
 clipfish.ivwbox.de
 cloud-emea.analytics-egain.com
+cloudfront-labs.amazonaws.com
 cloudfront.loggly.com
 cm.adgrx.com
 cm.eyereturn.com
@@ -913,11 +925,13 @@ cpx.golem.de
 cpx.smind.si
 cpxl.golem.de
 cr.acecounter.com
+cr3wc89sw3.global.ssl.fastly.net
 crain.d1.sc.omtrdc.net
 crd.hitbox.com
 create.leadid.com
 cricket.hosted.stats.com
 crm-metrix.com
+crm.zoho.com
 cross-sell.inkfrog.com
 crtracklink.com
 cruftexcision.xyz
@@ -1009,6 +1023,7 @@ d2xerlamkztbb1.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d3.c2.b0.a2.top.mail.ru
 d31bfnnwekbny6.cloudfront.net
+d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d37gvrvc0wt4s1.cloudfront.net
@@ -1019,14 +1034,17 @@ d3c3cq33003psk.cloudfront.net
 d3cknv5e7a99jg.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3ezl4ajpp2zy8.cloudfront.net
+d3mwhxgzltpnyp.cloudfront.net
 d3n5x2l91yva9h.cloudfront.net
 d3nslu0hdya83q.cloudfront.net
 d3pkntwtp2ukl5.cloudfront.net
 d3pphfzjkpjgfn.cloudfront.net
+d3prygw1dnamj9.cloudfront.net
 d3q6px0y2suh5n.cloudfront.net
 d3qou5ensc2knu.cloudfront.net
 d3qxef4rp70elm.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
+d3rm04c4p9a75q.cloudfront.net
 d3rmnwi2tssrfx.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
@@ -1100,6 +1118,7 @@ devfi2.xiti.com
 devhbx.hitbox.com
 device.maxmind.com
 devlogin.hitbox.com
+dewsburg.info
 dhbx.hitbox.com
 digdemo.hitbox.com
 digg.112.2o7.net
@@ -1424,6 +1443,7 @@ et.twyn.com
 eu-sonar.sociomantic.com
 eu.npario-inc.net
 eucerin.122.2o7.net
+eue-1.steelcentral.net
 eurts.com
 euweaj49.appmetrx.com
 event.adxpose.com
@@ -1529,6 +1549,7 @@ galt.hit.gemius.pl
 galv.hit.gemius.pl
 gannett.demdex.net
 gapl.hit.gemius.pl
+garo.hit.gemius.pl
 gars.hit.gemius.pl
 gasi.hit.gemius.pl
 gastar.ivwbox.de
@@ -1910,11 +1931,13 @@ lib.vmweb.net
 libs.coremetrics.com
 libs.de.coremetrics.com
 liczniki.org
+lin-d.openx.net
 lineadirecta.112.2o7.net
 links.business-informant.de
 links.services.disqus.com
 links.voyeurweb.com
 linksys.links.origin.channelintelligence.com
+lintv.122.2o7.net
 live.chartboost.com
 livenation.122.2o7.net
 liveperformancesales.com
@@ -2124,6 +2147,7 @@ logv9.xiti.com
 logw314.ati-host.net
 loopme.me
 lostelephants.xyz
+lovetk-d.openx.net
 lovezhsky.info
 loxodo-analytics.ext.nile.works
 ls.hit.gemius.pl
@@ -2343,6 +2367,7 @@ nike.112.2o7.net
 nikkei.112.2o7.net
 nikonjp.112.2o7.net
 ninja.onap.io
+nir.regmedia.co.uk
 njejmjetscom.112.2o7.net
 nl.sitestat.com
 nmfortworth.112.2o7.net
@@ -2514,6 +2539,7 @@ piwik-nw.audi.at
 piwik-nw.skoda.at
 piwik-nw.volkswagen.at
 piwik-nw.vw-nutzfahrzeuge.at
+piwik-ubuntusi.rhcloud.com
 piwik.adriadigital.si
 piwik.aterios.info
 piwik.audi.at
@@ -2660,6 +2686,7 @@ pulse-fra02.revdn.net
 pulse-lon02.revdn.net
 pulse-waw02.revdn.net
 pulse.w3counter.com
+purevpn.postaffiliatepro.com
 pv.datacaciques.com
 pw.3ders.net
 px.adhigh.net
@@ -2682,6 +2709,7 @@ qjex.net
 qmnetwor.ivwbox.de
 qs.oewabox.at
 qsearch.media.net
+query.fandommetrics.com
 questsoftware.112.2o7.net
 quick-yen-88111.appspot.com
 qwestfull.112.2o7.net
@@ -2717,6 +2745,7 @@ radartumblr.cedexis.com
 radarurl.com
 rai-italia01.wt-eu02.net
 rainbowmedia.122.2o7.net
+rainmaker.digitalbrandsinc.netdna-cdn.com
 rakuten.112.2o7.net
 ramp.purch.com
 rapportspdf.xiti.com
@@ -2743,6 +2772,7 @@ relap.io
 relestar.com
 rem-track.bild.de
 report-ads-to.pubnation.com
+report.23video.com
 report.footprintdns.com
 reporting.singlefeed.com
 reportsuiteid.112.2o7.net
@@ -2791,6 +2821,7 @@ rs8.scribd.com
 rss.xiti.com
 rssinterne.xiti.com
 rssxiti.xiti.com
+rt.analytics.anvato.net
 rt.applovin.com
 rt.fastly.com
 rt.flix360.com
@@ -2960,6 +2991,7 @@ sdkm.w.inmobi.com
 se.112.2o7.net
 search.spotxchange.com
 seat.d3.sc.omtrdc.net
+sec.levexis.com
 secure-au.imrworldwide.com
 secure-cdn.mplxtms.com
 secure-cn.imrworldwide.com
@@ -3025,6 +3057,7 @@ si21.iprom.net
 siemenscc.112.2o7.net
 silkenthreadiness.info
 simg.bwin.com
+sinceresofa.com
 single.upsight-api.com
 siol.iprom.net
 sisco.hit.stat.pl
@@ -3208,6 +3241,7 @@ static.imgserve.us
 static.oktopost.com
 static.proximic.com
 static.site24x7rum.com
+static.truex.com
 static.vilynx.com
 static.vinsight.de
 static.www.turnto.com
@@ -3218,6 +3252,7 @@ statistics.crowdynews.com
 statistics.laerd.com
 statistik-gallup.net
 statistik.porsche.co.at
+statistikk.idrift.no
 statistiky.agerit.cz
 statonet.hit.gemius.pl
 statonet2.hit.gemius.pl
@@ -3678,10 +3713,12 @@ trk.tracksys55.com
 trk.vidible.tv
 trkclk.adk2x.com
 try.abtasty.com
+ts.tnaflix.com
 tsf.smartbn.ru
 tsleducation.112.2o7.net
 tsmedia.nuggad.net
 tumblrreports.cedexis.com
+tunein-d.openx.net
 turneruk.112.2o7.net
 turnto.com
 tvguide.112.2o7.net
@@ -3849,7 +3886,9 @@ webservices.sub2tech.com
 websitestat.enter-system.com
 webstat.yamaha.com
 webstats.artes-studio.com
+webstats.jamit.de
 webstats.motigo.com
+webstats.tnaflix.com
 webtraxs.com
 webtrends-sdc.rz.interone.de
 webtrends.eu.playstation.com
@@ -3882,6 +3921,7 @@ wp1a.hit.gemius.pl
 wp1b.hit.gemius.pl
 wp2a.hit.gemius.pl
 wp2b.hit.gemius.pl
+wpbeaches.com
 wpni.112.2o7.net
 wredint.com
 ws.pleasedontslaymy.download
@@ -3915,6 +3955,7 @@ www.clickmngr.com
 www.clicktripz.com
 www.co2stats.com
 www.connectignite.com
+www.controlup.com
 www.counters4u.com
 www.decenthat.com
 www.delidataxsegment.com

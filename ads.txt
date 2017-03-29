@@ -1,6 +1,7 @@
 000001.azureedge.net
 01.creativecdn.com
 04dn8g4f.space
+0914.global.ssl.fastly.net
 0aac4e6a54c170b0.se
 0c9d8370d.se
 0gkzz.survey7.2340.info
@@ -2089,6 +2090,7 @@ cdn.adspirit.de
 cdn.adsrvmedia.com
 cdn.adsrvmedia.net
 cdn.adstract.com
+cdn.adswizz.com
 cdn.advertserve.com
 cdn.afdads.com
 cdn.aniview.com
@@ -2286,6 +2288,7 @@ d1pr3sk5xr0dce.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d2.zedo.com
 d29gqcij.com
+d2b7n13v8adl6f.cloudfront.net
 d2kbaqwa2nt57l.cloudfront.net
 d2lxztepvo7ma1.cloudfront.net
 d2pppxxtaciku9.cloudfront.net
@@ -2385,6 +2388,7 @@ domains.googlesyndication.com
 dominoad.adk2x.com
 dotcomconsultancy.advertserve.com
 doubleclick.net
+doubledeepclick.com
 doublepimp.com
 dove.saymedia.com
 downloatransfer.com
@@ -2791,6 +2795,7 @@ lxpl6t0t.cricket
 m.adnxs.com
 m.burt.io
 m.doubleclick.net
+m.servedby-buysellads.com
 m.viglink.com
 m.xp1.ru4.com
 m2.doubleclick.net
@@ -3130,7 +3135,6 @@ ox2.pron.tv
 p-td.com
 p.adpdx.com
 p.ato.mx
-p.d.ndf81.com
 p.inte.sogou.com
 p.nevtron.si
 p.pxl2015x1.com
@@ -3172,6 +3176,7 @@ phpadsnew.abac.com
 pic247realm.kompass.com
 piop7shm.com
 pix.tagcdn.com
+pixcp.bangdom.com
 pixel.adbuyer.com
 pixel.captora.com
 pixel.fetchback.com
@@ -3192,9 +3197,11 @@ pl118992.puhtml.com
 pl12616679.puserving.com
 pl127783.puhtml.com
 pl128193.puhtml.com
+pl12885415.puserving.com
 pl128928.puserving.com
 pl131736.puhtml.com
 pl132334.puhtml.com
+pl142218.puhtml.com
 pl168555.puhtml.com
 pl177916.puhtml.com
 pl178987.puhtml.com
@@ -3207,6 +3214,7 @@ pl4492830.puhtml.com
 pl4493458.puhtml.com
 pl4493534.puhtml.com
 pl4518712.puserving.com
+pl4654.puserving.com
 pl5163.putags.com
 pl6452454.puhtml.com
 planetlepote.iprom.net
@@ -3253,6 +3261,7 @@ projectwonderful.com
 promisland.user.madbanner.ru
 promo.awempire.com
 promodity.appspot.com
+promotion.aliyun.com
 promotools.biz
 propbn.com
 propellerads.com
@@ -3556,6 +3565,7 @@ static.amp.services
 static.ampxchange.com
 static.bitmedianetwork.com
 static.de.euserv.adaos-ads.net
+static.digidip.net
 static.emg-network.com
 static.ifa.camads.net
 static.iias.eu
@@ -3948,9 +3958,11 @@ www.viperishly.com
 www.vvbanner.com
 www.worldsbestwebcams.com
 www.xconeeitqrrq.com
+www.xhvhisywkvha.com
 www.xl415.com
 www.xlovecam.com
 www.xmediaserve.com
+www.xzwdhymrdxyp.com
 www.ycmejutxukkz.com
 www.yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com
 www.zfkkmayphqrw.com
@@ -3998,6 +4010,7 @@ yllix.com
 ym.adnxs.com
 yoda.tsmedia.si
 yourfoxes3.ru
+yoursinfo.info
 yqtvvcmd.net
 yqvzrpxxwyk.net
 yzus09by.com

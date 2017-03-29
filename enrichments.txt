@@ -30,6 +30,7 @@ answerbag.us.intellitxt.com
 anvari.us.intellitxt.com
 api.booster3000.si
 api.facebook.com
+api.mediabooster.si
 api.pulpix.com
 app.convertkit.com
 app.getresponse.com
@@ -109,6 +110,7 @@ englishforum.ch.intellitxt.com
 entertainment.msnbc.us.intellitxt.com
 es.intellitxt.com
 esi.gscontxt.net
+ethn.io
 eucookie.internetbrands.com
 events.apester.com
 evshed.us.intellitxt.com
@@ -291,6 +293,7 @@ sc.intellitxt.com
 scripts.mobdub.com
 sdk.beeketing.com
 seeklyrics.us.intellitxt.com
+share.pluso.ru
 shared.9msn.com.au
 shoutwire.us.intellitxt.com
 sillydog.us.intellitxt.com

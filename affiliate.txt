@@ -55,6 +55,7 @@ affiliates.mozy.com
 affiliates.mypcbackup.com
 affiliates.nextag.com
 affiliates.opienetwork.com
+affiliates.purevpn.com
 affiliates.quintura.com
 affiliates.rebtel.com
 affiliates.vitalimagery.com
