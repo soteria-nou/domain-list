@@ -67,6 +67,7 @@ cdn.feedbackify.com
 cdn.georiot.com
 cdn.getsmartcontent.com
 cdn.goroost.com
+cdn.introbar.com
 cdn.izooto.com
 cdn.onesignal.com
 cdn.pulpix.com
@@ -90,6 +91,7 @@ contextual.media.net
 csharpcorner.us.intellitxt.com
 custompc.uk.intellitxt.com
 d.txtsrving.info
+d1f8f9xcsvx3ha.cloudfront.net
 dac.jp.intellitxt.com
 daniweb.us.intellitxt.com
 de.intellitxt.com
@@ -251,6 +253,7 @@ ny1-g008.us.intellitxt.com
 ny1-g011.us.intellitxt.com
 ny1-g665.us.intellitxt.com
 ny1-g666.us.intellitxt.com
+ocsrest.ebay.com
 off-road.us.intellitxt.com
 onehitwondercentral.us.intellitxt.com
 onlamp.us.intellitxt.com
@@ -324,6 +327,7 @@ sprintusers.us.intellitxt.com
 static.elev.io
 static.giftwizard.co
 static.plenigo.com
+stern.de.intellitxt.com
 subscribe.wired.com
 sv1-g007.us.intellitxt.com
 sv1-g008.us.intellitxt.com

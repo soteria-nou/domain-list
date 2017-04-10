@@ -23,6 +23,7 @@ app-sj01.marketo.com
 app-sj10.marketo.com
 app-sj15.marketo.com
 app.popupdomination.com
+app.purechat.com
 appnext-a.akamaihd.net
 appnext.hs.llnwd.net
 assets.contextly.com
@@ -145,6 +146,7 @@ lite.piclens.com
 live2support.com
 loader.engage.gsfn.us
 lptag.liveperson.net
+madmimi.com
 mailerlite.com
 markets.financialcontent.com
 mediacdn.disqus.com
@@ -180,6 +182,7 @@ ra.revolvermaps.com
 rce.veeseo.com
 rest.contextly.com
 rk.revolvermaps.com
+root-srv.fonbet.com
 rs.epoq.de
 s.po.st
 s.sharethis.com
@@ -227,6 +230,7 @@ static.skimlinks.com
 static.zotabox.com
 statics.apreslachat.com
 staticw2.yotpo.com
+stg.truvidplayer.com
 sticky-enterprise-shopify.herokuapp.com
 surveywidget.biz
 suwidget3-bs-fx.sphereup.com
