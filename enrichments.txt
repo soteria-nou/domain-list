@@ -35,6 +35,8 @@ api.pulpix.com
 app.convertkit.com
 app.getresponse.com
 app.getsentry.com
+app.mailerlite.com
+apps.nexus.bazaarvoice.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
 assets.juicer.io
@@ -58,6 +60,7 @@ bluechillies.us.intellitxt.com
 bluesfear.us.intellitxt.com
 brothersoft.us.intellitxt.com
 businessinsider.us.intellitxt.com
+c.la1-c1-dfw.salesforceliveagent.com
 cache.ltvcms.com
 cackle.me
 cdn.adf.ly
@@ -88,8 +91,10 @@ contactmusic.uk.intellitxt.com
 content.zemanta.com
 contextlinks.netseer.com
 contextual.media.net
+cookiebanner.unionstationapp.com
 csharpcorner.us.intellitxt.com
 custompc.uk.intellitxt.com
+d.la1-c1-dfw.salesforceliveagent.com
 d.txtsrving.info
 d1f8f9xcsvx3ha.cloudfront.net
 dac.jp.intellitxt.com
@@ -127,6 +132,7 @@ filedudes.us.intellitxt.com
 filmhobbit.us.intellitxt.com
 fixya.us.intellitxt.com
 foreign-trade.us.intellitxt.com
+formel1.de.intellitxt.com
 forms.convertkit.com
 fortunecity.us.intellitxt.com
 fox4news.us.intellitxt.com
@@ -140,6 +146,7 @@ freeonlinegames.us.intellitxt.com
 front.optimonk.com
 futurelooks.us.intellitxt.com
 gabsmash.us.intellitxt.com
+gartendialog.de.intellitxt.com
 gateworld.us.intellitxt.com
 geardigest.us.intellitxt.com
 geekinterview.us.intellitxt.com
@@ -156,6 +163,7 @@ hardocp.us.intellitxt.com
 hardwareanalysis.us.intellitxt.com
 hardwarezone.us.intellitxt.com
 harmony-central.us.intellitxt.com
+hausgarten.de.intellitxt.com
 head-fi.us.intellitxt.com
 helium.us.intellitxt.com
 hexus.uk.intellitxt.com
@@ -239,6 +247,7 @@ mustangspecs.us.intellitxt.com
 mydigitallife.us.intellitxt.com
 mysymbian.uk.intellitxt.com
 mytravelguide.us.intellitxt.com
+n-cdn-origin.areyouahuman.com
 nasioc.us.intellitxt.com
 neoseeker.us.intellitxt.com
 neowin.us.intellitxt.com
@@ -398,6 +407,7 @@ wwtdd.us.intellitxt.com
 www.feedgrabbr.com
 www.geolify.com
 www.geoplugin.net
+www.htmlcommentbox.com
 www.intellitxt.com
 www.searchanise.com
 www.upsite.co.il

@@ -44,6 +44,7 @@ cache1.value-domain.com
 call.chatra.io
 cdn-akamai.mookie1.com
 cdn-widget.stuff.com
+cdn.addnow.com
 cdn.earnify.com
 cdn.embedly.com
 cdn.iubenda.com
@@ -89,8 +90,10 @@ d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 d9etzk30b05yg.cloudfront.net
 darangi.ru
 dashboard.secondego.com
+data.shopwelt.de
 ddlmj2furo6f2.cloudfront.net
 de10.zopim.com
+delivery.content-recommendation.net
 delo.bin.livenetlife.com
 dennis.cvtr.co
 dtkm4pd19nw6z.cloudfront.net
