@@ -106,6 +106,7 @@ devshed.us.intellitxt.com
 digit-life.uk.intellitxt.com
 digitalcamerareview.us.intellitxt.com
 display.apester.com
+djtflbt20bdde.cloudfront.net
 dramacrazy.us.intellitxt.com
 driverguide.us.intellitxt.com
 drugscom.us.intellitxt.com
@@ -293,6 +294,7 @@ presence-pc.fr.intellitxt.com
 primedia.us.intellitxt.com
 ps3-live.fr.intellitxt.com
 publishing.kaloo.ga
+qeryz.com
 quotaless.us.intellitxt.com
 raymond.uk.intellitxt.com
 redirect.viglink.com

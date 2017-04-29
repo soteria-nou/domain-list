@@ -121,6 +121,7 @@
 52198.tctm.co
 526710254.log.optimizely.com
 5369219.fls.doubleclick.net
+5406241.fls.doubleclick.net
 5433255.fls.doubleclick.net
 554924358.log.optimizely.com
 555.hitbox.com
@@ -184,6 +185,7 @@ a2sky.com
 a4.bing.com
 a5c1d3a015e.com
 aax.amazon-adsystem.com
+ab.wetransfer.net
 abandonment6.saas.seewhy.com
 ablsrv.com
 about-d.openx.net
@@ -443,6 +445,7 @@ assets.ipcdigital.co.uk
 assets.vidora.com
 associatedcontent.112.2o7.net
 assoicatedcontent.112.2o7.net
+asumi.shinobi.jp
 at.2.cqcounter.com
 at245.infusionsoft.com
 atlanticmedia.122.2o7.net
@@ -678,6 +681,7 @@ cdn.amilliamilli.com
 cdn.app.exitmonitor.com
 cdn.appdynamics.com
 cdn.assets.craveonline.com
+cdn.astronomer.io
 cdn.avmws.com
 cdn.bauernative.com
 cdn.behavioralengine.com
@@ -687,6 +691,7 @@ cdn.boomtrain.com
 cdn.branch.io
 cdn.brsrvr.com
 cdn.bttrack.com
+cdn.bunchbox.co
 cdn.captora.com
 cdn.clicktale.net
 cdn.contentspread.net
@@ -849,6 +854,7 @@ cnt.wetteronline.de
 cnt.xhamster.com
 cntr.finx.lt
 code.afsanalytics.com
+code.analysis.shinobi.jp
 code.etracker.com
 code.rtbsystem.com
 code.visitor-track.com
@@ -876,6 +882,7 @@ commons.dw.com
 compbase.ivwbox.de
 compta.xiti.com
 comptia.informz.net
+computational-reflection.org
 computeruniverse01.webtrekk.net
 computerworldcom.112.2o7.net
 comsurvey.112.2o7.net
@@ -932,6 +939,7 @@ counter13.sextracker.com
 counter14.sextracker.com
 counter15.sextracker.com
 counter16.sextracker.com
+counter2.blog.livedoor.com
 counter2.sextracker.com
 counter3.sextracker.com
 counter4.pushauction.com
@@ -978,6 +986,7 @@ csw9-mip2.hitbox.com
 csw9-mip3.hitbox.com
 csync.flickr.com
 csync.yahooapis.com
+ct.capterra.com
 ct.pinterest.com
 cti.w55c.net
 ctj.wenku.baidu.com
@@ -1212,6 +1221,7 @@ dtlilztwypawv.cloudfront.net
 dtrk.slimcdn.com
 du8783wkf05yr.cloudfront.net
 dupont.122.2o7.net
+dupont.d2.sc.omtrdc.net
 dus.trivago.com
 dust.ipfingerprint.com
 dutrus.com
@@ -1476,6 +1486,7 @@ et.nytimes.com
 et.twyn.com
 eu-sonar.sociomantic.com
 eu.npario-inc.net
+eu2.snoobi.eu
 eucerin.122.2o7.net
 eue-1.steelcentral.net
 eurts.com
@@ -1699,6 +1710,7 @@ gwa.reedbusiness.net
 gwiqcdn.globalwebindex.net
 h.imedia.cz
 h.nexac.com
+h.wikia-beacon.com
 h30-deploy.hiconversion.com
 hadrian.httpool.com
 halc.iadvize.com
@@ -1925,6 +1937,7 @@ kingston.xiti.com
 kitbit.net
 kka.agitos.de
 kkeu.122.2o7.net
+kmtx.de
 kmylvwo5.com
 koi-1megvvq.marketingautomation.services
 konicaminoltahd.122.2o7.net
@@ -2239,6 +2252,7 @@ maxim.122.2o7.net
 mc.exacttarget.com
 mc.s4.exacttarget.com
 mc.s6.exacttarget.com
+mdlbs.motor-talk.de
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
 me-ssl.effectivemeasure.net
@@ -2248,6 +2262,7 @@ media.easy2.com
 media.flixfacts.com
 media.iprom.net
 media.msg.dotomi.com
+mediafire-d.openx.net
 mediafriends.adspirit.net
 mediaiprom.com
 mediaiprom.net
@@ -2256,6 +2271,7 @@ medianet-d.openx.net
 mediasetitalia01.wt-eu02.net
 medicaldevicelink.112.2o7.net
 medrx.telstra.com.au
+mentorgraphics.122.2o7.net
 mercedesamg.d3.sc.omtrdc.net
 mercedezbenzusallc.tt.omtrdc.net
 merlin.abc.go.com
@@ -2591,6 +2607,7 @@ piwik.adriadigital.si
 piwik.aterios.info
 piwik.audi.at
 piwik.awn.com
+piwik.baycix.de
 piwik.charlieharvey.org.uk
 piwik.conx.ch
 piwik.d3r.si
@@ -2671,6 +2688,7 @@ pks.a.mobimagic.com
 pl.gmads.net
 pl6447009.puhtml.com
 planck.xiti.com
+platform-metrics-api.sharethis.com
 pls.webtype.com
 plugin.reactful.com
 pm.w55c.net
@@ -2726,6 +2744,7 @@ providence.voxmedia.com
 prscripts.com
 ps.ceneje.si
 ps.eyeota.net
+ps14.pubnub.com
 psyng.com
 pt.fiksu.com
 pturt.com
@@ -2733,6 +2752,7 @@ pu.trafficshop.com
 public.xiti.com
 publique.xiti.com
 pubtags.addoor.net
+pulsar.ebay.com
 pulse-fra02.revdn.net
 pulse-lon02.revdn.net
 pulse-waw02.revdn.net
@@ -2861,6 +2881,7 @@ rover.ebay.co.uk
 rover.ebay.com
 rover.ebay.de
 rover.ebay.es
+rover.ebay.ie
 rover.ebay.it
 rover.ebay.pl
 rpt.cedexis.com
@@ -3072,10 +3093,12 @@ secure.gaug.es
 secure.liveviewer.ez.no
 secure.p01.eloqua.com
 secure.statcounter.com
+secure.trafic.ro
 secure.trkkrd.com
 secure.xiti.com
 secured.xiti.com
 secured75.xiti.com
+secureinclude.ebaystatic.com
 securemetrics.apple.com
 securepubads.g.doubleclick.net
 segainc.112.2o7.net
@@ -3127,6 +3150,7 @@ siterecruit.comscore.com
 sixpack.udimg.com
 sjrtp2-cdn.marketo.com
 sjrtp5-cdn.marketo.com
+sjrtp7-cdn.marketo.com
 sky.estat.com
 skydeutschland.122.2o7.net
 slf-collector.elasticbeanstalk.com
@@ -3200,12 +3224,18 @@ spt.dictionary.com
 sqs.us-east-1.amazonaws.com
 squid.gazeta.pl
 sra.s-9.us
+src.ebay-us.com
 src.litix.io
 srv.azureedge.net
 srv.clickfuse.com
 srv.de.ebayrtm.com
+srv.fr.ebayrtm.com
+srv.it.ebayrtm.com
+srv.nl.ebayrtm.com
 srv.pl.ebayrtm.com
+srv.uk.ebayrtm.com
 srv6.topcpa.ru
+srx.ca.ebayrtm.com
 srx.cn.ebayrtm.com
 srx.uk.ebayrtm.com
 srx.us.ebayrtm.com
@@ -3339,6 +3369,7 @@ stats.cdrinfo.com
 stats.channel4.com
 stats.cihar.com
 stats.civiccomputing.com
+stats.cloud.online.net
 stats.cnevids.com
 stats.computecmedia.de
 stats.cts-bv.nl
@@ -3977,6 +4008,7 @@ welt.met.vgwort.de
 weltn24.rtrp13n.de
 weltonline01.webtrekk.net
 westhostinc.122.2o7.net
+wetransfer-d.openx.net
 wetteronline-d.openx.net
 wfpscripts.webspectator.com
 widgets.backtype.com
@@ -4146,6 +4178,7 @@ x.jd.com
 x.ulogix.ru
 x.velocity.ebay.com
 x01.aidata.io
+x8.genin.jp
 xapi-publisher.quinstreet.com
 xc3.services.livejournal.com
 xcp.go.sonobi.com

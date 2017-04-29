@@ -1250,6 +1250,7 @@ ads.the-bikini.com
 ads.thegauntlet.com
 ads.theinspirit.com
 ads.thewebfreaks.com
+ads.tipico.com
 ads.tlvmedia.com
 ads.tmedia.it
 ads.tobonet.com
@@ -1392,6 +1393,7 @@ ads2.iweb.cortica.com
 ads2.monitor.hr
 ads2.najdi.si
 ads2.net-communities.co.uk
+ads2.on-line.lt
 ads2.opensubtitles.org
 ads2.phonearena.com
 ads2.pogodak.ba
@@ -1789,6 +1791,7 @@ am10.ru
 am15.net
 amn.doubleclick.net
 ams-ads-cornerstone-creatives.s3.amazonaws.com
+ams1-ib.adnxs.com
 ams1.ib.adnxs.com
 analytics.matchbin.com
 analytics.sanoma.fi
@@ -2153,6 +2156,7 @@ cdn.onscroll.com
 cdn.pleenq.com
 cdn.popcash.net
 cdn.popmyads.com
+cdn.pulpix.co
 cdn.reporo.net
 cdn.revcontent.com
 cdn.samvaulter.com
@@ -2238,6 +2242,7 @@ connect.decknetwork.net
 connect001.com
 connectedads.net
 content.adriver.ru
+content.adservingfactory.com
 content.bannerconnect.net
 content.livesportmedia.eu
 content.pulse360.com
@@ -2277,6 +2282,7 @@ cs.adxpansion.com
 csc.beap.ad.yieldmanager.net
 csh.actiondesk.com
 csr.inspsearchapi.com
+ct1.kanashibari.jp
 ctasnet.com
 cts.tradepub.com
 ctxt.tribalfusion.com
@@ -3484,6 +3490,7 @@ secure-ds.serving-sys.com
 secure.adnxs.com
 secure.bidverdrs.com
 secure.leadback.advertising.com
+secure.medleyads.com
 secure.vs3.com
 see-work.info
 seeds.adgardener.com
@@ -3564,7 +3571,6 @@ srv.stackadapt.com
 srv.tonefuse.com
 srv1.mediads.info
 srvpub.com
-srx.ca.ebayrtm.com
 srx.de.ebayrtm.com
 sscdn.banners.advidi.com
 ssdk.adkmob.com
@@ -3634,6 +3640,7 @@ syndication.exoclick.com
 syndication.exosrv.com
 syndication.streamads.yahoo.com
 system.mondeos.pl
+t.frtyq.com
 t.jimdo-platform.net
 t.ju33.com
 t.mdn2015x2.com
@@ -3791,6 +3798,7 @@ vast.brandads.net
 vast.vertamedia.com
 vdrn.redplum.com
 vice-ads-cdn.vice.com
+vice-publishers.s3.amazonaws.com
 vidasco.rotator.hadj7.adjuggler.net
 video-adserver.ibillboard.com
 video.unrulymedia.com
@@ -3966,6 +3974,7 @@ www.onclicktop.com
 www.onkcjpgmshqx.com
 www.openx.com
 www.ossdqciz.com
+www.ox.hostingwp.pl
 www.partner-ads.com
 www.performanceadexchange.com
 www.phica.net
@@ -4036,6 +4045,7 @@ x.mochiads.com
 x.vindicosuite.com
 x.vipergirls.to
 x19network.com
+x9.shinobi.jp
 xads.zedo.com
 xapi.juicyads.com
 xbfk51p7.review
@@ -4061,6 +4071,7 @@ yourfoxes3.ru
 yoursinfo.info
 yqtvvcmd.net
 yqvzrpxxwyk.net
+yudexjr.com
 yzus09by.com
 z-na.amazon-adsystem.com
 z.moatads.com
