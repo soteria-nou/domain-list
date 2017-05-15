@@ -38,9 +38,11 @@
 4436230.fls.doubleclick.net
 4798504.fls.doubleclick.net
 4854432.fls.doubleclick.net
+49700220ddda8564a79.com
 4e9wpp17.stream
 4f69f6fd4b7fdc1fdadd6caa0d7ca92f.lswcdn.net
 5.newor.net
+54bc7044986c.com
 5gl1x9qc.com
 6e2bd3848d2b73.se
 6g3am6pr.website
@@ -337,6 +339,7 @@ ad.media-servers.net
 ad.metanetwork.com
 ad.minitechnet.com
 ad.mirror.co.uk
+ad.mtburn.com
 ad.my.doubleclick.net
 ad.n2434.doubleclick.net
 ad.net-service.de
@@ -348,6 +351,7 @@ ad.nl.doubleclick.be
 ad.nl.doubleclick.net
 ad.no.doubleclick.be
 ad.no.doubleclick.net
+ad.novara.sk
 ad.nz.doubleclick.net
 ad.p69-2.tbn.ru
 ad.partis.si
@@ -723,6 +727,7 @@ ads-205.quarterserver.de
 ads-by.madadsmedia.com
 ads-by.yieldselect.com
 ads-dev.youporn.com
+ads-jutarnji.r.worldssl.net
 ads-stats.com
 ads-web.mail.com
 ads.20minutes.fr
@@ -878,6 +883,7 @@ ads.crowdynews.com
 ads.crucialparadigm.com
 ads.czc.cz
 ads.dada.it
+ads.databrainz.com
 ads.datinggold.com
 ads.dedicatedmedia.com
 ads.deliads.com
@@ -1069,6 +1075,7 @@ ads.mojsplet.si
 ads.money.si
 ads.monster.com
 ads.mopub.com
+ads.motdgd.com
 ads.motosvet.com
 ads.moviemaze.de
 ads.movieweb.com
@@ -1111,6 +1118,7 @@ ads.onetag-sys.com
 ads.online-fundgrube.de
 ads.onlinevenditatio.space
 ads.ookla.com
+ads.opads.us
 ads.opensubtitles.org
 ads.optyczne.pl
 ads.orange142.com
@@ -1162,6 +1170,7 @@ ads.prntscr.com
 ads.pro-market.net
 ads.proboards.com
 ads.program3.com
+ads.programattik.com
 ads.proteusnet.com
 ads.pu23b.siel.si
 ads.pubmatic.com
@@ -1182,6 +1191,7 @@ ads.rediff.com
 ads.referlocal.com
 ads.referralkings.com
 ads.regionalobala.si
+ads.remix.es
 ads.renderspace.si
 ads.revsci.net
 ads.ringaraja.net
@@ -1299,6 +1309,7 @@ ads.veoh.com
 ads.verticalscope.com
 ads.vertmarkets.com
 ads.vg.basefarm.net
+ads.viber.com
 ads.vicoteka.com
 ads.videobox.com
 ads.videomaker.com
@@ -1333,6 +1344,7 @@ ads.xinetixstudio.com
 ads.xxxwebtraffic.com
 ads.yahoo.com
 ads.yazzle.net
+ads.yieldmo.com
 ads.yimg.com
 ads.yldmgrimg.net
 ads.yoggrt.com
@@ -1535,6 +1547,7 @@ adserver.spctl.com
 adserver.splashline.at
 adserver.spletne-skupnosti.si
 adserver.spletni-marketing.si
+adserver.sportradar.com
 adserver.spritmonitor.de
 adserver.strategyinformer.com
 adserver.tandlpublications.com
@@ -1680,6 +1693,7 @@ adv.mobango.com
 adv.musixmatch.com
 adv.presscommtech.com
 adv.rubigame.com
+adv.slobodnadalmacija.com
 adv.strategy.it
 adv.surinter.net
 adv.videomega.tv
@@ -1769,6 +1783,7 @@ affbuzzads.com
 affiliate-new.lunarbreeze.com
 affrh2023.com
 afx.tagcdn.com
+ag.innovid.com
 agomwefq.com
 air.adliners.de
 aka-cdn-ns.adtech.de
@@ -1814,6 +1829,7 @@ api.bee7.com
 api.branch.io
 api.conduit.com
 api.content-ad.net
+api.hatscher.eu
 api.ooyala.com
 api.reon.club
 api.toptenreviews.com
@@ -2220,6 +2236,7 @@ clpremdo.com
 cluster.adultadworld.com
 cluster2.adultadworld.com
 cluster3.adultadworld.com
+cm.adkmob.com
 cm.d-agency.net
 cms.ad2click.nl
 coadvertise.com
@@ -2367,6 +2384,7 @@ delivery.adrecover.com
 delivery.adriamediacontent.com
 delivery.ads.coupling-media.com
 delivery.amessagewithabottle.com
+delivery.c.switchadhub.com
 delivery.clickganic.com
 delivery.d.switchadhub.com
 delivery.e.switchadhub.com
@@ -2610,6 +2628,7 @@ h.verticalscope.com
 h6.msn.com
 haeg1ei.bid
 hahemla.com
+happer.info
 heise.nuggad.net
 helix.beanstock.co
 hellosociety.com
@@ -2837,6 +2856,7 @@ mail.adadvisor.net
 mailgw.adadvisor.net
 main.dynsrvaba.com
 mainclc.com
+mantodea.mantisadnetwork.com
 mastertarget.ru
 match.adsrvr.org
 match.basebanner.com
@@ -3077,6 +3097,7 @@ openx.filestube.com
 openx.gamona.de
 openx.ghacks.net
 openx.indiedays.com
+openx.koprivnica.biz
 openx.kytary.cz
 openx.linuxforums.org
 openx.mediatrust.de
@@ -3212,6 +3233,7 @@ pic247realm.kompass.com
 piop7shm.com
 pix.tagcdn.com
 pixcp.bangdom.com
+pixel-a.sitescout.com
 pixel.adbuyer.com
 pixel.captora.com
 pixel.fetchback.com
@@ -3337,6 +3359,7 @@ r2.ace.advertising.com
 rah7uph.bid
 rc-aflrm.com
 rcm-eu.amazon-adsystem.com
+rcm-fe.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
 rd.clickshift.com
 rd.himediads.com
@@ -3365,6 +3388,7 @@ relay-bg.toboads.com
 relay-rs.ads.httpool.com
 relay-si.ads.httpool.com
 relay-si.toboads.com
+relay.mobile.toboads.com
 relay.toboads.si
 remarketstats.com
 repmbuycurl.com
@@ -3649,6 +3673,7 @@ t.mtagmonetizationc.com
 t.nuvidp.com
 t.p.mybuys.com
 t.tmdn2015x11.com
+t13.intelliad.de
 t23.intelliad.de
 t8.zenkreka.com
 tads.interseek.si
@@ -3693,6 +3718,7 @@ thefoxads.ru
 thefoxes.ru
 thefoxm.com
 this.content.served.by.adshuffle.com
+thor.rtk.io
 tiads.ew.com
 tiads.si.com
 tiads.timeinc.net
@@ -3807,6 +3833,7 @@ videoegg.adbureau.net
 videos-by.vemba.io
 videos.pmi5media.com
 vidtech.cbsima.com
+vip.adstatic.com
 visualtis.com
 vitalads.net
 vlibs.advertising.com
@@ -3819,6 +3846,7 @@ vogozae.ru
 vogozaw.ru
 voltads.com
 vop.sundaysky.com
+vsh.visilabs.net
 vv.vxqpomwum.pw
 vwcsl.com
 w.tda.io
@@ -3850,6 +3878,7 @@ wrap.tradedoubler.com
 ws-eu.amazon-adsystem.com
 ws-gateway.com
 ws-in.amazon-adsystem.com
+ws.tapjoyads.com
 wsp.marketgid.com
 wsp.mgid.com
 wtp101.com
@@ -3941,6 +3970,7 @@ www.ihqxhokndcfq.com
 www.insbrvwfrcgb.com
 www.is1.clixgalore.com
 www.isanalyze.com
+www.iwanttodeliver.com
 www.jbbgczjipjvb.com
 www.kbdadsfast.com
 www.kqsipdhvcejx.com
@@ -3991,6 +4021,7 @@ www.smoozed.rocks
 www.spojsorads.de
 www.sponsorads.de
 www.sufzmohljbgw.com
+www.superadexchange.com
 www.talkable.com
 www.taqyljgaqsaz.com
 www.terraclicks.com
@@ -4011,6 +4042,7 @@ www.video.oms.eu
 www.vipcpms.com
 www.viperishly.com
 www.vvbanner.com
+www.wggmaxxawkxu.com
 www.worldsbestwebcams.com
 www.xconeeitqrrq.com
 www.xhvhisywkvha.com

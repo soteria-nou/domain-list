@@ -71,6 +71,7 @@
 259817494-prod.rfksrv.com
 262426511.log.optimizely.com
 270613524.log.optimizely.com
+2768331.fls.doubleclick.net
 280164527.log.optimizely.com
 2871.tm.zedo.com
 292067074.log.optimizely.com
@@ -172,6 +173,7 @@ a.ligatus.com
 a.live-conversion.com
 a.mobify.com
 a.nexeps.com
+a.retailmenot.com
 a.ria.ru
 a.surefire.link
 a.targetserving.com
@@ -261,6 +263,7 @@ akatracking.esearchvision.com
 aktrack.pubmatic.com
 alamut.iprom.si
 allbritton.122.2o7.net
+allegro.hit.gemius.pl
 alleyezonme-collection.buzzfeed.com
 alog.umeng.com
 alpha75.xiti.com
@@ -284,6 +287,7 @@ analytics-static.unister-gmbh.de
 analytics-v2.anvato.com
 analytics.163.com
 analytics.analytics-egain.com
+analytics.atlassian.com
 analytics.avant.si
 analytics.aweber.com
 analytics.brandcrumb.com
@@ -330,6 +334,7 @@ analytics.rec-tube.com
 analytics.revee.com
 analytics.shareaholic.com
 analytics.si21.com
+analytics.siliconexpert.com
 analytics.similarweb.com
 analytics.sitewit.com
 analytics.slashdotmedia.com
@@ -531,6 +536,7 @@ beacon.gu-web.net
 beacon.guim.co.uk
 beacon.krxd.net
 beacon.nrholding.net
+beacon.riskified.com
 beacon.rum.dynapis.com
 beacon.scorecardresearch.com
 beacon.securestudies.com
@@ -549,6 +555,7 @@ bfx-objects.borderfree.com
 bg3h5335h2uzn90i.stats.paypal.com
 bh.contextweb.com
 bi.medscape.com
+bid.contextweb.com
 bigdawg.hitbox.com
 bigip1-64.hitbox.com
 bigip2-64.hitbox.com
@@ -568,6 +575,7 @@ botd2.wordpress.com
 bounceexchange.com
 box.xing.com
 bptracking.com
+brahe.apptimize.com
 bravo-lea.com
 brightcove.112.2o7.net
 brownshoe.112.2o7.net
@@ -575,6 +583,7 @@ browser.pipe.aria.microsoft.com
 bshare.optimix.asia
 bstats.adbrite.com
 btcom.112.2o7.net
+btiopenzone.112.2o7.net
 btrace.qq.com
 btstatic.com
 bttrack.com
@@ -741,6 +750,7 @@ cdn.spoutable.com
 cdn.static.zdtag.com
 cdn.stroeerdigitalmedia.de
 cdn.taboola.com
+cdn.targetfuel.com
 cdn.trackjs.com
 cdn.trafficstars.com
 cdn.triggertag.gorillanation.com
@@ -751,6 +761,7 @@ cdn.unid.go.com
 cdn.uplift-platform.com
 cdn.walkme.com
 cdn.wbtrk.net
+cdn.widgets.webengage.com
 cdn.yldbt.com
 cdn.zeerat.com
 cdn01.mzbcdn.net
@@ -810,7 +821,9 @@ cl1.sitestats.de
 clancy.spiceworks.com
 clarityray.com
 classmatesde.112.2O7.net
+claxtonsinclairville.tiptonvillepylesville.com
 clck.yandex.ru
+clevernt.com
 click.aabacosmallbusiness.com
 click.appinthestore.com
 click.startappservice.com
@@ -1061,6 +1074,7 @@ d3.c2.b0.a2.top.mail.ru
 d31bfnnwekbny6.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
+d36ee2fcip1434.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d37gvrvc0wt4s1.cloudfront.net
 d383nfj8voyf25.cloudfront.net
@@ -1102,6 +1116,7 @@ danitabedtick.net
 dap.digitalgov.gov
 dapxl.com
 dashboard.evolveplatform.net
+dashboard.whoisvisiting.com
 dastelef.ivwbox.de
 data.aggregateknowledge.com
 data.captifymedia.com
@@ -1208,6 +1223,7 @@ doublepimpssl.com
 doug1izaerwt3.cloudfront.net
 download.hitbox.com
 downloads.mailchimp.com
+downloads.pennnet.com
 dp2.specificclick.net
 dp3.qq.com
 dpm.demdex.net
@@ -1582,6 +1598,7 @@ fw.adsafeprotected.com
 fx.gtopstats.com
 g.3gl.net
 g.bing.com
+g.silicon.co.uk
 ga-beacon.appspot.com
 ga.getresponse.com
 ga.nsimg.net
@@ -1916,6 +1933,7 @@ js.neodatagroup.com
 js.stroeermediabrands.de
 js.ta80.com
 js1.hitbox.com
+jsc.4shared.com
 jsn.dt07.net
 juke.mmi.bemobile.ua
 junbi-tracker.com
@@ -1979,6 +1997,7 @@ levexis.com
 levis.xiti.com
 lg.logging.admicro.vn
 lh.secure.yahoo.com
+lib.selfcampaign.com
 lib.trafit.com
 lib.vmweb.net
 libs.coremetrics.com
@@ -2309,6 +2328,7 @@ metrics.webhostingtalk.com
 metrics.windowsitpro.com
 mgtbo.112.2o7.net
 micron.112.2o7.net
+microsoft.qualtrics.com
 microsoftdpeacademic.d1.sc.omtrdc.net
 microsofteducation.112.2o7.net
 microsofteup.112.2o7.net
@@ -2417,6 +2437,7 @@ nexus.ensighten.com
 nfnetflixcom.112.2o7.net
 nfpasjc.d1.sc.omtrdc.net
 ngacm.com
+ngastatic.com
 nginx-pixel-1416460284.us-east-1.elb.amazonaws.com
 nhl.112.2o7.net
 niagara.xiti.com
@@ -2715,6 +2736,7 @@ pp.lp4.io
 pr.realvu.net
 prad.ivwbox.de
 preberi.iprom.net
+prebid.districtm.ca
 premierfarnell.112.2o7.net
 premierfarnell.tt.omtrdc.net
 premium.xiti.com
@@ -2857,6 +2879,7 @@ reserved-jojo2a.hitbox.com
 reserved-jojo4a.hitbox.com
 resources.fairfax.com.au
 responder.wt-safetag.com
+retailmenot-d.openx.net
 retarget.ssl-services.com
 return.uk.uniregistry.com
 reuters-d.openx.net
@@ -3345,6 +3368,7 @@ statistics.laerd.com
 statistics.sleeknote.com
 statistik-gallup.net
 statistik.porsche.co.at
+statistika.jakop.si
 statistikk.idrift.no
 statistiky.agerit.cz
 statonet.hit.gemius.pl
@@ -3538,6 +3562,8 @@ t3.probance.com
 t5.trackalyzer.com
 t6.trackalyzer.com
 ta.queit.in
+tag-st.contextweb.com
+tag.1rx.io
 tag.aticdn.net
 tag.bounceexchange.com
 tag.contextweb.com
@@ -3670,6 +3696,7 @@ track.hulu.com
 track.idtargeting.com
 track.interslo.com
 track.jobst-audio.de
+track.mailerlite.com
 track.monitis.com
 track.mybloglog.com
 track.netshelter.net
@@ -3687,6 +3714,7 @@ track.untd.com
 track.virool.com
 track.vivid.com
 track.w3counter.com
+track.wattpad.com
 track.webtrekk.de
 track.www.zazzle.com
 track.x10.com
@@ -3710,6 +3738,7 @@ tracker.boostable.com
 tracker.bt.uol.com.br
 tracker.contentexchange.me
 tracker.euroweb.net
+tracker.fyber.com
 tracker.icerocket.com
 tracker.leadforensics.com
 tracker.leadsius.com
@@ -3745,6 +3774,7 @@ tracking.foxnews.com
 tracking.g2crowd.com
 tracking.godatafeed.com
 tracking.hostgator.com
+tracking.i2w.io
 tracking.joker.com
 tracking.keywee.co
 tracking.keywordmax.com
@@ -3755,6 +3785,7 @@ tracking.metalyzer.com
 tracking.musixmatch.com
 tracking.olx-st.com
 tracking.olx.com
+tracking.onap.io
 tracking.percentmobile.com
 tracking.picadmedia.com
 tracking.porsche.com
@@ -3950,6 +3981,7 @@ w.estat.com
 w.iplsc.com
 w1.luckyorange.com
 w113.hitbox.com
+w1999.bulbs.com
 w25.hitbox.com
 w88.go.com
 wa.and.co.uk
@@ -3994,6 +4026,7 @@ webservices.sub2tech.com
 websitestat.enter-system.com
 webstat.yamaha.com
 webstats.artes-studio.com
+webstats.hatscher.com
 webstats.jamit.de
 webstats.motigo.com
 webstats.tnaflix.com
@@ -4021,6 +4054,7 @@ wilifilm.ivwbox.de
 windowslive.tt.omtrdc.net
 winnipeg.xiti.com
 winzip.122.2o7.net
+wirtschaftskammer01.webtrekk.net
 wirtvlg.oewabox.at
 wix-worker.visitor-analytics.net
 wm.wiredminds.de
@@ -4078,10 +4112,12 @@ www.econda-monitor.de
 www.edtp.de
 www.empirikanet.com
 www.etahub.com
+www.etarget.cz
 www.everestjs.net
 www.ewebcounter.com
 www.fallingfalcon.com
 www.fastcounter.de
+www.freecamdollars.com
 www.fullstory.com
 www.getfreebl.com
 www.google-analytics.com
@@ -4089,6 +4125,7 @@ www.gototrk.com
 www.hey.lt
 www.hlserve.com
 www.hmitf.com
+www.hvgcfx1.com
 www.iprom.net
 www.iprom.si
 www.jdoqocy.com
@@ -4133,6 +4170,7 @@ www.tns-counter.ru
 www.toneden.io
 www.track306.info
 www.trendcounter.com
+www.trycelery.com
 www.upsellit.com
 www.usurv.com
 www.w3counter.com
