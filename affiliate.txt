@@ -48,6 +48,7 @@ affiliates.bhphotovideo.com
 affiliates.bookdepository.co.uk
 affiliates.copeac.com
 affiliates.digitalriver.com
+affiliates.host1plus.com
 affiliates.kingplayer.com
 affiliates.lenovo.com
 affiliates.lynda.com
