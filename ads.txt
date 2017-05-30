@@ -52,6 +52,7 @@
 85dcf732d593.se
 89.8ox.cn
 8hykthze.cricket
+9s84.cedc.gdn
 a.abnad.net
 a.activestate.com
 a.ad-sys.com
@@ -94,6 +95,7 @@ a.giantrealm.com
 a.gsmarena.com
 a.hi5.com
 a.ign-omy.com
+a.impactradius-go.com
 a.independent.co.uk
 a.intentmedia.net
 a.ipromcloud.com
@@ -128,6 +130,7 @@ a.slashdotmedia.com
 a.soft32.com
 a.softpedia.com
 a.spicetv.com
+a.tcog.news.com.au
 a.teads.tv
 a.tellapart.com
 a.thoughtleadr.com
@@ -2448,6 +2451,7 @@ downloatransfer.com
 dp.g.doubleclick.net
 dprtb.com
 dqqulesm3pfse.cloudfront.net
+dsp.adfarm1.adition.com
 dssja7qsifeak.cloudfront.net
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
@@ -2530,6 +2534,7 @@ euasync01.admantx.com
 eurostream.adspirit.de
 event.ohmyad.co
 exchange.nativeads.com
+exclusivecpms.com
 exityield.advertise.com
 extmap.rub.ace.advertising.com
 eyereturn.com
@@ -2688,6 +2693,7 @@ icq.advmaker.ru
 identads.com
 idg.adocean.pl
 idguk1-d.openx.net
+iendoo.com
 ifa.camads.net
 ijrah.top
 im.banner.t-online.de
@@ -3680,6 +3686,8 @@ switch.d-agency.net
 sync.adap.com
 sync.adap.tv
 sync.adaptv.advertising.com
+sync.adotmob.com
+sync.ipredictive.com
 sync.rhythmxchange.com
 sync.teads.tv
 synchrobox.adswizz.com

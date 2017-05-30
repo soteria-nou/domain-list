@@ -604,6 +604,7 @@ by.uservoice.com
 c.bigmir.net
 c.cdnma.com
 c.cnzz.com
+c.eu1.dyntrk.com
 c.evidon.com
 c.fqtag.com
 c.gigcount.com
@@ -743,6 +744,7 @@ cdn.onthe.io
 cdn.optimizely.com
 cdn.pardot.com
 cdn.petametrics.com
+cdn.ravenjs.com
 cdn.raygun.io
 cdn.refersion.com
 cdn.sailthru.com
@@ -768,6 +770,7 @@ cdn.unid.go.com
 cdn.uplift-platform.com
 cdn.walkme.com
 cdn.wbtrk.net
+cdn.webglstats.com
 cdn.widgets.webengage.com
 cdn.yldbt.com
 cdn.zeerat.com
@@ -886,6 +889,7 @@ codiceisp.shinystat.com
 col.eum-appdynamics.com
 collect.octalytics.com
 collector-medium.lightstep.com
+collector-px0py5pczn.octopart.com
 collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
 collector.a.pxi.pub
@@ -1209,6 +1213,7 @@ dmp.theadex.com
 dmros1.ysm.yahoo.com
 dms-analytics.buuteeq.com
 dmtracking2.alibaba.com
+dmx.sync.yume.com
 dn3y71tq7jf07.cloudfront.net
 dna8twue3dlxq.cloudfront.net
 dnhgz729v27ca.cloudfront.net
@@ -2015,6 +2020,7 @@ lh.secure.yahoo.com
 lib.selfcampaign.com
 lib.trafit.com
 lib.vmweb.net
+librato-collector.genius.com
 libs.coremetrics.com
 libs.de.coremetrics.com
 liczniki.org
@@ -2805,6 +2811,7 @@ pw.ibanbic.com
 px.adhigh.net
 px.airpr.com
 px.media-serving.com
+px.moatads.com
 px.owneriq.net
 px.srvcs.tumblr.com
 px.steelhousemedia.com
@@ -2981,6 +2988,7 @@ s.swiftypecdn.com
 s.tagsrvcs.com
 s.thebrighttag.com
 s.uadx.com
+s.update.dailymotion.com
 s.update.rubiconproject.com
 s.webtrends.com
 s.xpanama.net
@@ -3238,6 +3246,7 @@ sniff.visistat.com
 sockjs.pusher.com
 softlayertechnologie.tt.omtrdc.net
 softonic.112.2o7.net
+somethodox.info
 sonar.sociomantic.com
 sonycorporate.112.2o7.net
 sonyelectronicssupportus.112.2o7.net
@@ -3675,6 +3684,7 @@ tinek.iprom.net
 tiscaliadv01.webtrekk.net
 tkn.4tube.com
 tknet.rayjump.com
+tlx.3lift.com
 tm.dl.nw.de
 tm.iqfp1.com
 tm.tradetracker.net
@@ -4164,6 +4174,7 @@ www.lansrv030.com
 www.lasagneandands.com
 www.launchbit.com
 www.lijit.com
+www.linkconnector.com
 www.lqtrk.com
 www.mainadv.com
 www.mlstat.com
