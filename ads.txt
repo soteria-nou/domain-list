@@ -1294,6 +1294,7 @@ ads.trixbox.org
 ads.tunesbag.com
 ads.tv3.si
 ads.tweetmeme.com
+ads.twitter.com
 ads.ukslc.org
 ads.ultrahosting.hu
 ads.undertone.com
@@ -2746,6 +2747,7 @@ indiabanner.com
 infinite-ads.com
 infinityads.com
 info.a7.org
+init.supersonicads.com
 inl.adbureau.net
 inmobisdk-a.akamaihd.net
 insight.adsrvr.org
@@ -3809,6 +3811,7 @@ txjdgm53.win
 u-ads.adap.tv
 u1hw38x0.com
 u1trkqf.com
+ua.supersonicads.com
 uac.advertising.com
 ubfhq.top
 udarem.com

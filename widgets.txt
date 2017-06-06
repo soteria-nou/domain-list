@@ -289,7 +289,6 @@ widget.spoods.io
 widget.stackla.com
 widget.supercounters.com
 widget.userengage.io
-widget.uservoice.com
 widget.weibo.com
 widget.whatsbroadcast.com
 widgethost.barnebys.com
