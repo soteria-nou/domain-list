@@ -63,6 +63,7 @@ cdn.trending.ntrsctn.com
 cdn.ywxi.net
 cdn01.smartling.com
 cdn4.wibbitz.com
+cf.kampyle.com
 chatserver.comm100.com
 chatwing.com
 chs02.cookie-script.com
@@ -334,7 +335,6 @@ www.salesmanago.pl
 www.secondego.com
 www.smartlinks.dianomi.com
 www.smartsuppchat.com
-www.snapengage.com
 www.speakpipe.com
 www.spot.im
 www.springboardplatform.com

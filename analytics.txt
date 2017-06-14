@@ -182,6 +182,7 @@ a.wishabi.com
 a0ef2haqr0-1.algolia.io
 a1.superstats.com
 a1telekom01.webtrekk.net
+a1webstrategy.com
 a2.mediagra.com
 a2sky.com
 a4.bing.com
@@ -382,6 +383,7 @@ api-v3.tinypass.com
 api.adsymptotic.com
 api.altmetric.com
 api.amplitude.com
+api.appmonsta.com
 api.autopilothq.com
 api.behavioralengine.com
 api.bounceexchange.com
@@ -438,6 +440,7 @@ apx.moatads.com
 arbo.hit.gemius.pl
 archi2.xiti.com
 areagame.ivwbox.de
+arm.d3.sc.omtrdc.net
 arx1-out.hitbox.com
 arx2-out.hitbox.com
 as-sec.casalemedia.com
@@ -979,6 +982,7 @@ counters.gigya.com
 countess.twitch.tv
 coxnetmasterglobal.112.2o7.net
 cozpolatmsnportal.112.2o7.net
+cpaofferstat.com
 cpro.baidustatic.com
 cpx.golem.de
 cpx.smind.si
@@ -1535,6 +1539,7 @@ eventlogger.soundcloud.com
 events-api.outfit7.net
 events.appsflyer.com
 events.deskapi.com
+events.ocdn.eu
 events.redditmedia.com
 everestjs.net
 evisitcs.com
@@ -1967,6 +1972,7 @@ jyawd.com
 jz9ugaqb.com
 k.intellitxt.com
 k.r66net.com
+k266d5zsl.onet.pl
 karma.mdpcdn.com
 karriere.oewabox.at
 kcart.alipay.com
@@ -1986,6 +1992,7 @@ konicaminoltahd.122.2o7.net
 kpr2exp21.com
 kraftfoodseurope.d3.sc.omtrdc.net
 krater.iprom.net
+kropka.onet.pl
 kt4.kliptracker.com
 kweb.videostep.com
 kwobj.com
@@ -2808,6 +2815,7 @@ pulse-fra02.revdn.net
 pulse-lon02.revdn.net
 pulse-waw02.revdn.net
 pulse.w3counter.com
+pulsembed.eu
 purevpn.postaffiliatepro.com
 pv.datacaciques.com
 pw.3ders.net
@@ -2830,6 +2838,7 @@ pylon.iheart.com
 pylon.pro6e.com
 q.stripe.com
 qa.rlcdn.com
+qi.ckm.onetapi.pl
 qjex.net
 qmnetwor.ivwbox.de
 qs.oewabox.at
@@ -3906,6 +3915,7 @@ tvn.hit.gemius.pl
 tvpgapl.hit.gemius.pl
 twc.demdex.net
 twittercounter.com
+ty0lm9uz.onet.pl
 tz.ts.vindicosuite.com
 u.openx.net
 ua.hit.gemius.pl
@@ -4033,6 +4043,7 @@ w25.hitbox.com
 w88.go.com
 wa.and.co.uk
 wa.aruba.it
+wa.st.com
 wachovia.112.2o7.net
 wafmedia6.com
 walker.zdbb.net
@@ -4207,6 +4218,7 @@ www.sc.pages02.net
 www.sc.pages03.net
 www.shinystat.com
 www.sitemeter.com
+www.snapengage.com
 www.spartan-ntv.com
 www.statcounter.com
 www.stats.lt
@@ -4218,6 +4230,7 @@ www.tamgrt.com
 www.tns-counter.ru
 www.toneden.io
 www.track306.info
+www.trackdiscovery.net
 www.trendcounter.com
 www.trycelery.com
 www.upsellit.com
