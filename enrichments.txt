@@ -199,6 +199,7 @@ jakeludington.us.intellitxt.com
 jeepforum.us.intellitxt.com
 jkontherun.us.intellitxt.com
 jp.intellitxt.com
+js-ru.redtram.com
 js.bronto.com
 js.hs-scripts.com
 jsfiles.rutracker.ga
@@ -309,6 +310,7 @@ scripts.mobdub.com
 sdk.beeketing.com
 seeklyrics.us.intellitxt.com
 share.pluso.ru
+share.yandex.ru
 shared.9msn.com.au
 shoutwire.us.intellitxt.com
 sillydog.us.intellitxt.com

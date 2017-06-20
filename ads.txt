@@ -2183,6 +2183,7 @@ cdn.pleenq.com
 cdn.popcash.net
 cdn.popmyads.com
 cdn.pulpix.co
+cdn.pvrtx.net
 cdn.reporo.net
 cdn.revcontent.com
 cdn.samvaulter.com
@@ -2405,6 +2406,7 @@ delivery.inserthtml.com
 delivery.myswitchads.com
 delivery.panel100.com
 delivery.reklamz.com
+delivery.swid.switchadhub.com
 delivery.swid.switchads.com
 delivery.trafficbroker.com
 delivery.trafficfabrik.com
@@ -2441,6 +2443,7 @@ dmp.adform.net
 dmros.ysm.yahoo.com
 dnsstuff-images.adbureau.net
 dnsstuff.adbureau.net
+doc.echoban.ru
 domains.googlesyndication.com
 dominoad.adk2x.com
 dotcomconsultancy.advertserve.com
@@ -2621,6 +2624,7 @@ go.oclasrv.com
 go.onclasrv.com
 go.padsdel.com
 go.padstm.com
+go.pl.bbelements.com
 go.realvu.net
 go.sonobi.com
 go.stirshakead.com
@@ -2871,6 +2875,7 @@ m.xp1.ru4.com
 m2.doubleclick.net
 m2m1.inner-active.mobi
 m3.doubleclick.net
+macstatic.webtrekk.com
 mads.aol.com
 mads.at.atwola.com
 mads.download.com
@@ -3258,6 +3263,7 @@ phox2ey.bid
 phpadsnew.abac.com
 pic247realm.kompass.com
 piop7shm.com
+pipeschannels.com
 pix.tagcdn.com
 pixcp.bangdom.com
 pixel-a.sitescout.com
@@ -3530,6 +3536,7 @@ sand-02.adnxs.com
 sand-03.adnxs.com
 sand-04.adnxs.com
 sand-05.adnxs.com
+sar.66.ru
 sawayn.link
 sc.adelement.com
 sc.adsxgm.com
@@ -3570,6 +3577,7 @@ server1.fone-me.com
 server7.myvidster.com
 service.clicksvenue.com
 service.maxymiser.net
+servicer.adskeeper.co.uk
 services.cdn.speedshiftmedia.com
 serving.bepolite.eu
 servingpps.com
@@ -3581,6 +3589,7 @@ shareasale.com
 shopbop.sp1.convertro.com
 shortlink.sex
 show.adacts.com
+show.adlift.ru
 show.textads.lt
 show.textads.lv
 showads.pubmatic.com
@@ -3699,6 +3708,7 @@ syndication.exoclick.com
 syndication.exosrv.com
 syndication.streamads.yahoo.com
 system.mondeos.pl
+t.66.ru
 t.frtyq.com
 t.jimdo-platform.net
 t.ju33.com
@@ -3918,6 +3928,7 @@ ws-eu.amazon-adsystem.com
 ws-gateway.com
 ws-in.amazon-adsystem.com
 ws.tapjoyads.com
+wsp.adskeeper.co.uk
 wsp.marketgid.com
 wsp.mgid.com
 wtp101.com

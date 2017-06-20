@@ -302,6 +302,7 @@ analytics.conmio.com
 analytics.convertlanguage.com
 analytics.cyberghostvpn.com
 analytics.dev.popdust.com
+analytics.ecvv.com
 analytics.fairfax.com.au
 analytics.fortinet.com
 analytics.freedom.press
@@ -410,6 +411,7 @@ api.petametrics.com
 api.raygun.io
 api.retargetly.com
 api.share.baidu.com
+api.spoldzielnia.nsaudience.pl
 api.taps.io
 api.tvpage.com
 api.umbel.com
@@ -478,6 +480,7 @@ autobytel.112.2o7.net
 autocomplete.demandbase.com
 autodiscover.xiti.com
 autoscout24.112.2o7.net
+aux-log.vertamedia.com
 avazutracking.net
 averydennison.112.2o7.net
 avgtechnologies.112.2o7.net
@@ -577,6 +580,7 @@ bo.getjaco.com
 bob.dmpxs.com
 bolha.iprom.net
 bonniercorp.122.2o7.net
+bootstrap.vertamedia.com
 botd2.wordpress.com
 bounceexchange.com
 box.xing.com
@@ -713,6 +717,7 @@ cdn.brsrvr.com
 cdn.bttrack.com
 cdn.bunchbox.co
 cdn.captora.com
+cdn.clickmatic.pl
 cdn.clicktale.net
 cdn.contentspread.net
 cdn.cquotient.com
@@ -720,6 +725,7 @@ cdn.cxense.com
 cdn.decibelinsight.net
 cdn.doublepimpssl.com
 cdn.drnxs.com
+cdn.dtxngr.com
 cdn.effectivemeasure.net
 cdn.emetriq.de
 cdn.engine.spotscenered.info
@@ -935,6 +941,7 @@ contentz.mkt932.com
 converse.112.2o7.net
 conversion-pixel.invitemedia.com
 convertglobal.s3.amazonaws.com
+cookie.brealtime.com
 coolyeti.info
 corpoftp.xiti.com
 count-server.sharethis.com
@@ -950,6 +957,7 @@ counter-old.hitbox.com
 counter.adguard.com
 counter.goingup.com
 counter.inkfrog.com
+counter.lentainform.com
 counter.megaindex.ru
 counter.pax.com
 counter.rambler.ru
@@ -959,6 +967,7 @@ counter.spylog.com
 counter.theconversation.edu.au
 counter.top.dating.lt
 counter.top.ge
+counter.tovarro.com
 counter.yadro.ru
 counter1.sextracker.com
 counter10.sextracker.com
@@ -1005,6 +1014,7 @@ cs.ns1p.net
 csjs.hitbox.com
 csm2waycm-atl.netmng.com
 csp-logging.jimdo-platform.net
+csr.onet.pl
 cstatic.weborama.fr
 csw10-mip1.hitbox.com
 csw10-mip2.hitbox.com
@@ -1642,6 +1652,7 @@ gannett.demdex.net
 gapl.hit.gemius.pl
 garo.hit.gemius.pl
 gars.hit.gemius.pl
+garu.hit.gemius.pl
 gasi.hit.gemius.pl
 gastar.ivwbox.de
 gate.datacaciques.com
@@ -2442,7 +2453,9 @@ myvideo.ivwbox.de
 n.bodybuilding.com
 n.gemini.yahoo.com
 n.targetctracker.com
+n1.vivocha.com
 n24.ivwbox.de
+n4p-ru.redtram.com
 na.allevents.in
 najdi.d3.sc.omtrdc.net
 nakanohito.jp
@@ -2977,6 +2990,7 @@ ru-gmtdmp.mookie1.com
 rum01.revsw.net
 rumds.wpdigital.net
 rwt.reichelt.de
+s.66.ru
 s.acexedge.com
 s.arlime.com
 s.btstatic.com
@@ -3005,6 +3019,7 @@ s.tribalfusion.com
 s.uadx.com
 s.update.dailymotion.com
 s.update.rubiconproject.com
+s.vengovision.ru
 s.webtrends.com
 s.xpanama.net
 s.youtube.com
@@ -3333,6 +3348,7 @@ sstats.wired.com
 ssum-sec.casalemedia.com
 st.bebi.com
 st.dynamicyield.com
+st.e2.medianetworks.ru
 st.free.fr
 st.hit.gemius.pl
 st.listrak.com
@@ -3493,6 +3509,7 @@ stats.renault.co.uk
 stats.riavera.com
 stats.sa-as.com
 stats.schukat.com
+stats.seedr.com
 stats.shopify.com
 stats.shoppydoo.com
 stats.simplylinux.ch
@@ -3565,6 +3582,7 @@ sx.trhnt.com
 symanteccom.112.2o7.net
 sympatico.112.2o7.net
 sync.1dmp.io
+sync.1rx.io
 sync.active-agent.com
 sync.go.sonobi.com
 sync.liverail.com
@@ -3691,6 +3709,7 @@ thred-warp.appspot.com
 tia.timeinc.net
 tie.iprom.net
 tillertag-a.akamaihd.net
+timeanddate-d.openx.net
 timecom.112.2o7.net
 timeinc.122.2o7.net
 timeinstyle.122.2o7.net
@@ -3700,6 +3719,7 @@ tinek.iprom.net
 tiscaliadv01.webtrekk.net
 tkn.4tube.com
 tknet.rayjump.com
+tkx2-prod.anvato.net
 tlx.3lift.com
 tm.dl.nw.de
 tm.iqfp1.com
@@ -4154,6 +4174,7 @@ www.budgetedbauer.com
 www.center.io
 www.centraliprom.com
 www.centraliprom.net
+www.civicscience.com
 www.clickmngr.com
 www.clicktripz.com
 www.co2stats.com
