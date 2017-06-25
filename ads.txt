@@ -237,6 +237,7 @@ ad.afy11.net
 ad.agava.tbn.ru
 ad.alibaba.com
 ad.altervista.org
+ad.amgdgt.com
 ad.antventure.com
 ad.ar.doubleclick.net
 ad.at.doubleclick.net
@@ -818,6 +819,7 @@ ads.aws.rubiconproject.com
 ads.aws.sitepoint.com
 ads.ayads.co
 ads.aylar.no
+ads.ayuemami.com
 ads.azads.com
 ads.bbcworld.com
 ads.betfair.com
@@ -2212,6 +2214,7 @@ cdn1.tags4.revdepo.com
 cdn1.traffichaus.com
 cdn1.yupfiles.org
 cdn1ht.traffichaus.com
+cdn2.inner-active.mobi
 cdn2.lockerdome.com
 cdn3.adbrau.com
 cdn3.adexprt.com
@@ -2266,6 +2269,7 @@ conduit-data.com
 config-ltvp.inmobi.com
 config.ioam.de
 config.seedtag.com
+config.unityads.unity3d.com
 connect.decknetwork.net
 connect001.com
 connectedads.net
@@ -2831,6 +2835,7 @@ lau2.click.union.ucweb.com
 lau2.slot.union.ucweb.com
 launch.newsinc.com
 layer-ads.de
+lc0pyfn.com
 lduhtrp.net
 leadback.advertising.com
 leads.specificmedia.com
@@ -3470,6 +3475,7 @@ rtb-ap.vizury.com
 rtb-csync.smartadserver.com
 rtb.nexage.com
 rtb.strikead.com
+rtb.xpedc.com
 rtbproxy.mgid.com
 rtcgroupads.com
 rts.sparkstudios.com
@@ -4050,6 +4056,7 @@ www.nnbestmblotl.com
 www.ntnlawgchgds.com
 www.nzcpdaboaayv.com
 www.ocydwjnqasrn.com
+www.oczvtbskwbmj.com
 www.oglasevanje.izklop.com
 www.okoads.com
 www.onclickbright.com
@@ -4097,6 +4104,7 @@ www.vipcpms.com
 www.viperishly.com
 www.vvbanner.com
 www.wggmaxxawkxu.com
+www.wizejdnlqwcb.com
 www.worldsbestwebcams.com
 www.wtjmnbjktbci.com
 www.xconeeitqrrq.com

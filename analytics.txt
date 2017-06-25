@@ -423,6 +423,7 @@ api.xiti.com
 apicit.net
 apiv2.xiti.com
 app-ab14.marketo.com
+app-analytics.snapchat.com
 app-measurement.com
 app.adjust.com
 app.compendium.com
@@ -783,6 +784,7 @@ cdn.wbtrk.net
 cdn.webglstats.com
 cdn.widgets.webengage.com
 cdn.yldbt.com
+cdn.zarget.com
 cdn.zeerat.com
 cdn01.mzbcdn.net
 cdn1.developermedia.com
@@ -1037,6 +1039,7 @@ cts.sanoma.fi
 ctv.122.2o7.net
 ctvtrutv.112.2o7.net
 cursecom.ivwbox.de
+customcode.shephertz.com
 customerconversio.com
 cvwr-cis.hitbox.com
 cvwr-cis2.hitbox.com
@@ -1542,6 +1545,7 @@ eue-1.steelcentral.net
 eurts.com
 euweaj49.appmetrx.com
 event.adxpose.com
+event.inner-active.mobi
 event.wired.com
 eventbrite.122.2o7.net
 eventgateway.soundcloud.com
@@ -1947,6 +1951,7 @@ jade01.webtrekk.net
 jadeitite.com
 japum.com
 jhame.com
+jizvehd.misosoup.io
 johnlewis.112.2o7.net
 joker.iprom.net
 joydorado.com
@@ -2062,6 +2067,7 @@ load.sumome.com
 loadbalancing.xiti.com
 loadus.exelator.com
 log.aebn.net
+log.apk.v-mate.mobi
 log.dmtry.com
 log.doubleverify.com
 log.enquisite.com
@@ -2601,6 +2607,7 @@ ox-d.theunlockr.com
 oxtracking.com
 p-ssl.effectivemeasure.net
 p.adsymptotic.com
+p.adwsys.com
 p.auto-motor-und-sport.de
 p.bm23.com
 p.casalemedia.com
@@ -3194,6 +3201,7 @@ segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
 seness.info
 sentry.io
+serv.clicksor.net
 servedby.adxpose.com
 server-it.imrworldwide.com
 server-us.imrworldwide.com
@@ -3620,6 +3628,7 @@ t.skimresources.com
 t.teads.tv
 t.tellapart.com
 t.thepennyhoarder.com
+t.tmdn2015x9.com
 t.trackedlink.net
 t.trafmag.com
 t.unbounce.com
@@ -3741,6 +3750,7 @@ toro-tags.com
 toronto.xiti.com
 tpc.googlesyndication.com
 tr-metrics.loomia.com
+tr.datanyze.com
 tr.grammarly.com
 tr.prospecteye.com
 tr2.smarterhq.io

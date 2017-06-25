@@ -229,6 +229,7 @@ static-uk.plista.com
 static.addtoany.com
 static.bufferapp.com
 static.freeskreen.com
+static.h-bid.com
 static.mailerlite.com
 static.olark.com
 static.skimlinks.com
