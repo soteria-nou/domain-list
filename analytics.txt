@@ -281,6 +281,7 @@ amznshopbop.122.2o7.net
 analitik.obisk.net
 analitika.arnes.si
 analyses.xiti.com
+analysis2.chartboosts.com
 analytics-api-samples.googlecode.com
 analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
 analytics-eu.clickdimensions.com
@@ -444,6 +445,7 @@ arbo.hit.gemius.pl
 archi2.xiti.com
 areagame.ivwbox.de
 arm.d3.sc.omtrdc.net
+arrassley.info
 arx1-out.hitbox.com
 arx2-out.hitbox.com
 as-sec.casalemedia.com
@@ -820,6 +822,7 @@ cgw1-238.hitbox.com
 cgw1-239.hitbox.com
 chanmonitor.in
 channelintelligence.com
+chantly.info
 chasles.xiti.com
 chefkoch.ivwbox.de
 chicagosuntimes.122.2o7.net
@@ -1129,6 +1132,7 @@ d3qxef4rp70elm.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3rm04c4p9a75q.cloudfront.net
 d3rmnwi2tssrfx.cloudfront.net
+d3t9nyds4ufoqz.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
 d3xl0zyjyljwa.cloudfront.net
@@ -1248,6 +1252,7 @@ docsinterne.xiti.com
 documents.xiti.com
 dogma.iprom.si
 dogpile.112.2o7.net
+domain157.club
 domdex.com
 domdex.net
 dominionenterprises.112.2o7.net
@@ -1593,6 +1598,7 @@ fast.condenast.demdex.net
 fast.dm.demdex.net
 fast.fairfaxau.demdex.net
 fast.forbes.com
+fast.nbcu.demdex.net
 fast.postmedia.demdex.net
 fasterol.org
 fc.webmasterpro.de
@@ -1849,6 +1855,7 @@ i.authorinsights.com
 i.compendium.com
 i.ctnsnet.com
 i.eporner.com
+i.installportal.com
 i.kissmetrics.com
 i.matheranalytics.com
 i.n.jwpltx.com
@@ -3792,6 +3799,7 @@ track.roiservice.com
 track.sitetag.us
 track.spots.im
 track.thesaurus.com
+track.tiara.daum.net
 track.totalav.com
 track.ultimate-guitar.com
 track.untd.com
@@ -3932,6 +3940,7 @@ trk.tracksys55.com
 trk.vidible.tv
 trkclk.adk2x.com
 try.abtasty.com
+ts.popsugar.com
 ts.tnaflix.com
 tsf.smartbn.ru
 tsleducation.112.2o7.net

@@ -1822,6 +1822,7 @@ analytics.sanoma.fi
 analytics.twitter.com
 anchor.coadvertise.com
 anchor.stailamedia.com
+androidads23.adcolony.com
 anrdoezrs.net
 antactica.ad.adnetwork.com.br
 anvil.rubiconproject.com
@@ -1836,6 +1837,7 @@ api.adsnative.com
 api.adstargeting.com
 api.bee7.com
 api.branch.io
+api.c.avazunativeads.com
 api.conduit.com
 api.content-ad.net
 api.hatscher.eu
@@ -2285,6 +2287,7 @@ conv.adengage.com
 conversion.buddymedia.com
 cookies-la.madadsmedia.com
 core.ad20.net
+corn.honeytouch.bid
 cotads.adscale.de
 counter.radio.si
 cpanel.nativeads.com
@@ -2473,6 +2476,7 @@ dymwsh1c2kslr.cloudfront.net
 dyn.tnaflix.com
 dynamic.exaccess.ru
 dz2fz0bgyq9tn.cloudfront.net
+dzcx04lyk9hjp.cloudfront.net
 e-ltvp.inmobi.com
 e.maxtraffic.com
 e1.static.hoptopboy.com
@@ -2680,6 +2684,7 @@ hrgde.adocean.pl
 hs.interpolls.com
 hstraffa.com
 hsw-d.openx.net
+htl.bid
 httpool.nuggad.net
 hugde.adocean.pl
 hw-a-edge.freepik.com
@@ -2954,6 +2959,7 @@ mr1a.exs.pl
 mrkzgpbaapif.com
 mtg.banneradministration.com
 mtvads.nivas.hr
+mtvp05j.com
 murava.zaebaladblock.ru
 mwcvu.com
 mxpopad.com
@@ -3382,6 +3388,7 @@ pub.adfever.com
 pubads.g.doubleclick.net
 publisher.infinityads.com
 publishers.halogennetwork.com
+pussl10.com
 pwrads.net
 px.adscale.de
 q.adrta.com
@@ -4001,6 +4008,7 @@ www.ccefzhxgobjm.com
 www.cityads.ru
 www.clicksgear.com
 www.clickterra.net
+www.cpm10.com
 www.crispads.com
 www.da-ads.com
 www.daxzupqivdoj.com
@@ -4015,6 +4023,7 @@ www.eboundservices.com
 www.emg-network.com
 www.espace-plus.net
 www.exchangead.com
+www.gkvhfryrramj.com
 www.googlecommerce.com
 www.googletagmanager.com
 www.googletagservices.com
