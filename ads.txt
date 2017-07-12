@@ -1835,6 +1835,7 @@ api.adg99.com
 api.adgoi-1.net
 api.adsnative.com
 api.adstargeting.com
+api.b2c.com
 api.bee7.com
 api.branch.io
 api.c.avazunativeads.com
@@ -2073,10 +2074,12 @@ bolhaads.doticni.net
 bongacams.com
 bonniercorp-d.openx.net
 bororango.com
+boston-d.openx.net
 boylesportsreklame.com
 brakefluid.website
 bruceleadx3.com
 bt.rcs.it
+btlr.sharethrough.com
 bullz-eye-ads.com
 bullzeye.rotator.hadj1.adjuggler.net
 buysellads.com
@@ -2172,6 +2175,7 @@ cdn.innity.net
 cdn.interactivemedia.net
 cdn.intergi.com
 cdn.investingchannel.com
+cdn.ipromcloud.com
 cdn.iqcontentplatform.de
 cdn.kixer.com
 cdn.komoona.com
@@ -2610,6 +2614,7 @@ get.mirando.de
 gg.adocean.pl
 gg.google.com
 ggo.directrev.com
+global.proper.io
 globaladv.net
 glslciwwvtxn.com
 gmads.net
@@ -2685,6 +2690,7 @@ hs.interpolls.com
 hstraffa.com
 hsw-d.openx.net
 htl.bid
+hts68934.com
 httpool.nuggad.net
 hugde.adocean.pl
 hw-a-edge.freepik.com
@@ -3007,6 +3013,7 @@ newt3.adultadworld.com
 nextlevel2014.sitescoutadserver.com
 nicheads.com
 nickhel.com
+nization.com
 nl1.ero-advertising.com
 nodes.r66t.com
 np.lexity.com
@@ -3230,6 +3237,7 @@ ox.tossoffads.com
 ox.tun-design.com
 ox.vsn.si
 ox2.pron.tv
+oxhax.com
 p-td.com
 p.adpdx.com
 p.ato.mx
@@ -3303,6 +3311,7 @@ pl128928.puserving.com
 pl131736.puhtml.com
 pl132334.puhtml.com
 pl142218.puhtml.com
+pl14300112.puserving.com
 pl168555.puhtml.com
 pl177916.puhtml.com
 pl178987.puhtml.com
@@ -3592,12 +3601,14 @@ service.clicksvenue.com
 service.maxymiser.net
 servicer.adskeeper.co.uk
 services.cdn.speedshiftmedia.com
+serving.adbetclickin.pink
 serving.bepolite.eu
 servingpps.com
 set.adap.com
 set.adap.tv
 sexpennyauctions.com
 sgreen.erne.co
+shalleda.com
 shareasale.com
 shopbop.sp1.convertro.com
 shortlink.sex
@@ -3817,6 +3828,7 @@ trafmag.com
 traforet.com
 traforet.ru
 traveladvertising.com
+treg.hearstnp.com
 tremor.adbureau.net
 trends.revcontent.com
 triadmedianetwork.com
@@ -3887,6 +3899,7 @@ vast.vertamedia.com
 vdrn.redplum.com
 vice-ads-cdn.vice.com
 vice-publishers.s3.amazonaws.com
+vid.springserve.com
 vidasco.rotator.hadj7.adjuggler.net
 video-adserver.ibillboard.com
 video.unrulymedia.com
@@ -4023,6 +4036,7 @@ www.eboundservices.com
 www.emg-network.com
 www.espace-plus.net
 www.exchangead.com
+www.fnkyyrgraizy.com
 www.gkvhfryrramj.com
 www.googlecommerce.com
 www.googletagmanager.com
@@ -4079,6 +4093,7 @@ www.partner-ads.com
 www.performanceadexchange.com
 www.phica.net
 www.poweradvertising.com
+www.predictivadnetwork.com
 www.premads.info
 www.premierads.net
 www.promotools.biz
@@ -4105,12 +4120,14 @@ www.tr553.com
 www.tradeadexchange.com
 www.trafficmagnates.com
 www.trumbo.site
+www.uoarbhxfyygn.com
 www.usoqghurirvz.com
 www.venturead.com
 www.vhpqxkhvjgwx.com
 www.video.oms.eu
 www.vipcpms.com
 www.viperishly.com
+www.vrewpywootyu.com
 www.vvbanner.com
 www.wggmaxxawkxu.com
 www.wizejdnlqwcb.com
@@ -4158,6 +4175,7 @@ xch.directrev.com
 xchangebanners.com
 xfire.adbureau.net
 xml.pdn-3.com
+xoredi.com
 xp1.zedo.com
 xpollo.com
 xx.openx.com

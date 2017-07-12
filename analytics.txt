@@ -188,6 +188,7 @@ a2sky.com
 a4.bing.com
 a5c1d3a015e.com
 aa.agkn.com
+aamcf.aamsitecertifier.com
 aax.amazon-adsystem.com
 ab.wetransfer.net
 abandonment6.saas.seewhy.com
@@ -290,6 +291,7 @@ analytics-static.unister-gmbh.de
 analytics-v2.anvato.com
 analytics.163.com
 analytics.analytics-egain.com
+analytics.archive.org
 analytics.atlassian.com
 analytics.avant.si
 analytics.aweber.com
@@ -568,6 +570,7 @@ bg3h5335h2uzn90i.stats.paypal.com
 bh.contextweb.com
 bi.medscape.com
 bid.contextweb.com
+bids.proper.io
 bigdawg.hitbox.com
 bigip1-64.hitbox.com
 bigip2-64.hitbox.com
@@ -1751,6 +1754,7 @@ gpaper141.112.2o7.net
 gpaper145.112.2o7.net
 gpaper177.112.2o7.net
 gpaper199.112.2o7.net
+graph.instagram.com
 green.erne.co
 grmtech.net
 grunerandjahr.112.2o7.net
@@ -1895,6 +1899,7 @@ imode.xiti.com
 imp.startappservice.com
 impact.applifier.com
 impression.clickinc.com
+imprsvr.com
 impulse.forkcdn.com
 in-cdn.effectivemeasure.net
 in-ssl.effectivemeasure.net
@@ -2065,6 +2070,7 @@ links.services.disqus.com
 links.voyeurweb.com
 linksys.links.origin.channelintelligence.com
 lintv.122.2o7.net
+live-red-t.com
 live.chartboost.com
 livenation.122.2o7.net
 liveperformancesales.com
@@ -3230,6 +3236,7 @@ sevenventures01.wt-eu02.net
 sextracker.com
 seznam.hit.gemius.pl
 sfcglobalgateway.122.2o7.net
+sftv-ssl.wemfbox.ch
 shareaholic.com
 shopping.112.2o7.net
 show.smartcontext.pl
@@ -3500,6 +3507,7 @@ stats.indextools.com
 stats.infobit.si
 stats.iwebtrack.com
 stats.kre8tiv.de
+stats.lnol.com.ar
 stats.manticoretechnology.com
 stats.merriam-webster.com
 stats.mezzobit.com
@@ -3644,6 +3652,7 @@ t1.clipkit.com
 t1.oload.tv
 t1.openload.co
 t1.softonicads.com
+t1.streamcherry.com
 t2.openload.co
 t3.probance.com
 t5.trackalyzer.com
@@ -3945,6 +3954,7 @@ ts.tnaflix.com
 tsf.smartbn.ru
 tsleducation.112.2o7.net
 tsmedia.nuggad.net
+tt2.openload.co
 tumblrreports.cedexis.com
 tunein-d.openx.net
 turneruk.112.2o7.net
@@ -4241,6 +4251,7 @@ www.morevisits.info
 www.mxcounters.com
 www.mypoints.com
 www.nbcudigitaladops.com
+www.nerfherdersolo.com
 www.obisk.net
 www.ojrq.net
 www.one-tap.co
