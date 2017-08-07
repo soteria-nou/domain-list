@@ -81,6 +81,7 @@
 2a.112.2o7.net
 2a86.v.fwmrm.net
 2leep.com
+2no.co
 300154627.log.optimizely.com
 305025425.log.optimizely.com
 32653148.log.optimizely.com
@@ -110,6 +111,7 @@
 4405841.fls.doubleclick.net
 4436003.fls.doubleclick.net
 444.hitbox.com
+4498751.fls.doubleclick.net
 4514783.fls.doubleclick.net
 4718857.fls.doubleclick.net
 4735610.fls.doubleclick.net
@@ -194,6 +196,7 @@ ab.wetransfer.net
 abandonment6.saas.seewhy.com
 ablsrv.com
 about-d.openx.net
+absential.info
 abtracker.us
 ac.mmstat.com
 ac.perf.linkedin.com
@@ -276,6 +279,7 @@ amazoncustomerservice.d2.sc.omtrdc.net
 amazonmerchants.122.2o7.net
 amazonnba.122.2o7.net
 amazonwebservices.d2.sc.omtrdc.net
+amazonwebservicesinc.tt.omtrdc.net
 amp.ai
 amplifypixel.outbrain.com
 amznshopbop.122.2o7.net
@@ -442,6 +446,7 @@ appleglobal.112.2o7.net
 appload.ingest.crittercism.com
 apps.developermedia.com
 apps.outfit7.com
+apwvx.adsbtrack.com
 apx.moatads.com
 arbo.hit.gemius.pl
 archi2.xiti.com
@@ -767,6 +772,7 @@ cdn.sailthru.com
 cdn.scarabresearch.com
 cdn.segment.com
 cdn.segment.io
+cdn.sendpulse.com
 cdn.siftscience.com
 cdn.smart-digital-solutions.com
 cdn.speedcurve.com
@@ -795,6 +801,7 @@ cdn01.mzbcdn.net
 cdn1.developermedia.com
 cdn2.developermedia.com
 cdn2.pollster.pl
+cdn4.forter.com
 cdn51.vizury.com
 cdns.brsrvr.com
 cdns.canddi.com
@@ -968,6 +975,7 @@ counter.inkfrog.com
 counter.lentainform.com
 counter.megaindex.ru
 counter.pax.com
+counter.pushauction.com
 counter.rambler.ru
 counter.scribblelive.com
 counter.search.bg
@@ -999,7 +1007,6 @@ counters.gigya.com
 countess.twitch.tv
 coxnetmasterglobal.112.2o7.net
 cozpolatmsnportal.112.2o7.net
-cpaofferstat.com
 cpro.baidustatic.com
 cpx.golem.de
 cpx.smind.si
@@ -1017,8 +1024,10 @@ crtracklink.com
 cruftexcision.xyz
 cruisecritic.d1.sc.omtrdc.net
 crumbs.robinhood.com
+cs.digitalbox.ru
 cs.luckyorange.net
 cs.ns1p.net
+cs.prototypes.ru
 csjs.hitbox.com
 csm2waycm-atl.netmng.com
 csp-logging.jimdo-platform.net
@@ -1069,12 +1078,15 @@ d.vvbox.cz
 d1.c2.b9.a1.top.mail.ru
 d10g4g69moszqp.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
+d11bn9i8gmo4kr.cloudfront.net
 d12ulf131zb0yj.cloudfront.net
 d1447tq2m68ekg.cloudfront.net
 d15cjcet1djbmv.cloudfront.net
 d15qhc0lu1ghnk.cloudfront.net
 d1635hfcvs8ero.cloudfront.net
+d1852uckuj7o1j.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
+d1dli2tyorled9.cloudfront.net
 d1epsz32winqbo.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1grtyyel8f1mh.cloudfront.net
@@ -1112,6 +1124,7 @@ d3.c2.b0.a2.top.mail.ru
 d31bfnnwekbny6.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
+d36cz9buwru1tt.cloudfront.net
 d36ee2fcip1434.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d37gvrvc0wt4s1.cloudfront.net
@@ -1147,6 +1160,7 @@ d5phz18u4wuww.cloudfront.net
 d6jxv3ed2lbhy.cloudfront.net
 d8rk54i4mohrb.cloudfront.net
 d9lq0o81skkdj.cloudfront.net
+daast.digitalbox.ru
 dah0ooy4doe.info
 dailymotion-ams.gravityrd-services.com
 daimlerag.122.2o7.net
@@ -1604,6 +1618,7 @@ fast.forbes.com
 fast.nbcu.demdex.net
 fast.postmedia.demdex.net
 fasterol.org
+fathern.info
 fc.webmasterpro.de
 fc.yahoo.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
@@ -1692,6 +1707,7 @@ geo.yahoo.com
 geobeacon.ign.com
 geoip.adtaily.pl
 geoip.luckyorange.net
+geoloc1.geostats.ovh
 georgewbush.112.2o7.net
 geoservice.curse.com
 gesichtp.ivwbox.de
@@ -1935,9 +1951,12 @@ interet.xiti.com
 interia.hit.gemius.pl
 internettraffic.click
 interyield.td563.com
+interyield.td573.com
 intljs.rmtag.com
 ipcmedia.122.2o7.net
 ipctrustedreviewsprod.122.2o7.net
+iplogger.com
+iplogger.org
 iplogger.ru
 iprom.net
 iprom.si
@@ -2411,12 +2430,14 @@ ml314.com
 mlbcom.112.2o7.net
 mm.welt.de
 mnet-ad.net
+mntpp.bidverdrd.com
 mobile.xiti.com
 mobilede-dp.nuggad.net
 mobilink.az
 mobisux.iprom.net
 mobotix01.webtrekk.net
 mojeigre.iprom.net
+mojsms.net
 mondelez.d3.sc.omtrdc.net
 mongo-good-server.ext.nile.works
 monster.demdex.net
@@ -2942,6 +2963,7 @@ relap.io
 relestar.com
 rem-track.bild.de
 report-ads-to.pubnation.com
+report-zt.allmusic.com
 report.23video.com
 report.footprintdns.com
 reporting.singlefeed.com
@@ -3098,6 +3120,7 @@ s33.sitemeter.com
 s34.sitemeter.com
 s35.sitemeter.com
 s36.sitemeter.com
+s36.ucoz.net
 s361.mxcdn.net
 s37.sitemeter.com
 s38.sitemeter.com
@@ -3671,6 +3694,7 @@ tag.navdmp.
 tag.navdmp.com
 tag.perfectaudience.com
 tag.researchnow.com
+tag.retargeter.com
 tag.segmetrics.io
 tag.yieldoptimizer.com
 tagger.opecloud.com
@@ -3732,6 +3756,7 @@ thoccourse.112.2o7.net
 thoughtcatalog-d.openx.net
 thred-warp.appspot.com
 tia.timeinc.net
+tie.247-inc.net
 tie.iprom.net
 tillertag-a.akamaihd.net
 timeanddate-d.openx.net
@@ -3954,6 +3979,7 @@ ts.tnaflix.com
 tsf.smartbn.ru
 tsleducation.112.2o7.net
 tsmedia.nuggad.net
+tt1.openload.co
 tt2.openload.co
 tumblrreports.cedexis.com
 tunein-d.openx.net
@@ -4274,6 +4300,7 @@ www.spartan-ntv.com
 www.statcounter.com
 www.stats.lt
 www.stats24.net
+www.stats4u.net
 www.stats4you.com
 www.stressx.org
 www.swpsvc.com
@@ -4353,6 +4380,7 @@ yellowpages.112.2o7.net
 yepdigital.adk2x.com
 yieldoptimizer.com
 yigg.ivwbox.de
+yip.su
 yjmvx.space
 ynuf.alipay.com
 yottlyscript.com
@@ -4381,6 +4409,7 @@ zopim.com
 zor.livefyre.com
 zorwrite.com
 zt.1rx.io
+zt.allmusic.com
 zurnal24.iprom.net
 zver.iprom.si
 zy.si

@@ -84,6 +84,7 @@ cinemablend.us.intellitxt.com
 citizen-times.us.intellitxt.com
 clientcdn.pushengage.com
 code.intext.billboard.cz
+code.murdoog.com
 code.tidio.co
 codeproject.us.intellitxt.com
 comingsoon.us.intellitxt.com
@@ -397,6 +398,7 @@ us.intellitxt.com
 usb-drivers.us.intellitxt.com
 usemycomputer.us.intellitxt.com
 v3.uk.intellitxt.com
+v5.actionteaser.ru
 velocityreviews.uk.intellitxt.com
 video-drivers.us.intellitxt.com
 vnu.uk.intellitxt.com
