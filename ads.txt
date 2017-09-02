@@ -847,6 +847,7 @@ ads.brand.net
 ads.brazzers.com
 ads.bridgetrack.com
 ads.bsplayer.com
+ads.btc-city.com
 ads.bukstavki3102014.com
 ads.campus-party.org
 ads.canaltech.net
@@ -946,6 +947,7 @@ ads.exdynsrv.com
 ads.exoclick.com
 ads.exosrv.com
 ads.extra-football.com
+ads.fdma-media.com
 ads.fettspielen.de
 ads.fhserve.com
 ads.financialcontent.com
@@ -1502,6 +1504,7 @@ adserver.breakbeat.co.uk
 adserver.burda.si
 adserver.cbbx.fr
 adserver.clustermonkey.net
+adserver.cnczone.com
 adserver.crawlspace-interactive.com
 adserver.delo.si
 adserver.directcorp.de
@@ -1571,6 +1574,7 @@ adserver.viva.si
 adserver.volja.net
 adserver.webads.nl
 adserver.xhorizont.com
+adserver.xpanama.net
 adserver.yahoo.com
 adserver.zebracms.com
 adserver.zenoviaexchange.com
@@ -1815,6 +1819,7 @@ altsysimg.developpez.com
 alxsite.com
 am.appserver-ap.com
 am.appserver-cp.com
+am1.space
 am10.ru
 am15.net
 amn.doubleclick.net
@@ -2206,6 +2211,7 @@ cdn.static-fra.de
 cdn.stickyadstv.com
 cdn.teads.tv
 cdn.technoratimedia.com
+cdn.tsyndicate.com
 cdn.viglink.com
 cdn.w55c.net
 cdn.waframedia9.com
@@ -2366,6 +2372,7 @@ d2kbaqwa2nt57l.cloudfront.net
 d2lxztepvo7ma1.cloudfront.net
 d2pppxxtaciku9.cloudfront.net
 d2psf55e0gm6yv.cloudfront.net
+d2rhlq203cnmhw.cloudfront.net
 d2xkqxdy6ewr93.cloudfront.net
 d3.condenast.servedbyopenx.com
 d36sxvmjoflc2i.cloudfront.net
@@ -2463,6 +2470,7 @@ dmros.ysm.yahoo.com
 dnsstuff-images.adbureau.net
 dnsstuff.adbureau.net
 doc.echoban.ru
+domainoptions.engine.adglare.net
 domains.googlesyndication.com
 dominoad.adk2x.com
 dotcomconsultancy.advertserve.com
@@ -2745,6 +2753,7 @@ img1.adjuggler.com
 img1.cdn.adjuggler.com
 img4.adfun.ru
 imgserv.sponsorads.de
+imgur-d.openx.net
 imp.admarketplace.net
 imp.tradedoubler.com
 impact-ad.jp
@@ -2788,6 +2797,7 @@ interyield.jmp9.com
 interyield.td553.com
 inv-nets.admixer.net
 inv.questex.com
+ioredi.com
 ip.nuggad.net
 ipornia.com
 ir-de.amazon-adsystem.com
@@ -2998,6 +3008,7 @@ n.ads2-adnow.com
 n.ads3-adnow.com
 n.adxxx.me
 n.adxxx.org
+n1198adserv.xyz
 n121adserv.com
 n214adserv.com
 n240adserv.com
@@ -3578,6 +3589,7 @@ sand-03.adnxs.com
 sand-04.adnxs.com
 sand-05.adnxs.com
 sar.66.ru
+savehubs.com
 sawayn.link
 sc.adelement.com
 sc.adsxgm.com
@@ -3856,6 +3868,7 @@ trk.newtention.net
 trvlnet.adbureau.net
 trw12.com
 trzi30ic.com
+tsyndicate.com
 tuberewards.com
 tunic.theonion.com
 tv3ads.zabec.net

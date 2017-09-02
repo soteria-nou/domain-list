@@ -323,6 +323,7 @@ analytics.ladmedia.fr
 analytics.leadlifesolutions.net
 analytics.linkwelove.com
 analytics.live.com
+analytics.livestream.com
 analytics.llnl.gov
 analytics.mlstatic.com
 analytics.modul.ac.at
@@ -722,6 +723,7 @@ cdn.bauernative.com
 cdn.behavioralengine.com
 cdn.bigmining.com
 cdn.bizible.com
+cdn.bobblewrite.com
 cdn.boomtrain.com
 cdn.branch.io
 cdn.brsrvr.com
@@ -1277,6 +1279,7 @@ donerus.112.2o7.net
 dooyoodesite.112.2o7.net
 doublepimpssl.com
 doug1izaerwt3.cloudfront.net
+download-stats.mozilla.org
 download.hitbox.com
 downloads.mailchimp.com
 downloads.pennnet.com
@@ -2637,6 +2640,7 @@ ox-d.imgur.servedbyopenx.com
 ox-d.mst.servedbyopenx.com
 ox-d.netline.com
 ox-d.sbnation.com
+ox-d.socialknowledge.servedbyopenx.com
 ox-d.theunlockr.com
 oxtracking.com
 p-ssl.effectivemeasure.net
@@ -3767,6 +3771,7 @@ timeoutcommunications.122.2o7.net
 timer.accorp.pl
 tinek.iprom.net
 tiscaliadv01.webtrekk.net
+tk421.rvldf.com
 tkn.4tube.com
 tknet.rayjump.com
 tkx2-prod.anvato.net
@@ -3925,6 +3930,7 @@ tracking.searchmarketing.com
 tracking.shopping-flux.com
 tracking.tidalhifi.com
 tracking.to
+tracking.tomsguide.com
 tracking.tomshardware.co.uk
 tracking.umwerk.com
 tracking.veille-referencement.com
@@ -4026,6 +4032,7 @@ us.tracking.justpremium.com
 us.ynuf.alipay.com
 us2.siteimprove.com
 usa.cloud.netacuity.com
+usage.influxdata.com
 usage.trackjs.com
 usasync01.admantx.com
 usatoday1.112.2o7.net
@@ -4105,6 +4112,7 @@ vnumedia01.webtrekk.net
 volkswagencouk.agillic.eu
 vra.outbrain.com
 vs.dmtracker.com
+vt.myvisualiq.net
 vuelingnewsletter.112.2o7.net
 vuukle.com
 vvv.itpro.co.uk
@@ -4272,10 +4280,12 @@ www.lijit.com
 www.linkconnector.com
 www.lqtrk.com
 www.mainadv.com
+www.mftracking.com
 www.mlstat.com
 www.morevisits.info
 www.mxcounters.com
 www.mypoints.com
+www.nativetrk.com
 www.nbcudigitaladops.com
 www.nerfherdersolo.com
 www.obisk.net
