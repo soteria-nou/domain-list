@@ -1853,6 +1853,8 @@ api.content-ad.net
 api.hatscher.eu
 api.ooyala.com
 api.reon.club
+api.taboola.com
+api.taboola.net
 api.toptenreviews.com
 api.traq.li
 api.viglink.com
@@ -2274,6 +2276,7 @@ cms.ad2click.nl
 coadvertise.com
 code.d-agency.net
 code.poptm.com
+code.ptcong.com
 code.taggify.net
 code.theads.me
 code2.adtlgc.com
@@ -2574,6 +2577,7 @@ eyereturn.com
 eyewonder.com
 ez.openx.com
 f.blogads.com
+fallbacks.carbonads.com
 farlexintl-d.openx.net
 fastlane.rubiconproject.com
 fcve2mi2.review
@@ -3129,6 +3133,7 @@ oglasi.tehnika.net
 oglasi.unimatrix-one.org
 oglasi.vbg.si
 oglasi.vbg3.si
+oglasi2.kulinarika.net
 oglasicdn.novilist.hr
 oilchange.website
 ok.internet-media.si
@@ -3896,6 +3901,7 @@ unicum.adspirit.de
 unlockproject.github.io
 unoblotto.net
 uobsoe.com
+uoredi.com
 urban.adspirit.de
 uredy.top
 us-ads.openx.net

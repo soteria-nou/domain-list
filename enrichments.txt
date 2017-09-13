@@ -50,6 +50,7 @@ autoweek.us.intellitxt.com
 autozeitung.de.intellitxt.com
 avsforum.us.intellitxt.com
 awardspace.de.intellitxt.com
+backend.zaczytaj.pl
 bargainpda.us.intellitxt.com
 baselinemag.us.intellitxt.com
 behardware.fr.intellitxt.com
@@ -411,6 +412,7 @@ windowsitpro.us.intellitxt.com
 wpcentral.us.intellitxt.com
 wugnet.us.intellitxt.com
 wwtdd.us.intellitxt.com
+www.chatbro.com
 www.feedgrabbr.com
 www.geolify.com
 www.geoplugin.net
