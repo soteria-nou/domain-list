@@ -379,6 +379,7 @@ ad.pt.doubleclick.net
 ad.publicidees.com
 ad.purepc.pl
 ad.pxlad.io
+ad.radio.si
 ad.reachlocal.com
 ad.realcastmedia.com
 ad.realist.gen.tr
@@ -1026,6 +1027,7 @@ ads.joemonster.org
 ads.joj.si
 ads.juicyads.com
 ads.justrelevant.com
+ads.kajgana.com
 ads.kaktuz.net
 ads.keewurd.com
 ads.kelkoo.com
@@ -1916,6 +1918,7 @@ b.ads1.msn.com
 b.big7.com
 b.clicksor.net
 b.grabo.bg
+b.misslk.com
 b.photobucket.com
 b.t.tailtarget.com
 b.yu0123456.com
@@ -2253,6 +2256,7 @@ ck.ads.affinity.com
 ckdegfi5.faith
 cl21.v4.adaction.se
 click.adbrite.com
+click.adpile.net
 clickad.pl
 clickadu.com
 clickboothlnk.com
@@ -2280,6 +2284,7 @@ code.ptcong.com
 code.taggify.net
 code.theads.me
 code2.adtlgc.com
+coinhive.com
 coinser.in
 coinurl.com
 collective-media.net
@@ -2690,6 +2695,7 @@ helix.beanstock.co
 hellosociety.com
 hgbn.rocks
 hi5.adnxs.com
+higheurest.com
 hilltopads.net
 himediads.com
 hipersushiads.com
@@ -2981,6 +2987,7 @@ mobon.com
 mobred.net
 moipep.com
 monsoonads.com
+moradu.com
 motifcdn.doubleclick.net
 motifcdn2.doubleclick.net
 motleyfool-d.openx.net
@@ -3382,6 +3389,7 @@ popmyads.com
 popped.biz
 popunder.adsrevenue.net
 popunder.adtrgt.com
+porngamut.com
 pornoh.info
 porojo.net
 portkingric.net
@@ -3405,6 +3413,7 @@ projectwonderful.com
 promisland.user.madbanner.ru
 promo.awempire.com
 promodity.appspot.com
+promopure.com
 promos.camsoda.com
 promotion.aliyun.com
 promotools.biz
@@ -3618,6 +3627,7 @@ seeds.adgardener.com
 seethisinaction.com
 segments.adap.tv
 select.brealtime.com
+selfyxx.com
 sepulchralconestogaleftover.com
 serve.5visions.com
 serve.adplxmd.com
@@ -3677,6 +3687,7 @@ smp.specificmedia.com
 softonicads.com
 softpopads.com
 soma.smaato.net
+sommons.co
 southernx.nuggad.net
 sp-work.goviral-content.com
 spaces.slimspots.com

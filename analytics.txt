@@ -175,6 +175,7 @@ a.ligatus.com
 a.live-conversion.com
 a.mobify.com
 a.nexeps.com
+a.pub.network
 a.retailmenot.com
 a.ria.ru
 a.surefire.link
@@ -421,6 +422,7 @@ api.raygun.io
 api.retargetly.com
 api.share.baidu.com
 api.spoldzielnia.nsaudience.pl
+api.stathat.com
 api.taps.io
 api.tvpage.com
 api.umbel.com
@@ -1890,6 +1892,7 @@ i.w55c.net
 ia.idnes.cz
 ib.3lift.com
 ibm.122.2o7.net
+ibn.adnxs.com
 ibt-d.openx.net
 icagency.xiti.com
 ice.112.2o7.net
@@ -2064,6 +2067,7 @@ lastminitit.112.2o7.net
 lb.apicit.net
 lb.fruitflan.com
 lb.liveviewer.ez.no
+lb.statsevent.com
 lb.web-stat.com
 lbein.com
 lcs.naver.com
@@ -3027,6 +3031,7 @@ rt.applovin.com
 rt.fastly.com
 rt.flix360.com
 rt.legolas-media.com
+rt.metamarkets.com
 rta.dailymail.co.uk
 rtb.gumgum.com
 rtb.tubemogul.com
@@ -3231,7 +3236,6 @@ secure.trkkrd.com
 secure.xiti.com
 secured.xiti.com
 secured75.xiti.com
-secureinclude.ebaystatic.com
 securemetrics.apple.com
 securepubads.g.doubleclick.net
 segainc.112.2o7.net
@@ -3829,6 +3833,7 @@ track.idtargeting.com
 track.interslo.com
 track.jobst-audio.de
 track.mailerlite.com
+track.mlsend2.com
 track.monitis.com
 track.mybloglog.com
 track.netshelter.net
