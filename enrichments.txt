@@ -37,6 +37,7 @@ app.convertkit.com
 app.getresponse.com
 app.getsentry.com
 app.mailerlite.com
+app.optinarchitect.com
 apps.nexus.bazaarvoice.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
@@ -74,6 +75,7 @@ cdn.getsmartcontent.com
 cdn.goroost.com
 cdn.introbar.com
 cdn.izooto.com
+cdn.klickly.com
 cdn.onesignal.com
 cdn.pulpix.com
 cdn.pushassist.com
@@ -85,9 +87,11 @@ cinemablend.us.intellitxt.com
 citizen-times.us.intellitxt.com
 clientcdn.pushengage.com
 code.intext.billboard.cz
+code.jivosite.com
 code.murdoog.com
 code.tidio.co
 codeproject.us.intellitxt.com
+coin-hive.com
 comingsoon.us.intellitxt.com
 compnet.us.intellitxt.com
 contactmusic.uk.intellitxt.com
@@ -160,6 +164,7 @@ golem.de.intellitxt.com
 gsmarena.us.intellitxt.com
 gulli.de.intellitxt.com
 guru3d.us.intellitxt.com
+gus.host
 hackedgadgets.us.intellitxt.com
 hardcoreware.us.intellitxt.com
 hardforum.us.intellitxt.com
@@ -216,6 +221,7 @@ lifescript.us.intellitxt.com
 linuxdevcenter.us.intellitxt.com
 linuxforums.us.intellitxt.com
 lmcd.us.intellitxt.com
+load.jsecoin.com
 lockergnome.us.intellitxt.com
 lon-g001.uk.intellitxt.com
 lon-g002.uk.intellitxt.com
@@ -236,6 +242,7 @@ majorgeeks.us.intellitxt.com
 merriam-webster.us.intellitxt.com
 metacafe.us.intellitxt.com
 metro.uk.intellitxt.com
+miner.pr0gramm.com
 minitechnet.de.intellitxt.com
 mirror.uk.intellitxt.com
 mobile9.us.intellitxt.com
@@ -340,6 +347,7 @@ soundcard-drivers.us.intellitxt.com
 soundtrack.us.intellitxt.com
 speedguide.us.intellitxt.com
 sprintusers.us.intellitxt.com
+stacksocial-production-stacksocial.netdna-ssl.com
 static.elev.io
 static.giftwizard.co
 static.plenigo.com

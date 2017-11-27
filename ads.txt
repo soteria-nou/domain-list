@@ -168,6 +168,7 @@ ab166388.adbutler-exciton.com
 ab167547.adbutler-luxon.com
 ab168260.adbutler-meson.com
 abo.prismamediadigital.com
+abourselfi.com
 abs.proxistore.com
 ac.primeshare.tv
 ac.realvu.net
@@ -335,6 +336,7 @@ ad.kickasstorrents.com
 ad.kr.doubleclick.net
 ad.leadbolt.net
 ad.leadboltads.net
+ad.legit.si
 ad.lemde.fr
 ad.linkexchange.com
 ad.linksynergy.com
@@ -367,6 +369,7 @@ ad.pl.doubleclick.net
 ad.pop1.adbn.ru
 ad.popup.tbn.ru
 ad.porta.eol.de
+ad.portalplus.si
 ad.potujnekam.com
 ad.preferences.com
 ad.preis.de
@@ -1305,6 +1308,7 @@ ads.tunesbag.com
 ads.tv3.si
 ads.tweetmeme.com
 ads.twitter.com
+ads.uates.com
 ads.ukslc.org
 ads.ultrahosting.hu
 ads.undertone.com
@@ -1665,6 +1669,7 @@ adsvids.com
 adsvidsdouble.com
 adsvr.deviantart.com
 adswizz.com
+adsyah.softonicads.com
 adsyndication.msn.com
 adsyr.dfiles.eu
 adsys.avtocenter.si
@@ -1804,6 +1809,7 @@ affrh2023.com
 afx.tagcdn.com
 ag.innovid.com
 agomwefq.com
+agreemand.com
 air.adliners.de
 aka-cdn-ns.adtech.de
 aka-cdn-ns.adtechus.com
@@ -2133,6 +2139,7 @@ cbjs.baidu.com
 ccisea-d.openx.net
 cd-ads.com
 cd-ladsp-com.s3.amazonaws.com
+cdn-cf.justpremium.com
 cdn-highwinds.unityads.unity3d.com
 cdn-next.megabon.eu
 cdn-t.omsnative.de
@@ -2351,6 +2358,7 @@ ctxt.tribalfusion.com
 ctxtad.tribalfusion.com
 curse-d.openx.net
 cz.adocean.pl
+cz.search.etargetnet.com
 d.adgear.com
 d.adnetxchange.com
 d.adroll.com
@@ -2386,6 +2394,7 @@ d3.condenast.servedbyopenx.com
 d36sxvmjoflc2i.cloudfront.net
 d3al52d8cojds7.cloudfront.net
 d3iwjrnl4m67rd.cloudfront.net
+d3iz6lralvg77g.cloudfront.net
 d3laygk9zni6hc.cloudfront.net
 d3noqwmgo39at7.cloudfront.net
 d3pkrll6is44dx.cloudfront.net
@@ -2498,6 +2507,7 @@ dtm.advertising.com
 duscb12r.loan
 dw.cbsi.com
 dw.com.com
+dwf6crl4raal7.cloudfront.net
 dx.steelhousemedia.com
 dy48bnzanqw0v.cloudfront.net
 dymwsh1c2kslr.cloudfront.net
@@ -2537,6 +2547,7 @@ eleven05media-d.openx.net
 elitedaily-d.openx.net
 elparmo.ru
 emailretargeting.com
+embed.fuze360.com
 emisja.contentstream.pl
 emjcd.com
 ems2bmen.com
@@ -2786,6 +2797,7 @@ imppt.tradedoubler.com
 impr.superpages.com
 impse.tradedoubler.com
 in.appserver-ap.com
+in.tubecorporate.com
 in.zog.link
 in2.zog.link
 in8.zog.link
@@ -2812,6 +2824,7 @@ ip.nuggad.net
 ipornia.com
 ir-de.amazon-adsystem.com
 ir.doubleclick.net
+irboga.info
 irs09.com
 is3eho4w.download
 it.primary.affinitad.com
@@ -2821,6 +2834,7 @@ j.adscale.de
 j4y01i3o.win
 j880iceh.party
 jadserve.postrelease.com
+jerwested.info
 jf2mn2ms.club
 jp.at.atwola.com
 js-at.goldbach.com
@@ -2861,6 +2875,7 @@ jvads.vsads01.com
 jwvwak1a.com
 keytarget.adnet.lt
 kge1ru01.science
+khebkaro.info
 kkddlt2f.site
 kleinanzeigen-d.openx.net
 klixfeed.com
@@ -2887,6 +2902,7 @@ letmelook.net
 letzonke.com
 liftdnartb-d.openx.net
 likablescaldfelted.info
+limaten.info
 link.mercent.com
 linkbucksmedia.com
 linuxgizmos.advertserve.com
@@ -2912,6 +2928,7 @@ lt.adocean.pl
 luhtb.top
 lusthaus2.bannerdealer.com
 luxup.ru
+lvodomi.info
 lxpl6t0t.cricket
 m.adnxs.com
 m.burt.io
@@ -3102,6 +3119,7 @@ ocdn.adsterra.com
 oconner.biz
 oddbanner.bet-at-home.com
 offers.bittorrent.com
+ogl.primorske.si
 oglas.delavnica.net
 oglasevanje.gorec.net
 oglasevanje.izklop.com
@@ -3136,6 +3154,7 @@ oglasi.rula.net
 oglasi.slo-tech.com
 oglasi.slohosting.com
 oglasi.spletne-igre.com
+oglasi.svet24.si
 oglasi.tehnika.net
 oglasi.unimatrix-one.org
 oglasi.vbg.si
@@ -3393,9 +3412,11 @@ porngamut.com
 pornoh.info
 porojo.net
 portkingric.net
+poterrupte.co
 poweredby.creamyads.com
 pozar.iprom.net
 pr.a2dfp.net
+pre.ads.justpremium.com
 preamp-clients.header.tech
 predictad.com
 prestoris.com
@@ -3440,6 +3461,7 @@ pubads.g.doubleclick.net
 publisher.infinityads.com
 publishers.halogennetwork.com
 pussl10.com
+pussl37.com
 pwrads.net
 px.adscale.de
 q.adrta.com
@@ -3906,6 +3928,7 @@ uk.ads.hexus.net
 uk.at.atwola.com
 ukbanners.com
 um2.eqads.com
+umekana.ru
 ums.adtech.de
 unconf.adkmob.com
 unicum.adspirit.de
@@ -4086,6 +4109,7 @@ www.doubleclickbygoogle.com
 www.drivenetwork.ru
 www.dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
 www.e-oglas.com
+www.easygirls.info
 www.eboundservices.com
 www.emg-network.com
 www.espace-plus.net
@@ -4098,10 +4122,12 @@ www.googletagservices.com
 www.gtxfafvoohbc.com
 www.helltraffic.com
 www.heracgjcuqmk.com
+www.hitcpm.com
 www.iacpublish.com
 www.idkyfrsbzesx.com
 www.ihqxhokndcfq.com
 www.insbrvwfrcgb.com
+www.ipromcloud.com
 www.is1.clixgalore.com
 www.isanalyze.com
 www.iwanttodeliver.com
@@ -4248,6 +4274,7 @@ yllix.com
 ylx-1.com
 ym.adnxs.com
 yoda.tsmedia.si
+yoredi.com
 yourfoxes3.ru
 yoursinfo.info
 yqtvvcmd.net

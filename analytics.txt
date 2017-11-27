@@ -220,6 +220,7 @@ adash.m.taobao.com
 adclick.hit.gemius.pl
 adcz.hit.gemius.pl
 addfreestats.com
+addkt-d.openx.net
 adevents.neodatagroup.com
 adhit.hit.stat.pl
 adlt.hit.gemius.pl
@@ -445,6 +446,7 @@ app.link
 app.marketizator.com
 app.ubertags.com
 app.widiz.com
+appapi.inspsearchapi.com
 appinfo.toptal.com
 appleglobal.112.2o7.net
 appload.ingest.crittercism.com
@@ -565,6 +567,7 @@ beacon.scorecardresearch.com
 beacon.securestudies.com
 beacon.shazam.com
 beacon.thred.woven.com
+beacon.wikia-services.com
 beacons.hottraffic.nl
 beap.gemini.yahoo.com
 beat.wix.com
@@ -644,6 +647,7 @@ c.msn.com
 c.msparktrk.com
 c.ns1p.net
 c.p-advg.com
+c.parkingcrew.net
 c.paypal.com
 c.securepaths.com
 c.spiegel.de
@@ -925,6 +929,7 @@ collector-sp.stumbleupon.com
 collector.a.pxi.pub
 collector.githubapp.com
 collector.intergi.com
+collector.xhamster.com
 colorfot.ivwbox.de
 com.112.2o7.net
 comcast.112.2o7.net
@@ -949,6 +954,7 @@ condenastus-d.openx.net
 config.sensic.net
 configusa.veinteractive.com
 connect.odnoklassniki.ru
+connectio.s3.amazonaws.com
 conrad.122.2o7.net
 conrad.prudsys-rde.de
 content.aimatch.com
@@ -1114,10 +1120,12 @@ d26opx5dl8t69i.cloudfront.net
 d2a83yrkcf5k5p.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
+d2ghscazvn398x.cloudfront.net
 d2is3w689nunba.cloudfront.net
 d2j3qa5nc37287.cloudfront.net
 d2lo2tipcl3aii.cloudfront.net
 d2lv4zbk7v5f93.cloudfront.net
+d2na2p72vtqyok.cloudfront.net
 d2nq0f8d9ofdwv.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
@@ -1177,6 +1185,7 @@ dapxl.com
 dashboard.evolveplatform.net
 dashboard.whoisvisiting.com
 dastelef.ivwbox.de
+dat.springserve.com
 data.aggregateknowledge.com
 data.captifymedia.com
 data.coremetrics.com
@@ -1245,6 +1254,7 @@ dispatcher.oewabox.at
 display.ugc.bazaarvoice.com
 displaymarketplace.com
 distillery.wistia.com
+distiltag.com
 divx.112.2o7.net
 dixonscouk.112.2o7.net
 dixonscurryscouk.112.2o7.net
@@ -1738,6 +1748,7 @@ gj.mmstat.com
 glassmoni.researchgate.net
 glitter.services.disqus.com
 globalspec.d2.sc.omtrdc.net
+glogger.stuff.com
 gloomwrite.com
 glumobile.112.2o7.net
 glumobiledev.112.2o7.net
@@ -2504,6 +2515,7 @@ n.targetctracker.com
 n1.vivocha.com
 n24.ivwbox.de
 n4p-ru.redtram.com
+n74s9.com
 na.allevents.in
 najdi.d3.sc.omtrdc.net
 nakanohito.jp
@@ -2686,6 +2698,7 @@ partygaming.122.2o7.net
 paypal.112.2o7.net
 paypal.d1.sc.omtrdc.net
 pays.xiti.com
+pb.adriver.ru
 pcgameha.ivwbox.de
 pcworldcommunication.122.2o7.net
 pcworldcommunication.d2.sc.omtrdc.net
@@ -2811,6 +2824,7 @@ planck.xiti.com
 platform-metrics-api.sharethis.com
 pls.webtype.com
 plugin.reactful.com
+plus.addkt.com
 pm.w55c.net
 pmc-d.openx.net
 pmcsierra.d1.sc.omtrdc.net
@@ -2868,6 +2882,7 @@ ps.eyeota.net
 ps14.pubnub.com
 psyng.com
 pt.fiksu.com
+pto.awecr.com
 pturt.com
 pu.trafficshop.com
 public.xiti.com
@@ -3329,7 +3344,9 @@ smy.iheart.com
 snap.licdn.com
 sniff.visistat.com
 sockjs.pusher.com
+soflopxl.com
 softlayertechnologie.tt.omtrdc.net
+softonic-analytics.net
 softonic.112.2o7.net
 somethodox.info
 sonar.sociomantic.com
@@ -3809,6 +3826,7 @@ tr2.smarterhq.io
 tr5.myroitracking.com
 trace.events
 trace.qq.com
+tracethestats.com
 track.acclaimnetwork.com
 track.addevent.com
 track.adform.net
@@ -3862,6 +3880,7 @@ track.zappos.com
 track1.aniview.com
 track2.cliplister.com
 track2.mybloglog.com
+track3.gorenje.cc
 track3.mybloglog.com
 trackadvertising.net
 trackalyzer.com
@@ -3968,6 +3987,7 @@ traffic.outbrain.com
 traffic.styria.hr
 trajan.httpool.com
 trandsey.info
+trck.spoteffects.net
 trckr.click
 tribalddb.122.2o7.net
 tribl.io
@@ -4005,9 +4025,11 @@ twc.demdex.net
 twittercounter.com
 ty0lm9uz.onet.pl
 tz.ts.vindicosuite.com
+u.btserve.com
 u.openx.net
 ua.hit.gemius.pl
 uaadcodedsp.rontar.com
+uates.com
 ubd.zippymp3.eu
 ucid.vindicosuite.com
 ucs.query.yahoo.com
@@ -4322,6 +4344,7 @@ www.stats4you.com
 www.stressx.org
 www.swpsvc.com
 www.tamgrt.com
+www.technical-service.net
 www.tns-counter.ru
 www.toneden.io
 www.track306.info
@@ -4337,6 +4360,7 @@ www.wysistat.com
 www.xiti.com
 www.yourtracking.net
 www.zy.si
+www01.centerdata.nl
 www1.addfreestats.com
 www1.effectivemeasure.net
 www1.escokuro.com
