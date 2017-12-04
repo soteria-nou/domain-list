@@ -484,6 +484,7 @@ ad1.icorp.net
 ad1.looksmart.com
 ad1.netshelter.net
 ad1.peel.com
+ad1.si
 ad1.soundpedia.com
 ad101com-images.adbureau.net
 ad101com.adbureau.net
@@ -575,6 +576,7 @@ adcastplus.net
 adcde.com
 adcdn.forkmedia.in
 adcentriconline.com
+adcfg.intowow.com
 adchap.com
 adchemical.com
 adclear.baur.de
@@ -638,6 +640,7 @@ adireland.com
 adisfy.com
 adisn.com
 adition.com
+aditmedia.go2affise.com
 adjal.com
 adjug.com
 adjuggler.com
@@ -1596,6 +1599,8 @@ adserverc.cliipa.com
 adserverec.adtechus.com
 adserverpub.com
 adserverwc.adtechus.com
+adservice.google.com
+adservice.google.si
 adservice.kelkoo.it
 adservices.google.com
 adservices02.picadmedia.com
@@ -2124,8 +2129,10 @@ c14.zedo.com
 c2.popads.net
 c21.adshost1.com
 c2s.startappnetwork.com
+cache-ssl.celtra.com
 cache.adelement.com
 cache.betweendigital.com
+cache.celtra.com
 cafemedia-d.openx.net
 campaigns.de.euserv.adaos-ads.net
 canvas.thenextweb.com
@@ -2174,6 +2181,7 @@ cdn.buysellads.com
 cdn.carbonads.com
 cdn.cast.upload.cnet.com
 cdn.castplatform.com
+cdn.celtra.com
 cdn.clickfuse.com
 cdn.clicksondelivery.com
 cdn.conative.de
@@ -2423,6 +2431,7 @@ datoshop.engine.adglare.net
 dbadk.nuggad.net
 dban.home.ch
 dbg52463.moatads.com
+dc08i221b0n8a.cloudfront.net
 dcs.adgear.com
 dd6zx4ibq538k.cloudfront.net
 ddnk.advertur.ru
@@ -2980,6 +2989,7 @@ megapopads.com
 mellowads.com
 mentad.com
 meta.streamcloud.eu
+methinkinge.com
 metroleap.rotator.hadj7.adjuggler.net
 mg.adskeeper.co.uk
 mi.adinterax.com
@@ -3780,6 +3790,7 @@ static.zeti.com
 static2.advtools.rcsobjects.it
 statserv.net
 stickyads.adswizz.com
+stodyew.info
 stuffle.it
 supaads.com
 supremeadsonline.com
