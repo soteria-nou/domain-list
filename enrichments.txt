@@ -91,6 +91,7 @@ code.jivosite.com
 code.murdoog.com
 code.tidio.co
 codeproject.us.intellitxt.com
+coin-have.com
 coin-hive.com
 comingsoon.us.intellitxt.com
 compnet.us.intellitxt.com
@@ -320,6 +321,7 @@ sdk.beeketing.com
 seeklyrics.us.intellitxt.com
 share.pluso.ru
 share.yandex.ru
+sharecdn.social9.com
 shared.9msn.com.au
 shoutwire.us.intellitxt.com
 sillydog.us.intellitxt.com
@@ -348,6 +350,7 @@ soundtrack.us.intellitxt.com
 speedguide.us.intellitxt.com
 sprintusers.us.intellitxt.com
 stacksocial-production-stacksocial.netdna-ssl.com
+staging.sja.sportradar.com
 static.elev.io
 static.giftwizard.co
 static.plenigo.com
@@ -426,6 +429,7 @@ www.geolify.com
 www.geoplugin.net
 www.htmlcommentbox.com
 www.intellitxt.com
+www.intensedebate.com
 www.searchanise.com
 www.upsite.co.il
 www.wishpond.com

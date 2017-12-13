@@ -241,6 +241,7 @@ ad.agava.tbn.ru
 ad.alibaba.com
 ad.altervista.org
 ad.amgdgt.com
+ad.antenna.hr
 ad.antventure.com
 ad.ar.doubleclick.net
 ad.at.doubleclick.net
@@ -591,6 +592,7 @@ adcolo.com
 adconnexa.com
 adcreative.naver.com
 adcru.com
+adctrl.emsmobile.de
 addaim.com
 addefend-platform.com
 adecn.adnxs.com
@@ -1416,6 +1418,7 @@ ads16.focalink.com
 ads17.focalink.com
 ads18.focalink.com
 ads19.focalink.com
+ads2.adverline.com
 ads2.auctionads.com
 ads2.blastro.com
 ads2.contentabc.com
@@ -1600,6 +1603,7 @@ adserverec.adtechus.com
 adserverpub.com
 adserverwc.adtechus.com
 adservice.google.com
+adservice.google.se
 adservice.google.si
 adservice.kelkoo.it
 adservices.google.com
@@ -1901,6 +1905,7 @@ ask-d.openx.net
 asmi-mobile.nuggad.net
 asset.pagefair.com
 asset.pagefair.net
+assets.bonad.io
 assets.pixlee.com
 assets.servedby-buysellads.com
 assets1.adroll.com
@@ -2587,6 +2592,7 @@ eroleep.com
 errantolo.com
 esimedia-d.openx.net
 et-code.ru
+etcodes.com
 eu-gmtdmp.gd1.mookie1.com
 eu-pn2.adserver.yahoo.com
 eu-u.openx.net
@@ -2624,6 +2630,7 @@ fluxads.com
 focusin.ads.targetnet.com
 forshrd.com
 fr.105.slidein.clickintext.net
+franecki.net
 freeads5.com
 freebannerswap.co.uk
 freecodesource.advertserve.com
@@ -2928,6 +2935,7 @@ load.instinctiveads.com
 lockerdome.com
 log.adap.com
 log.adap.tv
+look.ichlnk.com
 lpm-20minutes.nuggad.net
 lpm-lagardere.nuggad.net
 lpm-mondadori.nuggad.net
@@ -2979,6 +2987,7 @@ media.jetpackdigital.com
 media.mrvids.com
 media.oadts.com
 media.richrelevance.com
+media.trafficjunky.net
 mediamond.js.ad.dotandad.com
 mediation.adnxs.com
 medleyads.com
@@ -3000,6 +3009,7 @@ mkta.advfn.com
 mladipodjetnik.iprom.net
 mlt01.com
 mmoads.com
+mmoframes.com
 mo8mwxi1.com
 mob.sextvx.com
 mobads.baidu.com
@@ -3012,6 +3022,7 @@ mobilede.nuggad.net
 mobileweb.api.airpush.com
 mobon.com
 mobred.net
+moggattice.com
 moipep.com
 monsoonads.com
 moradu.com
@@ -3311,10 +3322,12 @@ p.inte.sogou.com
 p.nevtron.si
 p.pxl2015x1.com
 p152037.clksite.com
+p185755.clksite.com
 p192159.clksite.com
 p192159.mycdn.co
 p220333.clksite.com
 p33049.clksite.com
+p50523.clksite.com
 pagead.googlesyndication.com
 pagead.l.doubleclick.net
 pagead2.googleadservices.com
@@ -3471,6 +3484,7 @@ pubads.g.doubleclick.net
 publisher.infinityads.com
 publishers.halogennetwork.com
 pussl10.com
+pussl32.com
 pussl37.com
 pwrads.net
 px.adscale.de
@@ -3503,6 +3517,7 @@ redir.adap.com
 redir.adap.tv
 redirect.ero-advertising.com
 redonetype.com
+refbanners.website
 regpole.com
 reklama-charouz.cz
 reklama.metacafe.com
@@ -3670,6 +3685,7 @@ servedby.advertising.com
 servedby.flashtalking.com
 servedby.informatm.com
 servedby.openxmarket.asia
+servedby.pixfuture.net
 servedby.precisionclick.com
 servedby.revcontent.com
 server.bittads.com
@@ -3782,6 +3798,7 @@ static.ifa.camads.net
 static.iias.eu
 static.natoms.com
 static.parsely.com
+static.pdn-1.com
 static.slfpu.com
 static.verticalscope.com
 static.yieldmo.com
@@ -3884,6 +3901,7 @@ toftforcal.com
 tom.itv.com
 tools.bongacams.com
 tools.bongacash.com
+tools.prnewswire.com
 tools.runetki.co
 toroadvertisingmedia.com
 tororango.com
@@ -3912,6 +3930,7 @@ treg.hearstnp.com
 tremor.adbureau.net
 trends.revcontent.com
 triadmedianetwork.com
+triggers.wfxtriggers.com
 tripple.nuggad.net
 trk.newtention.net
 trvlnet.adbureau.net
@@ -4002,6 +4021,7 @@ vn.grab-credit4u.com
 vogo-vogo.ru
 vogotita.com
 vogozae.ru
+vogozara.ru
 vogozaw.ru
 voltads.com
 vop.sundaysky.com
@@ -4133,6 +4153,7 @@ www.googletagservices.com
 www.gtxfafvoohbc.com
 www.helltraffic.com
 www.heracgjcuqmk.com
+www.hicpm5.com
 www.hitcpm.com
 www.iacpublish.com
 www.idkyfrsbzesx.com

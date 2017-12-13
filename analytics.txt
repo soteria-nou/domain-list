@@ -167,6 +167,7 @@ a.air2s.com
 a.apkpure.com
 a.applovin.com
 a.audrte.com
+a.chu4n.com
 a.company-target.com
 a.farlex.com
 a.hstrck.com
@@ -1449,6 +1450,7 @@ e.dtscout.com
 e.monetate.net
 e.nexac.com
 e0.extreme-dm.com
+e2ertt.com
 ea.warnerbros.fr
 eaeacom.112.2o7.net
 earthlink.122.2o7.net
@@ -1705,6 +1707,7 @@ gastar.ivwbox.de
 gate.datacaciques.com
 gateway.answerscloud.com
 gatr.hit.gemius.pl
+gaugecdn.social9.com
 gaylordentertainment.112.2o7.net
 gazeta.hit.gemius.pl
 gcp-events.apester.com
@@ -2519,6 +2522,7 @@ n.gemini.yahoo.com
 n.targetctracker.com
 n1.vivocha.com
 n24.ivwbox.de
+n26.my.salesforce.com
 n4p-ru.redtram.com
 n74s9.com
 na.allevents.in
@@ -2532,6 +2536,7 @@ nba.122.2o7.net
 nbcu.demdex.net
 nbcudigitaladops.com
 nbcuniversal.122.2o7.net
+nebula-cdn.kampyle.com
 ned.itv.com
 neos.iprom.net
 nestor.virool.com
@@ -2654,6 +2659,7 @@ ottawa.xiti.com
 out.tomsguide.fr
 overdrive.112.2o7.net
 ovk.xceler8.io
+owa.piwikanalytics.win
 owa.ptice.si
 owpas.com
 ox-d.coedmediagroup.com
@@ -2697,6 +2703,7 @@ page-view-ingestion.appspot.com
 pagefair.com
 pages.s6.exacttarget.com
 panel2.research-int.se
+parser.webcdns.com
 partner.gewinnspiele.de
 partner.shareaholic.com
 partners.tremorhub.com
@@ -3034,6 +3041,7 @@ rover.ebay.de
 rover.ebay.es
 rover.ebay.ie
 rover.ebay.it
+rover.ebay.ph
 rover.ebay.pl
 rpt.cedexis.com
 rs.mail.ru
@@ -3131,6 +3139,7 @@ s2.youtube.com
 s20.sitemeter.com
 s21.sitemeter.com
 s2150.t.eloqua.com
+s22.cnzz.com
 s22.sitemeter.com
 s23.sitemeter.com
 s24.sitemeter.com
@@ -3351,6 +3360,7 @@ smy.iheart.com
 snap.licdn.com
 sniff.visistat.com
 sockjs.pusher.com
+sodc.wunderground.com
 soflopxl.com
 softlayertechnologie.tt.omtrdc.net
 softonic-analytics.net
@@ -4065,6 +4075,7 @@ us-cdn.effectivemeasure.net
 us-gmtdmp.mookie1.com
 us-ssl.effectivemeasure.net
 us.af.beap.bc.yahoo.com
+us.creativecdn.com
 us.sitestat.com
 us.tracking.justpremium.com
 us.ynuf.alipay.com
