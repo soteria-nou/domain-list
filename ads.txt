@@ -42,6 +42,7 @@
 4e9wpp17.stream
 4f69f6fd4b7fdc1fdadd6caa0d7ca92f.lswcdn.net
 5.newor.net
+500969adcf7ae838.com
 54bc7044986c.com
 5gl1x9qc.com
 6e2bd3848d2b73.se
@@ -593,8 +594,10 @@ adconnexa.com
 adcreative.naver.com
 adcru.com
 adctrl.emsmobile.de
+add-block.com
 addaim.com
 addefend-platform.com
+ade.googlesyndication.com
 adecn.adnxs.com
 adecn.com
 adengage.com
@@ -1867,6 +1870,7 @@ api.branch.io
 api.c.avazunativeads.com
 api.conduit.com
 api.content-ad.net
+api.ero-advertising.com
 api.hatscher.eu
 api.ooyala.com
 api.reon.club
@@ -2174,6 +2178,7 @@ cdn.adsrvmedia.com
 cdn.adsrvmedia.net
 cdn.adstract.com
 cdn.adswizz.com
+cdn.adtrue.com
 cdn.advertserve.com
 cdn.afdads.com
 cdn.aniview.com
@@ -2472,6 +2477,7 @@ delivery.vidible.tv
 delivery.w00tads.com
 delivery1.topad.mobi
 delodom.iprom.net
+deloton.com
 dennis.cvtr.io
 des.smartclip.net
 destinationurl.com
@@ -2694,6 +2700,7 @@ go.pl.bbelements.com
 go.realvu.net
 go.sonobi.com
 go.stirshakead.com
+go.trkbee.com
 go.verymuchad.com
 go.video.admulti.com
 go.youlamedia.com
@@ -2709,6 +2716,7 @@ green-red.com
 greenfelder.link
 gsn.chameleon.ad
 gstat.orange.fr
+gstaticadssl.l.google.com
 guruads.de
 gw-services.vtrenz.net
 gwp.nuggad.net
@@ -3059,6 +3067,7 @@ n.adxxx.me
 n.adxxx.org
 n1198adserv.xyz
 n121adserv.com
+n158adserv.com
 n214adserv.com
 n240adserv.com
 n251adserv.com
@@ -3656,6 +3665,7 @@ sc.adelement.com
 sc.adsxgm.com
 schetu.net
 scr.kliksaya.com
+script.adcamel.pw
 script.rtbclick.net
 scripts.kiosked.com
 sdk.streamrail.com
@@ -3903,6 +3913,7 @@ tools.bongacams.com
 tools.bongacash.com
 tools.prnewswire.com
 tools.runetki.co
+topacity.info
 toroadvertisingmedia.com
 tororango.com
 tpnads.com
@@ -4000,6 +4011,7 @@ vast-cdn.mtngt.com
 vast.brandads.net
 vast.vertamedia.com
 vdrn.redplum.com
+venturead.com
 vice-ads-cdn.vice.com
 vice-publishers.s3.amazonaws.com
 vid.springserve.com

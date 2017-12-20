@@ -961,6 +961,7 @@ connect.odnoklassniki.ru
 connectio.s3.amazonaws.com
 conrad.122.2o7.net
 conrad.prudsys-rde.de
+consent.trustarc.com
 content.aimatch.com
 content.jwplatform.com
 content.pollster.pl
@@ -1320,6 +1321,7 @@ dutrus.com
 dviixeyykyqjv.cloudfront.net
 dvnafl0qtqz9k.cloudfront.net
 dwl.hitbox.com
+dyn-beacon.akamaized.net
 dyn.emetriq.de
 dz.glanceguide.com
 dzmxze7hxwn6b.cloudfront.net
@@ -1687,6 +1689,7 @@ g.bing.com
 g.silicon.co.uk
 ga-beacon.appspot.com
 ga.getresponse.com
+ga.googlevideo.io
 ga.nsimg.net
 gaae.hit.gemius.pl
 gaba.hit.gemius.pl
@@ -2370,6 +2373,7 @@ manning.postaffiliatepro.com
 mapstats.blogflux.com
 marketing.dropbox.com
 marketing.ecreativeworks.com
+marketing.foxitsoftware.com
 mas.nth.ch
 mashable.d2.sc.omtrdc.net
 match.prod.bidr.io
@@ -2974,6 +2978,7 @@ rainbowmedia.122.2o7.net
 rainmaker.digitalbrandsinc.netdna-cdn.com
 rakuten.112.2o7.net
 ramp.purch.com
+rapidtrk.net
 rapportspdf.xiti.com
 rateee.hit.gemius.pl
 rbt-partner-web.interakt.ru
@@ -3650,6 +3655,7 @@ subaruofamerica.112.2o7.net
 sumome.com
 suncom.112.2o7.net
 sunglobal.112.2o7.net
+superfastcdn.com
 superpages.122.2o7.net
 superwidget.gowatchit.com
 supports.xiti.com
@@ -3879,6 +3885,7 @@ track.promptfile.com
 track.qcri.org
 track.reference.com
 track.roiservice.com
+track.sigcpamobile.com
 track.sitetag.us
 track.spots.im
 track.thesaurus.com
@@ -4117,6 +4124,7 @@ vacwrite.com
 vap3iad1.lijit.com
 vap5iad1.lijit.com
 vecer.iprom.net
+velocecdn.com
 velocity-cdn.ebaystratus.com
 verivox01.webtrekk.net
 vg04.met.vgwort.de
@@ -4357,6 +4365,7 @@ www.shinystat.com
 www.sitemeter.com
 www.snapengage.com
 www.spartan-ntv.com
+www.stack-sonar.com
 www.statcounter.com
 www.stats.lt
 www.stats24.net

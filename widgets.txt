@@ -47,6 +47,7 @@ cdn-widget.stuff.com
 cdn.addnow.com
 cdn.earnify.com
 cdn.embedly.com
+cdn.headwayapp.co
 cdn.iubenda.com
 cdn.jivosite.com
 cdn.livechatinc.com
@@ -122,6 +123,7 @@ go.pardot.com
 goku.brightcove.com
 gradnik.dobrodelen.si
 graph.facebook.com
+headway-widget.net
 hl.hellobar.com
 hnbutton.appspot.com
 host1.easypolls.net
@@ -292,6 +294,7 @@ widget.socialmart.ru
 widget.spoods.io
 widget.stackla.com
 widget.supercounters.com
+widget.trustpilot.com
 widget.userengage.io
 widget.weibo.com
 widget.whatsbroadcast.com
