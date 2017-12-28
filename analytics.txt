@@ -1200,6 +1200,7 @@ data.flw.li
 data.gosquared.com
 data.minute.ly
 data.publishflow.com
+datacloud.tealiumiq.com
 datacollect3.abtasty.com
 dbwas.service.deutschebahn.com
 dc.ads.linkedin.com
@@ -3793,6 +3794,7 @@ testlb.xiti.com
 testlb3.xiti.com
 testmax.xiti.com
 texasinstrument.122.2o7.net
+texasinstruments.evergage.com
 thaybkmiamibeach.112.2o7.net
 the.sextracker.com
 theblogfrog.com
@@ -3863,6 +3865,7 @@ track.brucelead.com
 track.ce1.click
 track.celtra.com
 track.chronos.to
+track.contently.com
 track.dictionary.com
 track.did-it.com
 track.digitalriver.com
@@ -4123,6 +4126,7 @@ v8.xiti.com
 vacwrite.com
 vap3iad1.lijit.com
 vap5iad1.lijit.com
+vars.hotjar.com
 vecer.iprom.net
 velocecdn.com
 velocity-cdn.ebaystratus.com

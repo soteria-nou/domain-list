@@ -33,6 +33,7 @@ api.booster3000.si
 api.facebook.com
 api.mediabooster.si
 api.pulpix.com
+app.convertfox.com
 app.convertkit.com
 app.getresponse.com
 app.getsentry.com
@@ -67,6 +68,7 @@ c.la1-c1-dfw.salesforceliveagent.com
 cache.ltvcms.com
 cackle.me
 cdn.adf.ly
+cdn.ampproject.org
 cdn.bitrix24.com
 cdn.dynamicyield.com
 cdn.feedbackify.com
@@ -404,6 +406,7 @@ tweakvista.us.intellitxt.com
 uberphones.us.intellitxt.com
 ubuntugeek.uk.intellitxt.com
 ubuntux.uk.intellitxt.com
+uhf.microsoft.com
 uk.intellitxt.com
 ultimatecarpage.us.intellitxt.com
 us.intellitxt.com
