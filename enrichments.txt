@@ -223,6 +223,7 @@ license.icopyright.net
 lifescript.us.intellitxt.com
 linuxdevcenter.us.intellitxt.com
 linuxforums.us.intellitxt.com
+livenationlabs-tools.s3.amazonaws.com
 lmcd.us.intellitxt.com
 load.jsecoin.com
 lockergnome.us.intellitxt.com

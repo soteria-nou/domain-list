@@ -597,6 +597,7 @@ adctrl.emsmobile.de
 add-block.com
 addaim.com
 addefend-platform.com
+addenly.info
 ade.googlesyndication.com
 adecn.adnxs.com
 adecn.com
@@ -683,6 +684,7 @@ admedia.com
 admeld.adnxs.com
 admeld.com
 admeta.com
+admine.io
 admitad.com
 admixer.net
 admonkey.dapper.net
@@ -1887,6 +1889,7 @@ api2.inform.youniversalmedia.com
 apmebf.com
 app-ab13.marketo.com
 app.brightinfo.com
+app.clickfunnels.com
 app.cointraffic.in
 app.salecycle.com
 applift-b.apptornado.com
@@ -1923,6 +1926,7 @@ atlantisjs.brafton.com
 atomicblast.lol
 attadworks.turn.com
 austria1.adverserve.net
+authedmine.com
 avads.co.uk
 avtomobilizem.iprom.net
 awakebottlestudy.com
@@ -2158,6 +2162,7 @@ cbjs.baidu.com
 ccisea-d.openx.net
 cd-ads.com
 cd-ladsp-com.s3.amazonaws.com
+cdm.cursecdn.com
 cdn-cf.justpremium.com
 cdn-highwinds.unityads.unity3d.com
 cdn-next.megabon.eu
@@ -2340,6 +2345,7 @@ contextualads.yahoo.net
 conv.adengage.com
 conversion.buddymedia.com
 cookies-la.madadsmedia.com
+copycarpenter.com
 core.ad20.net
 corn.honeytouch.bid
 cotads.adscale.de
@@ -2551,6 +2557,7 @@ easy-adserver.com
 easyad.com
 ebannertraffic.com
 ebocornac.com
+eboundservices.com
 ec-ns.sascdn.com
 ec.adkontekst.pl
 ecdn.firstimpression.io
@@ -3100,6 +3107,7 @@ newstarads.com
 newt1.adultadworld.com
 newt2.adultadworld.com
 newt3.adultadworld.com
+newtabtv.com
 nextlevel2014.sitescoutadserver.com
 nicheads.com
 nickhel.com
@@ -3526,6 +3534,7 @@ rd.clickshift.com
 rd.himediads.com
 re.directrev.com
 reactads.engine.adglare.net
+recallen.info
 recirculation.spot.im
 recorded.to
 recs.richrelevance.com
@@ -3575,6 +3584,7 @@ rmsi.nuggad.net
 rmxads.com
 ro2.biz
 rocku.adbureau.net
+roletaryk.info
 rome.specificclick.net
 rotabanner2.rian.ru
 rotatingad.com
@@ -3948,6 +3958,7 @@ traveladvertising.com
 treg.hearstnp.com
 tremor.adbureau.net
 trends.revcontent.com
+trex.cu.cc
 triadmedianetwork.com
 triggers.wfxtriggers.com
 tripple.nuggad.net
@@ -4069,6 +4080,7 @@ wigetmedia.com
 wikia-ads.wikia.com
 wmedia.adk2.co
 wmedia.rotator.hadj7.adjuggler.net
+wmeter.ru
 wms-na.amazon-adsystem.com
 wms.assoc-amazon.com
 wonderlandads.com
@@ -4158,6 +4170,7 @@ www.daxzupqivdoj.com
 www.delidatax.net
 www.dfujqyjifvoe.com
 www.dianomi.com
+www.donum.co
 www.doubleclickbygoogle.com
 www.drivenetwork.ru
 www.dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
@@ -4210,6 +4223,7 @@ www.nairaland.com
 www.netvertising.be
 www.networkadvertising.org
 www.newpoptab.com
+www.newtabtv.com
 www.nklivofyjkbt.com
 www.nnbestmblotl.com
 www.ntnlawgchgds.com
@@ -4240,6 +4254,7 @@ www.rivcash.com
 www.sehiba.com
 www.serveads.com
 www.smoozed.rocks
+www.socialnewpages.com
 www.spojsorads.de
 www.sponsorads.de
 www.sufzmohljbgw.com
@@ -4314,6 +4329,8 @@ xcelsiusadserver.com
 xch.directrev.com
 xchangebanners.com
 xfire.adbureau.net
+xgogi.com
+xml.adright.com
 xml.pdn-3.com
 xoredi.com
 xp1.zedo.com

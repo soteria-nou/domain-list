@@ -1675,6 +1675,7 @@ freehostedscripts.net
 freeonlineusers.com
 freescale.d2.sc.omtrdc.net
 frequentation.xiti.com
+fresnel.vimeocdn.com
 frog.wix.com
 front.facetz.net
 frtyd.com
@@ -3216,6 +3217,7 @@ sb.scorecardresearch.com
 sbb.viator.com
 sbnationbidder-d.openx.net
 sc-analytics.appspot.com
+sc.cdnma.com
 sc.independent.co.uk
 sc.mtv.com
 scan.botscanner.com
