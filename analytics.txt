@@ -802,6 +802,7 @@ cdn.tt.omtrdc.net
 cdn.turn.com
 cdn.unid.go.com
 cdn.uplift-platform.com
+cdn.uptrends.com
 cdn.walkme.com
 cdn.wbtrk.net
 cdn.webglstats.com
@@ -810,6 +811,7 @@ cdn.yldbt.com
 cdn.zarget.com
 cdn.zeerat.com
 cdn01.mzbcdn.net
+cdn1.affirm.com
 cdn1.developermedia.com
 cdn2.developermedia.com
 cdn2.pollster.pl
@@ -2017,6 +2019,7 @@ joker.iprom.net
 joydorado.com
 js-webt-lol.9cache.com
 js.6dad.com
+js.agkn.com
 js.casalemedia.com
 js.center.io
 js.clickequations.net
@@ -2616,12 +2619,14 @@ oascentral.spineuniverse.com
 objectrocket.112.2o7.net
 oc-dc1.112.2o7.net
 oc-track.autonomycloud.com
+ocpkx.voluumtrk.com
 ocyss.com
 odb.outbrain.com
 odr.mookie1.com
 oeh.d3.sc.omtrdc.net
 offers.paypal.com
 office-gw1.hitbox.com
+og3i93vzhywk-a.akamaihd.net
 ohmystats.com
 oimg.nbcuni.com
 om.cbsi.com
@@ -3857,6 +3862,7 @@ trace.qq.com
 tracethestats.com
 track.acclaimnetwork.com
 track.addevent.com
+track.adfon.com
 track.adform.net
 track.adtraction.com
 track.appsflyer.com
@@ -4034,6 +4040,7 @@ trk.enecto.com
 trk.freepik.com
 trk.kissmetrics.com
 trk.parrable.com
+trk.slimcdns.com
 trk.tracksys55.com
 trk.vidible.tv
 trkclk.adk2x.com
@@ -4062,6 +4069,7 @@ ua.hit.gemius.pl
 uaadcodedsp.rontar.com
 uates.com
 ubd.zippymp3.eu
+ubm.tt.omtrdc.net
 ucid.vindicosuite.com
 ucs.query.yahoo.com
 udc.yahoo.com
