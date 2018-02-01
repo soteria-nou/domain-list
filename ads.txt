@@ -149,6 +149,7 @@ a.windowsitpro.com
 a.www.gametracker.com
 a.xvika.com
 a.yu0123456.com
+a2.sitio.cl
 a5cee7.se
 a74bbfcc1137449383.com
 a80zha8c.webcam
@@ -179,6 +180,7 @@ accuserveadsystem.com
 acdn.adnxs.com
 ace-tag.advertising.com
 ace3.adoftheyear.com
+achiname.info
 action.metaffiliation.com
 action1.adit-media.com
 acxiom-online.com
@@ -383,6 +385,7 @@ ad.proxad.net
 ad.prv.pl
 ad.pt.doubleclick.net
 ad.publicidees.com
+ad.puffnetwork.com
 ad.purepc.pl
 ad.pxlad.io
 ad.radio.si
@@ -2134,6 +2137,7 @@ by.adshuffle.com
 c.aaxads.com
 c.ad6media.fr
 c.adroll.com
+c.adsco.re
 c.algovid.com
 c.amazon-adsystem.com
 c.billypub.com
@@ -2165,6 +2169,7 @@ ccisea-d.openx.net
 cd-ads.com
 cd-ladsp-com.s3.amazonaws.com
 cdm.cursecdn.com
+cdn-a.yieldlove.com
 cdn-cf.justpremium.com
 cdn-highwinds.unityads.unity3d.com
 cdn-next.megabon.eu
@@ -2181,6 +2186,7 @@ cdn.adnxs.com
 cdn.adplxmd.com
 cdn.adrotator.se
 cdn.adrunnr.com
+cdn.adsafeprotected.com
 cdn.adservhere.com
 cdn.adsoptimal.com
 cdn.adspirit.de
@@ -2414,6 +2420,7 @@ d1pozdfelzfhyt.cloudfront.net
 d1pr3sk5xr0dce.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d2.zedo.com
+d27x580xb9ao1l.cloudfront.net
 d29gqcij.com
 d2b7n13v8adl6f.cloudfront.net
 d2kbaqwa2nt57l.cloudfront.net
@@ -2524,6 +2531,7 @@ doc.echoban.ru
 domainoptions.engine.adglare.net
 domains.googlesyndication.com
 dominoad.adk2x.com
+donecooler.com
 dotcomconsultancy.advertserve.com
 doubleclick.net
 doubledeepclick.com
@@ -2533,6 +2541,7 @@ downloatransfer.com
 dp.g.doubleclick.net
 dprtb.com
 dqqulesm3pfse.cloudfront.net
+drxboeng70b3r.cloudfront.net
 ds-4047.kxcdn.com
 dsp.adfarm1.adition.com
 dssja7qsifeak.cloudfront.net
@@ -2809,6 +2818,7 @@ imageads1.googleadservices.com
 imageceu1.247realmedia.com
 imagesrv.adition.com
 imagevenue.advertserve.com
+imasdk.googleapis.com
 img.blogads.com
 img.metaffiliation.com
 img.nui.media
@@ -2940,6 +2950,7 @@ leadback.advertising.com
 leads.specificmedia.com
 lepinsar.com
 lepubs.com
+lespecies.info
 letmelook.net
 letzonke.com
 lie2anyone.com
@@ -3102,6 +3113,7 @@ namesakeoscilloscopemarquis.com
 native.upstory.it
 nativead.tech
 naughtyads.naughtyamerica.com
+nepremicnine.click
 net.e-viral.com
 netlog.adhese.org
 network.adsmarket.com
@@ -3114,6 +3126,7 @@ newt2.adultadworld.com
 newt3.adultadworld.com
 newtabtv.com
 nextlevel2014.sitescoutadserver.com
+nextoptim.com
 nicheads.com
 nickhel.com
 nization.com
@@ -3256,6 +3269,7 @@ openx.koprivnica.biz
 openx.kytary.cz
 openx.linuxforums.org
 openx.mediatrust.de
+openx.mondo.rs
 openx.motiviti.com
 openx.myvideo.de
 openx.nelbo.ro
@@ -3524,6 +3538,7 @@ q45nsj9d.accountant
 qksz.net
 qnsr.com
 qrstes.com
+queuecosm.bid
 quicktask.xyz
 r.adc-srv.net
 r.adrolays.de
@@ -3646,6 +3661,7 @@ s.advertiserurl.com
 s.amazon-adsystem.com
 s.atemda.com
 s.ato.mx
+s.blockonline.club
 s.cwgads.com
 s.d.adup-tech.com
 s.ktxtr.com
@@ -3905,6 +3921,7 @@ tas2.toboads.si
 td.vs3.com
 tdn.gtranslate.net
 tds.advland.net
+tebadu.com
 tech547789.ru
 tex.trafex.net
 text-link-ads.com
@@ -4079,7 +4096,9 @@ wct.click
 web.btncdn.com
 web.qtymi.com
 webads.nl
+westmente.info
 whirlclick.com
+whistorica.info
 widget.foodieblogroll.com
 widget.perfectmarket.com
 widget.quantcast.com
@@ -4209,6 +4228,7 @@ www.isanalyze.com
 www.iwanttodeliver.com
 www.jbbgczjipjvb.com
 www.jjrzlqho.com
+www.kanknulla.com
 www.kbdadsfast.com
 www.kbzrszspknla.com
 www.kqsipdhvcejx.com
@@ -4341,6 +4361,7 @@ xgogi.com
 xhr.namitol.com
 xml.adright.com
 xml.pdn-3.com
+xml.pdn-5.com
 xoredi.com
 xp1.zedo.com
 xpollo.com
@@ -4351,6 +4372,7 @@ yahoo.nuggad.net
 yaisha0.bid
 yceml.net
 yie4zooseif.info
+yieldlove-d.openx.net
 yiq6p.com
 yllix.com
 ylx-1.com

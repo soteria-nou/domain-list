@@ -245,6 +245,7 @@ adocean.pl
 adria.contentexchange.me
 ads-trk.vidible.tv
 ads.adxpose.com
+adsco.re
 adsec.iprom.net
 adserver.teracent.net
 adstage-tracker.herokuapp.com
@@ -279,6 +280,8 @@ alog.umeng.com
 alpha75.xiti.com
 alpha76.xiti.com
 alpha77.xiti.com
+alt.adocean.pl
+alt.hudb.pl
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonmerchants.122.2o7.net
 amazonnba.122.2o7.net
@@ -471,6 +474,7 @@ as.gostats.com
 asoscomltd.tt.omtrdc.net
 aspen.turner.com
 assets.adstage.io
+assets.customer.io
 assets.ipcdigital.co.uk
 assets.vidora.com
 associatedcontent.112.2o7.net
@@ -753,6 +757,7 @@ cdn.effectivemeasure.net
 cdn.emetriq.de
 cdn.engine.spotscenered.info
 cdn.engine.trklnks.com
+cdn.evergage.com
 cdn.fandommetrics.com
 cdn.feathr.co
 cdn.fuelx.com
@@ -776,6 +781,7 @@ cdn.nsstatic.net
 cdn.onthe.io
 cdn.optimizely.com
 cdn.pardot.com
+cdn.perfdrive.com
 cdn.petametrics.com
 cdn.ravenjs.com
 cdn.raygun.io
@@ -794,6 +800,7 @@ cdn.stroeerdigitalmedia.de
 cdn.taboola.com
 cdn.targetfuel.com
 cdn.theoplayer.com
+cdn.threadloom.com
 cdn.trackjs.com
 cdn.trafficstars.com
 cdn.triggertag.gorillanation.com
@@ -1073,6 +1080,7 @@ ctv.122.2o7.net
 ctvtrutv.112.2o7.net
 cursecom.ivwbox.de
 customcode.shephertz.com
+customer.cludo.com
 customerconversio.com
 cvwr-cis.hitbox.com
 cvwr-cis2.hitbox.com
@@ -1326,6 +1334,7 @@ dvnafl0qtqz9k.cloudfront.net
 dwl.hitbox.com
 dyn-beacon.akamaized.net
 dyn.emetriq.de
+dynatrace.digikey.com
 dz.glanceguide.com
 dzmxze7hxwn6b.cloudfront.net
 e-2dj6aekiwndzcao.stats.esomniture.com
@@ -1613,6 +1622,7 @@ extended.dmtracker.com
 external-pages-stats.rbl.ms
 extremetracking.com
 ez24.iprom.net
+f-log-at.grammarly.io
 f.domdex.com
 f.monetate.net
 f2ncracker.112.2o7.net
@@ -1633,6 +1643,7 @@ fanzero.ivwbox.de
 farecastcom.122.2o7.net
 fargo.iprom.si
 farm-de.plista.com
+farnell-uk.baynote.net
 faro.addoor.net
 fast.adobe.demdex.net
 fast.appcues.com
@@ -1692,6 +1703,7 @@ g.3gl.net
 g.bing.com
 g.silicon.co.uk
 ga-beacon.appspot.com
+ga.clearbit.com
 ga.getresponse.com
 ga.googlevideo.io
 ga.nsimg.net
@@ -1770,6 +1782,7 @@ gm02f.opentracker.net
 gmcnglobal.112.2o7.net
 gmeurope.112.2o7.net
 gmeuvauxhallukprod.112.2o7.net
+gnar.grammarly.com
 gntbcstglobal.112.2o7.net
 gntbcstkusa.112.2o7.net
 go.giga-abs.de
@@ -2242,6 +2255,7 @@ logi6.xiti.com
 logi7.xiti.com
 logi8.xiti.com
 logi9.xiti.com
+login.dotomi.com
 login.tracking101.com
 logitech.links.origin.channelintelligence.com
 logo.xiti.com
@@ -2909,6 +2923,8 @@ pt.fiksu.com
 pto.awecr.com
 pturt.com
 pu.trafficshop.com
+pub.freestar.io
+public.cobrowse.oraclecloud.com
 public.xiti.com
 publique.xiti.com
 pubtags.addoor.net
@@ -3056,6 +3072,7 @@ rover.ebay.it
 rover.ebay.ph
 rover.ebay.pl
 rpt.cedexis.com
+rs.hit.gemius.pl
 rs.mail.ru
 rs1.scribd.com
 rs2.scribd.com
@@ -4000,6 +4017,7 @@ tracking.veille-referencement.com
 tracking.vid4u.org
 tracking.vindicosuite.com
 tracking.web2corp.com
+tracking.websitealive.com
 tracking.weinwelt.at
 tracking.zh.sitebro.com
 tracking101.com
@@ -4207,6 +4225,7 @@ wap.xiti.com
 warnerbros.112.2o7.net
 warnerbrothersrecords.112.2o7.net
 waterfrontmedia.112.2o7.net
+wateryvan.com
 wbrostmz.112.2o7.net
 wcdn.zoomanalytics.co
 wd.fiftyone.com

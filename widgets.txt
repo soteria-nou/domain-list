@@ -31,6 +31,7 @@ assets.cookieconsent.silktide.com
 assets.freshdesk.com
 assets.kampyle.com
 assets.pgs.io
+awidget.org
 b1.bitty.com
 b3.mookie1.com
 badge.facebook.com
@@ -176,6 +177,7 @@ offers.lendingtree.com
 otter.topsy.com
 our.glossip.nl
 p.drivek.it
+p1.answerdash.com
 pfiles.5min.com
 pglb.buzzfed.com
 ping.chartbeat.net
