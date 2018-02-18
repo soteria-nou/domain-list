@@ -24,6 +24,7 @@ app-sj10.marketo.com
 app-sj15.marketo.com
 app.popupdomination.com
 app.purechat.com
+app2.emlgrid.com
 appnext-a.akamaihd.net
 appnext.hs.llnwd.net
 assets.contextly.com
@@ -272,6 +273,7 @@ vmss.boldchat.com
 w.chatlio.com
 w.filesor.com
 w.hypercomments.com
+w.likebtn.com
 w.sharethis.com
 w.uptolike.com
 w.usabilla.com

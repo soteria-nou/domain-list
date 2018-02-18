@@ -974,6 +974,7 @@ consent.trustarc.com
 content.aimatch.com
 content.jwplatform.com
 content.pollster.pl
+content.readcube.com
 contentz.mkt51.net
 contentz.mkt81.net
 contentz.mkt922.com
@@ -2025,6 +2026,7 @@ j23io4x6gy.kameleoon.eu
 jade01.webtrekk.net
 jadeitite.com
 japum.com
+jf.revolvermaps.com
 jhame.com
 jizvehd.misosoup.io
 johnlewis.112.2o7.net
@@ -2347,6 +2349,7 @@ logv7.xiti.com
 logv8.xiti.com
 logv9.xiti.com
 logw314.ati-host.net
+logx.optimizely.com
 loopme.me
 lostelephants.xyz
 lovetk-d.openx.net
@@ -2860,6 +2863,7 @@ pl.gmads.net
 pl6447009.puhtml.com
 planck.xiti.com
 platform-metrics-api.sharethis.com
+platform.bidgear.com
 pls.webtype.com
 plugin.reactful.com
 plus.addkt.com
@@ -3553,6 +3557,7 @@ statistics.crowdynews.com
 statistics.laerd.com
 statistics.sleeknote.com
 statistik-gallup.net
+statistik.fraunhofer.de
 statistik.porsche.co.at
 statistika.jakop.si
 statistikk.idrift.no
@@ -3747,6 +3752,7 @@ t.trafmag.com
 t.unbounce.com
 t.zqtk.net
 t1.clipkit.com
+t1.createsend1.com
 t1.oload.tv
 t1.openload.co
 t1.softonicads.com

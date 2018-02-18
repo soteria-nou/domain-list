@@ -3558,6 +3558,7 @@ recallen.info
 recirculation.spot.im
 recorded.to
 recs.richrelevance.com
+recusticks.co
 recycle.zoznam.sk
 redir.adap.com
 redir.adap.tv
@@ -3797,6 +3798,7 @@ speednetwork6.adk2x.com
 sponsorads.de
 spotlights-revive.wikia.net
 spots.ah-me.com
+spotxchange-a.akamaihd.net
 srv.adngin.com
 srv.bidvertiser.com
 srv.buysellads.com

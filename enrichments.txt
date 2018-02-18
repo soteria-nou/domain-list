@@ -33,6 +33,7 @@ api.booster3000.si
 api.facebook.com
 api.mediabooster.si
 api.pulpix.com
+api.survicate.com
 app.convertfox.com
 app.convertkit.com
 app.getresponse.com
@@ -82,6 +83,7 @@ cdn.onesignal.com
 cdn.pulpix.com
 cdn.pushassist.com
 cdn.pushcrew.com
+cdn.transifex.com
 cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com
 celebritywonder.us.intellitxt.com
@@ -102,11 +104,13 @@ content.zemanta.com
 contextlinks.netseer.com
 contextual.media.net
 cookiebanner.unionstationapp.com
+cookieinfoscript.com
 csharpcorner.us.intellitxt.com
 custompc.uk.intellitxt.com
 d.la1-c1-dfw.salesforceliveagent.com
 d.txtsrving.info
 d1f8f9xcsvx3ha.cloudfront.net
+d1uo4w7k31k5mn.cloudfront.net
 dac.jp.intellitxt.com
 daniweb.us.intellitxt.com
 de.intellitxt.com
@@ -219,6 +223,7 @@ kde-look.us.intellitxt.com
 kicksonfire.us.intellitxt.com
 knowyourmobile.uk.intellitxt.com
 laptopmag.us.intellitxt.com
+libs.a2zinc.net
 license.icopyright.net
 lifescript.us.intellitxt.com
 linuxdevcenter.us.intellitxt.com
@@ -243,6 +248,7 @@ m.platformax.com
 macworld.uk.intellitxt.com
 magic.uk.intellitxt.com
 majorgeeks.us.intellitxt.com
+media.complex.com
 merriam-webster.us.intellitxt.com
 metacafe.us.intellitxt.com
 metro.uk.intellitxt.com
@@ -401,6 +407,7 @@ totalfilm.uk.intellitxt.com
 totalvideogames.uk.intellitxt.com
 touslesdrivers.fr.intellitxt.com
 traileraddict.us.intellitxt.com
+tslfeeder.dotfusion.com
 tutorialized.us.intellitxt.com
 tweaktown.us.intellitxt.com
 tweakvista.us.intellitxt.com
@@ -420,6 +427,7 @@ video-drivers.us.intellitxt.com
 vnu.uk.intellitxt.com
 vnunet.uk.intellitxt.com
 vtrhardware.fr.intellitxt.com
+web-sdk.urbanairship.com
 webhostingtalk.us.intellitxt.com
 wi-fiplanet.us.intellitxt.com
 wi-fitechnology.uk.intellitxt.com
