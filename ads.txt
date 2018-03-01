@@ -1837,6 +1837,7 @@ aka-cdn.adtechus.com
 akcdn.nativeadsfeed.com
 akdapi.com
 alfalt.adocean.pl
+alibestru.ru
 alleliteads.com
 allosponsor.it
 alltheladyz.xyz
@@ -2405,6 +2406,7 @@ d.adserve.com
 d.afdads.com
 d.dc121677.com
 d.openx.org
+d.otaserve.net
 d.peoplesearchads.com
 d.tds.adlabs.ru
 d.thelocal.com
@@ -2525,6 +2527,7 @@ dmbjbgiifpfo.com
 dmmotion.com
 dmp.adform.net
 dmros.ysm.yahoo.com
+dmxleo.dailymotion.com
 dnsstuff-images.adbureau.net
 dnsstuff.adbureau.net
 doc.echoban.ru
@@ -2632,6 +2635,7 @@ eu-u.openx.net
 eu.nuggad.net
 euasync01.admantx.com
 eurostream.adspirit.de
+euw.adserver.snapads.com
 event.ohmyad.co
 exchange.nativeads.com
 exclusivecpms.com
@@ -2642,6 +2646,7 @@ eyewonder.com
 ez.openx.com
 f.blogads.com
 fallbacks.carbonads.com
+fapmeth.com
 farlexintl-d.openx.net
 fastlane.rubiconproject.com
 fcve2mi2.review
@@ -2865,6 +2870,7 @@ inl.adbureau.net
 inmobisdk-a.akamaihd.net
 insight.adsrvr.org
 inskinad.com
+insta-marketing.com
 instraffic.com
 intellibanners.com
 interyield.jmp9.com
@@ -3303,6 +3309,7 @@ ordie.adbureau.net
 ot.ca-mpr.jp
 otclick-adv.ru
 our.amplifinder.biz
+overreare.co
 ovgads.ovguide.com
 ox-ads.widgetbucks.com
 ox-d.101m3.com
@@ -3478,12 +3485,14 @@ porngamut.com
 pornoh.info
 porojo.net
 portkingric.net
+possessorrig.com
 poterrupte.co
 poweredby.creamyads.com
 pozar.iprom.net
 pr.a2dfp.net
 pre.ads.justpremium.com
 preamp-clients.header.tech
+prebid.adnxs.com
 predictad.com
 prestoris.com
 prg.smartadserver.com
@@ -3526,6 +3535,7 @@ pub.adfever.com
 pubads.g.doubleclick.net
 publisher.infinityads.com
 publishers.halogennetwork.com
+pubportal.brkmd.com
 pussl10.com
 pussl32.com
 pussl37.com
@@ -3543,6 +3553,11 @@ quicktask.xyz
 r.adc-srv.net
 r.adrolays.de
 r.ligatus.com
+r1---sn-4g5e6ns7.googlevideo.com
+r2---sn-2gb7sn7z.googlevideo.com
+r2---sn-4g5e6nle.googlevideo.com
+r2---sn-4g5ednly.googlevideo.com
+r2---sn-h0jeened.googlevideo.com
 r2.ace.advertising.com
 rah7uph.bid
 rapidyl.net
@@ -3592,6 +3607,7 @@ rev.linuxquestions.org
 revive.adriadigital.si
 revive.adriamedia.hr
 revive.bocoup.com
+revive.mladipodjetnik.si
 revive.yelsterdigital.com
 rg.appserver-ap.com
 rgadvert.com
@@ -3614,6 +3630,7 @@ rotator.d1110e4.se
 rotator.offpageads.com
 rotorads.com
 route.carambo.la
+router.infolinks.com
 rps.eads.lt
 rq.vserv.mobi
 rs.adocean.pl
@@ -4278,6 +4295,7 @@ www.premads.info
 www.premierads.net
 www.promotools.biz
 www.pyq6n.com
+www.quick-date.xyz
 www.ragazzeinvendita.com
 www.reduxmediia.com
 www.rivcash.com

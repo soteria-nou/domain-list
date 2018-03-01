@@ -43,6 +43,7 @@ app.optinarchitect.com
 apps.nexus.bazaarvoice.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
+assets.bunchball.net
 assets.juicer.io
 auto-motor-und-sport.de.intellitxt.com
 autobild.de.intellitxt.com
@@ -314,6 +315,7 @@ prad.de.intellitxt.com
 presence-pc.fr.intellitxt.com
 primedia.us.intellitxt.com
 ps3-live.fr.intellitxt.com
+public-prod-dspcookiematching.dmxleo.com
 publishing.kaloo.ga
 qeryz.com
 quotaless.us.intellitxt.com
@@ -363,6 +365,7 @@ staging.sja.sportradar.com
 static.elev.io
 static.giftwizard.co
 static.plenigo.com
+static.whatshelp.io
 stern.de.intellitxt.com
 subscribe.wired.com
 sv1-g007.us.intellitxt.com

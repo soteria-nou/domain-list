@@ -175,10 +175,13 @@ a.klaviyo.com
 a.ligatus.com
 a.live-conversion.com
 a.mobify.com
+a.mstrlytcs.com
 a.nexeps.com
+a.optmstr.com
 a.pub.network
 a.retailmenot.com
 a.ria.ru
+a.sankakucomplex.com
 a.surefire.link
 a.targetserving.com
 a.ucoz.net
@@ -288,6 +291,7 @@ amazonnba.122.2o7.net
 amazonwebservices.d2.sc.omtrdc.net
 amazonwebservicesinc.tt.omtrdc.net
 amp.ai
+amplify.outbrain.com
 amplifypixel.outbrain.com
 amznshopbop.122.2o7.net
 analitik.obisk.net
@@ -449,6 +453,7 @@ app.intercom.io
 app.kontextr.eu
 app.link
 app.marketizator.com
+app.trustev.com
 app.ubertags.com
 app.widiz.com
 appapi.inspsearchapi.com
@@ -662,6 +667,7 @@ c.t.dps-reach.com
 c.t4ft.de
 c.tmstrack.com
 c.trello.com
+c.us1.dyntrk.com
 c.vrvm.com
 c.webtrends.com
 c0.shinystat.com
@@ -822,6 +828,7 @@ cdn1.affirm.com
 cdn1.developermedia.com
 cdn2.developermedia.com
 cdn2.pollster.pl
+cdn3.optimizely.com
 cdn4.forter.com
 cdn51.vizury.com
 cdns.brsrvr.com
@@ -915,6 +922,7 @@ cnetaustralia.122.2o7.net
 cneteurope.122.2o7.net
 cnettech.112.2o7.net
 cnfm.ad.dotandad.com
+cnn.sdk.beemray.com
 cnnglobal.122.2o7.net
 cnstats.ru
 cnstrc.com
@@ -1613,6 +1621,7 @@ events.appsflyer.com
 events.deskapi.com
 events.ocdn.eu
 events.redditmedia.com
+eventtracking-log.ustream.tv
 everestjs.net
 evisitcs.com
 ewstv.112.2o7.net
@@ -1862,6 +1871,7 @@ heise.ivwbox.de
 heise.met.vgwort.de
 heise01.webtrekk.net
 hello.staticstuff.net
+hetzner.piwikpro.com
 hey.hellobar.com
 hfunt.com
 hfutz.com
@@ -2770,6 +2780,7 @@ pipeaota.com
 pipedream.wistia.com
 pippio.com
 pisarna.iprom.si
+pitchfork.com
 piwik-a2e3.rhcloud.com
 piwik-nw.audi.at
 piwik-nw.skoda.at
@@ -3050,6 +3061,7 @@ retcode.taobao.com
 return.uk.uniregistry.com
 reuters-d.openx.net
 rev-js-source.revdn.net
+rf.revolvermaps.com
 rhpury.105app.com
 ri.revolvermaps.com
 rich.agent.s3.amazonaws.com
@@ -3102,6 +3114,7 @@ rtbcdn.doubleverify.com
 rtd.tubemogul.com
 rtst.122.2o7.net
 ru-gmtdmp.mookie1.com
+rum.conde.io
 rum01.revsw.net
 rumds.wpdigital.net
 rwt.reichelt.de
@@ -3380,6 +3393,7 @@ sm8.sitemeter.com
 sm9.sitemeter.com
 smetrics.boston.com
 smetrics.cdiscount.com
+smetrics.cnn.com
 smetrics.element14.com
 smetrics.madewell.com
 smetrics.mathworks.com
@@ -3756,6 +3770,7 @@ t1.createsend1.com
 t1.oload.tv
 t1.openload.co
 t1.softonicads.com
+t1.streamango.com
 t1.streamcherry.com
 t2.openload.co
 t3.probance.com
@@ -3771,6 +3786,7 @@ tag.digitaltarget.ru
 tag.email-attitude.com
 tag.imonomy.com
 tag.marinsm.com
+tag.mtrcs.samba.tv
 tag.navdmp.
 tag.navdmp.com
 tag.perfectaudience.com
@@ -3787,6 +3803,7 @@ tags.clickintext.net
 tags.mediaforge.com
 tags.t.tailtarget.com
 tags.tiqcdn.com
+tags.us.onscroll.com
 tags.w55c.net
 tagtestb.ivwbox.de
 tagx.nytimes.com
@@ -3877,6 +3894,7 @@ tpc.googlesyndication.com
 tr-metrics.loomia.com
 tr.datanyze.com
 tr.grammarly.com
+tr.outbrain.com
 tr.prospecteye.com
 tr2.smarterhq.io
 tr5.myroitracking.com
@@ -4308,7 +4326,6 @@ wpbeaches.com
 wpni.112.2o7.net
 wredint.com
 ws.pleasedontslaymy.download
-ws.pusherapp.com
 wss-gw-1-gig.hitbox.com
 wss-gw-12008.hitbox.com
 wss-gw-4-gig.hitbox.com
@@ -4322,6 +4339,7 @@ wwa.hitbox.com
 wwa.wipe.de
 wweconsumer.112.2o7.net
 wwf.122.2o7.net
+www-google-analytics.l.google.com
 www.112.2o7.net
 www.acestats.com
 www.addfreestats.com
@@ -4411,6 +4429,7 @@ www.stats24.net
 www.stats4u.net
 www.stats4you.com
 www.stressx.org
+www.summerhamster.com
 www.swpsvc.com
 www.tamgrt.com
 www.technical-service.net
