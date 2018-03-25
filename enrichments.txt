@@ -84,6 +84,7 @@ cdn.onesignal.com
 cdn.pulpix.com
 cdn.pushassist.com
 cdn.pushcrew.com
+cdn.simility.com
 cdn.transifex.com
 cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com
@@ -447,6 +448,7 @@ www.intellitxt.com
 www.intensedebate.com
 www.searchanise.com
 www.upsite.co.il
+www.usefomo.com
 www.wishpond.com
 xda-developers.us.intellitxt.com
 zataz.fr.intellitxt.com

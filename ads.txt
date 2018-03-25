@@ -585,6 +585,7 @@ adcentriconline.com
 adcfg.intowow.com
 adchap.com
 adchemical.com
+adchoices.corusdigitaldev.com
 adclear.baur.de
 adclick.g.doubleclick.net
 adclickmedia.com
@@ -909,6 +910,7 @@ ads.creative-serving.com
 ads.cremzinc.com
 ads.crowdynews.com
 ads.crucialparadigm.com
+ads.csdn.net
 ads.czc.cz
 ads.dada.it
 ads.databrainz.com
@@ -2322,6 +2324,7 @@ cm.d-agency.net
 cms.ad2click.nl
 coadvertise.com
 code.d-agency.net
+code.directadvert.ru
 code.poptm.com
 code.ptcong.com
 code.taggify.net
@@ -3411,6 +3414,7 @@ photobucket.adnxs.com
 phox2ey.bid
 phpadsnew.abac.com
 pic247realm.kompass.com
+piguiqproxy.com
 piop7shm.com
 pipeschannels.com
 pix.tagcdn.com
@@ -3485,6 +3489,7 @@ porngamut.com
 pornoh.info
 porojo.net
 portkingric.net
+pos.baidu.com
 possessorrig.com
 poterrupte.co
 poweredby.creamyads.com
@@ -3537,6 +3542,7 @@ publisher.infinityads.com
 publishers.halogennetwork.com
 pubportal.brkmd.com
 pussl10.com
+pussl23.com
 pussl32.com
 pussl37.com
 putrr16.com
@@ -3554,11 +3560,16 @@ r.adc-srv.net
 r.adrolays.de
 r.ligatus.com
 r1---sn-4g5e6ns7.googlevideo.com
+r1---sn-4g5e6nzs.googlevideo.com
+r1---sn-4g5edney.googlevideo.com
 r2---sn-2gb7sn7z.googlevideo.com
 r2---sn-4g5e6nle.googlevideo.com
 r2---sn-4g5ednly.googlevideo.com
+r2---sn-4g5edns7.googlevideo.com
 r2---sn-h0jeened.googlevideo.com
 r2.ace.advertising.com
+r5---sn-4g5e6nsk.googlevideo.com
+r5---sn-4g5edne6.googlevideo.com
 rah7uph.bid
 rapidyl.net
 rc-aflrm.com
@@ -3654,6 +3665,7 @@ rtt.adrolays.de
 rudy.adsnative.com
 run.admost.com
 ruptly-d.openx.net
+rutrk.org
 rv.furaffinity.net
 rvnc72k.com
 rxrfb95v.cricket
@@ -3688,6 +3700,7 @@ s.moatads.com
 s.pubmine.com
 s.speednetwork4.com
 s.spolecznosci.net
+s.spoutable.com
 s.zkcdn.net
 s1-adfly.com
 s1.ad.adocean.pl
@@ -3725,6 +3738,7 @@ scr.kliksaya.com
 script.adcamel.pw
 script.rtbclick.net
 scripts.kiosked.com
+sdk.appadhoc.com
 sdk.streamrail.com
 sdk.vindicosuite.com
 sea-u.openx.net
@@ -4102,6 +4116,7 @@ vogozaw.ru
 voltads.com
 vop.sundaysky.com
 vsh.visilabs.net
+vudsy.com
 vv.vxqpomwum.pw
 vwcsl.com
 w.tda.io
@@ -4129,6 +4144,7 @@ wmedia.rotator.hadj7.adjuggler.net
 wmeter.ru
 wms-na.amazon-adsystem.com
 wms.assoc-amazon.com
+wn.pos.baidu.com
 wonderlandads.com
 world.popadscdn.net
 wortparser.info
@@ -4187,6 +4203,7 @@ www.advertising365.com
 www.advimgsrv.com
 www.advmedialtd.com
 www.adxpansion.com
+www.affiliatly.com
 www.afvcugqaulh.co
 www.allanalpass.com
 www.anrdoezrs.net

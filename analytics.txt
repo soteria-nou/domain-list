@@ -313,6 +313,7 @@ analytics.aweber.com
 analytics.brandcrumb.com
 analytics.brid.tv
 analytics.brightedge.com
+analytics.businessinsider.com
 analytics.clickdimensions.com
 analytics.cliqz.com
 analytics.coderouge.co
@@ -578,6 +579,7 @@ beacon.scorecardresearch.com
 beacon.securestudies.com
 beacon.shazam.com
 beacon.thred.woven.com
+beacon.tingyun.com
 beacon.wikia-services.com
 beacons.hottraffic.nl
 beap.gemini.yahoo.com
@@ -821,6 +823,7 @@ cdn.wbtrk.net
 cdn.webglstats.com
 cdn.widgets.webengage.com
 cdn.yldbt.com
+cdn.yottaa.com
 cdn.zarget.com
 cdn.zeerat.com
 cdn01.mzbcdn.net
@@ -3348,6 +3351,7 @@ seznam.hit.gemius.pl
 sfcglobalgateway.122.2o7.net
 sftv-ssl.wemfbox.ch
 shareaholic.com
+shaw.demdex.net
 shopping.112.2o7.net
 show.smartcontext.pl
 si.2.cqcounter.com
