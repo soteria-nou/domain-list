@@ -120,6 +120,7 @@
 4967807.fls.doubleclick.net
 4a3dbfdd6470b7f43a03-1ec0805dd88c137a7d9b221342ef4c8b.r63.cf1.rackcdn.com
 4d.condenastdigital.com
+4jiqzr.ru
 5110037.fls.doubleclick.net
 52198.tctm.co
 526710254.log.optimizely.com
@@ -506,6 +507,7 @@ auth.estat.com
 auto.sophus3.com
 autobytel.112.2o7.net
 autocomplete.demandbase.com
+autocounter.lentainform.com
 autodiscover.xiti.com
 autoscout24.112.2o7.net
 aux-log.vertamedia.com
@@ -662,6 +664,7 @@ c.ns1p.net
 c.p-advg.com
 c.parkingcrew.net
 c.paypal.com
+c.prod.theintercept.com
 c.securepaths.com
 c.spiegel.de
 c.statcounter.com
@@ -1856,6 +1859,7 @@ h30-deploy.hiconversion.com
 hadrian.httpool.com
 halc.iadvize.com
 handelsblatt01.webtrekk.net
+happyunicorns.gutefrage.net
 harborfreight.tt.omtrdc.net
 hardluxx.ivwbox.de
 hb-endpoint-elb-307841411.adomik.com
@@ -2070,6 +2074,7 @@ js.ta80.com
 js1.hitbox.com
 jsc.4shared.com
 jsn.dt07.net
+jsn.lentainform.com
 juke.mmi.bemobile.ua
 junbi-tracker.com
 justuno.com
@@ -2434,6 +2439,7 @@ mediafriends.adspirit.net
 mediaiprom.com
 mediaiprom.net
 mediametrics.mpsa.com
+mediametrics.ru
 medianet-d.openx.net
 mediasetitalia01.wt-eu02.net
 medicaldevicelink.112.2o7.net
@@ -2719,11 +2725,13 @@ p.auto-motor-und-sport.de
 p.bm23.com
 p.casalemedia.com
 p.cpx.to
+p.ctpost.com
 p.d.0fmm.com
 p.effectivemeasure.net
 p.imgur.com
 p.lp4.io
 p.nexac.com
+p.prod.theintercept.com
 p.rfihub.com
 p.skimresources.com
 p.smartertravel.com
@@ -2945,6 +2953,7 @@ pub.freestar.io
 public.cobrowse.oraclecloud.com
 public.xiti.com
 publique.xiti.com
+pubs2-eu.creativecdn.com
 pubtags.addoor.net
 pulsar.ebay.com
 pulse-fra02.revdn.net
@@ -3060,6 +3069,7 @@ resources.fairfax.com.au
 responder.wt-safetag.com
 retailmenot-d.openx.net
 retarget.ssl-services.com
+retaryrs.com
 retcode.taobao.com
 return.uk.uniregistry.com
 reuters-d.openx.net
@@ -3130,6 +3140,7 @@ s.clickability.com
 s.clickiocdn.com
 s.effectivemeasure.net
 s.idio.co
+s.in.com
 s.infogr.am
 s.jsrdn.com
 s.jwpltx.com
@@ -3514,6 +3525,7 @@ stat.gmonitor.aliimg.com
 stat.inkfrog.com
 stat.komoona.com
 stat.made-in-china.com
+stat.media
 stat.mylivepage.com
 stat.mystat.hu
 stat.novinky.cz
@@ -3801,6 +3813,7 @@ tag.yieldoptimizer.com
 tagger.opecloud.com
 tagmanager.schneider-electric.com
 tags-cdn.deployads.com
+tags.adsafety.net
 tags.api.umbel.com
 tags.bluekai.com
 tags.clickintext.net
@@ -4114,6 +4127,7 @@ u.openx.net
 ua.hit.gemius.pl
 uaadcodedsp.rontar.com
 uates.com
+ub.gutefrage.net
 ubd.zippymp3.eu
 ubm.tt.omtrdc.net
 ucid.vindicosuite.com
@@ -4378,6 +4392,7 @@ www.everestjs.net
 www.ewebcounter.com
 www.fallingfalcon.com
 www.fastcounter.de
+www.fhpro.in
 www.freecamdollars.com
 www.fullstory.com
 www.getfreebl.com

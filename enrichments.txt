@@ -89,6 +89,7 @@ cdn.transifex.com
 cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com
 celebritywonder.us.intellitxt.com
+chat.freshdesk.com
 cinemablend.us.intellitxt.com
 citizen-times.us.intellitxt.com
 clientcdn.pushengage.com
@@ -309,6 +310,7 @@ piskotki.com
 pixel.intellitxt.com
 placehold.it
 planetamd64.us.intellitxt.com
+platform.instagram.com
 popcornmetrics.zendesk.com
 popularmechanics.us.intellitxt.com
 popup2.lifterapps.com
@@ -351,6 +353,7 @@ sjc-g014.us.intellitxt.com
 sjc-g020.us.intellitxt.com
 slashphone.us.intellitxt.com
 smallnetbuilder.us.intellitxt.com
+smi2.ru
 socialknowledge.us.intellitxt.com
 soft32.us.intellitxt.com
 softonic.us.intellitxt.com
