@@ -97,6 +97,7 @@ code.intext.billboard.cz
 code.jivosite.com
 code.murdoog.com
 code.tidio.co
+code3.adtlgc.com
 codeproject.us.intellitxt.com
 coin-have.com
 coin-hive.com
@@ -291,6 +292,7 @@ ocsrest.ebay.com
 off-road.us.intellitxt.com
 onehitwondercentral.us.intellitxt.com
 onlamp.us.intellitxt.com
+option.boldapps.net
 pcadvisor-uk.intellitxt.com
 pcadvisor.uk.intellitxt.com
 pcgameshardware.de.intellitxt.com

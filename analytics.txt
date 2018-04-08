@@ -419,6 +419,7 @@ api.demandbase.com
 api.dimestore.com
 api.europe.kontagent.net
 api.fandommetrics.com
+api.funnelytics.io
 api.infinario.com
 api.infiniamobile.com
 api.innomdc.com
@@ -1241,6 +1242,7 @@ de-gmtdmp.mookie1.com
 de.ioam.de
 de.tynt.com
 de8of677fyt0b.cloudfront.net
+deadlinefunnel.com
 decide.mixpanel.com
 decsitefinitycdn.blob.core.windows.net
 dedekind.xiti.com
@@ -2097,6 +2099,7 @@ kingston.xiti.com
 kitbit.net
 kka.agitos.de
 kkeu.122.2o7.net
+kl201.infusionsoft.com
 kmtx.de
 kmylvwo5.com
 koi-1megvvq.marketingautomation.services
@@ -3274,6 +3277,7 @@ sc.cdnma.com
 sc.independent.co.uk
 sc.mtv.com
 scan.botscanner.com
+scdn.cxense.com
 sciamcom.112.2o7.net
 scomcluster.cxense.com
 scontent.lrcdn.net
@@ -3406,6 +3410,7 @@ sm6.sitemeter.com
 sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
+smct.co
 smetrics.boston.com
 smetrics.cdiscount.com
 smetrics.cnn.com
@@ -3747,6 +3752,7 @@ sync.tidaltv.com
 t-stand.oewabox.at
 t.254a.com
 t.acxiom-online.com
+t.ambra.com
 t.appsflyer.com
 t.authorinsights.com
 t.channeladvisor.com
@@ -3944,6 +3950,7 @@ track.hulu.com
 track.idtargeting.com
 track.interslo.com
 track.jobst-audio.de
+track.loox.io
 track.mailerlite.com
 track.mlsend2.com
 track.monitis.com
@@ -3985,6 +3992,7 @@ tracker-00.ipv6stats.net
 tracker.adtaily.com
 tracker.anandtech.com
 tracker.azet.sk
+tracker.bannerflow.com
 tracker.beezup.com
 tracker.boostable.com
 tracker.bt.uol.com.br

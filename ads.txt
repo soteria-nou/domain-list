@@ -2601,6 +2601,7 @@ eleven05media-d.openx.net
 elitedaily-d.openx.net
 elparmo.ru
 emailretargeting.com
+embed.bannerflow.com
 embed.fuze360.com
 emisja.contentstream.pl
 emjcd.com
@@ -3144,6 +3145,7 @@ nextlevel2014.sitescoutadserver.com
 nextoptim.com
 nicheads.com
 nickhel.com
+ninjagod.com
 nization.com
 nl1.ero-advertising.com
 nodes.r66t.com
@@ -3245,6 +3247,7 @@ ok.internetmedia.si
 ol.at.atwola.com
 ol.jp.at.atwola.com
 ol.uk.at.atwola.com
+olxro-d.openx.net
 oms.nuggad.net
 onads.com
 onceux.unicornmedia.com
@@ -3411,6 +3414,7 @@ paypalssl.doubleclick.net
 pbid.pro-market.net
 pc-ads.com
 pc180101.com
+pc20161117.com
 pds.directrev.com
 pentonads.advertising.de
 performanceadvertising.mobi
@@ -3833,6 +3837,7 @@ spaces.slimspots.com
 spe.atdmt.com
 speed.pointroll.com
 speedclicks.ero-advertising.com
+speednetwork14.adk2.co
 speednetwork6.adk2x.com
 sponsorads.de
 spotlights-revive.wikia.net

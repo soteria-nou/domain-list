@@ -46,6 +46,7 @@ c.la1c1.salesforceliveagent.com
 cache1.value-domain.com
 call.chatra.io
 cdn-akamai.mookie1.com
+cdn-pub.sentifi.com
 cdn-widget.stuff.com
 cdn.addnow.com
 cdn.earnify.com
@@ -156,6 +157,7 @@ lib_nf.fromfriendswithlove.com
 lite.piclens.com
 live2support.com
 loader.engage.gsfn.us
+loox.io
 lptag.liveperson.net
 madmimi.com
 mailerlite.com
