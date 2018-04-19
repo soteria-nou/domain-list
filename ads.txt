@@ -2181,6 +2181,7 @@ cdn-t.omsnative.de
 cdn-tags.mmondi.com
 cdn.2xbpub.com
 cdn.accelerator.arsdev.net
+cdn.acloudvideos.com
 cdn.adbrau.com
 cdn.adikteev.com
 cdn.admitad.com
@@ -3733,6 +3734,7 @@ s4.adwatcher.net
 safeadnetworkdata.net
 safeads.69sg.com
 safelinktracker.com
+sam.msn.com
 samvaulter.com
 samvinva.info
 sand-01.adnxs.com
@@ -4176,6 +4178,7 @@ wtpn.twenga.it
 wu.adonweb.ru
 wunderloop.ad2net.de
 ww1.collserve.com
+ww2.circuitcellar.com
 ww251.smartadserver.com
 ww4.okoads.com
 ww57.smartadserver.com
@@ -4357,6 +4360,7 @@ www.uoarbhxfyygn.com
 www.usoqghurirvz.com
 www.venturead.com
 www.vhpqxkhvjgwx.com
+www.vidcpm.com
 www.video.oms.eu
 www.vipcpms.com
 www.viperishly.com

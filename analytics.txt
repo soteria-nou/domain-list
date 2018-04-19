@@ -437,6 +437,7 @@ api.share.baidu.com
 api.spoldzielnia.nsaudience.pl
 api.stathat.com
 api.taps.io
+api.telemetry.watchabc.go.com
 api.tvpage.com
 api.umbel.com
 api.usercycle.com
@@ -468,6 +469,7 @@ apps.outfit7.com
 apwvx.adsbtrack.com
 apx.moatads.com
 arbo.hit.gemius.pl
+arc.msn.com
 archi2.xiti.com
 areagame.ivwbox.de
 arm.d3.sc.omtrdc.net
@@ -2384,6 +2386,7 @@ lsi2006.112.2o7.net
 lt.hit.gemius.pl
 lucent.122.2o7.net
 lydianprivate.112.2o7.net
+m-shes.ru
 m.addthisedge.com
 m.optout.ziffdavis.com
 m.trb.com
@@ -3340,6 +3343,7 @@ segment-data-us-east.zqtk.net
 segment-data.zqtk.net
 segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
+senergy.teslarati.com
 seness.info
 sentry.io
 serv.clicksor.net
@@ -4418,6 +4422,7 @@ www.klepet.eu
 www.lansrv030.com
 www.lasagneandands.com
 www.launchbit.com
+www.ledhenone.com
 www.lijit.com
 www.linkconnector.com
 www.lqtrk.com
