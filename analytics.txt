@@ -368,6 +368,7 @@ analytics.styria.hr
 analytics.supplyframe.com
 analytics.thevideo.me
 analytics.tmonews.com
+analytics.traderlink.com
 analytics.trendmicro.com
 analytics.unister.gmbh.de
 analytics.vpsboard.com
@@ -535,6 +536,7 @@ b-ssl.grvcdn.com
 b.aol.com
 b.c8.net.ua
 b.grvcdn.com
+b.hlserve.com
 b.huffingtonpost.com
 b.kavanga.ru
 b.mandatory.com
@@ -547,6 +549,7 @@ b.siftscience.com
 b.stats.ebay.com
 b.stats.paypal.com
 b.techcrunch.com
+b.wal.co
 b.wishabi.com
 b1sync.zemanta.com
 b2b.cbsimg.net
@@ -585,6 +588,7 @@ beacon.securestudies.com
 beacon.shazam.com
 beacon.thred.woven.com
 beacon.tingyun.com
+beacon.walmart.com
 beacon.wikia-services.com
 beacons.hottraffic.nl
 beap.gemini.yahoo.com
@@ -777,6 +781,7 @@ cdn.feathr.co
 cdn.fuelx.com
 cdn.getkya.com
 cdn.gigya.com
+cdn.glassboxcdn.com
 cdn.granify.com
 cdn.greta.io
 cdn.heapanalytics.com
@@ -3096,6 +3101,7 @@ rmusr.com
 rockolitalia01.wt-eu02.net
 roi.vertical-leap.co.uk
 rok.iprom.si
+rosenberg.appmetrica.yandex.net
 rotator.trafficstars.com
 rover.ebay.at
 rover.ebay.co.uk
@@ -3415,6 +3421,7 @@ sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
 smct.co
+smetrics.avnet.com
 smetrics.boston.com
 smetrics.cdiscount.com
 smetrics.cnn.com
@@ -3768,7 +3775,9 @@ t.dtscout.com
 t.flux.com
 t.freelancer.com
 t.frtyi.com
+t.garena.com
 t.indeed.com
+t.irtyf.com
 t.kcart.me
 t.kck.st
 t.mashable.com
@@ -4177,6 +4186,7 @@ usage.influxdata.com
 usage.trackjs.com
 usasync01.admantx.com
 usatoday1.112.2o7.net
+uscollector.tealeaf.ibmcloud.com
 ustatik.com
 ut.performax.cz
 utd.stratigent.com

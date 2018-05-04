@@ -27,6 +27,7 @@
 360ads.com
 3718076.fls.doubleclick.net
 3797665.fls.doubleclick.net
+3878896c72ed218.com
 39o9mcr2.party
 3c45d848d99.se
 3rdads.com
@@ -1337,6 +1338,7 @@ ads.urbae.com
 ads.urbandictionary.com
 ads.us.e-planning.net
 ads.users.se
+ads.valica.it
 ads.velcom.com
 ads.veneti.com
 ads.ventivmedia.com
@@ -1832,6 +1834,7 @@ ag.innovid.com
 agomwefq.com
 agreemand.com
 air.adliners.de
+ajkzd9h.com
 aka-cdn-ns.adtech.de
 aka-cdn-ns.adtechus.com
 aka-cdn.adtech.de
@@ -1865,6 +1868,7 @@ androidads23.adcolony.com
 anrdoezrs.net
 antactica.ad.adnetwork.com.br
 anvil.rubiconproject.com
+aoredi.com
 ap76rmx3.accountant
 apapi.dc121677.com
 apex-ad.com
@@ -2293,6 +2297,7 @@ cdn503.rontar.com
 cdn7.rocks
 cdna.tremormedia.com
 centro.pixel.ad
+certaken.com
 cf.ads.kontextua.com
 cfa.2mdnsys.com
 cfnewsads.thomasnet.com
@@ -2667,6 +2672,7 @@ files.adbrite.com
 files.adselector.ru
 files.adspdbl.com
 filmiki.maxart.pl
+filternal.space
 fim.adnxs.com
 fixedpos.advertserve.com
 floatingads.madisonavenue.com
@@ -2821,6 +2827,7 @@ idg.adocean.pl
 idguk1-d.openx.net
 iendoo.com
 ifa.camads.net
+igmatik.com
 ijrah.top
 im.banner.t-online.de
 ima3vpaid.appspot.com
@@ -2883,6 +2890,7 @@ inskinad.com
 insta-marketing.com
 instraffic.com
 intellibanners.com
+interedy.info
 interyield.jmp9.com
 interyield.td553.com
 inv-nets.admixer.net
@@ -3049,6 +3057,7 @@ medleyads.tv
 medover.iprom.net
 meetthegame.online
 megapopads.com
+meinadserver.adspirit.de
 mellowads.com
 mentad.com
 meta.streamcloud.eu
@@ -3189,6 +3198,7 @@ oas.villagevoice.com
 oas.wwwheise.de
 oas.zyxware.com
 oas6.sonce.net
+oasc-eu1.247realmedia.com
 oascentral.autoweek.com
 oascentral.awn.com
 oascentral.cepro.com
@@ -3591,6 +3601,7 @@ rcm-fe.amazon-adsystem.com
 rcm-na.amazon-adsystem.com
 rd.clickshift.com
 rd.himediads.com
+rdrct1.org
 re.directrev.com
 reactads.engine.adglare.net
 recallen.info
@@ -3845,6 +3856,7 @@ sponsorads.de
 spotlights-revive.wikia.net
 spots.ah-me.com
 spotxchange-a.akamaihd.net
+squite.club
 srv.adngin.com
 srv.bidvertiser.com
 srv.buysellads.com
