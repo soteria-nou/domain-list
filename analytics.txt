@@ -1624,6 +1624,7 @@ eu2.snoobi.eu
 eucerin.122.2o7.net
 eue-1.steelcentral.net
 eurts.com
+eus.rubiconproject.com
 euweaj49.appmetrx.com
 event.adxpose.com
 event.inner-active.mobi
@@ -1687,6 +1688,7 @@ fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 feeds.ibt.com
 fhr.cdn.mozilla.net
 fifa.d2.sc.omtrdc.net
+files.upscore.com
 finance.iprom.net
 financesi.iprom.net
 finaonl.ivwbox.de
@@ -2605,6 +2607,7 @@ netscope.data.marktest.pt
 network.bazaarvoice.com
 new.statistici.ro
 newjobs.d1.sc.omtrdc.net
+news-uk-d.openx.net
 newsharecounts.s3-us-west-2.amazonaws.com
 newsnetw.oewabox.at
 nexus.ensighten.com
@@ -3050,6 +3053,7 @@ rcv.azureedge.net
 rd.about.com
 rd1.hitbox.com
 rda.net
+rdvrxbxwxspxd.com
 realtime.deximedia.com
 rec.getsmartlook.com
 receiver.analytics.vadio.com
@@ -3151,6 +3155,7 @@ s.canddi.io
 s.clickability.com
 s.clickiocdn.com
 s.effectivemeasure.net
+s.go-mpulse.net
 s.idio.co
 s.in.com
 s.infogr.am
@@ -3182,6 +3187,7 @@ s1.hit.stat.pl
 s1.hit.stat24.com
 s1.lemde.fr
 s1.shinystat.com
+s10.flagcounter.com
 s10.histats.com
 s10.sitemeter.com
 s11.cnzz.com
@@ -3843,6 +3849,7 @@ tags.us.onscroll.com
 tags.w55c.net
 tagtestb.ivwbox.de
 tagx.nytimes.com
+tap-secure.rubiconproject.com
 tap.idg.de
 target.net.finam.ru
 target.smi2.net
