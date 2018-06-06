@@ -382,6 +382,7 @@ anna.whatsupcams.com
 anon-stats.eff.org
 anontop.com
 anx.excite.com
+anx.tb.ask.com
 aolcscom.122.2o7.net
 aolcswhtsnw.122.2o7.net
 aolinstore.122.2o7.net
@@ -431,6 +432,7 @@ api.lever.co
 api.mixpanel.com
 api.myx.cz
 api.nanigans.com
+api.permutive.com
 api.petametrics.com
 api.raygun.io
 api.retargetly.com
@@ -1686,6 +1688,7 @@ fc.webmasterpro.de
 fc.yahoo.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 feeds.ibt.com
+felix.data.tm-awx.com
 fhr.cdn.mozilla.net
 fifa.d2.sc.omtrdc.net
 files.upscore.com
@@ -1957,6 +1960,7 @@ i.ubm-us.net
 i.w55c.net
 ia.idnes.cz
 ib.3lift.com
+ibclick.stream
 ibm.122.2o7.net
 ibn.adnxs.com
 ibt-d.openx.net
@@ -1970,6 +1974,7 @@ idgenterprise.d1.sc.omtrdc.net
 idm.hit.gemius.pl
 idpix.media6degrees.com
 idsync.rlcdn.com
+ie8eamus.com
 ikcart.alipay.com
 im.nuggad.net
 im.xiti.com
@@ -2012,6 +2017,8 @@ init.cedexis-radar.net
 inpref.com
 ins.techweb.com
 insight.torbit.com
+insights-app.blogfoster.com
+insights.blogfoster.com
 insights.dyn.archdaily.com
 insights.hotjar.com
 inskin.hs.llnwd.net

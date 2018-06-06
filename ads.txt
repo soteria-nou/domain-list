@@ -1833,6 +1833,7 @@ afx.tagcdn.com
 ag.innovid.com
 agomwefq.com
 agreemand.com
+ai.tapxchange.com
 air.adliners.de
 ajkzd9h.com
 aka-cdn-ns.adtech.de
@@ -1922,6 +1923,7 @@ as2.autoforums.com
 asd.qrrgv.space
 asia.ads.netlog.com
 ask-d.openx.net
+askhilltop.com
 asmi-mobile.nuggad.net
 asset.pagefair.com
 asset.pagefair.net
@@ -2187,6 +2189,7 @@ cdn-tags.mmondi.com
 cdn.2xbpub.com
 cdn.accelerator.arsdev.net
 cdn.acloudvideos.com
+cdn.ad.server.iprom.net
 cdn.adbrau.com
 cdn.adikteev.com
 cdn.adligature.com
@@ -2213,6 +2216,7 @@ cdn.at.atwola.com
 cdn.automatad.com
 cdn.banners.scubl.com
 cdn.bannersnack.com
+cdn.blatungo.com
 cdn.blueconic.net
 cdn.bronto.com
 cdn.buysellads.com
@@ -2230,6 +2234,7 @@ cdn.directtrk.com
 cdn.districtm.ca
 cdn.ebocornac.com
 cdn.elasticad.net
+cdn.engine.addroplet.com
 cdn.engine.adsupply.com
 cdn.exoticads.com
 cdn.fancybar.net
@@ -2356,6 +2361,7 @@ config.unityads.unity3d.com
 connect.decknetwork.net
 connect001.com
 connectedads.net
+constintptr.com
 content.adfox.ru
 content.adriver.ru
 content.adservingfactory.com
@@ -2423,6 +2429,7 @@ d.dc121677.com
 d.openx.org
 d.otaserve.net
 d.peoplesearchads.com
+d.smopy.com
 d.tds.adlabs.ru
 d.thelocal.com
 d0z4gwv7.webcam
@@ -2696,6 +2703,7 @@ frstlead.com
 frtyb.com
 ftjcfx.com
 fuegodevida.com
+funtomic-d.openx.net
 fusionads.net
 fwbntw.com
 g.doubleclick.net
@@ -3165,6 +3173,7 @@ ninjagod.com
 nization.com
 nl1.ero-advertising.com
 nodes.r66t.com
+nopickytime.com
 np.lexity.com
 ns1.doubleclick.net
 ns2.doubleclick.net
@@ -3444,6 +3453,7 @@ phox2ey.bid
 phpadsnew.abac.com
 pic247realm.kompass.com
 piguiqproxy.com
+pimmuter.com
 piop7shm.com
 pipeschannels.com
 pix.tagcdn.com
@@ -4041,6 +4051,7 @@ tracking.onefeed.co.uk
 tracking100.com
 tradex.openx.com
 traffic.adxprts.com
+traffic.adxprtz.com
 traffic.getmyads.com
 traffic.tc-clicks.com
 trafforsrv.com
@@ -4105,6 +4116,7 @@ usbanners.com
 user99.freewebhostingarea.com
 userpanel.ero-advertising.com
 usr.dropkickmedia.com
+uyrmpnojgzi.com
 uzluqqaoaw.net
 v.6dvip.com
 v.actionteaser.ru
@@ -4113,6 +4125,7 @@ v.visitweb.com
 v1.ads3.ipon.lt
 v2.ads3.ipon.lt
 v2.adsbookie.com
+v2.skeettools.com
 v2t5re6z.review
 v3.ads3.ipon.lt
 v3rjvtt.com
@@ -4167,6 +4180,7 @@ web.btncdn.com
 web.qtymi.com
 webads.nl
 westmente.info
+wheelches.info
 whirlclick.com
 whistorica.info
 widget.foodieblogroll.com
@@ -4309,6 +4323,7 @@ www.jolic2.com
 www.kanknulla.com
 www.kbdadsfast.com
 www.kbzrszspknla.com
+www.kprkrbatuob.com
 www.kqsipdhvcejx.com
 www.krovrhmqgupd.com
 www.kyveduvdkbro.com
@@ -4354,6 +4369,7 @@ www.premads.info
 www.premierads.net
 www.promotools.biz
 www.pyq6n.com
+www.qbahsvxo.com
 www.quick-date.xyz
 www.ragazzeinvendita.com
 www.rdvrxbxwxspxd.com
@@ -4450,6 +4466,7 @@ xp1.zedo.com
 xpollo.com
 xx.openx.com
 xxlargepop.com
+xxx.enterasanblog.xyz
 y.the-ad.net
 yahoo.nuggad.net
 yaisha0.bid
