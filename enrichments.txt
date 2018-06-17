@@ -85,6 +85,7 @@ cdn.pulpix.com
 cdn.pushassist.com
 cdn.pushcrew.com
 cdn.simility.com
+cdn.siteswithcontent.com
 cdn.transifex.com
 cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com
@@ -167,6 +168,7 @@ futurelooks.us.intellitxt.com
 gabsmash.us.intellitxt.com
 gartendialog.de.intellitxt.com
 gateworld.us.intellitxt.com
+gdpr.internetbrands.com
 geardigest.us.intellitxt.com
 geekinterview.us.intellitxt.com
 geekstogo.us.intellitxt.com
@@ -328,6 +330,7 @@ raymond.uk.intellitxt.com
 redirect.viglink.com
 ripp-it.fr.intellitxt.com
 rojakpot.us.intellitxt.com
+rumble.com
 s.ivillage.us.intellitxt.com
 s.ppjol.net
 savvy.us.intellitxt.com
@@ -452,6 +455,7 @@ www.geoplugin.net
 www.htmlcommentbox.com
 www.intellitxt.com
 www.intensedebate.com
+www.povezano.com
 www.searchanise.com
 www.upsite.co.il
 www.usefomo.com

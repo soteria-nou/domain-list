@@ -171,6 +171,7 @@ ab166287.adbutler-tachyon.com
 ab166388.adbutler-exciton.com
 ab167547.adbutler-luxon.com
 ab168260.adbutler-meson.com
+ablehed.pro
 abo.prismamediadigital.com
 abourselfi.com
 abs.proxistore.com
@@ -961,6 +962,7 @@ ads.enliven.com
 ads.epicmedia.si
 ads.epom.com
 ads.espletko.com
+ads.eu.criteo.com
 ads.evasivelabs.net
 ads.evendi.de
 ads.exactdrive.com
@@ -2527,6 +2529,7 @@ deloton.com
 dennis.cvtr.io
 des.smartclip.net
 destinationurl.com
+detailsay.info
 dev.iias.eu
 devart.adbureau.net
 dff7tx5c2qbxc.cloudfront.net
@@ -2975,6 +2978,7 @@ kt.h0ok.com
 ktu.sv2.biz
 l-forex.com
 l.betrad.com
+laborates.com
 landing.predictad.com
 langtzet.info
 lau2.click.union.ucweb.com
@@ -3119,6 +3123,7 @@ mwcvu.com
 mxpopad.com
 mxtads.com
 my.adocean.pl
+my.adright.co
 my.blueadvertise.com
 my.mobfox.com
 my.popxxx.net
@@ -3174,6 +3179,7 @@ nization.com
 nl1.ero-advertising.com
 nodes.r66t.com
 nopickytime.com
+notifyday.com
 np.lexity.com
 ns1.doubleclick.net
 ns2.doubleclick.net
@@ -3612,6 +3618,7 @@ r5---sn-4g5e6nsk.googlevideo.com
 r5---sn-4g5edne6.googlevideo.com
 rah7uph.bid
 rapidyl.net
+rapistory.info
 rc-aflrm.com
 rcm-eu.amazon-adsystem.com
 rcm-fe.amazon-adsystem.com
@@ -3655,6 +3662,7 @@ repmbuycurl.com
 reports.adspdbl.com
 resources.infolinks.com
 retainguaninefluorite.info
+rev.adsession.com
 rev.linuxquestions.org
 revive.adriadigital.si
 revive.adriamedia.hr
@@ -3861,6 +3869,7 @@ softonicads.com
 softpopads.com
 soma.smaato.net
 sommons.co
+soska.us
 southernx.nuggad.net
 sp-work.goviral-content.com
 spaces.slimspots.com
@@ -4015,6 +4024,7 @@ thefoxm.com
 therses.com
 this.content.served.by.adshuffle.com
 thor.rtk.io
+threedrive.su
 tiads.ew.com
 tiads.si.com
 tiads.timeinc.net
@@ -4108,6 +4118,7 @@ us-sonar.sociomantic.com
 us-u.openx.net
 us.ads.justpremium.com
 us.adserver.yahoo.com
+us.digitaldsp.com
 us.img.e-planning.net
 us1.xvika.com
 usatodaysports-d.openx.net

@@ -576,6 +576,7 @@ bdt.123rf.com
 be.112.2o7.net
 be.sitestat.com
 bea4.v.fwmrm.net
+beacon-eu-ams3.rubiconproject.com
 beacon.ad-serverparc.nl
 beacon.clickequations.net
 beacon.errorception.com
@@ -967,6 +968,7 @@ collector.contentexchange.me
 collector.githubapp.com
 collector.intergi.com
 collector.xhamster.com
+collector1.xhamster.com
 colorfot.ivwbox.de
 com.112.2o7.net
 comcast.112.2o7.net
@@ -1017,6 +1019,7 @@ count.rbc.ru
 count.xhit.com
 count.xxxssk.com
 count1.countercentral.com
+countante.info
 counter-new.hitbox.com
 counter-old.hitbox.com
 counter.adguard.com
@@ -1146,6 +1149,7 @@ d1l6p2sc9645hc.cloudfront.net
 d1lm7kd3bd3yo9.cloudfront.net
 d1mgcpums0qvsa.cloudfront.net
 d1mib12jcgwmnv.cloudfront.net
+d1qc76gneygidm.cloudfront.net
 d1r55yzuc1b1bw.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1stxfv94hrhia.cloudfront.net
@@ -2977,6 +2981,7 @@ publique.xiti.com
 pubs2-eu.creativecdn.com
 pubtags.addoor.net
 pulsar.ebay.com
+pulsar.ebay.de
 pulse-fra02.revdn.net
 pulse-lon02.revdn.net
 pulse-waw02.revdn.net
@@ -3189,6 +3194,7 @@ s.vengovision.ru
 s.webtrends.com
 s.xpanama.net
 s.youtube.com
+s.zmctrack.net
 s06.flagcounter.com
 s1.hit.stat.pl
 s1.hit.stat24.com
@@ -3494,6 +3500,7 @@ squid.gazeta.pl
 sra.s-9.us
 src.ebay-us.com
 src.litix.io
+srv.at.ebayrtm.com
 srv.azureedge.net
 srv.clickfuse.com
 srv.de.ebayrtm.com
@@ -3900,6 +3907,7 @@ thecheezburgernetwork.d1.sc.omtrdc.net
 thegroup.112.2o7.net
 themathworksinc.tt.omtrdc.net
 thenielsencompany.tt.omtrdc.net
+theonecdn.com
 therse.info
 thinkgeek.112.2o7.net
 thoccourse.112.2o7.net
@@ -4236,6 +4244,7 @@ vars.hotjar.com
 vecer.iprom.net
 velocecdn.com
 velocity-cdn.ebaystratus.com
+velocitycdn.com
 verivox01.webtrekk.net
 vg04.met.vgwort.de
 viaaddictinggames.112.2o7.net
