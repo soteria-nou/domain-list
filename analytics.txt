@@ -364,6 +364,7 @@ analytics.similarweb.com
 analytics.sitewit.com
 analytics.slashdotmedia.com
 analytics.socialblade.com
+analytics.spankbang.com
 analytics.styria.hr
 analytics.supplyframe.com
 analytics.thevideo.me
@@ -664,6 +665,7 @@ c.hit.ua
 c.hqq.tv
 c.imedia.cz
 c.jsrdn.com
+c.klcheck.com
 c.leadlab.click
 c.live.com
 c.lytics.io
@@ -1623,6 +1625,7 @@ esg2.hitbox.com
 esm1.net
 et.nytimes.com
 et.twyn.com
+etahub.com
 etrk.asus.com
 eu-sonar.sociomantic.com
 eu.npario-inc.net
@@ -2170,6 +2173,7 @@ lib.vmweb.net
 librato-collector.genius.com
 libs.coremetrics.com
 libs.de.coremetrics.com
+licensing.bitmovin.com
 liczniki.org
 lin-d.openx.net
 lineadirecta.112.2o7.net
@@ -4085,6 +4089,7 @@ tracking.olx.com
 tracking.onap.io
 tracking.percentmobile.com
 tracking.picadmedia.com
+tracking.pornhd.com
 tracking.porsche.com
 tracking.publicidees.com
 tracking.quillion.com

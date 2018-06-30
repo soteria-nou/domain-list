@@ -134,6 +134,7 @@ a.shop.com
 a.slashdotmedia.com
 a.soft32.com
 a.softpedia.com
+a.spankbang.com
 a.spicetv.com
 a.tcog.news.com.au
 a.teads.tv
@@ -1868,6 +1869,7 @@ analytics.twitter.com
 anchor.coadvertise.com
 anchor.stailamedia.com
 androidads23.adcolony.com
+anothere.club
 anrdoezrs.net
 antactica.ad.adnetwork.com.br
 anvil.rubiconproject.com
@@ -2136,6 +2138,7 @@ boston-d.openx.net
 boudja.com
 boylesportsreklame.com
 brakefluid.website
+browsers.support
 bruceleadx3.com
 bt.rcs.it
 btlr.sharethrough.com
@@ -2348,6 +2351,7 @@ code.ptcong.com
 code.taggify.net
 code.theads.me
 code2.adtlgc.com
+coinad.com
 coinhive.com
 coinser.in
 coinurl.com
@@ -2656,6 +2660,7 @@ esimedia-d.openx.net
 especifice.info
 et-code.ru
 etcodes.com
+etvtabeas.com
 eu-gmtdmp.gd1.mookie1.com
 eu-pn2.adserver.yahoo.com
 eu-u.openx.net
@@ -2910,6 +2915,7 @@ interyield.jmp9.com
 interyield.td553.com
 inv-nets.admixer.net
 inv.questex.com
+iocnkrbgic.com
 ioredi.com
 ip.nuggad.net
 ipornia.com
@@ -3002,6 +3008,7 @@ link.mercent.com
 linkbucksmedia.com
 linuxgizmos.advertserve.com
 lion.collect.mentad.com
+lite-iframe.stripcdn.com
 littel.biz
 live-cams-0.livejasmin.com
 live.fakings.com
@@ -3047,6 +3054,7 @@ mailgw.adadvisor.net
 main.dynsrvaba.com
 mainclc.com
 mantodea.mantisadnetwork.com
+mappealist.club
 mastertarget.ru
 match.adsrvr.org
 match.basebanner.com
@@ -3659,6 +3667,7 @@ relay.mobile.toboads.com
 relay.toboads.si
 remarketstats.com
 repmbuycurl.com
+reportions.club
 reports.adspdbl.com
 resources.infolinks.com
 retainguaninefluorite.info
@@ -3796,6 +3805,7 @@ secserv.adtech.de
 secure-ads.pictela.net
 secure-ds.serving-sys.com
 secure.adnxs.com
+secure.bannerfarm.ace.advertising.com
 secure.bidverdrs.com
 secure.leadback.advertising.com
 secure.medleyads.com
@@ -3836,6 +3846,7 @@ sexpennyauctions.com
 sgreen.erne.co
 shalleda.com
 shareasale.com
+shermore.info
 shopbop.sp1.convertro.com
 shortlink.sex
 show.adacts.com
@@ -3943,6 +3954,7 @@ static.zanox.com
 static.zeti.com
 static2.advtools.rcsobjects.it
 statserv.net
+stelis.eu
 stickyads.adswizz.com
 stodyew.info
 stuffle.it
@@ -4006,6 +4018,7 @@ tas.toboads.si
 tas2.toboads.si
 td.vs3.com
 tdn.gtranslate.net
+tds.admaxer.ru
 tds.advland.net
 tebadu.com
 tech547789.ru
@@ -4150,6 +4163,7 @@ vast.brandads.net
 vast.vertamedia.com
 vdrn.redplum.com
 venturead.com
+vg74gi6mea.com
 vice-ads-cdn.vice.com
 vice-publishers.s3.amazonaws.com
 vid.springserve.com
@@ -4266,6 +4280,7 @@ www.advertising365.com
 www.advimgsrv.com
 www.advmedialtd.com
 www.adxpansion.com
+www.adzclick.net
 www.affiliatly.com
 www.afvcugqaulh.co
 www.allanalpass.com
@@ -4347,6 +4362,7 @@ www.maxonclick.com
 www.mb103.com
 www.mgrxsztbcfeg.com
 www.modmyads.com
+www.modulepush.com
 www.mrkzgpbaapif.com
 www.mttyfwtvyumc.com
 www.mxsuikhqaggf.com
@@ -4411,6 +4427,7 @@ www.trafficmagnates.com
 www.trumbo.site
 www.twmvjfatla.com
 www.uoarbhxfyygn.com
+www.urldelivery.com
 www.usoqghurirvz.com
 www.venturead.com
 www.vhpqxkhvjgwx.com
