@@ -653,6 +653,7 @@ buzznet.112.2o7.net
 bvwr.hitbox.com
 by.uservoice.com
 by2.uservoice.com
+c.adexchangemachine.com
 c.bigmir.net
 c.cdnma.com
 c.cnzz.com
@@ -845,6 +846,7 @@ cdn.zeerat.com
 cdn01.mzbcdn.net
 cdn1.affirm.com
 cdn1.developermedia.com
+cdn1.inspsearchapi.com
 cdn2.developermedia.com
 cdn2.pollster.pl
 cdn3.optimizely.com
@@ -3006,6 +3008,7 @@ px.wa.ui-portal.de
 pxl.connexity.net
 pxl.ibpxl.com
 pxl.trafficstars.com
+pxl.tsyndicate.com
 pxlctl.as.com
 pxlctl.elpais.com
 pxlssl.ibpxl.com
@@ -3305,6 +3308,7 @@ sb.scorecardresearch.com
 sbb.viator.com
 sbnationbidder-d.openx.net
 sc-analytics.appspot.com
+sc-collector.n26.com
 sc.cdnma.com
 sc.independent.co.uk
 sc.mtv.com
@@ -4513,6 +4517,7 @@ www.upsellit.com
 www.usurv.com
 www.w3counter.com
 www.webcounter.com
+www.webterapija.si
 www.whizstats.com
 www.wysistat.com
 www.xiti.com
