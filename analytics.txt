@@ -1761,6 +1761,7 @@ garo.hit.gemius.pl
 gars.hit.gemius.pl
 garu.hit.gemius.pl
 gasi.hit.gemius.pl
+gask.hit.gemius.pl
 gastar.ivwbox.de
 gate.datacaciques.com
 gateway.answerscloud.com
@@ -2164,6 +2165,7 @@ leeenterprises.112.2o7.net
 lego.112.2o7.net
 lemmecheck.xyz
 lenovo.112.2o7.net
+lenovo.evergage.com
 lenovo.tt.omtrdc.net
 levexis.com
 levis.xiti.com
@@ -4587,6 +4589,7 @@ yieldoptimizer.com
 yigg.ivwbox.de
 yip.su
 yjmvx.space
+ymetrica1.com
 ynuf.alipay.com
 yottlyscript.com
 yourprecious.geopedia.si
