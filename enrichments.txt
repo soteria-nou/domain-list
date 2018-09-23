@@ -325,6 +325,7 @@ ps3-live.fr.intellitxt.com
 public-prod-dspcookiematching.dmxleo.com
 publishing.kaloo.ga
 qeryz.com
+quantcast.mgr.consensu.org
 quotaless.us.intellitxt.com
 raymond.uk.intellitxt.com
 redirect.viglink.com

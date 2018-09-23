@@ -2429,6 +2429,7 @@ ctasnet.com
 cts.tradepub.com
 ctxt.tribalfusion.com
 ctxtad.tribalfusion.com
+cum.tnaflix.com
 curse-d.openx.net
 cz.adocean.pl
 cz.search.etargetnet.com
@@ -2559,6 +2560,7 @@ display.mybroadband.co.za
 displayad.layer-ad.org
 displayads.liveuniversenetwork.com
 disqusads.com
+diva.services
 divx.adbureau.net
 dlvr.adne.tv
 dlvr.readserver.net
@@ -2655,6 +2657,7 @@ engine.nectarads.com
 engine.spotscenered.info
 engine.widespace.com
 engine2.adzerk.net
+eoredi.com
 ep.1a-ads.si
 ep00.epimg.net
 epicgameads.com
@@ -2836,6 +2839,7 @@ hts68934.com
 httpool.nuggad.net
 hugde.adocean.pl
 hw-a-edge.freepik.com
+hypoot.com
 i.addmob.info
 i.adnium.com
 i.bongacash.com
@@ -3066,6 +3070,7 @@ mads.at.atwola.com
 mads.download.com
 mads.webshots.com
 mafia-banner.myftp.org
+mahimeta.com
 mail.adadvisor.net
 mailgw.adadvisor.net
 main.dynsrvaba.com
@@ -3213,6 +3218,7 @@ ns2.doubleclick.net
 ns3.doubleclick.net
 ns4.doubleclick.net
 nspmotion.com
+nyacampwk.com
 nym1.adnxs.com
 nym1.ib.adnxs.com
 nyyed.com
@@ -3519,6 +3525,7 @@ pl132334.puhtml.com
 pl14046040.puserving.com
 pl142218.puhtml.com
 pl14300112.puserving.com
+pl14409391.puserving.com
 pl168555.puhtml.com
 pl177916.puhtml.com
 pl178987.puhtml.com
@@ -3608,6 +3615,7 @@ psma01.com
 psma02.com
 psma03.com
 pssvc.iqzone.com
+pto.ptawe.com
 ptp22.com
 ptp33.com
 pu.plugrush.com
@@ -3799,6 +3807,7 @@ s3.atas.io
 s3.atas.io.pornit.me
 s3.buysellads.com
 s4.adwatcher.net
+s9kkremkr0.com
 safeadnetworkdata.net
 safeads.69sg.com
 safelinktracker.com
@@ -4115,6 +4124,7 @@ triggers.wfxtriggers.com
 tripple.nuggad.net
 trixtraff.com
 trk.newtention.net
+trourted.pro
 trvlnet.adbureau.net
 trw12.com
 trzi30ic.com
@@ -4181,6 +4191,7 @@ v3.ads3.ipon.lt
 v3rjvtt.com
 v4.actionteaser.ru
 v4.moatads.com
+vacaneedasap.com
 vad-us.adbasket.net
 vad.adbasket.net
 valuepubmedia.com
@@ -4379,6 +4390,7 @@ www.kbzrszspknla.com
 www.kprkrbatuob.com
 www.kqsipdhvcejx.com
 www.krovrhmqgupd.com
+www.kvhxckkd.com
 www.kyveduvdkbro.com
 www.landmineads.com
 www.lbfryfttoihl.com
@@ -4401,6 +4413,7 @@ www.netvertising.be
 www.networkadvertising.org
 www.newpoptab.com
 www.newtabtv.com
+www.nharaeklya.com
 www.nklivofyjkbt.com
 www.nnbestmblotl.com
 www.ntnlawgchgds.com
@@ -4521,6 +4534,7 @@ xml.adbetnet.com
 xml.adright.com
 xml.pdn-3.com
 xml.pdn-5.com
+xml.revrtb.com
 xoredi.com
 xp1.zedo.com
 xpollo.com
@@ -4528,6 +4542,7 @@ xx.openx.com
 xxlargepop.com
 xxx.enterasanblog.xyz
 y.the-ad.net
+y1jxiqds7v.com
 yahoo.nuggad.net
 yaisha0.bid
 yceml.net
@@ -4560,5 +4575,6 @@ zigad.starves.org
 zk.admoldova.org
 zonearmour4u.work
 zrk.imgur.com
+zukxd6fkxqn.com
 zulu.r867qq.net
 zz.connextra.com

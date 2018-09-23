@@ -867,6 +867,7 @@ centerpoint2.hitbox.com
 central.iprom.net
 centraliprom.com
 centraliprom.net
+certify-js.alexametrics.com
 ceskedrahy01.webtrekk.net
 cetrk.com
 cfrcfr.112.2o7.net
@@ -1503,6 +1504,7 @@ ea.warnerbros.fr
 eaeacom.112.2o7.net
 earthlink.122.2o7.net
 eas3.emediate.se
+easygamepromo.com
 eb2.3lift.com
 ebay.112.2o7.net
 ebay.ivwbox.de
@@ -1756,6 +1758,7 @@ gaiainteractive.112.2o7.net
 galt.hit.gemius.pl
 galv.hit.gemius.pl
 gannett.demdex.net
+ganon.yahoo.com
 gapl.hit.gemius.pl
 garo.hit.gemius.pl
 gars.hit.gemius.pl
@@ -2498,6 +2501,7 @@ metrics.electronicdesign.com
 metrics.ew.com
 metrics.farnell.com
 metrics.gettyimages.com
+metrics.gfycat.com
 metrics.mathworks.com
 metrics.nearpod.com
 metrics.nero.com
@@ -2532,6 +2536,7 @@ mirror2.rummblelabs.com
 ml314.com
 mlbcom.112.2o7.net
 mm.welt.de
+mms.cnn.com
 mnet-ad.net
 mntpp.bidverdrd.com
 mobile.xiti.com
@@ -2662,6 +2667,7 @@ nova.everstring.com
 novell.112.2o7.net
 novozymes.112.2o7.net
 now.eloqua.com
+noy90o.com
 ns-ehg-vip.hitbox.com
 ns-freehg-vip.hitbox.com
 ns-staging-vip.hitbox.com
@@ -3235,6 +3241,7 @@ s2.cdnplanet.com
 s2.hit.stat.pl
 s2.hit.stat24.com
 s2.shinystat.com
+s2.static.cfgr2.com
 s2.youtube.com
 s20.sitemeter.com
 s21.sitemeter.com
@@ -3806,6 +3813,8 @@ t.flux.com
 t.freelancer.com
 t.frtyi.com
 t.garena.com
+t.grtyo.com
+t.hrtya.com
 t.indeed.com
 t.irtyf.com
 t.kcart.me
@@ -4157,6 +4166,7 @@ trk.slimcdns.com
 trk.tracksys55.com
 trk.vidible.tv
 trkclk.adk2x.com
+trkn.us
 try.abtasty.com
 ts.popsugar.com
 ts.tnaflix.com
@@ -4374,6 +4384,7 @@ westhostinc.122.2o7.net
 wetransfer-d.openx.net
 wetteronline-d.openx.net
 wfpscripts.webspectator.com
+widget.eagleapi.io
 widgets.backtype.com
 widgets.future-hawk-content.co.uk
 wienerberger.112.2o7.net
