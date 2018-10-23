@@ -542,6 +542,7 @@ b.grvcdn.com
 b.hlserve.com
 b.huffingtonpost.com
 b.kavanga.ru
+b.klcheck.com
 b.mandatory.com
 b.marfeel.com
 b.ns1p.net
@@ -745,6 +746,7 @@ cc.zeit.de
 cc2.dealer.com
 cdc.112.2o7.net
 cdlc.iadvize.com
+cdn-0.d41.co
 cdn-1.convertexperiments.com
 cdn-3.convertexperiments.com
 cdn-athena.cafemom.com
@@ -937,6 +939,7 @@ cm.eyereturn.com
 cm.l.qq.com
 cmdts.ksmobile.com
 cmp.112.2o7.net
+cmp.mediavine.com
 cmpglobalvista.112.2o7.net
 cn01.dwstat.cn
 cnetasiapacific.122.2o7.net
@@ -963,6 +966,7 @@ codice.shinystat.com
 codicebusiness.shinystat.com
 codiceisp.shinystat.com
 col.eum-appdynamics.com
+collect.albacross.com
 collect.octalytics.com
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
@@ -1196,6 +1200,7 @@ d3avqv6zaxegeu.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3cknv5e7a99jg.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
+d3e5f9p81ao1ib.cloudfront.net
 d3ezl4ajpp2zy8.cloudfront.net
 d3fqhkmofpujs3.cloudfront.net
 d3mwhxgzltpnyp.cloudfront.net
@@ -1316,6 +1321,7 @@ dlogin.hitbox.com
 dm.codeproject.com
 dmg.digitaltarget.ru
 dmp.theadex.com
+dmpstorage.adalliance.io
 dmros1.ysm.yahoo.com
 dms-analytics.buuteeq.com
 dmtracking2.alibaba.com
@@ -1326,6 +1332,7 @@ dnhgz729v27ca.cloudfront.net
 dnn506yrbagrg.cloudfront.net
 dnnanalytics.azurewebsites.net
 dns01.hitbox.com
+dnt.qualaroo.com
 docs.xiti.com
 docs75.xiti.com
 docsclients.xiti.com
@@ -2459,6 +2466,7 @@ maxim.122.2o7.net
 mc.exacttarget.com
 mc.s4.exacttarget.com
 mc.s6.exacttarget.com
+mc.webvisor.com
 mdlbs.motor-talk.de
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
@@ -2730,6 +2738,7 @@ optimize.webtrends.com
 optimized.by.tiller.co
 optimizedby.brealtime.com
 options.xiti.com
+optout.adalliance.io
 oq.cnzz.com
 oracle.112.2o7.net
 oracledocs.112.2o7.net
@@ -2773,6 +2782,7 @@ p.nexac.com
 p.prod.theintercept.com
 p.rfihub.com
 p.skimresources.com
+p.smarter-js.com
 p.smartertravel.com
 p.spletnik.si
 p.t.dps-reach.com
@@ -2805,6 +2815,7 @@ pcworldcommunication.122.2o7.net
 pcworldcommunication.d2.sc.omtrdc.net
 pde.lp4.io
 pdf.xiti.com
+pebed.dm-event.net
 pebed.dm.gg
 pentonmedia.122.2o7.net
 perf.mmstat.com
@@ -2925,6 +2936,7 @@ pl6447009.puhtml.com
 planck.xiti.com
 platform-metrics-api.sharethis.com
 platform.bidgear.com
+play.feesocrald.com
 pls.webtype.com
 plugin.reactful.com
 plus.addkt.com
@@ -2985,6 +2997,7 @@ ps.eyeota.net
 ps14.pubnub.com
 psyng.com
 pt.fiksu.com
+pt.trafficjunky.net
 pto.awecr.com
 pturt.com
 pu.trafficshop.com
@@ -3099,6 +3112,7 @@ rem-track.bild.de
 report-ads-to.pubnation.com
 report-zt.allmusic.com
 report.23video.com
+report.appmetrica.webvisor.com
 report.footprintdns.com
 reporting.singlefeed.com
 reportsuiteid.112.2o7.net
@@ -3389,6 +3403,7 @@ senergy.teslarati.com
 seness.info
 sentry.io
 serv.clicksor.net
+serve.albacross.com
 servedby.adxpose.com
 server-it.imrworldwide.com
 server-us.imrworldwide.com
@@ -3456,6 +3471,7 @@ sm6.sitemeter.com
 sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
+smarter-metrics.smartertravel.com
 smct.co
 smetrics.avnet.com
 smetrics.boston.com
@@ -3569,6 +3585,7 @@ stat.adlabs.ru
 stat.aldi.com
 stat.alibaba.com
 stat.automobile.de
+stat.biqle.ru
 stat.cliche.se
 stat.cncenter.cz
 stat.dealtime.com
@@ -4070,12 +4087,14 @@ tracki112.com
 tracking-lr.deepsearch.adlucent.com
 tracking-rce.veeseo.com
 tracking.absolstats.com
+tracking.adalliance.io
 tracking.adjug.com
 tracking.aldi-international.com
 tracking.allposters.com
 tracking.banners.meccahoo.com
 tracking.binarypromos.com
 tracking.bloomberg.com
+tracking.bodis.com
 tracking.callmeasurement.com
 tracking.cdiscount.com
 tracking.conversionlab.it
@@ -4177,6 +4196,7 @@ tt1.openload.co
 tt2.openload.co
 tumblrreports.cedexis.com
 tunein-d.openx.net
+turbo.qualaroo.com
 turneruk.112.2o7.net
 turnto.com
 tvguide.112.2o7.net
@@ -4349,6 +4369,7 @@ web2.iprom.si
 web4.realtracker.com
 webanalytics2.ovh.net
 webassets.desk.com
+webed.dm-event.net
 webed.dm.gg
 webeffective.keynote.com
 webindicator.siteheart.com

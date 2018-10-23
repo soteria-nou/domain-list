@@ -30,8 +30,10 @@ animecubed.us.intellitxt.com
 answerbag.us.intellitxt.com
 anvari.us.intellitxt.com
 api.booster3000.si
+api.bufferapp.com
 api.facebook.com
 api.mediabooster.si
+api.parsely.com
 api.pulpix.com
 api.survicate.com
 app.convertfox.com
@@ -110,6 +112,7 @@ contextlinks.netseer.com
 contextual.media.net
 cookiebanner.unionstationapp.com
 cookieinfoscript.com
+cookies.kreatorij.si
 csharpcorner.us.intellitxt.com
 custompc.uk.intellitxt.com
 d.la1-c1-dfw.salesforceliveagent.com
@@ -374,6 +377,7 @@ stacksocial-production-stacksocial.netdna-ssl.com
 staging.sja.sportradar.com
 static.elev.io
 static.giftwizard.co
+static.leadpages.net
 static.plenigo.com
 static.whatshelp.io
 stern.de.intellitxt.com
@@ -437,6 +441,7 @@ usemycomputer.us.intellitxt.com
 v3.uk.intellitxt.com
 v5.actionteaser.ru
 velocityreviews.uk.intellitxt.com
+vendorlist.consensu.org
 video-drivers.us.intellitxt.com
 vnu.uk.intellitxt.com
 vnunet.uk.intellitxt.com
@@ -456,10 +461,12 @@ www.geoplugin.net
 www.htmlcommentbox.com
 www.intellitxt.com
 www.intensedebate.com
+www.iubenda.com
 www.povezano.com
 www.searchanise.com
 www.upsite.co.il
 www.usefomo.com
 www.wishpond.com
+www2.cbox.ws
 xda-developers.us.intellitxt.com
 zataz.fr.intellitxt.com
