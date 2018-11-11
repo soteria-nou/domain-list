@@ -1,6 +1,7 @@
 1up.us.intellitxt.com
 247wallstreet.us.intellitxt.com
 a.c0594.com
+a.optmnstr.com
 activewin.us.intellitxt.com
 admin.paidtime.com
 adv-g001.us.intellitxt.com
@@ -36,6 +37,7 @@ api.mediabooster.si
 api.parsely.com
 api.pulpix.com
 api.survicate.com
+app.consentassist.com
 app.convertfox.com
 app.convertkit.com
 app.getresponse.com
@@ -74,6 +76,7 @@ cackle.me
 cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
+cdn.callbackhunter.com
 cdn.dynamicyield.com
 cdn.feedbackify.com
 cdn.georiot.com
@@ -88,7 +91,10 @@ cdn.pushassist.com
 cdn.pushcrew.com
 cdn.simility.com
 cdn.siteswithcontent.com
+cdn.socialmediatabs.com
+cdn.subscribers.com
 cdn.transifex.com
+cdn.zopim.com
 cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com
 celebritywonder.us.intellitxt.com
@@ -106,6 +112,7 @@ coin-have.com
 coin-hive.com
 comingsoon.us.intellitxt.com
 compnet.us.intellitxt.com
+consent.cookiebot.com
 contactmusic.uk.intellitxt.com
 content.zemanta.com
 contextlinks.netseer.com
@@ -141,6 +148,7 @@ entertainment.msnbc.us.intellitxt.com
 es.intellitxt.com
 esi.gscontxt.net
 ethn.io
+eu.cookie-script.com
 eucookie.internetbrands.com
 events.apester.com
 evshed.us.intellitxt.com
@@ -330,6 +338,7 @@ publishing.kaloo.ga
 qeryz.com
 quantcast.mgr.consensu.org
 quotaless.us.intellitxt.com
+quriobot.com
 raymond.uk.intellitxt.com
 redirect.viglink.com
 ripp-it.fr.intellitxt.com
@@ -379,6 +388,7 @@ static.elev.io
 static.giftwizard.co
 static.leadpages.net
 static.plenigo.com
+static.quriobot.com
 static.whatshelp.io
 stern.de.intellitxt.com
 subscribe.wired.com
@@ -423,6 +433,7 @@ toptenreviews.us.intellitxt.com
 totalfilm.uk.intellitxt.com
 totalvideogames.uk.intellitxt.com
 touslesdrivers.fr.intellitxt.com
+traffic5.helponclick.com
 traileraddict.us.intellitxt.com
 tslfeeder.dotfusion.com
 tutorialized.us.intellitxt.com
@@ -450,6 +461,7 @@ web-sdk.urbanairship.com
 webhostingtalk.us.intellitxt.com
 wi-fiplanet.us.intellitxt.com
 wi-fitechnology.uk.intellitxt.com
+widgets.membership.s-msft.com
 windowsitpro.us.intellitxt.com
 wpcentral.us.intellitxt.com
 wugnet.us.intellitxt.com

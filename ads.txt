@@ -12,8 +12,10 @@
 123banners.com
 12place.com
 1364.tm.zedo.com
+148dfe140d0f3d5e.com
 165a7.v.fwmrm.net
 1f7wwaex9rbh.com
+1gr.cz
 1phads.com
 2.adbrite.com
 20754664p.rfihub.com
@@ -2119,6 +2121,7 @@ beacon.dedicatednetworks.com
 beaconads.com
 beead.nuggad.net
 bellcan.adbureau.net
+best.prizedeal16.info
 bestadbid.com
 bestarmour4u.link
 bestarmour4u.work
@@ -2142,6 +2145,7 @@ blogads.com
 blueadvertise.com
 bnr2.revdepo.com
 bnrs.it
+bodelen.com
 bodieworks.com
 bolhaads.doticni.net
 bongacams.com
@@ -2253,6 +2257,7 @@ cdn.directtrk.com
 cdn.districtm.ca
 cdn.ebocornac.com
 cdn.elasticad.net
+cdn.elev.io
 cdn.engine.addroplet.com
 cdn.engine.adsupply.com
 cdn.exoticads.com
@@ -2546,6 +2551,7 @@ delivery.us.myswitchads.com
 delivery.vidible.tv
 delivery.w00tads.com
 delivery1.topad.mobi
+dell.demdex.net
 delodom.iprom.net
 deloton.com
 dennis.cvtr.io
@@ -2819,9 +2825,11 @@ h6.msn.com
 haeg1ei.bid
 hahemla.com
 happer.info
+hb.vntsm.com
 heise.nuggad.net
 helix.beanstock.co
 hellosociety.com
+hfllrf6lwh.com
 hgbn.rocks
 hi5.adnxs.com
 higheurest.com
@@ -2925,7 +2933,9 @@ impse.tradedoubler.com
 in.appserver-ap.com
 in.tubecorporate.com
 in.zog.link
+in14.zog.link
 in2.zog.link
+in3.zog.link
 in8.zog.link
 inclk.com
 incogpontus.club
@@ -2983,6 +2993,7 @@ js.himediads.com
 js.indexww.com
 js.juicyads.com
 js.moatads.com
+js.recurly.com
 js.smartredirect.de
 js.srcsmrtgs.com
 js.tiscali.dotandad.com
@@ -3047,6 +3058,7 @@ lion.collect.mentad.com
 lite-iframe.stripcdn.com
 littel.biz
 live-cams-0.livejasmin.com
+live.demand.supply
 live.fakings.com
 live.sekindo.com
 livepass.conviva.com
@@ -3064,6 +3076,7 @@ lpm-mondadori.nuggad.net
 lrcm.amgdgt.com
 lrytaslt.adocean.pl
 lt.adocean.pl
+luckypushh.com
 luhtb.top
 lusthaus2.bannerdealer.com
 luxup.ru
@@ -3604,6 +3617,8 @@ prestoris.com
 prg.smartadserver.com
 primary.bannerwerbung.net
 primaryads.com
+privacy.crwdcntrl.net
+privacy.purch.com
 prm.clicks4ads.com
 pro-advertising.com
 pro.buysellads.com
@@ -3923,6 +3938,7 @@ simage2.pubmatic.com
 simpleadserver.net
 simpleadserver.org
 sis9the.top
+siterdm.com
 sixapart.adbureau.net
 skeettools.com
 slejv.space
@@ -3968,6 +3984,7 @@ sscdn.banners.advidi.com
 ssdk.adkmob.com
 ssl-i.cdn.openx.com
 ssl-tools.bongacams.com
+ssl.survey.webstatus.v2.userneeds.dk
 ssl2anyone3.com
 sslwidget.criteo.com
 sso.anbtr.com
@@ -4009,6 +4026,7 @@ static.natoms.com
 static.parsely.com
 static.pdn-1.com
 static.slfpu.com
+static.supuv2.com
 static.verticalscope.com
 static.yieldmo.com
 static.zanox.com
@@ -4034,6 +4052,7 @@ sync.ipredictive.com
 sync.rhythmxchange.com
 sync.teads.tv
 synchrobox.adswizz.com
+syndicate.purch.com
 syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
@@ -4164,6 +4183,7 @@ tv3ads.zabec.net
 tvn.adocean.pl
 tvn2.adocean.pl
 twistads.com
+twpasol.com
 txjdgm53.win
 u-ads.adap.tv
 u1hw38x0.com
@@ -4427,6 +4447,7 @@ www.kvhxckkd.com
 www.kyveduvdkbro.com
 www.landmineads.com
 www.lbfryfttoihl.com
+www.lcwfab1.com
 www.lexozfldkklgvc.com
 www.liveadexchanger.com
 www.loading-delivery2.com
@@ -4471,6 +4492,7 @@ www.predictivadnetwork.com
 www.premads.info
 www.premierads.net
 www.promotools.biz
+www.pvuqahjiburadw.com
 www.pyq6n.com
 www.qbahsvxo.com
 www.quick-date.xyz

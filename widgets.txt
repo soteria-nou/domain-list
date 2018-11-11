@@ -76,6 +76,7 @@ chatwing.com
 chs02.cookie-script.com
 cn.cbsimg.net
 cointent.com
+components.justanswer.com
 connect.ekomi.de
 connect.facebook.net
 connect.ok.ru
@@ -122,6 +123,7 @@ gatewayvortx.whoson.com
 geoloc10.whoaremyfriends.net
 geoloc4.whoaremyfriends.net
 getbarometer.s3.amazonaws.com
+gizmos.future-fie-assets.co.uk
 glitter-services.disqus.com
 gmodules.com
 go.activengage.com
@@ -316,6 +318,7 @@ widget.whatsbroadcast.com
 widgethost.barnebys.com
 widgets.alexa.com
 widgets.digg.com
+widgets.future-fie-assets.co.uk
 widgets.getglue.com
 widgets.getpocket.com
 widgets.getsitecontrol.com

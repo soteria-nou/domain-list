@@ -420,6 +420,7 @@ api.cxense.com
 api.dec.sitefinity.com
 api.demandbase.com
 api.dimestore.com
+api.entrepreneur.com
 api.europe.kontagent.net
 api.fandommetrics.com
 api.funnelytics.io
@@ -463,6 +464,7 @@ app.link
 app.marketizator.com
 app.trustev.com
 app.ubertags.com
+app.whoisvisiting.com
 app.widiz.com
 appapi.inspsearchapi.com
 appinfo.toptal.com
@@ -813,6 +815,7 @@ cdn.petametrics.com
 cdn.ravenjs.com
 cdn.raygun.io
 cdn.refersion.com
+cdn.relaymedia.com
 cdn.sailthru.com
 cdn.scarabresearch.com
 cdn.segment.com
@@ -850,6 +853,7 @@ cdn1.affirm.com
 cdn1.developermedia.com
 cdn1.inspsearchapi.com
 cdn2.developermedia.com
+cdn2.lockerdomecdn.com
 cdn2.pollster.pl
 cdn3.optimizely.com
 cdn4.forter.com
@@ -913,6 +917,8 @@ clck.yandex.ru
 clevernt.com
 click.aabacosmallbusiness.com
 click.appinthestore.com
+click.jasmin.com
+click.livejasmin.com
 click.startappservice.com
 clickanalyzer.jp
 clickcdn.shareaholic.com
@@ -934,6 +940,7 @@ clkd.at
 cloud-emea.analytics-egain.com
 cloudfront-labs.amazonaws.com
 cloudfront.loggly.com
+cluster.awmserve.com
 cm.adgrx.com
 cm.eyereturn.com
 cm.l.qq.com
@@ -1523,6 +1530,7 @@ ebolha.iprom.net
 ec.editmysite.com
 ec.weebly.com
 ec1.hitbox.com
+ece-logger.nandomedia.com
 ecf.d41.co
 ecn.dev.virtualearth.net
 ecruos.golem.de
@@ -1709,6 +1717,7 @@ feeds.ibt.com
 felix.data.tm-awx.com
 fhr.cdn.mozilla.net
 fifa.d2.sc.omtrdc.net
+files.ampush.io
 files.upscore.com
 finance.iprom.net
 financesi.iprom.net
@@ -1754,6 +1763,7 @@ ga-beacon.appspot.com
 ga.clearbit.com
 ga.getresponse.com
 ga.googlevideo.io
+ga.kvideo.io
 ga.nsimg.net
 gaae.hit.gemius.pl
 gaba.hit.gemius.pl
@@ -1762,6 +1772,7 @@ gacz.hit.gemius.pl
 gadk.hit.gemius.pl
 gahu.hit.gemius.pl
 gaiainteractive.112.2o7.net
+gala.spiceworks.com
 galt.hit.gemius.pl
 galv.hit.gemius.pl
 gannett.demdex.net
@@ -1948,6 +1959,7 @@ horizon.forbes.com
 horizon.mashable.com
 hosted-oswa.org
 hotels.112.2o7.net
+hpe.tt.omtrdc.net
 hphqglobal.112.2o7.net
 hqx-qmp.quinstreet.com
 hr.hit.gemius.pl
@@ -2148,6 +2160,7 @@ kt4.kliptracker.com
 kweb.videostep.com
 kwobj.com
 kyarm.com
+l-so.rlcdn.com
 l.5min.com
 l.jiathis.com
 l.ooyala.com
@@ -2467,6 +2480,9 @@ mc.exacttarget.com
 mc.s4.exacttarget.com
 mc.s6.exacttarget.com
 mc.webvisor.com
+mcc-tags.cisco.com
+mcclatchy.demdex.net
+mcclatchy.sc.omtrdc.net
 mdlbs.motor-talk.de
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
@@ -2997,6 +3013,7 @@ ps.eyeota.net
 ps14.pubnub.com
 psyng.com
 pt.fiksu.com
+pt.ptawe.com
 pt.trafficjunky.net
 pto.awecr.com
 pturt.com
@@ -3456,6 +3473,7 @@ sloveniainfo.log.checkeffect.at
 slovenskenovice.iprom.net
 sm-cdn.simplymeasured.com
 sm-stats.inkfrog.com
+sm.dell.com
 sm.sitemeter.com
 sm1.sitemeter.com
 sm10.sitemeter.com
@@ -3574,6 +3592,7 @@ st.hit.gemius.pl
 st.listrak.com
 st.magnify.net
 st.top100.ru
+st.tubecorporate.com
 st.tubecup.org
 stag.mdotlabs.com
 staging.trafex.net
@@ -3643,6 +3662,7 @@ static.getclicky.com
 static.hotjar.com
 static.imgserve.us
 static.kameleoon.com
+static.mywebstats.com.au
 static.oktopost.com
 static.proximic.com
 static.site24x7rum.com
@@ -3715,6 +3735,7 @@ stats.mezzobit.com
 stats.mirror.co.uk
 stats.mirrorfootball.co.uk
 stats.mm-tuning.nl
+stats.muzik.si
 stats.nico-hessler.de
 stats.olark.com
 stats.openload.co
@@ -3776,6 +3797,7 @@ std.o.webmd.com
 std1.hit.gemius.pl
 stepstone.d1.sc.omtrdc.net
 storemetrics.pixelbits.io
+stormyachiever.com
 strato.ivwbox.de
 strawberries.112.2o7.net
 stroer-d.openx.net
@@ -4040,6 +4062,7 @@ track.tiara.daum.net
 track.totalav.com
 track.ultimate-guitar.com
 track.untd.com
+track.venatusmedia.com
 track.virool.com
 track.vivid.com
 track.w3counter.com
@@ -4179,6 +4202,7 @@ tripple.oewabox.at
 trk.bhs4.com
 trk.enecto.com
 trk.freepik.com
+trk.justanswer.com
 trk.kissmetrics.com
 trk.parrable.com
 trk.slimcdns.com
@@ -4226,6 +4250,7 @@ uip.semasio.net
 uk.112.2o7.net
 uk.sitestat.com
 umds.wpdigital.net
+unagi-na.amazon.com
 unimusic.ivwbox.de
 unistreamvideoad.iprom.net
 universal.iperceptions.com
@@ -4329,6 +4354,7 @@ vnumedia01.webtrekk.net
 volkswagencouk.agillic.eu
 vra.outbrain.com
 vs.dmtracker.com
+vstats.digitaltrends.com
 vt.myvisualiq.net
 vuelingnewsletter.112.2o7.net
 vuukle.com
@@ -4356,6 +4382,8 @@ waterfrontmedia.112.2o7.net
 wateryvan.com
 wbrostmz.112.2o7.net
 wcdn.zoomanalytics.co
+wcs.naver.com
+wcs.naver.net
 wd.fiftyone.com
 web-analytics.website
 web-clients.mynativeplatform.com
@@ -4527,6 +4555,7 @@ www.s6w.de
 www.sc.pages02.net
 www.sc.pages03.net
 www.shinystat.com
+www.shopperapproved.com
 www.sitemeter.com
 www.snapengage.com
 www.spartan-ntv.com
