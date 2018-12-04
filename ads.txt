@@ -60,6 +60,7 @@
 85dcf732d593.se
 89.8ox.cn
 8hykthze.cricket
+95bc7f616dc797aa.com
 9s84.cedc.gdn
 a.abnad.net
 a.activestate.com
@@ -1364,6 +1365,7 @@ ads.videobox.com
 ads.videomaker.com
 ads.vidible.tv 
 ads.vimg.net
+ads.vin.gd
 ads.viralize.tv
 ads.viva.pesec.net
 ads.vivesexo.com
@@ -1900,6 +1902,7 @@ api.branch.io
 api.c.avazunativeads.com
 api.conduit.com
 api.content-ad.net
+api.elipso.hr
 api.ero-advertising.com
 api.hatscher.eu
 api.ooyala.com
@@ -2128,6 +2131,7 @@ bestarmour4u.work
 bestcontentservice.top
 bestgameads.com
 besthitsnow.com
+bestperforming.site
 bevo-eu-west-1.adsnative.com
 bh-engine.intextad.net
 bid.g.doubleclick.net
@@ -2209,6 +2213,7 @@ cdn-highwinds.unityads.unity3d.com
 cdn-next.megabon.eu
 cdn-t.omsnative.de
 cdn-tags.mmondi.com
+cdn.234doo.com
 cdn.2xbpub.com
 cdn.accelerator.arsdev.net
 cdn.acloudvideos.com
@@ -2231,6 +2236,7 @@ cdn.adsrvmedia.com
 cdn.adsrvmedia.net
 cdn.adstract.com
 cdn.adswizz.com
+cdn.adsync.tech
 cdn.adtrue.com
 cdn.advertserve.com
 cdn.afdads.com
@@ -2251,6 +2257,7 @@ cdn.clickfuse.com
 cdn.clicksondelivery.com
 cdn.conative.de
 cdn.connatix.com
+cdn.connectad.io
 cdn.cpmstar.com
 cdn.directrev.com
 cdn.directtrk.com
@@ -2290,6 +2297,7 @@ cdn.popcash.net
 cdn.popmyads.com
 cdn.pulpix.co
 cdn.pvrtx.net
+cdn.ratahor.com
 cdn.reporo.net
 cdn.revcontent.com
 cdn.samvaulter.com
@@ -2319,6 +2327,7 @@ cdn1.tags4.revdepo.com
 cdn1.traffichaus.com
 cdn1.yupfiles.org
 cdn1ht.traffichaus.com
+cdn2.funnelenvy.com
 cdn2.inner-active.mobi
 cdn2.lockerdome.com
 cdn3.adbrau.com
@@ -2349,12 +2358,14 @@ clickboothlnk.com
 clickcertain.com
 clickeu.teracreative.com
 client-verify.adtricity.com
+clk.verblife-3.co
 clkads.com
 clkmon.com
 clkoffers.com
 clkrev.com
 clksite.com
 clktag.com
+clmcom.com
 cloud.cashtrafic.info
 clpremdo.com
 cluster.adultadworld.com
@@ -2397,6 +2408,7 @@ content.pulse360.com
 contentpap.info
 contextuads.com
 contextualads.yahoo.net
+contributor.google.com
 conv.adengage.com
 conversion.buddymedia.com
 cookies-la.madadsmedia.com
@@ -2742,6 +2754,7 @@ frstlead.com
 frtyb.com
 ftjcfx.com
 fuegodevida.com
+fundingchoices.google.com
 funtomic-d.openx.net
 fusionads.net
 fwbntw.com
@@ -2778,6 +2791,7 @@ glslciwwvtxn.com
 gmads.net
 go.ad2upapp.com
 go.adversal.com
+go.automatad.com
 go.cz.bbelements.com
 go.deliverydom.com
 go.deliverymodo.com
@@ -2864,6 +2878,7 @@ hypoot.com
 i.addmob.info
 i.adnium.com
 i.bongacash.com
+i.connectad.io
 i.imedia.cz
 i.l.inmobicdn.net
 i.pokernews.com
@@ -2976,6 +2991,7 @@ j.adscale.de
 j4y01i3o.win
 j880iceh.party
 jadserve.postrelease.com
+jainists.us
 jerwested.info
 jf2mn2ms.club
 jp.at.atwola.com
@@ -3177,6 +3193,7 @@ mpp2.vindicosuite.com
 mps.nbcuni.com
 mr1a.exs.pl
 mrkzgpbaapif.com
+mse2v5oglm.com
 mtg.banneradministration.com
 mtvads.nivas.hr
 mtvp05j.com
@@ -3255,6 +3272,7 @@ nym1.adnxs.com
 nym1.ib.adnxs.com
 nyyed.com
 o0.winfuture.de
+oagudsey.uk
 oas-eu.247realmedia.com
 oas.adservingml.com
 oas.ameinfo.com
@@ -3508,6 +3526,7 @@ parwrite.com
 pasice.rockonnet.com
 paste-d.openx.net
 paypalssl.doubleclick.net
+pbcde.com
 pbid.pro-market.net
 pc-ads.com
 pc180101.com
@@ -3581,6 +3600,7 @@ player-services.goviral-content.com
 pleaseletmeadvertise.com
 plug.plufdsb.com
 plugin.mediavoice.com
+plugin.monotote.com
 pntra.com
 pntrac.com
 pntrs.com
@@ -3955,6 +3975,7 @@ softonicads.com
 softpopads.com
 solegingly.co
 soma.smaato.net
+sombersurprise.com
 sommons.co
 soska.us
 southernx.nuggad.net
@@ -4455,6 +4476,7 @@ www.lovetechs.com
 www.lqqcbomqqomtme.com
 www.maxonclick.com
 www.mb103.com
+www.megdexchange.com
 www.mgrxsztbcfeg.com
 www.modmyads.com
 www.modulepush.com
@@ -4543,6 +4565,7 @@ www.wizejdnlqwcb.com
 www.worldsbestwebcams.com
 www.wtjmnbjktbci.com
 www.wuatqdbzzamj.bid
+www.wykskkpplgfi.com
 www.xconeeitqrrq.com
 www.xhvhisywkvha.com
 www.xl415.com
@@ -4591,6 +4614,7 @@ xml.adbetnet.com
 xml.adright.com
 xml.pdn-3.com
 xml.pdn-5.com
+xml.popmonetizer.com
 xml.revrtb.com
 xoredi.com
 xp1.zedo.com

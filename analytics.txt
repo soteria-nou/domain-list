@@ -291,6 +291,7 @@ amazonmerchants.122.2o7.net
 amazonnba.122.2o7.net
 amazonwebservices.d2.sc.omtrdc.net
 amazonwebservicesinc.tt.omtrdc.net
+amos1.taobao.com
 amp.ai
 amplify.outbrain.com
 amplifypixel.outbrain.com
@@ -343,6 +344,7 @@ analytics.mlstatic.com
 analytics.modul.ac.at
 analytics.mopub.com
 analytics.mpn.mokonocdn.com
+analytics.myvoipprovider.com
 analytics.n3.si
 analytics.newscred.com
 analytics.newsinc.com
@@ -479,6 +481,7 @@ arc.msn.com
 archi2.xiti.com
 areagame.ivwbox.de
 arm.d3.sc.omtrdc.net
+arms-retcode.aliyuncs.com
 arrassley.info
 arx1-out.hitbox.com
 arx2-out.hitbox.com
@@ -627,6 +630,7 @@ bo.getjaco.com
 bob.dmpxs.com
 bolha.iprom.net
 bonniercorp.122.2o7.net
+boomerang.dell.com
 bootstrap.vertamedia.com
 botd2.wordpress.com
 bounceexchange.com
@@ -768,6 +772,7 @@ cdn.bizible.com
 cdn.bobblewrite.com
 cdn.boomtrain.com
 cdn.branch.io
+cdn.brcdn.com
 cdn.brsrvr.com
 cdn.bttrack.com
 cdn.bunchbox.co
@@ -786,6 +791,7 @@ cdn.emetriq.de
 cdn.engine.spotscenered.info
 cdn.engine.trklnks.com
 cdn.evergage.com
+cdn.evgnet.com
 cdn.fandommetrics.com
 cdn.feathr.co
 cdn.fuelx.com
@@ -799,6 +805,7 @@ cdn.histats.com
 cdn.insights.gravity.com
 cdn.inspectlet.com
 cdn.interstateanalytics.com
+cdn.justuno.com
 cdn.krxd.net
 cdn.lift.acquia.com
 cdn.listrakbi.com
@@ -812,6 +819,7 @@ cdn.optimizely.com
 cdn.pardot.com
 cdn.perfdrive.com
 cdn.petametrics.com
+cdn.quantummetric.com
 cdn.ravenjs.com
 cdn.raygun.io
 cdn.refersion.com
@@ -918,6 +926,7 @@ clevernt.com
 click.aabacosmallbusiness.com
 click.appinthestore.com
 click.jasmin.com
+click.lenovo.com
 click.livejasmin.com
 click.startappservice.com
 clickanalyzer.jp
@@ -941,6 +950,7 @@ cloud-emea.analytics-egain.com
 cloudfront-labs.amazonaws.com
 cloudfront.loggly.com
 cluster.awmserve.com
+cm.adform.net
 cm.adgrx.com
 cm.eyereturn.com
 cm.l.qq.com
@@ -1204,6 +1214,7 @@ d37gvrvc0wt4s1.cloudfront.net
 d383nfj8voyf25.cloudfront.net
 d39hdzmeufnl50.cloudfront.net
 d3avqv6zaxegeu.cloudfront.net
+d3b02estmut877.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3cknv5e7a99jg.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
@@ -1267,6 +1278,7 @@ dc2-3.112.2o7.net
 dc46.s361.meetrics.net
 dc51.s361.meetrics.net
 dc8xl0ndzn2cb.cloudfront.net
+dcms.alibaba.com
 dd.ca.b0.a2.top.mail.ru
 de-gmtdmp.mookie1.com
 de.ioam.de
@@ -1758,6 +1770,7 @@ fw.adsafeprotected.com
 fx.gtopstats.com
 g.3gl.net
 g.bing.com
+g.jwpsrv.com
 g.silicon.co.uk
 ga-beacon.appspot.com
 ga.clearbit.com
@@ -1786,6 +1799,7 @@ gask.hit.gemius.pl
 gastar.ivwbox.de
 gate.datacaciques.com
 gateway.answerscloud.com
+gateway.foresee.com
 gatr.hit.gemius.pl
 gaugecdn.social9.com
 gaylordentertainment.112.2o7.net
@@ -1910,6 +1924,7 @@ hardluxx.ivwbox.de
 hb-endpoint-elb-307841411.adomik.com
 hb.adomik.com
 hb.springserve.com
+hbopenbid.pubmatic.com
 hchrmain.112.2o7.net
 heapanalytics.com
 hearstmagazines.112.2o7.net
@@ -2025,6 +2040,7 @@ imode.xiti.com
 imp.startappservice.com
 impact.applifier.com
 impression.clickinc.com
+improving.duckduckgo.com
 imprsvr.com
 impulse.forkcdn.com
 in-cdn.effectivemeasure.net
@@ -2349,6 +2365,7 @@ logs-01.loggly.com
 logs.comics.com
 logs.eresmas.com
 logs.eresmas.net
+logs1183.xiti.com
 logs1242.xiti.com
 logs1252.xiti.com
 logs128.xiti.com
@@ -2734,6 +2751,7 @@ omniture.112.2o7.net
 omniture.mirror.co.uk
 omniturecom.112.2O7.net
 oms.symantec.com
+onclickmega.com
 one.123counters.com
 one.statsit.com
 oneadlt.hit.gemius.pl
@@ -2946,6 +2964,7 @@ pixel.yabidos.com
 pixel.yola.net
 pixel1020.everesttech.net
 pixfuture-d.openx.net
+pj.l.admedo.com
 pks.a.mobimagic.com
 pl.gmads.net
 pl6447009.puhtml.com
@@ -3123,6 +3142,7 @@ redbull01.webtrekk.net
 redistats.com
 refer.ccbill.com
 referrer.disqus.com
+registercom.tt.omtrdc.net
 relap.io
 relestar.com
 rem-track.bild.de
@@ -3490,6 +3510,7 @@ sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
 smarter-metrics.smartertravel.com
+smb.infusionsoft.com
 smct.co
 smetrics.avnet.com
 smetrics.boston.com
@@ -3804,6 +3825,7 @@ stroer-d.openx.net
 studentski.iprom.net
 stumbleupon.112.2o7.net
 subaruofamerica.112.2o7.net
+subs.vingd.com
 sumome.com
 suncom.112.2o7.net
 sunglobal.112.2o7.net
@@ -4012,6 +4034,7 @@ tr.datanyze.com
 tr.grammarly.com
 tr.outbrain.com
 tr.prospecteye.com
+tr.snapchat.com
 tr2.smarterhq.io
 tr5.myroitracking.com
 trace.events
@@ -4267,6 +4290,7 @@ us.af.beap.bc.yahoo.com
 us.creativecdn.com
 us.sitestat.com
 us.tracking.justpremium.com
+us.y.atwola.com
 us.ynuf.alipay.com
 us2.siteimprove.com
 usa.cloud.netacuity.com
@@ -4508,6 +4532,7 @@ www.everestjs.net
 www.ewebcounter.com
 www.fallingfalcon.com
 www.fastcounter.de
+www.fastly-insights.com
 www.fhpro.in
 www.freecamdollars.com
 www.fullstory.com

@@ -73,10 +73,12 @@ businessinsider.us.intellitxt.com
 c.la1-c1-dfw.salesforceliveagent.com
 cache.ltvcms.com
 cackle.me
+cc.cdn.civiccomputing.com
 cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
 cdn.callbackhunter.com
+cdn.cookielaw.org
 cdn.dynamicyield.com
 cdn.feedbackify.com
 cdn.georiot.com
@@ -102,6 +104,7 @@ chat.freshdesk.com
 cinemablend.us.intellitxt.com
 citizen-times.us.intellitxt.com
 clientcdn.pushengage.com
+cmp-loader.choice.faktor.io
 code.intext.billboard.cz
 code.jivosite.com
 code.murdoog.com
@@ -183,6 +186,7 @@ gdpr.internetbrands.com
 geardigest.us.intellitxt.com
 geekinterview.us.intellitxt.com
 geekstogo.us.intellitxt.com
+geolocation.onetrust.com
 ghacks.de.intellitxt.com
 golem.de.intellitxt.com
 gsmarena.us.intellitxt.com
@@ -243,6 +247,7 @@ laptopmag.us.intellitxt.com
 libs.a2zinc.net
 license.icopyright.net
 lifescript.us.intellitxt.com
+linker.hr
 linuxdevcenter.us.intellitxt.com
 linuxforums.us.intellitxt.com
 livenationlabs-tools.s3.amazonaws.com
@@ -350,6 +355,7 @@ savvy.us.intellitxt.com
 sc.intellitxt.com
 scripts.mobdub.com
 sdk.beeketing.com
+sdk.privacy-center.org
 seeklyrics.us.intellitxt.com
 share.pluso.ru
 share.yandex.ru
@@ -416,6 +422,7 @@ theinquirer.uk.intellitxt.com
 thestreet.us.intellitxt.com
 thesuperficial.us.intellitxt.com
 thinkcomputers.us.intellitxt.com
+tie.static.pub.247-inc.net
 tmz.us.intellitxt.com
 tns.simba.taobao.com
 toms.us.intellitxt.com

@@ -28,6 +28,7 @@ app.purechat.com
 app2.emlgrid.com
 appnext-a.akamaihd.net
 appnext.hs.llnwd.net
+apps.vingd.com
 assets.contextly.com
 assets.cookieconsent.silktide.com
 assets.freshdesk.com
@@ -329,6 +330,7 @@ widgets.outbrain.com
 widgets.pinterest.com
 widgets.rankw.ru
 widgets.rewardstyle.com
+widgets.sir.sportradar.com
 widgets.sprinklecontent.com
 widgets.sprinkletxt.com
 widgets.stackcommerce.com
