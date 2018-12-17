@@ -440,6 +440,7 @@ api.permutive.com
 api.petametrics.com
 api.raygun.io
 api.retargetly.com
+api.rollbar.com
 api.share.baidu.com
 api.spoldzielnia.nsaudience.pl
 api.stathat.com
@@ -566,6 +567,8 @@ b91.yahoo.co.jp
 b92adrs.hit.gemius.pl
 babycenter.112.2o7.net
 babycentercom.112.2o7.net
+backend.analights.com
+backend2.analights.com
 badania.hit.gemius.pl
 badaniassl.hit.gemius.pl
 balancer.unified-tracking.com
@@ -660,6 +663,7 @@ buzznet.112.2o7.net
 bvwr.hitbox.com
 by.uservoice.com
 by2.uservoice.com
+c-ko.imedia.cz
 c.adexchangemachine.com
 c.bigmir.net
 c.cdnma.com
@@ -783,6 +787,7 @@ cdn.contentspread.net
 cdn.cquotient.com
 cdn.cxense.com
 cdn.decibelinsight.net
+cdn.distiltag.com
 cdn.doublepimpssl.com
 cdn.drnxs.com
 cdn.dtxngr.com
@@ -983,6 +988,7 @@ codice.shinystat.com
 codicebusiness.shinystat.com
 codiceisp.shinystat.com
 col.eum-appdynamics.com
+collect-eu-central-1.tealiumiq.com
 collect.albacross.com
 collect.octalytics.com
 collector-medium.lightstep.com
@@ -1663,6 +1669,7 @@ eu.npario-inc.net
 eu2.snoobi.eu
 eucerin.122.2o7.net
 eue-1.steelcentral.net
+eum.instana.io
 eurts.com
 eus.rubiconproject.com
 euweaj49.appmetrx.com
@@ -1727,6 +1734,7 @@ fc.yahoo.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 feeds.ibt.com
 felix.data.tm-awx.com
+fh-main.measure.agilemeasure.com
 fhr.cdn.mozilla.net
 fifa.d2.sc.omtrdc.net
 files.ampush.io
@@ -1829,6 +1837,7 @@ geoservice.curse.com
 gesichtp.ivwbox.de
 geslo.iprom.si
 gestion.xiti.com
+get.convrse.media
 gettyimages.122.2o7.net
 gh-logger-ghair.s3.amazonaws.com
 ghde.oewabox.at
@@ -2028,7 +2037,6 @@ im.xiti.com
 image.masterstats.com
 images.stats.lt
 img-cdn.mediaplex.com
-img.cncenter.cz
 img.en25.com
 img.footprintlive.com
 img.pulsemgr.com
@@ -2937,6 +2945,7 @@ pixel.audienceinsights.net
 pixel.bild.de
 pixel.buzzdeck
 pixel.condenastdigital.com
+pixel.cpex.cz
 pixel.dubnov.com
 pixel.everesttech.net
 pixel.facebook.com
@@ -3261,6 +3270,7 @@ s.webtrends.com
 s.xpanama.net
 s.youtube.com
 s.zmctrack.net
+s0.ipstatp.com
 s06.flagcounter.com
 s1.hit.stat.pl
 s1.hit.stat24.com
@@ -3517,6 +3527,7 @@ smetrics.boston.com
 smetrics.cdiscount.com
 smetrics.cnn.com
 smetrics.element14.com
+smetrics.hpe.com
 smetrics.madewell.com
 smetrics.mathworks.com
 smetrics.rcsmetrics.it
@@ -3529,6 +3540,7 @@ smtrcs.redhat.com
 smy.iheart.com
 snap.licdn.com
 sniff.visistat.com
+so.rlcdn.com
 sockjs.pusher.com
 sodc.wunderground.com
 soflopxl.com
@@ -4516,6 +4528,7 @@ www.clicktripz.com
 www.co2stats.com
 www.connectignite.com
 www.controlup.com
+www.countercentral.com
 www.counters4u.com
 www.counterwelt.com
 www.countyou.de

@@ -85,6 +85,7 @@ a.ava.com.ua
 a.babescdn.com
 a.bf-ad.net
 a.bizible.com
+a.blesk.cz
 a.boom.ro
 a.btmon.com
 a.chryslergroupllc.com
@@ -1630,6 +1631,7 @@ adserverec.adtechus.com
 adserverpub.com
 adserverwc.adtechus.com
 adservice.google.com
+adservice.google.de
 adservice.google.se
 adservice.google.si
 adservice.kelkoo.it
@@ -1900,6 +1902,7 @@ api.b2c.com
 api.bee7.com
 api.branch.io
 api.c.avazunativeads.com
+api.caroda.io
 api.conduit.com
 api.content-ad.net
 api.elipso.hr
@@ -2007,6 +2010,7 @@ banner.adserverpub.com
 banner.adsrevenue.net
 banner.adtrgt.com
 banner.adverity.com
+banner.advertising.com
 banner.buempliz-online.ch
 banner.cashinpills.com
 banner.commissionpartner.com
@@ -2215,6 +2219,7 @@ cdn-t.omsnative.de
 cdn-tags.mmondi.com
 cdn.234doo.com
 cdn.2xbpub.com
+cdn.a2sky.com
 cdn.accelerator.arsdev.net
 cdn.acloudvideos.com
 cdn.ad.server.iprom.net
@@ -2302,6 +2307,7 @@ cdn.reporo.net
 cdn.revcontent.com
 cdn.samvaulter.com
 cdn.shorte.st
+cdn.spotxcdn.com
 cdn.static-fra.de
 cdn.stickyadstv.com
 cdn.teads.tv
@@ -2350,6 +2356,7 @@ chronicads.com
 ck.ads.affinity.com
 ckdegfi5.faith
 cl21.v4.adaction.se
+clc.stackoverflow.com
 click.adbrite.com
 click.adpile.net
 clickad.pl
@@ -2374,6 +2381,7 @@ cluster3.adultadworld.com
 cm.adkmob.com
 cm.d-agency.net
 cms.ad2click.nl
+cnc.cdn.dopc.cz
 coadvertise.com
 code.d-agency.net
 code.directadvert.ru
@@ -2511,6 +2519,7 @@ daily-caller-d.openx.net
 dashgreen.online
 data.adsrvr.org
 data.awakebottlestudy.com
+data.caroda.io
 data.ero-advertising.com
 data.factiousinappeasableprincess.com
 data.ikzikistheking.com
@@ -2572,6 +2581,7 @@ destinationurl.com
 detailsay.info
 dev.iias.eu
 devart.adbureau.net
+dfapvmql-q.global.ssl.fastly.net
 dff7tx5c2qbxc.cloudfront.net
 dfp.doubleclick.net
 dhzws7l31cq8p.cloudfront.net
@@ -2691,6 +2701,7 @@ epicgameads.com
 epital.gdn
 eplayer.clipsyndicate.com
 epmads.com
+epnt.ebay.com
 epomads2.4shared.com
 epp.index.hr
 ero-advertising.com
@@ -2924,6 +2935,7 @@ img1.cdn.adjuggler.com
 img4.adfun.ru
 imgserv.sponsorads.de
 imgur-d.openx.net
+immedlinkum.info
 imp.admarketplace.net
 imp.tradedoubler.com
 impact-ad.jp
@@ -3011,11 +3023,13 @@ js.juicyads.com
 js.moatads.com
 js.recurly.com
 js.smartredirect.de
+js.spotx.tv
 js.srcsmrtgs.com
 js.tiscali.dotandad.com
 js.users.51.la
 js.v1.de.euserv.rad.adaos-ads.net
 js.viglink.com
+js.wpncdn.com
 js.xpg.com.br
 js1632.lishuanghao.com
 js4.all4ad.net
@@ -3675,6 +3689,7 @@ ptp33.com
 pu.plugrush.com
 pub.adfever.com
 pubads.g.doubleclick.net
+publisher.caroda.io
 publisher.infinityads.com
 publishers.halogennetwork.com
 pubportal.brkmd.com
@@ -3895,6 +3910,7 @@ sdk.vindicosuite.com
 sea-u.openx.net
 secserv.adtech.de
 secure-ads.pictela.net
+secure-assets.rubiconproject.com
 secure-ds.serving-sys.com
 secure.adnxs.com
 secure.bannerfarm.ace.advertising.com
@@ -3960,6 +3976,7 @@ simpleadserver.org
 sis9the.top
 siterdm.com
 sixapart.adbureau.net
+sk.adocean.pl
 skeettools.com
 slejv.space
 slo-cdn.intextad.net
@@ -4436,6 +4453,7 @@ www.espace-plus.net
 www.etggealva.com
 www.exchangead.com
 www.fnkyyrgraizy.com
+www.fukkzdxfyrchhc.com
 www.gkvhfryrramj.com
 www.googlecommerce.com
 www.googletagmanager.com
@@ -4497,6 +4515,7 @@ www.nzcpdaboaayv.com
 www.ocydwjnqasrn.com
 www.oczvtbskwbmj.com
 www.oglasevanje.izklop.com
+www.ohleiludieje.info
 www.okoads.com
 www.omcozngvtyox.com
 www.onclickbright.com
@@ -4522,6 +4541,7 @@ www.ragazzeinvendita.com
 www.rdvrxbxwxspxd.com
 www.reduxmediia.com
 www.rivcash.com
+www.rqbxfbls.com
 www.sehiba.com
 www.serveads.com
 www.sgiueejx.com

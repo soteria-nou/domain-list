@@ -353,6 +353,7 @@ s.ivillage.us.intellitxt.com
 s.ppjol.net
 savvy.us.intellitxt.com
 sc.intellitxt.com
+script.idvert.cz
 scripts.mobdub.com
 sdk.beeketing.com
 sdk.privacy-center.org
@@ -478,6 +479,7 @@ www.feedgrabbr.com
 www.geolify.com
 www.geoplugin.net
 www.htmlcommentbox.com
+www.hypercms.sk
 www.intellitxt.com
 www.intensedebate.com
 www.iubenda.com
