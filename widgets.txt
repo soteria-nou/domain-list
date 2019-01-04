@@ -50,6 +50,7 @@ cache1.value-domain.com
 call.chatra.io
 cdn-akamai.mookie1.com
 cdn-pub.sentifi.com
+cdn-stamped-io.azureedge.net
 cdn-widget.stuff.com
 cdn.addnow.com
 cdn.earnify.com
@@ -321,10 +322,12 @@ widget.whatsbroadcast.com
 widgethost.barnebys.com
 widgets.alexa.com
 widgets.digg.com
+widgets.fie-data.co.uk
 widgets.future-fie-assets.co.uk
 widgets.getglue.com
 widgets.getpocket.com
 widgets.getsitecontrol.com
+widgets.hawk-assets.co.uk
 widgets.ign.com
 widgets.juiceboxjungle.com
 widgets.kiosked.com

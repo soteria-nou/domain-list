@@ -277,6 +277,7 @@ ak1s.abmr.net
 akatracking.esearchvision.com
 aktrack.pubmatic.com
 alamut.iprom.si
+ald.taobao.com
 allbritton.122.2o7.net
 allegro.hit.gemius.pl
 alleyezonme-collection.buzzfeed.com
@@ -496,6 +497,7 @@ aspen.turner.com
 assets.adstage.io
 assets.customer.io
 assets.ipcdigital.co.uk
+assets.teradata.com
 assets.vidora.com
 associatedcontent.112.2o7.net
 assoicatedcontent.112.2o7.net
@@ -776,6 +778,7 @@ cdn.bizible.com
 cdn.bobblewrite.com
 cdn.boomtrain.com
 cdn.branch.io
+cdn.brandmetrics.com
 cdn.brcdn.com
 cdn.brsrvr.com
 cdn.bttrack.com
@@ -1171,6 +1174,7 @@ d15cjcet1djbmv.cloudfront.net
 d15qhc0lu1ghnk.cloudfront.net
 d1635hfcvs8ero.cloudfront.net
 d1852uckuj7o1j.cloudfront.net
+d1bk6lwzdwelz0.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1dli2tyorled9.cloudfront.net
 d1epsz32winqbo.cloudfront.net
@@ -2256,6 +2260,7 @@ log.musical.ly
 log.olark.com
 log.opentracker.net
 log.optimizely.com
+log.outbrainimg.com
 log.pinterest.com
 log.polarisoffice.com
 log.publisherdesk.com
@@ -2735,6 +2740,7 @@ nxp.112.2o7.net
 nxtck.com
 nydailynews.d1.sc.omtrdc.net
 nytbglobe.112.2o7.net
+o.adhslx.com
 o.analytics.yahoo.com
 o.musicnotes.com
 o.sa.aol.com
@@ -2869,6 +2875,7 @@ persoen.wemfbox.ch
 peugeot-uk.s3ae.com
 pfa.levexis.com
 pgrabprecomania.112.2o7.net
+phar.gu-web.net
 philips.112.2o7.net
 phonograph-static.voxmedia.com
 phonograph2.voxmedia.com
@@ -3889,6 +3896,7 @@ t.garena.com
 t.grtyo.com
 t.hrtya.com
 t.indeed.com
+t.irtyc.com
 t.irtyf.com
 t.kcart.me
 t.kck.st
@@ -3939,6 +3947,7 @@ tag.navdmp.com
 tag.perfectaudience.com
 tag.researchnow.com
 tag.retargeter.com
+tag.rightmessage.com
 tag.segmetrics.io
 tag.yieldoptimizer.com
 tagger.opecloud.com
@@ -4026,6 +4035,7 @@ tm.dl.nw.de
 tm.iqfp1.com
 tm.tradetracker.net
 tns-counter.ru
+tofu-ssl.dmcdn.net
 tofu.dmcdn.net
 toi.ivwbox.de
 tomnetwo.ivwbox.de
@@ -4253,6 +4263,7 @@ tsleducation.112.2o7.net
 tsmedia.nuggad.net
 tt1.openload.co
 tt2.openload.co
+ttauri.techradar.com
 tumblrreports.cedexis.com
 tunein-d.openx.net
 turbo.qualaroo.com
@@ -4278,6 +4289,7 @@ ucs.query.yahoo.com
 udc.yahoo.com
 udm.scorecardresearch.com
 ue.flipboard.com
+ue55qnkvwwmu-a.akamaihd.net
 ui.powerreviews.com
 uidbox.uimserv.net
 uim.tifbs.net
@@ -4495,6 +4507,7 @@ wp2b.hit.gemius.pl
 wpbeaches.com
 wpni.112.2o7.net
 wredint.com
+ws.mmstat.com
 ws.pleasedontslaymy.download
 wss-gw-1-gig.hitbox.com
 wss-gw-12008.hitbox.com

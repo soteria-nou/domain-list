@@ -70,6 +70,7 @@ a.adnium.com
 a.adorika.com
 a.adorika.net
 a.adroll.com
+a.adtng.com
 a.adultcamchatfree.com
 a.adultdvdtalk.com
 a.affil.io
@@ -1878,6 +1879,7 @@ amn.doubleclick.net
 ams-ads-cornerstone-creatives.s3.amazonaws.com
 ams1-ib.adnxs.com
 ams1.ib.adnxs.com
+an.facebook.com
 analytics.matchbin.com
 analytics.sanoma.fi
 analytics.twitter.com
@@ -2158,6 +2160,7 @@ bodieworks.com
 bolhaads.doticni.net
 bongacams.com
 bonniercorp-d.openx.net
+bornate.info
 bororango.com
 boston-d.openx.net
 boudja.com
@@ -2599,6 +2602,7 @@ displayads.liveuniversenetwork.com
 disqusads.com
 diva.services
 divx.adbureau.net
+dln.odintara.com
 dlvr.adne.tv
 dlvr.readserver.net
 dmbjbgiifpfo.com
@@ -2668,6 +2672,7 @@ edgeads.org
 edmaster.adbureau.net
 ee.openx.com
 egton-d.openx.net
+ejdkqclkzq.com
 electosake.com
 eleven05media-d.openx.net
 elitedaily-d.openx.net
@@ -2777,6 +2782,7 @@ game-advertising-online.com
 gamersbanner.com
 gamesbannerexchange.com
 gandrad.org
+garrogy.info
 gbanners.hornymatches.com
 gbaseby.ru
 gdc.indeed.com
@@ -2880,6 +2886,7 @@ hs.interpolls.com
 hstraffa.com
 hsw-d.openx.net
 htl.bid
+htlbid.com
 hts68934.com
 httpool.nuggad.net
 hugde.adocean.pl
@@ -3250,6 +3257,7 @@ na.ads.yahoo.com
 namesakeoscilloscopemarquis.com
 native.upstory.it
 nativead.tech
+nativepu.sh
 naughtyads.naughtyamerica.com
 nepremicnine.click
 net.e-viral.com
@@ -3591,6 +3599,8 @@ pl14046040.puserving.com
 pl142218.puhtml.com
 pl14300112.puserving.com
 pl14409391.puserving.com
+pl14969192.pvclouds.com
+pl14995214.pvclouds.com
 pl168555.puhtml.com
 pl177916.puhtml.com
 pl178987.puhtml.com
@@ -3714,6 +3724,7 @@ quicktask.xyz
 r.adc-srv.net
 r.adrolays.de
 r.ligatus.com
+r.wallstrads.com
 r1---sn-4g5e6ns7.googlevideo.com
 r1---sn-4g5e6nzs.googlevideo.com
 r1---sn-4g5edney.googlevideo.com
@@ -3879,6 +3890,7 @@ s3-eu-central-1.amazonaws.co
 s3.atas.io
 s3.atas.io.pornit.me
 s3.buysellads.com
+s3.us-east-2.amazonaws.com
 s4.adwatcher.net
 s9kkremkr0.com
 safeadnetworkdata.net
@@ -4184,6 +4196,7 @@ tr.pubnative.net
 traceadmanager.com
 track.affiliate-b.com
 track.pulse360.com
+track.toroadvertising.com
 track.xtrasize.nl
 trackad.cz
 tracker-adserver.ibillboard.com
@@ -4246,6 +4259,7 @@ unlockproject.github.io
 unoblotto.net
 unrestern.info
 uobsoe.com
+uod2quk646.com
 uoredi.com
 uptimecdn.com
 urban.adspirit.de
@@ -4454,6 +4468,7 @@ www.etggealva.com
 www.exchangead.com
 www.fnkyyrgraizy.com
 www.fukkzdxfyrchhc.com
+www.fvenxjtzuaxu.com
 www.gkvhfryrramj.com
 www.googlecommerce.com
 www.googletagmanager.com
@@ -4529,6 +4544,7 @@ www.partner-ads.com
 www.performanceadexchange.com
 www.phica.net
 www.poweradvertising.com
+www.prctxexizzpp.com
 www.predictivadnetwork.com
 www.premads.info
 www.premierads.net
@@ -4582,7 +4598,9 @@ www.vrewpywootyu.com
 www.vvbanner.com
 www.wggmaxxawkxu.com
 www.wizejdnlqwcb.com
+www.wnzmauurgol.com
 www.worldsbestwebcams.com
+www.wqkpadciw.com
 www.wtjmnbjktbci.com
 www.wuatqdbzzamj.bid
 www.wykskkpplgfi.com

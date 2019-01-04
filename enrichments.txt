@@ -78,6 +78,7 @@ cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
 cdn.callbackhunter.com
+cdn.contentsitesrv.com
 cdn.cookielaw.org
 cdn.dynamicyield.com
 cdn.feedbackify.com
@@ -188,6 +189,7 @@ geekinterview.us.intellitxt.com
 geekstogo.us.intellitxt.com
 geolocation.onetrust.com
 ghacks.de.intellitxt.com
+gizmos.hawk-tech.co.uk
 golem.de.intellitxt.com
 gsmarena.us.intellitxt.com
 gulli.de.intellitxt.com
@@ -310,6 +312,7 @@ ocsrest.ebay.com
 off-road.us.intellitxt.com
 onehitwondercentral.us.intellitxt.com
 onlamp.us.intellitxt.com
+optanon.blob.core.windows.net
 option.boldapps.net
 pcadvisor-uk.intellitxt.com
 pcadvisor.uk.intellitxt.com
@@ -330,6 +333,7 @@ piskotki.com
 pixel.intellitxt.com
 placehold.it
 planetamd64.us.intellitxt.com
+platform-api.sharethis.com
 platform.instagram.com
 popcornmetrics.zendesk.com
 popularmechanics.us.intellitxt.com
