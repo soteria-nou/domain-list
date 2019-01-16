@@ -82,6 +82,7 @@ cdn.contentsitesrv.com
 cdn.cookielaw.org
 cdn.dynamicyield.com
 cdn.feedbackify.com
+cdn.flipboard.com
 cdn.georiot.com
 cdn.getsmartcontent.com
 cdn.goroost.com
@@ -308,7 +309,6 @@ ny1-g008.us.intellitxt.com
 ny1-g011.us.intellitxt.com
 ny1-g665.us.intellitxt.com
 ny1-g666.us.intellitxt.com
-ocsrest.ebay.com
 off-road.us.intellitxt.com
 onehitwondercentral.us.intellitxt.com
 onlamp.us.intellitxt.com
@@ -382,6 +382,7 @@ sjc-g014.us.intellitxt.com
 sjc-g020.us.intellitxt.com
 slashphone.us.intellitxt.com
 smallnetbuilder.us.intellitxt.com
+smartlock.google.com
 smi2.ru
 socialknowledge.us.intellitxt.com
 soft32.us.intellitxt.com

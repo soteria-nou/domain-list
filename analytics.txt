@@ -826,6 +826,7 @@ cdn.onthe.io
 cdn.optimizely.com
 cdn.pardot.com
 cdn.perfdrive.com
+cdn.permutive.com
 cdn.petametrics.com
 cdn.quantummetric.com
 cdn.ravenjs.com
@@ -1762,6 +1763,7 @@ formalyzer.com
 formpr.com
 foundrynetworks.122.2o7.net
 foxcom.112.2o7.net
+fpn.flipboard.com
 fqtag.com
 fr.sitestat.com
 freedom.reviews
