@@ -658,6 +658,7 @@ buffalotech.links.channelintelligence.com
 buffalotech.links.origin.channelintelligence.com
 burda-website.piwikpro.com
 burda.iprom.net
+business.samsungusa.com
 buycom.122.2o7.net
 buydig.122.2o7.net
 buzzfeed.d1.sc.omtrdc.net
@@ -1034,7 +1035,6 @@ conrad.122.2o7.net
 conrad.prudsys-rde.de
 consent.trustarc.com
 content.aimatch.com
-content.jwplatform.com
 content.pollster.pl
 content.readcube.com
 contentz.mkt51.net
@@ -1659,6 +1659,7 @@ ent-lb01.hitbox.com
 ent-lb02.hitbox.com
 enterprise.hitbox.com
 entertai.ivwbox.de
+epromos.ubmcanon.com
 equipement.xiti.com
 erento.ivwbox.de
 errors.perso.nile.works
@@ -2507,6 +2508,7 @@ match.prod.bidr.io
 match.rtbidder.net
 mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
+matomo.adguard.com
 maxim.122.2o7.net
 mc.exacttarget.com
 mc.s4.exacttarget.com
@@ -2761,6 +2763,7 @@ office-gw1.hitbox.com
 og3i93vzhywk-a.akamaihd.net
 ohmystats.com
 oimg.nbcuni.com
+oinqqbzs.com
 om.cbsi.com
 omniture-ssl.112.2o7.net
 omniture.112.2o7.net
@@ -3016,6 +3019,7 @@ postmedia.demdex.net
 pp.lp4.io
 pr.realvu.net
 prad.ivwbox.de
+pre-gn.quimron.net
 preberi.iprom.net
 prebid.districtm.ca
 premierfarnell.112.2o7.net
@@ -3093,6 +3097,7 @@ q.stripe.com
 qa.rlcdn.com
 qi.ckm.onetapi.pl
 qjex.net
+qls.qsstats.com
 qmnetwor.ivwbox.de
 qs.oewabox.at
 qsearch.media.net
@@ -3417,6 +3422,7 @@ sdk-b.apptornado.com
 sdkm.w.inmobi.com
 se.112.2o7.net
 search.spotxchange.com
+searchstax.measuredsearch.com
 seat.d3.sc.omtrdc.net
 sec.levexis.com
 seccliprod.alipay.com
@@ -3707,6 +3713,7 @@ static.kameleoon.com
 static.mywebstats.com.au
 static.oktopost.com
 static.proximic.com
+static.searchstax.com
 static.site24x7rum.com
 static.truex.com
 static.vilynx.com
@@ -3809,6 +3816,7 @@ stats.stackexchange.com
 stats.suite101.com
 stats.superstats.com
 stats.surfaid.ihost.com
+stats.targmat.com
 stats.tass.ru
 stats.techie-buzz.com
 stats.technoratimedia.com
@@ -3888,6 +3896,7 @@ t.authorinsights.com
 t.channeladvisor.com
 t.cinemablend.com
 t.conative.de
+t.contentsquare.net
 t.cqq5id8n.com
 t.dailymail.co.uk
 t.dtscout.com
@@ -4054,6 +4063,7 @@ toro-tags.com
 toronto.xiti.com
 tpc.googlesyndication.com
 tr-metrics.loomia.com
+tr.computeruniverse.net
 tr.datanyze.com
 tr.grammarly.com
 tr.outbrain.com

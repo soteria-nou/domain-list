@@ -380,6 +380,7 @@ sjc-g012.us.intellitxt.com
 sjc-g013.us.intellitxt.com
 sjc-g014.us.intellitxt.com
 sjc-g020.us.intellitxt.com
+sl-qmp.quinstreet.com
 slashphone.us.intellitxt.com
 smallnetbuilder.us.intellitxt.com
 smartlock.google.com
