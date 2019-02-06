@@ -321,6 +321,7 @@ analytics.clickdimensions.com
 analytics.cliqz.com
 analytics.coderouge.co
 analytics.conmio.com
+analytics.contentexchange.me
 analytics.convertlanguage.com
 analytics.cyberghostvpn.com
 analytics.dev.popdust.com
@@ -679,6 +680,7 @@ c.go-mpulse.net
 c.hit.ua
 c.hqq.tv
 c.imedia.cz
+c.ipaddress.com
 c.jsrdn.com
 c.klcheck.com
 c.leadlab.click
@@ -2972,6 +2974,7 @@ pixel.netseer.com
 pixel.newsdata.com.au
 pixel.prfct.co
 pixel.pro.live
+pixel.pzkie.com
 pixel.quantserve.com
 pixel.redditmedia.com
 pixel.rubiconproject.com
@@ -3394,6 +3397,7 @@ sbnationbidder-d.openx.net
 sc-analytics.appspot.com
 sc-collector.n26.com
 sc.cdnma.com
+sc.iasds01.com
 sc.independent.co.uk
 sc.mtv.com
 scan.botscanner.com
@@ -3622,6 +3626,7 @@ ssl-i.plug.it
 ssl-static.vinsight.de
 ssl-vg03.met.vgwort.de
 ssl.convertuum.com
+ssl.cqcounter.com
 ssl.google-analytics.com
 ssl.gostats.com
 ssl.luckyorange.com
@@ -4106,6 +4111,7 @@ track.mlsend2.com
 track.monitis.com
 track.mybloglog.com
 track.netshelter.net
+track.neutraloppurtunity.com
 track.pcprotect.com
 track.promptfile.com
 track.qcri.org
