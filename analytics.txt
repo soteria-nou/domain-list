@@ -304,6 +304,7 @@ analysis2.chartboosts.com
 analytics-api-samples.googlecode.com
 analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
 analytics-eu.clickdimensions.com
+analytics-production.hapyak.com
 analytics-static.ugc.bazaarvoice.com
 analytics-static.unister-gmbh.de
 analytics-v2.anvato.com
@@ -465,6 +466,7 @@ app.compendium.com
 app.getsitecontrol.com
 app.intercom.io
 app.kontextr.eu
+app.launchdarkly.com
 app.link
 app.marketizator.com
 app.trustev.com
@@ -540,6 +542,7 @@ awsync.yandex.ru
 awtodep.com
 ax.xrea.com
 az416426.vo.msecnd.net
+az764295.vo.msecnd.net
 b-aws.aol.com
 b-aws.engadget.com
 b-aws.huffingtonpost.com
@@ -831,6 +834,7 @@ cdn.pardot.com
 cdn.perfdrive.com
 cdn.permutive.com
 cdn.petametrics.com
+cdn.popt.in
 cdn.quantummetric.com
 cdn.ravenjs.com
 cdn.raygun.io
@@ -886,6 +890,7 @@ cdnssl.clicktale.net
 cdntrf.com
 cdntrf.de
 ce.lijit.com
+celeritascdn.com
 ceneje.iprom.net
 centerparcs.112.2o7.net
 centerpoint.hitbox.com
@@ -1177,6 +1182,7 @@ d15cjcet1djbmv.cloudfront.net
 d15qhc0lu1ghnk.cloudfront.net
 d1635hfcvs8ero.cloudfront.net
 d1852uckuj7o1j.cloudfront.net
+d19ptbnuzhibkh.cloudfront.net
 d1bk6lwzdwelz0.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1dli2tyorled9.cloudfront.net
@@ -1690,6 +1696,7 @@ eventlogger.soundcloud.com
 events-api.outfit7.net
 events.appsflyer.com
 events.deskapi.com
+events.launchdarkly.com
 events.ocdn.eu
 events.redditmedia.com
 eventtracking-log.ustream.tv
@@ -4320,6 +4327,7 @@ unimusic.ivwbox.de
 unistreamvideoad.iprom.net
 universal.iperceptions.com
 up.nytimes.com
+update.code.visualstudio.com
 ups.ksmobile.net
 ups.xplosion.de
 upt.graphiq.com
