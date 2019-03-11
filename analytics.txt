@@ -217,6 +217,7 @@ action.media6degrees.com
 activate.tapatalk.com
 activeview.hitbox.com
 ad.adlegend.com
+ad.aloodo.com
 ad.rambler.ru
 ad.targetingmarketplace.com
 ad2.rambler.ru
@@ -1105,6 +1106,7 @@ coxnetmasterglobal.112.2o7.net
 cozpolatmsnportal.112.2o7.net
 cpro.baidustatic.com
 cpx.golem.de
+cpx.smind.hr
 cpx.smind.si
 cpxl.golem.de
 cr.acecounter.com
@@ -1854,6 +1856,7 @@ gesichtp.ivwbox.de
 geslo.iprom.si
 gestion.xiti.com
 get.convrse.media
+get.s-onetag.com
 gettyimages.122.2o7.net
 gh-logger-ghair.s3.amazonaws.com
 ghde.oewabox.at
@@ -2523,6 +2526,7 @@ mc.exacttarget.com
 mc.s4.exacttarget.com
 mc.s6.exacttarget.com
 mc.webvisor.com
+mc.webvisor.org
 mcc-tags.cisco.com
 mcclatchy.demdex.net
 mcclatchy.sc.omtrdc.net
@@ -3204,6 +3208,7 @@ rf.revolvermaps.com
 rhpury.105app.com
 ri.revolvermaps.com
 rich.agent.s3.amazonaws.com
+ridingintractable.com
 rightstats.com
 ringieradrs.hit.gemius.pl
 ritogaga.com
