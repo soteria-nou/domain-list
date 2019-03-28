@@ -65,6 +65,7 @@
 a.abnad.net
 a.activestate.com
 a.ad-sys.com
+a.ad.gt
 a.admaxserver.com
 a.adnium.com
 a.adorika.com
@@ -1633,6 +1634,7 @@ adserverpub.com
 adserverwc.adtechus.com
 adservice.google.com
 adservice.google.de
+adservice.google.es
 adservice.google.se
 adservice.google.si
 adservice.kelkoo.it
@@ -2462,6 +2464,7 @@ creatives.livejasmin.com
 crispads.com
 cs.adxpansion.com
 csc.beap.ad.yieldmanager.net
+cse.google.com
 csh.actiondesk.com
 csr.inspsearchapi.com
 ct1.kanashibari.jp
@@ -2725,6 +2728,7 @@ especifice.info
 et-code.ru
 etcodes.com
 etvtabeas.com
+eu-central-1b.connectad.io
 eu-gmtdmp.gd1.mookie1.com
 eu-pn2.adserver.yahoo.com
 eu-u.openx.net
@@ -2906,6 +2910,7 @@ hw-a-edge.freepik.com
 hypoot.com
 i.addmob.info
 i.adnium.com
+i.adwise.bg
 i.bongacash.com
 i.connectad.io
 i.imedia.cz
@@ -3732,6 +3737,7 @@ px.adscale.de
 q.adrta.com
 q1mediahydraplatform.com
 q45nsj9d.accountant
+qj.borsendental.com
 qksz.net
 qnsr.com
 qrstes.com
@@ -4717,6 +4723,7 @@ zadovoljna.iprom.net
 zapbox.ru
 zd1.november-lax.com
 zdbb.net
+zdstatic.speedtest.net
 zeads.com
 zergnet-d.openx.net
 zf2.quebec-bin.com

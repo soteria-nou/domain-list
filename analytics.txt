@@ -517,6 +517,7 @@ atticwicket.com
 audiag.112.2o7.net
 audiblecom.112.2o7.net
 audit.median.hu
+aufeminin.demdex.net
 auguste.xiti.com
 aumohondatuningmagazine.112.2o7.net
 aumospo.ivwbox.de
@@ -1167,6 +1168,7 @@ d-ipv6.mmapiws.com
 d-track.send.microad.jp
 d.agkn.com
 d.applovin.com
+d.btttag.com
 d.castplatform.com
 d.ligatus.com
 d.lookit.cz
@@ -1541,6 +1543,7 @@ e-2dj6wnlosgc5kgp.stats.esomniture.com
 e-2dj6wnmiend5ego.stats.esomniture.com
 e-2dj6wnmikpcpgkp.stats.esomniture.com
 e.analytics.yahoo.com
+e.connectad.io
 e.crashlytics.com
 e.dtscout.com
 e.monetate.net
@@ -1806,6 +1809,7 @@ ga.kvideo.io
 ga.nsimg.net
 gaae.hit.gemius.pl
 gaba.hit.gemius.pl
+gabg.hit.gemius.pl
 gaby1.hit.gemius.pl
 gacz.hit.gemius.pl
 gadk.hit.gemius.pl
@@ -2815,6 +2819,7 @@ origin.oiscripts.com
 orpae.com
 osobnosti-cz.performax.cz
 otf.msn.com
+otnolatrnup.com
 ots.optimize.webtrends.com
 ottawa.xiti.com
 out.tomsguide.fr
@@ -2861,6 +2866,7 @@ p1.dntrck.com
 p13nlog.dz.optimizely.com
 p1cluster.cxense.com
 p2015.olx.ba
+pa.7w.ro
 pa.rxthdr.com
 page-events-ustats.udemy.com
 page-view-ingestion.appspot.com
@@ -3520,6 +3526,7 @@ siol.iprom.net
 sisco.hit.stat.pl
 site.skype.com
 sitebooster.com
+siteeuwest.slgnt.eu
 siteimproveanalytics.com
 siteintercept.qualtrics.com
 siterecruit.comscore.com
