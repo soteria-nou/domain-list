@@ -36,6 +36,7 @@ api.facebook.com
 api.mediabooster.si
 api.parsely.com
 api.pulpix.com
+api.scribblelive.com
 api.survicate.com
 app.consentassist.com
 app.convertfox.com
@@ -360,6 +361,7 @@ sc.intellitxt.com
 script.idvert.cz
 scripts.mobdub.com
 sdk.beeketing.com
+sdk.hoodline.com
 sdk.privacy-center.org
 seeklyrics.us.intellitxt.com
 share.pluso.ru

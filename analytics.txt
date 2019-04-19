@@ -440,6 +440,7 @@ api.lever.co
 api.mixpanel.com
 api.myx.cz
 api.nanigans.com
+api.ownpage.fr
 api.permutive.com
 api.petametrics.com
 api.raygun.io
@@ -1180,6 +1181,7 @@ d1.c2.b9.a1.top.mail.ru
 d10g4g69moszqp.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11bn9i8gmo4kr.cloudfront.net
+d11rmv9we9fli4.cloudfront.net
 d12ulf131zb0yj.cloudfront.net
 d1447tq2m68ekg.cloudfront.net
 d15cjcet1djbmv.cloudfront.net
@@ -1228,6 +1230,7 @@ d2xerlamkztbb1.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d3.c2.b0.a2.top.mail.ru
 d31bfnnwekbny6.cloudfront.net
+d31j93rd8oukbv.cloudfront.net
 d31y97ze264gaa.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d36cz9buwru1tt.cloudfront.net
@@ -2607,6 +2610,7 @@ microsoftwlcashback.112.2o7.net
 microsoftwllivemkt.112.2o7.net
 microsoftwlmessengermkt.112.2o7.net
 millipore.112.2o7.net
+minessetion.info
 mirror2.rummblelabs.com
 ml314.com
 mlbcom.112.2o7.net
@@ -2962,6 +2966,7 @@ piwik.volkswagen.at
 piwik.weltauto.com
 pix.esm1.net
 pix.impdesk.com
+pix.spot.im
 pix04.revsci.net
 pixall.esm1.net
 pixel-geo.prfct.co
@@ -3125,6 +3130,7 @@ query.fandommetrics.com
 questsoftware.112.2o7.net
 quick-yen-88111.appspot.com
 qwestfull.112.2o7.net
+r.6abc.com
 r.adc-serv.net
 r.auto-motor-und-sport.de
 r.casalemedia.com
@@ -3432,6 +3438,7 @@ script.dotmetrics.net
 script.footprintlive.com
 script.leadboxer.com
 script.opentracker.net
+script.ownpage.fr
 script.tailsweep.com
 scripts.demandbase.com
 scripts.demandmedia.com
@@ -3464,6 +3471,7 @@ secure-za.imrworldwide.com
 secure.assets.ipcdigital.co.uk
 secure.audienceinsights.net
 secure.eloqua.com
+secure.espncdn.com
 secure.fastclick.net
 secure.fruitflan.com
 secure.gaug.es
@@ -3636,6 +3644,7 @@ srx.ca.ebayrtm.com
 srx.cn.ebayrtm.com
 srx.uk.ebayrtm.com
 srx.us.ebayrtm.com
+ssc.33across.com
 ssc.api.bbc.com
 ssi.hit.gemius.pl
 ssl-geizhals.oewabox.at

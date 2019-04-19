@@ -115,6 +115,7 @@ dtkm4pd19nw6z.cloudfront.net
 edge.jobthread.com
 edge.sharethis.com
 embed.5min.com
+embed.scribblelive.com
 embed.spotify.com
 embed.tawk.to
 ext.host-tracker.com
