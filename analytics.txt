@@ -624,6 +624,7 @@ betastats.112.2o7.net
 bfx-objects.borderfree.com
 bg3h5335h2uzn90i.stats.paypal.com
 bh.contextweb.com
+bi.huaweicloud.com
 bi.medscape.com
 bid.contextweb.com
 bids.proper.io
@@ -706,6 +707,7 @@ c.statcounter.com
 c.t.dps-reach.com
 c.t4ft.de
 c.tmstrack.com
+c.tmyzer.com
 c.trello.com
 c.us1.dyntrk.com
 c.vrvm.com
@@ -748,6 +750,7 @@ callmd5map.com
 calls.topspotims.com
 canon.122.2o7.net
 canwestglobal.sc.omtrdc.net
+capinfoproreport.batiactu.com
 capture.condenastdigital.com
 care2.112.2o7.net
 careers.112.2o7.net
@@ -1324,6 +1327,7 @@ delosi.iprom.net
 demdex.net
 demo.whitelabelanalytics.net
 dennispublishing.112.2o7.net
+dentaint.pro
 derstand.oewabox.at
 desv383oqqc0.cloudfront.net
 deutschepostag.112.2o7.net
@@ -1361,6 +1365,7 @@ dixonscouk.112.2o7.net
 dixonscurryscouk.112.2o7.net
 dixonspcwcouk.112.2o7.net
 djers.com
+djv99sxoqpv11.cloudfront.net
 dkhvvvstvgett.cloudfront.net
 dlogin.hitbox.com
 dm.codeproject.com
@@ -1692,6 +1697,7 @@ eu2.snoobi.eu
 eucerin.122.2o7.net
 eue-1.steelcentral.net
 eum.instana.io
+europerty.pro
 eurts.com
 eus.rubiconproject.com
 euweaj49.appmetrx.com
@@ -1797,6 +1803,7 @@ frutrun.com
 fu-61495ceefa.upalytics.com
 fungetbag.info
 funn.graphiq.com
+funtikapa.info
 fusetv.112.2o7.net
 fw.adsafeprotected.com
 fx.gtopstats.com
@@ -2554,6 +2561,7 @@ mediaiprom.net
 mediametrics.mpsa.com
 mediametrics.ru
 medianet-d.openx.net
+mediaoaktree.com
 mediasetitalia01.wt-eu02.net
 medicaldevicelink.112.2o7.net
 medrx.telstra.com.au
@@ -3316,6 +3324,7 @@ s06.flagcounter.com
 s1.hit.stat.pl
 s1.hit.stat24.com
 s1.lemde.fr
+s1.navrcholu.cz
 s1.shinystat.com
 s10.flagcounter.com
 s10.histats.com
@@ -4663,6 +4672,7 @@ www.stats.lt
 www.stats24.net
 www.stats4u.net
 www.stats4you.com
+www.statsforads.com
 www.stressx.org
 www.summerhamster.com
 www.swpsvc.com

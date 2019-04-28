@@ -45,6 +45,7 @@ app.getresponse.com
 app.getsentry.com
 app.mailerlite.com
 app.optinarchitect.com
+app.truepush.com
 apps.nexus.bazaarvoice.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
@@ -350,9 +351,11 @@ quantcast.mgr.consensu.org
 quotaless.us.intellitxt.com
 quriobot.com
 raymond.uk.intellitxt.com
+rc.revolvermaps.com
 redirect.viglink.com
 ripp-it.fr.intellitxt.com
 rojakpot.us.intellitxt.com
+rootclick.biz
 rumble.com
 s.ivillage.us.intellitxt.com
 s.ppjol.net

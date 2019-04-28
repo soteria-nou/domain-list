@@ -1311,6 +1311,7 @@ ads.tfmmedia.biz
 ads.the-bikini.com
 ads.thegauntlet.com
 ads.theinspirit.com
+ads.themoneytizer.com
 ads.thewebfreaks.com
 ads.tipico.com
 ads.tlvmedia.com
@@ -1473,6 +1474,7 @@ ads2.siol.net
 ads2.speedbit.com
 ads2.techbanner.com
 ads2.techno4ever.net
+ads2.uptobox.com
 ads2.veneti.com
 ads2.williamhill.com
 ads2.xnet.cz
@@ -1895,6 +1897,7 @@ anothere.club
 anrdoezrs.net
 antactica.ad.adnetwork.com.br
 anvil.rubiconproject.com
+any.realbig.media
 aoredi.com
 ap76rmx3.accountant
 apapi.dc121677.com
@@ -2438,6 +2441,7 @@ core.ad20.net
 corn.honeytouch.bid
 cotads.adscale.de
 counter.radio.si
+cp.bbbp1.com
 cpaclickoffers.com
 cpanel.nativeads.com
 cpaofferstat.com
@@ -2476,6 +2480,7 @@ cts.tradepub.com
 ctxt.tribalfusion.com
 ctxtad.tribalfusion.com
 cum.tnaflix.com
+curriculture.com
 curse-d.openx.net
 cz.adocean.pl
 cz.search.etargetnet.com
@@ -2495,6 +2500,7 @@ d.tds.adlabs.ru
 d.thelocal.com
 d0z4gwv7.webcam
 d1.openx.org
+d10lumateci472.cloudfront.net
 d11lt3e1lizkg0.cloudfront.net
 d13strl4lo8mtp.cloudfront.net
 d14qd3he45186l.cloudfront.net
@@ -2561,6 +2567,7 @@ de.adserver.yahoo.com
 de.mspaceads.com
 de17a.com
 deal.hmitf.com
+deberorewhen.info
 decals.rcgroups.com
 decals.rcgroups.net
 deletemer.online
@@ -2591,6 +2598,7 @@ delivery.w00tads.com
 delivery1.topad.mobi
 dell.demdex.net
 delodom.iprom.net
+deloplen.com
 deloton.com
 dennis.cvtr.io
 des.smartclip.net
@@ -2631,6 +2639,7 @@ domainoptions.engine.adglare.net
 domains.googlesyndication.com
 dominoad.adk2x.com
 donecooler.com
+doo6pwib3qngu.cloudfront.net
 dotcomconsultancy.advertserve.com
 doubleclick.net
 doubledeepclick.com
@@ -2647,6 +2656,7 @@ dssja7qsifeak.cloudfront.net
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
 dtm.advertising.com
+duhtate.ru
 duscb12r.loan
 dw.cbsi.com
 dw.com.com
@@ -2817,6 +2827,7 @@ geoip.solarleadfactory.com
 get.awakebottlestudy.com
 get.ikzikistheking.com
 get.mirando.de
+get.optad360.io
 gg.adocean.pl
 gg.google.com
 ggo.directrev.com
@@ -2937,6 +2948,7 @@ icq.advmaker.ru
 identads.com
 idg.adocean.pl
 idguk1-d.openx.net
+idm-d.openx.net
 iendoo.com
 ifa.camads.net
 igmatik.com
@@ -3213,6 +3225,7 @@ mlt01.com
 mmoads.com
 mmoframes.com
 mo8mwxi1.com
+moavoara.net
 mob.sextvx.com
 mobads.baidu.com
 mobile.adnxs.com
@@ -3279,6 +3292,7 @@ n479ad.doubleclick.net
 n99adshostnet.com
 na.ads.yahoo.com
 namesakeoscilloscopemarquis.com
+native.propellerclick.com
 native.upstory.it
 nativead.tech
 nativepu.sh
@@ -3807,6 +3821,7 @@ relay-si.toboads.com
 relay.mobile.toboads.com
 relay.toboads.si
 remarketstats.com
+remtoaku.net
 repmbuycurl.com
 reportions.club
 reports.adspdbl.com
@@ -3868,8 +3883,10 @@ ruptly-d.openx.net
 rutrk.org
 rv.furaffinity.net
 rvnc72k.com
+rw9bj24c2j.s.ad6media.fr
 rxrfb95v.cricket
 ryano.ru
+rydohimowa.info
 ryllae.com
 s-jsonp.moatads.com
 s.206ads.com
@@ -4009,6 +4026,7 @@ shuttle.sharexy.com
 shuttle.yepty.com
 si.adocean.pl
 si.nuggad.net
+sifuglie.com
 sigde.adocean.pl
 silvalliant.info
 simage2.pubmatic.com
@@ -4193,6 +4211,7 @@ textonlyads.com
 textsrv.com
 tg-03.yieldpartners.com
 thankyouforadvertising.com
+tharbadir.com
 thebighits.com
 thefoxads.ru
 thefoxes.ru
@@ -4215,6 +4234,7 @@ tnet.flash-xxx.com
 todich.ru
 toftforcal.com
 tom.itv.com
+tonsterandhantan.info
 tools.bongacams.com
 tools.bongacash.com
 tools.prnewswire.com
@@ -4222,6 +4242,7 @@ tools.runetki.co
 topacity.info
 toroadvertisingmedia.com
 tororango.com
+torpsol.com
 tpnads.com
 tqlkg.com
 tr.adsplats.com
@@ -4381,6 +4402,7 @@ web.qtymi.com
 webads.nl
 westmente.info
 wheelches.info
+whirgoom.com
 whirlclick.com
 whistorica.info
 widget.foodieblogroll.com
@@ -4506,6 +4528,7 @@ www.exchangead.com
 www.fnkyyrgraizy.com
 www.fukkzdxfyrchhc.com
 www.fvenxjtzuaxu.com
+www.geniusdexchange.com
 www.gkvhfryrramj.com
 www.googlecommerce.com
 www.googletagmanager.com
@@ -4516,6 +4539,7 @@ www.heracgjcuqmk.com
 www.hibids10.com
 www.hicpm5.com
 www.hitcpm.com
+www.hostingcloud.racing
 www.iacpublish.com
 www.icuazeczpeoohx.com
 www.idkyfrsbzesx.com
@@ -4542,6 +4566,7 @@ www.lbfryfttoihl.com
 www.lcwfab1.com
 www.lexozfldkklgvc.com
 www.liveadexchanger.com
+www.lmepqfsazb.com
 www.loading-delivery2.com
 www.lovetechs.com
 www.lqqcbomqqomtme.com
