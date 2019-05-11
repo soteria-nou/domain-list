@@ -133,6 +133,7 @@ a.networkworld.com
 a.nvidia.com
 a.nxnfi.com
 a.o333o.com
+a.opmnstr.com
 a.optnmnstr.com
 a.optnmstr.com
 a.pcpro.co.uk
@@ -155,6 +156,7 @@ a.tomshardware.com
 a.total-media.net
 a.tribalfusion.com
 a.twiago.com
+a.vdo.ai
 a.visualrevenue.com
 a.wikia-beacon.com
 a.windowsitpro.com
@@ -1934,6 +1936,7 @@ app-ab13.marketo.com
 app.brightinfo.com
 app.clickfunnels.com
 app.cointraffic.in
+app.marsello.com
 app.salecycle.com
 applift-b.apptornado.com
 apps.cointraffic.io
@@ -2149,6 +2152,7 @@ besthitsnow.com
 bestperforming.site
 beta.mybestdc.com
 bevo-eu-west-1.adsnative.com
+bgrndi.com
 bh-engine.intextad.net
 bid.g.doubleclick.net
 bid.openx.net
@@ -2176,6 +2180,7 @@ boston-d.openx.net
 boudja.com
 boylesportsreklame.com
 brakefluid.website
+brdmin.com
 browsers.support
 bruceleadx3.com
 bt.rcs.it

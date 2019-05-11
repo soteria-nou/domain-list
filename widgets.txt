@@ -23,6 +23,7 @@ app-sj01.marketo.com
 app-sj10.marketo.com
 app-sj15.marketo.com
 app-sjg.marketo.com
+app.gettally.com
 app.popupdomination.com
 app.purechat.com
 app2.emlgrid.com
@@ -317,6 +318,7 @@ widget.socialmart.ru
 widget.spoods.io
 widget.stackla.com
 widget.supercounters.com
+widget.surveymonkey.com
 widget.trustpilot.com
 widget.userengage.io
 widget.weibo.com

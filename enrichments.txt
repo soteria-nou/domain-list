@@ -119,6 +119,7 @@ coin-have.com
 coin-hive.com
 comingsoon.us.intellitxt.com
 compnet.us.intellitxt.com
+config-prod.choice.faktor.io
 consent.cookiebot.com
 contactmusic.uk.intellitxt.com
 content.zemanta.com
@@ -158,6 +159,7 @@ ethn.io
 eu.cookie-script.com
 eucookie.internetbrands.com
 events.apester.com
+events.genndi.com
 evshed.us.intellitxt.com
 eweek.us.intellitxt.com
 examnotes.us.intellitxt.com
@@ -225,6 +227,7 @@ images-vm.intellitxt.com
 images.intellitxt.com
 imore.us.intellitxt.com
 input-drivers.us.intellitxt.com
+instant.page
 intext.billboard.cz
 intext.lookit.cz
 intomobile.us.intellitxt.com
@@ -242,6 +245,8 @@ jp.intellitxt.com
 js-ru.redtram.com
 js.bronto.com
 js.hs-scripts.com
+js.hsleadflows.net
+js.hubspotfeedback.com
 jsfiles.rutracker.ga
 jupiter.us.intellitxt.com
 kbalertz.us.intellitxt.com
@@ -465,6 +470,7 @@ uhf.microsoft.com
 ui.swogo.com
 uk.intellitxt.com
 ultimatecarpage.us.intellitxt.com
+upsells.boldapps.net
 us.intellitxt.com
 usb-drivers.us.intellitxt.com
 usemycomputer.us.intellitxt.com
@@ -495,6 +501,7 @@ www.hypercms.sk
 www.intellitxt.com
 www.intensedebate.com
 www.iubenda.com
+www.klaviyo.com
 www.povezano.com
 www.searchanise.com
 www.upsite.co.il
