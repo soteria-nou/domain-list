@@ -317,6 +317,7 @@ ny1-g011.us.intellitxt.com
 ny1-g665.us.intellitxt.com
 ny1-g666.us.intellitxt.com
 off-road.us.intellitxt.com
+omisli.si
 onehitwondercentral.us.intellitxt.com
 onlamp.us.intellitxt.com
 optanon.blob.core.windows.net
@@ -487,6 +488,7 @@ web-sdk.urbanairship.com
 webhostingtalk.us.intellitxt.com
 wi-fiplanet.us.intellitxt.com
 wi-fitechnology.uk.intellitxt.com
+widgets.fccinteractive.com
 widgets.membership.s-msft.com
 windowsitpro.us.intellitxt.com
 wpcentral.us.intellitxt.com

@@ -371,6 +371,7 @@ ad.media-servers.net
 ad.metanetwork.com
 ad.minitechnet.com
 ad.mirror.co.uk
+ad.mox.tv
 ad.mtburn.com
 ad.my.doubleclick.net
 ad.n2434.doubleclick.net
@@ -805,6 +806,7 @@ ads.adgator.co.za
 ads.adgoto.com
 ads.adhostingsolutions.com
 ads.adk2.com
+ads.adlook.me
 ads.admarvel.com
 ads.admatch.nl.adhese.net
 ads.admez.com
@@ -1596,6 +1598,7 @@ adserver.mojedelo.com
 adserver.mybittorrent.com
 adserver.netcollex.co.uk
 adserver.notebooks.com
+adserver.otm-r.com
 adserver.overclock.net
 adserver.pc-cooling.de
 adserver.pctools.com
@@ -2270,6 +2273,7 @@ cdn.banners.scubl.com
 cdn.bannersnack.com
 cdn.blatungo.com
 cdn.blueconic.net
+cdn.braun634.com
 cdn.bronto.com
 cdn.buysellads.com
 cdn.carbonads.com
@@ -2279,6 +2283,7 @@ cdn.celtra.com
 cdn.clickfuse.com
 cdn.clicksondelivery.com
 cdn.conative.de
+cdn.concert.io
 cdn.connatix.com
 cdn.connectad.io
 cdn.cpmstar.com
@@ -2417,6 +2422,7 @@ coinurl.com
 collective-media.net
 com.adv.vz.ru
 commercialvalue.org
+concertads-configs.vox-cdn.com
 conduit-adverts.com
 conduit-banners.com
 conduit-data.com
@@ -2424,6 +2430,7 @@ config-ltvp.inmobi.com
 config.ioam.de
 config.seedtag.com
 config.unityads.unity3d.com
+config1.veinteractive.com
 connect.decknetwork.net
 connect001.com
 connectedads.net
@@ -2675,6 +2682,7 @@ dz2fz0bgyq9tn.cloudfront.net
 dzcx04lyk9hjp.cloudfront.net
 e-ltvp.inmobi.com
 e.maxtraffic.com
+e.serverbid.com
 e1.static.hoptopboy.com
 e1.zedo.com
 e3.adpushup.com
@@ -2760,6 +2768,7 @@ euw.adserver.snapads.com
 event.ohmyad.co
 ex.banner.t-online.de
 excdn-6183.kxcdn.com
+exchange.buzzoola.com
 exchange.nativeads.com
 exclusivecpms.com
 exityield.advertise.com
@@ -3018,6 +3027,7 @@ ineity.pro
 infinite-ads.com
 infinityads.com
 info.a7.org
+info.kinoclub77.ru
 init.supersonicads.com
 inl.adbureau.net
 inmobisdk-a.akamaihd.net
@@ -3106,6 +3116,7 @@ krfwtleggqujgr.net
 kt.h0ok.com
 ktu.sv2.biz
 l-forex.com
+l.aaxads.com
 l.betrad.com
 laborates.com
 landing.predictad.com
@@ -3185,6 +3196,7 @@ mainclc.com
 mantodea.mantisadnetwork.com
 mappealist.club
 mastertarget.ru
+match.ads.betweendigital.com
 match.adsrvr.org
 match.basebanner.com
 match.rundsp.com
@@ -3744,6 +3756,7 @@ ptp33.com
 pu.plugrush.com
 pub.adfever.com
 pubads.g.doubleclick.net
+public.advarkads.com
 publisher.caroda.io
 publisher.infinityads.com
 publishers.halogennetwork.com
@@ -3937,6 +3950,7 @@ s2.static.cfgr1.com
 s2.video.doubleclick.net
 s2s.komoona.com
 s3-eu-central-1.amazonaws.co
+s3.advarkads.com
 s3.atas.io
 s3.atas.io.pornit.me
 s3.buysellads.com
@@ -4144,6 +4158,7 @@ stodyew.info
 stoomeddert.info
 stuffle.it
 supaads.com
+superrnovosti.ru
 supremeadsonline.com
 surgeprice.com
 survey.nuggad.net
@@ -4154,8 +4169,10 @@ sync.adap.com
 sync.adap.tv
 sync.adaptv.advertising.com
 sync.adotmob.com
+sync.dmp.otm-r.com
 sync.ipredictive.com
 sync.rhythmxchange.com
+sync.serverbid.com
 sync.teads.tv
 synchrobox.adswizz.com
 syndicate.purch.com
@@ -4163,6 +4180,7 @@ syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
 syndication.streamads.yahoo.com
+syndicpop.com
 system.mondeos.pl
 t.66.ru
 t.frtyq.com
@@ -4343,6 +4361,8 @@ uyrmpnojgzi.com
 uzluqqaoaw.net
 v.6dvip.com
 v.actionteaser.ru
+v.adfox.ru
+v.kost.tv
 v.movad.de
 v.visitweb.com
 v1.ads3.ipon.lt
@@ -4569,6 +4589,7 @@ www.kyveduvdkbro.com
 www.landmineads.com
 www.lbfryfttoihl.com
 www.lcwfab1.com
+www.lcwfab2.com
 www.lexozfldkklgvc.com
 www.liveadexchanger.com
 www.lmepqfsazb.com
