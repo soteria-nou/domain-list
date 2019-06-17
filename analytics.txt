@@ -256,6 +256,7 @@ adsec.iprom.net
 adserver.teracent.net
 adstage-tracker.herokuapp.com
 adstat.4u.pl
+adstax-match.adrtx.net
 adstracking.doodle.com
 adtrack.voicestar.com
 adups.cn
@@ -414,6 +415,7 @@ ape-tagit.timeinc.net
 apex.go.sonobi.com
 api-http-lb.vadio.com
 api-v3.tinypass.com
+api.adrtx.net
 api.adsymptotic.com
 api.altmetric.com
 api.amplitude.com
@@ -780,6 +782,7 @@ cdn-athena.cafemom.com
 cdn-gl.imrworldwide.com
 cdn-rtb.sape.ru
 cdn-sec.optmd.com
+cdn.adrtx.net
 cdn.amilliamilli.com
 cdn.app.exitmonitor.com
 cdn.appdynamics.com
@@ -840,6 +843,7 @@ cdn.nsstatic.net
 cdn.onthe.io
 cdn.optimizely.com
 cdn.pardot.com
+cdn.parsely.com
 cdn.perfdrive.com
 cdn.permutive.com
 cdn.petametrics.com
@@ -891,6 +895,7 @@ cdn2.pollster.pl
 cdn3.optimizely.com
 cdn4.forter.com
 cdn51.vizury.com
+cdns.au1.gigya.com
 cdns.brsrvr.com
 cdns.canddi.com
 cdns.gigya.com
@@ -1944,6 +1949,7 @@ grunerandjahr.112.2o7.net
 grunerjahr01.wt-eu02.net
 grupogod.112.2o7.net
 gruppoespresso01.webtrekk.net
+gscounters.au1.gigya.com
 gscounters.us1.gigya.com
 gslbeacon.lijit.com
 gtru.hit.gemius.pl
@@ -1964,6 +1970,7 @@ h.imedia.cz
 h.nexac.com
 h.wikia-beacon.com
 h30-deploy.hiconversion.com
+hades.srvtrck.com
 hadrian.httpool.com
 halc.iadvize.com
 handelsblatt01.webtrekk.net
@@ -2894,6 +2901,7 @@ pa.rxthdr.com
 page-events-ustats.udemy.com
 page-view-ingestion.appspot.com
 pagefair.com
+pages-stats.rbl.ms
 pages.s6.exacttarget.com
 panel2.research-int.se
 parser.webcdns.com
@@ -2990,6 +2998,7 @@ pix04.revsci.net
 pixall.esm1.net
 pixel-geo.prfct.co
 pixel-my.pixelinteractivemedia.com
+pixel-static.spotify.com
 pixel.1und1.de
 pixel.33across.com
 pixel.admobclick.com
@@ -3020,6 +3029,7 @@ pixel.quantserve.com
 pixel.redditmedia.com
 pixel.rubiconproject.com
 pixel.sitescout.com
+pixel.spotify.com
 pixel.staticworld.net
 pixel.tapad.com
 pixel.tcog.cp1.news.com.au
@@ -3063,6 +3073,7 @@ postmedia.demdex.net
 pp.lp4.io
 pr.realvu.net
 prad.ivwbox.de
+prd.jwpltx.com
 pre-gn.quimron.net
 preberi.iprom.net
 prebid.districtm.ca
@@ -3751,6 +3762,7 @@ static-tagr.gd1.mookie1.com
 static-trackers.adtarget.me
 static.adinsight.com
 static.analytics.artirix.com
+static.apester.com
 static.atgsvcs.com
 static.audienceinsights.net
 static.brandcrumb.com
@@ -4306,6 +4318,7 @@ trajan.httpool.com
 trandsey.info
 trck.spoteffects.net
 trckr.click
+trf.greatviews.de
 tribalddb.122.2o7.net
 tribl.io
 tribuneinteractive.122.2o7.net
@@ -4332,6 +4345,7 @@ ts.tnaflix.com
 tsf.smartbn.ru
 tsleducation.112.2o7.net
 tsmedia.nuggad.net
+tt.onthe.io
 tt1.openload.co
 tt2.openload.co
 ttauri.techradar.com
@@ -4367,6 +4381,7 @@ uim.tifbs.net
 uip.semasio.net
 uk.112.2o7.net
 uk.sitestat.com
+ulogs.umengcloud.com
 umds.wpdigital.net
 unagi-na.amazon.com
 unimusic.ivwbox.de

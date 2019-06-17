@@ -190,6 +190,7 @@ abourselfi.com
 abs.proxistore.com
 ac.primeshare.tv
 ac.realvu.net
+acales.ru
 acaster.coupons.com
 acceptable.a-ads.com
 accessa.club
@@ -313,6 +314,7 @@ ad.ecplaza.net
 ad.ent400-2.tbn.ru
 ad.ent400.tbn.ru
 ad.eporner.com
+ad.eposavje.com
 ad.es.doubleclick.net
 ad.eurosport.com
 ad.feathr.co
@@ -1373,7 +1375,7 @@ ads.viber.com
 ads.vicoteka.com
 ads.videobox.com
 ads.videomaker.com
-ads.vidible.tv 
+ads.vidible.tv
 ads.vimg.net
 ads.vin.gd
 ads.viralize.tv
@@ -2145,6 +2147,7 @@ beacon.dedicatednetworks.com
 beaconads.com
 beead.nuggad.net
 bellcan.adbureau.net
+beskbom.ru
 best.prizedeal16.info
 bestadbid.com
 bestarmour4u.link
@@ -2333,6 +2336,7 @@ cdn.shorte.st
 cdn.spotxcdn.com
 cdn.static-fra.de
 cdn.stickyadstv.com
+cdn.stroeerdigitalgroup.de
 cdn.teads.tv
 cdn.technoratimedia.com
 cdn.tsyndicate.com
@@ -2800,6 +2804,7 @@ fls-na.amazon-adsystem.com
 fls.uk.doubleclick.net
 fluxads.com
 focusin.ads.targetnet.com
+fodlkf9d1p.com
 forshrd.com
 fouoh.com
 fr.105.slidein.clickintext.net
@@ -3717,6 +3722,7 @@ prestoris.com
 prg.smartadserver.com
 primary.bannerwerbung.net
 primaryads.com
+primechoice.ru
 privacy.crwdcntrl.net
 privacy.purch.com
 prm.clicks4ads.com
@@ -3947,6 +3953,7 @@ s1.my.adocean.pl
 s1.rotaban.ru
 s2.ad.adocean.pl
 s2.static.cfgr1.com
+s2.static.cfgr3.com
 s2.video.doubleclick.net
 s2s.komoona.com
 s3-eu-central-1.amazonaws.co
@@ -4200,6 +4207,7 @@ tag.admeld.com
 tag.onscroll.com
 tag.tlvmedia.com
 tag1.adaptiveads.com
+tagan.adlightning.com
 tags.bkrtx.com
 tags.dashboardad.net
 tags.deployads.com
@@ -4398,6 +4406,7 @@ vidtech.cbsima.com
 vip.adstatic.com
 visualtis.com
 vitalads.net
+vknrfwwxhxaxupqp.pro
 vlibs.advertising.com
 vma.tgdaily.com
 vma.tgdaily.net
