@@ -330,6 +330,7 @@ analytics.convertlanguage.com
 analytics.cyberghostvpn.com
 analytics.dev.popdust.com
 analytics.ecvv.com
+analytics.eip.telegraph.co.uk
 analytics.fairfax.com.au
 analytics.fortinet.com
 analytics.freedom.press
@@ -419,6 +420,7 @@ api.adrtx.net
 api.adsymptotic.com
 api.altmetric.com
 api.amplitude.com
+api.apflyer.com
 api.appmonsta.com
 api.autopilothq.com
 api.behavioralengine.com
@@ -651,6 +653,7 @@ boomerang.dell.com
 bootstrap.vertamedia.com
 botd2.wordpress.com
 bounceexchange.com
+bouncyproperty.com
 box.xing.com
 bptracking.com
 brahe.apptimize.com
@@ -784,6 +787,7 @@ cdn-rtb.sape.ru
 cdn-sec.optmd.com
 cdn.adrtx.net
 cdn.amilliamilli.com
+cdn.apflyer.com
 cdn.app.exitmonitor.com
 cdn.appdynamics.com
 cdn.assets.craveonline.com
@@ -1773,6 +1777,7 @@ fathern.info
 fc.webmasterpro.de
 fc.yahoo.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+feedbackws.icloud.com
 feeds.ibt.com
 felix.data.tm-awx.com
 fh-main.measure.agilemeasure.com
@@ -2315,6 +2320,7 @@ log.stats24.net
 log.thevideo.me
 log.traceics.ca
 log.trafic.ro
+log.trendingnow.video
 log.tresorit.com
 log.user-api.com
 log.wapi.wetpaint.com
@@ -2606,6 +2612,7 @@ metrics.ew.com
 metrics.farnell.com
 metrics.gettyimages.com
 metrics.gfycat.com
+metrics.icloud.com
 metrics.mathworks.com
 metrics.nearpod.com
 metrics.nero.com
@@ -3115,6 +3122,7 @@ pto.awecr.com
 pturt.com
 pu.trafficshop.com
 pub.freestar.io
+pubgalaxy-d.openx.net
 public.cobrowse.oraclecloud.com
 public.xiti.com
 publique.xiti.com
@@ -3171,6 +3179,7 @@ r.mradx.net
 r.nexeps.com
 r.openx.net
 r.remarketingpixel.com
+r.stygg.xyz
 r.teads.tv
 r.turn.com
 r1.autobild.de
@@ -3914,6 +3923,7 @@ stattds.club
 stayfrie.ivwbox.de
 std.o.webmd.com
 std1.hit.gemius.pl
+steadfastsystem.com
 stepstone.d1.sc.omtrdc.net
 storemetrics.pixelbits.io
 stormyachiever.com
@@ -4062,6 +4072,7 @@ technical-service.net
 techtarget.122.2o7.net
 ted.dailymail.co.uk
 teledat.iprom.net
+telegraph.sdk.beemray.com
 telemetry.jivosite.com
 telemetry.tradingview.com
 telenorstartsiden.112.2o7.net
@@ -4430,6 +4441,7 @@ v55.xiti.com
 v6.xiti.com
 v60.xiti.com
 v6p.xiti.com
+v7.beemray.com
 v72dev.xiti.com
 v75.xiti.com
 v75dev.xiti.com
@@ -4443,6 +4455,7 @@ vacwrite.com
 vap3iad1.lijit.com
 vap5iad1.lijit.com
 vars.hotjar.com
+vaugrouh.net
 vecer.iprom.net
 velocecdn.com
 velocity-cdn.ebaystratus.com
