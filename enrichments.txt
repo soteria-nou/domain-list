@@ -43,6 +43,7 @@ app.convertfox.com
 app.convertkit.com
 app.getresponse.com
 app.getsentry.com
+app.interactiveads.ai
 app.mailerlite.com
 app.optinarchitect.com
 app.truepush.com
@@ -70,6 +71,7 @@ blastro.us.intellitxt.com
 bleepingcomputer.us.intellitxt.com
 bluechillies.us.intellitxt.com
 bluesfear.us.intellitxt.com
+bolt.dropbox.com
 brothersoft.us.intellitxt.com
 businessinsider.us.intellitxt.com
 c.la1-c1-dfw.salesforceliveagent.com
@@ -297,6 +299,7 @@ mp3lyrics.us.intellitxt.com
 msfn.us.intellitxt.com
 msn.us.intellitxt.com
 msnbc.us.intellitxt.com
+mssg.me
 mustangspecs.us.intellitxt.com
 mydigitallife.us.intellitxt.com
 mysymbian.uk.intellitxt.com

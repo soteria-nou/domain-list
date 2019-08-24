@@ -1381,6 +1381,7 @@ dixonspcwcouk.112.2o7.net
 djers.com
 djv99sxoqpv11.cloudfront.net
 dkhvvvstvgett.cloudfront.net
+dl.reg.163.com
 dlogin.hitbox.com
 dm.codeproject.com
 dmg.digitaltarget.ru
@@ -1788,6 +1789,7 @@ files.upscore.com
 finance.iprom.net
 financesi.iprom.net
 finaonl.ivwbox.de
+fl.reg.163.com
 flake.formr.io
 flipkart.d1.sc.omtrdc.net
 fls-eu.amazon.co.uk
@@ -3535,6 +3537,7 @@ segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
 senergy.teslarati.com
 seness.info
+sentry.ilol.si
 sentry.io
 serv.clicksor.net
 serve.albacross.com
@@ -4574,6 +4577,7 @@ webtrends.eu.playstation.com
 webtrends.telegraph.co.uk
 webtrendsdc.ecolab.com
 webts.adac.de
+webzj.reg.163.com
 wecai.us
 welt.met.vgwort.de
 weltn24.rtrp13n.de
@@ -4663,6 +4667,7 @@ www.fastly-insights.com
 www.fhpro.in
 www.freecamdollars.com
 www.fullstory.com
+www.getback.ch
 www.getfreebl.com
 www.google-analytics.com
 www.gototrk.com

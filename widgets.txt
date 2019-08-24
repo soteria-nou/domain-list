@@ -74,6 +74,7 @@ cdn.ywxi.net
 cdn01.smartling.com
 cdn4.wibbitz.com
 cf.kampyle.com
+chatntr.com
 chatserver.comm100.com
 chatwing.com
 chs02.cookie-script.com
