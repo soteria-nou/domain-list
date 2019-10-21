@@ -101,6 +101,7 @@ a.deadlinefunnel.com
 a.dpmsrv.com
 a.eepn.com
 a.elecdesign.com
+a.exosrv.com
 a.fandango.com
 a.findarticles.com
 a.flashtalking.com
@@ -1531,6 +1532,7 @@ adserve.podaddies.com
 adserve.postrelease.com
 adserve.scubaboard.com
 adserve.shopzilla.com
+adserved.net
 adserver-as.adtech.advertising.com
 adserver-dev-ua.novimediji.com
 adserver-e7.com
@@ -1730,6 +1732,7 @@ adsys.avtocenter.si
 adsys.vout.nl
 adsyst.biz
 adtag.asiaone.com
+adtag.sphdigital.com
 adtaily.com
 adtaily.eu
 adtechus.com
@@ -1986,6 +1989,7 @@ attadworks.turn.com
 attenhance.com
 austria1.adverserve.net
 authedmine.com
+automate-prod.s3.amazonaws.com
 avads.co.uk
 avtomobilizem.iprom.net
 awakebottlestudy.com
@@ -2335,6 +2339,7 @@ cdn.pvrtx.net
 cdn.ratahor.com
 cdn.reporo.net
 cdn.revcontent.com
+cdn.riverhit.com
 cdn.samvaulter.com
 cdn.shorte.st
 cdn.spotxcdn.com
@@ -3055,6 +3060,7 @@ interyield.jmp9.com
 interyield.td553.com
 inv-nets.admixer.net
 inv.questex.com
+iociley.com
 iocnkrbgic.com
 ioredi.com
 ip.nuggad.net
@@ -3134,6 +3140,7 @@ l-forex.com
 l.aaxads.com
 l.betrad.com
 laborates.com
+ladsblue.com
 landing.predictad.com
 langtzet.info
 lau2.click.union.ucweb.com
@@ -3361,6 +3368,7 @@ ns2.doubleclick.net
 ns3.doubleclick.net
 ns4.doubleclick.net
 nspmotion.com
+nudespree.com
 nyacampwk.com
 nym1.adnxs.com
 nym1.ib.adnxs.com
@@ -3592,6 +3600,7 @@ p.adpdx.com
 p.ato.mx
 p.inte.sogou.com
 p.nevtron.si
+p.purple6401.com
 p.pxl2015x1.com
 p152037.clksite.com
 p185755.clksite.com
@@ -3622,6 +3631,7 @@ parwrite.com
 pasice.rockonnet.com
 paslsa.com
 paste-d.openx.net
+patrizio.pro
 paypalssl.doubleclick.net
 pbcde.com
 pbid.pro-market.net
@@ -3982,6 +3992,8 @@ s3.buysellads.com
 s3.us-east-2.amazonaws.com
 s4.adwatcher.net
 s9kkremkr0.com
+sadsims.com
+sadskis.com
 safeadnetworkdata.net
 safeads.69sg.com
 safelinktracker.com
@@ -4008,6 +4020,7 @@ scripts.mediavine.com
 sdk.appadhoc.com
 sdk.streamrail.com
 sdk.vindicosuite.com
+sdsttt.com
 sea-u.openx.net
 secserv.adtech.de
 secure-ads.pictela.net
@@ -4216,6 +4229,7 @@ t.mtagmonetizationb.com
 t.mtagmonetizationc.com
 t.nuvidp.com
 t.p.mybuys.com
+t.riverhit.com
 t.tmdn2015x11.com
 t13.intelliad.de
 t23.intelliad.de
@@ -4634,6 +4648,7 @@ www.megdexchange.com
 www.mgrxsztbcfeg.com
 www.modmyads.com
 www.modulepush.com
+www.movcpm.com
 www.mrkzgpbaapif.com
 www.mttyfwtvyumc.com
 www.mxsuikhqaggf.com

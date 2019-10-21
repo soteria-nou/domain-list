@@ -796,6 +796,7 @@ cdn.avmws.com
 cdn.bauernative.com
 cdn.behavioralengine.com
 cdn.bigmining.com
+cdn.bitrix24.ua
 cdn.bizible.com
 cdn.bobblewrite.com
 cdn.boomtrain.com
@@ -989,6 +990,7 @@ cm.adform.net
 cm.adgrx.com
 cm.eyereturn.com
 cm.l.qq.com
+cmap.alibaba.com
 cmdts.ksmobile.com
 cmp.112.2o7.net
 cmp.mediavine.com
@@ -1328,6 +1330,7 @@ de.sitestat.com
 de.tynt.com
 de8of677fyt0b.cloudfront.net
 deadlinefunnel.com
+deai.spankbang.com
 decide.mixpanel.com
 decsitefinitycdn.blob.core.windows.net
 dedekind.xiti.com
@@ -2155,6 +2158,7 @@ ipromlabs.net
 ips-invite.iperceptions.com
 ir-fr.amazon-adsystem.com
 ir-na.amazon-adsystem.com
+iris.tomshardware.com
 irishtimesgroup.112.2o7.net
 issuu-d.openx.net
 istri.it
@@ -2862,6 +2866,7 @@ otnolatrnup.com
 ots.optimize.webtrends.com
 ottawa.xiti.com
 out.tomsguide.fr
+outseeltor.com
 overdrive.112.2o7.net
 ovk.xceler8.io
 owa.piwikanalytics.win
@@ -3037,6 +3042,7 @@ pixel.pzkie.com
 pixel.quantserve.com
 pixel.redditmedia.com
 pixel.rubiconproject.com
+pixel.servebom.com
 pixel.sitescout.com
 pixel.spotify.com
 pixel.staticworld.net
@@ -3121,6 +3127,7 @@ pt.fiksu.com
 pt.ptawe.com
 pt.trafficjunky.net
 pto.awecr.com
+pto.protoawe.com
 pturt.com
 pu.trafficshop.com
 pub.freestar.io
@@ -3253,6 +3260,7 @@ responder.wt-safetag.com
 retailmenot-d.openx.net
 retarget.ssl-services.com
 retaryrs.com
+retcode-us-west-1.arms.aliyuncs.com
 retcode.taobao.com
 return.uk.uniregistry.com
 reuters-d.openx.net
@@ -4786,6 +4794,7 @@ xapi-publisher.quinstreet.com
 xc3.services.livejournal.com
 xcp.go.sonobi.com
 xeclick.com
+xhr.invl.co
 xhr.yallboen.com
 xitiad6.xiti.com
 xitiv6.xiti.com
