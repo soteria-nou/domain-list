@@ -67,6 +67,7 @@ cdn.playbuzz.com
 cdn.playwire.com
 cdn.prizma.tv
 cdn.pubexchange.com
+cdn.shareaholic.net
 cdn.syndication.twimg.com
 cdn.topsy.com
 cdn.trending.ntrsctn.com
@@ -117,6 +118,7 @@ dtkm4pd19nw6z.cloudfront.net
 edge.jobthread.com
 edge.sharethis.com
 embed.5min.com
+embed.actionbutton.co
 embed.scribblelive.com
 embed.spotify.com
 embed.tawk.to
@@ -161,6 +163,7 @@ js.appboycdn.com
 js.bigdoor.com
 js.driftt.com
 js.ru.redtram.com
+k4z6w9b5.stackpathcdn.com
 l.addthiscdn.com
 l.sharethis.com
 labs-cdn.revcontent.com

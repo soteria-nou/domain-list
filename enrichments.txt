@@ -38,6 +38,7 @@ api.parsely.com
 api.pulpix.com
 api.scribblelive.com
 api.survicate.com
+api.vanilla.futurecdn.net
 app.consentassist.com
 app.convertfox.com
 app.convertkit.com
@@ -51,6 +52,7 @@ apps.nexus.bazaarvoice.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
 assets.bunchball.net
+assets.context.ly
 assets.juicer.io
 auto-motor-und-sport.de.intellitxt.com
 autobild.de.intellitxt.com
@@ -463,6 +465,7 @@ totalvideogames.uk.intellitxt.com
 touslesdrivers.fr.intellitxt.com
 traffic5.helponclick.com
 traileraddict.us.intellitxt.com
+transactions.sendowl.com
 tslfeeder.dotfusion.com
 tutorialized.us.intellitxt.com
 tweaktown.us.intellitxt.com

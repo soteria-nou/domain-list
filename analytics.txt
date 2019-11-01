@@ -671,6 +671,7 @@ bttrack.com
 bucky.udimg.com
 buffalotech.links.channelintelligence.com
 buffalotech.links.origin.channelintelligence.com
+bulb.76.my
 burda-website.piwikpro.com
 burda.iprom.net
 business.samsungusa.com
@@ -860,6 +861,7 @@ cdn.refersion.com
 cdn.relaymedia.com
 cdn.sailthru.com
 cdn.scarabresearch.com
+cdn.securedtouch.com
 cdn.segment.com
 cdn.segment.io
 cdn.sendpulse.com
@@ -3598,6 +3600,7 @@ sjrtp7-cdn.marketo.com
 sky.estat.com
 skydeutschland.122.2o7.net
 slf-collector.elasticbeanstalk.com
+slickdeals.btttag.com
 sloveniainfo.log.checkeffect.at
 slovenskenovice.iprom.net
 sm-cdn.simplymeasured.com
@@ -4368,6 +4371,7 @@ tsf.smartbn.ru
 tsleducation.112.2o7.net
 tsmedia.nuggad.net
 tt.onthe.io
+tt1.oload.download
 tt1.openload.co
 tt2.openload.co
 ttauri.techradar.com
