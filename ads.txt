@@ -1377,6 +1377,7 @@ ads.vertmarkets.com
 ads.vg.basefarm.net
 ads.viber.com
 ads.vicoteka.com
+ads.videoadex.com
 ads.videobox.com
 ads.videomaker.com
 ads.vidible.tv
@@ -2349,6 +2350,7 @@ cdn.stickyadstv.com
 cdn.stroeerdigitalgroup.de
 cdn.teads.tv
 cdn.technoratimedia.com
+cdn.trugaze.io
 cdn.tsyndicate.com
 cdn.viglink.com
 cdn.w55c.net
@@ -2751,6 +2753,7 @@ engine.influads.com
 engine.instinctiveads.com
 engine.nectarads.com
 engine.spotscenered.info
+engine.voluumtlkrnarketing.com
 engine.widespace.com
 engine2.adzerk.net
 enoughts.info
@@ -3095,6 +3098,7 @@ js.advert.mirtesen.ru
 js.bigfineads.com
 js.bulkhentai.com
 js.geoads.com
+js.gumgum.com
 js.himediads.com
 js.indexww.com
 js.juicyads.com
@@ -3530,6 +3534,7 @@ openx.watchmygf.net
 openx.websys.sk
 openx.yourstory.com
 openx4.emag.ro
+operaserver.com
 optimize.adpushup.com
 optimized-by.rubiconproject.com
 optimized-by.vitalads.net
@@ -3795,6 +3800,7 @@ publisher.caroda.io
 publisher.infinityads.com
 publishers.halogennetwork.com
 pubportal.brkmd.com
+push-news.net
 pushanert.com
 pushno.com
 pushprofit.ru
@@ -4063,6 +4069,7 @@ service.clicksvenue.com
 service.maxymiser.net
 servicer.adskeeper.co.uk
 services.cdn.speedshiftmedia.com
+services.insurads.com
 serving.adbetclickin.pink
 serving.bepolite.eu
 servingpps.com
@@ -4510,6 +4517,7 @@ ww251.smartadserver.com
 ww4.okoads.com
 ww57.smartadserver.com
 ww881.smartadserver.com
+wwclicknews.club
 www.1a-ads.si
 www.20adverts.com
 www.aayeljzpuu.com
@@ -4628,6 +4636,7 @@ www.iwanttodeliver.com
 www.jbbgczjipjvb.com
 www.jjrzlqho.com
 www.jolic2.com
+www.jygotubvpyguak.com
 www.kanknulla.com
 www.kbdadsfast.com
 www.kbzrszspknla.com

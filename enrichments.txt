@@ -1,4 +1,5 @@
 1up.us.intellitxt.com
+20min.rcmd.tda.io
 247wallstreet.us.intellitxt.com
 a.c0594.com
 a.optmnstr.com
@@ -32,6 +33,7 @@ answerbag.us.intellitxt.com
 anvari.us.intellitxt.com
 api.booster3000.si
 api.bufferapp.com
+api.condenast.io
 api.facebook.com
 api.mediabooster.si
 api.parsely.com

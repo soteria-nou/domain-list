@@ -509,6 +509,7 @@ assets.adstage.io
 assets.customer.io
 assets.ipcdigital.co.uk
 assets.teradata.com
+assets.ti-media.net
 assets.vidora.com
 associatedcontent.112.2o7.net
 assoicatedcontent.112.2o7.net
@@ -954,6 +955,7 @@ ciscowebex.112.2o7.net
 citizenstelecom.112.2o7.net
 cjs.ptengine.com
 cl.cpaevent.ru
+cl.qualaroo.com
 cl1.sitestats.de
 clancy.spiceworks.com
 clarityray.com
@@ -1136,6 +1138,7 @@ crain.d1.sc.omtrdc.net
 crd.hitbox.com
 create.leadid.com
 cricket.hosted.stats.com
+critictruck.com
 crm-metrix.com
 crm.zoho.com
 cross-sell.inkfrog.com
@@ -1365,6 +1368,7 @@ devfi2.xiti.com
 devhbx.hitbox.com
 device.maxmind.com
 devlogin.hitbox.com
+devnull.perfops.net
 dewsburg.info
 dhbx.hitbox.com
 digdemo.hitbox.com
@@ -2568,6 +2572,7 @@ mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
 maxim.122.2o7.net
+mboxedge26.tt.omtrdc.net
 mc.exacttarget.com
 mc.s4.exacttarget.com
 mc.s6.exacttarget.com
@@ -3323,6 +3328,7 @@ rtd.tubemogul.com
 rtst.122.2o7.net
 ru-gmtdmp.mookie1.com
 rum.conde.io
+rum.perfops.net
 rum01.revsw.net
 rumds.wpdigital.net
 rwt.reichelt.de
@@ -3925,6 +3931,7 @@ stats.wired.com
 stats.wordpress.com
 stats.wp.com
 stats.wwitv.com
+stats01.20min.ch
 stats2.clicktracks.com
 stats2.teenvogue.com
 stats2.tune.pk
