@@ -835,6 +835,7 @@ cdn.granify.com
 cdn.greta.io
 cdn.heapanalytics.com
 cdn.histats.com
+cdn.hubvisor.io
 cdn.insights.gravity.com
 cdn.inspectlet.com
 cdn.interstateanalytics.com
@@ -873,6 +874,7 @@ cdn.spoutable.com
 cdn.static.zdtag.com
 cdn.stroeerdigitalmedia.de
 cdn.taboola.com
+cdn.tagcommander.com
 cdn.targetfuel.com
 cdn.theoplayer.com
 cdn.threadloom.com
@@ -1027,6 +1029,7 @@ col.eum-appdynamics.com
 collect-eu-central-1.tealiumiq.com
 collect.albacross.com
 collect.octalytics.com
+collecte.audience.acpm.fr
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
 collector-pxel3l4xih.perimeterx.net
@@ -1371,6 +1374,8 @@ devlogin.hitbox.com
 devnull.perfops.net
 dewsburg.info
 dhbx.hitbox.com
+dig.ultimedia.com
+dig2.ultimedia.com
 digdemo.hitbox.com
 digg.112.2o7.net
 directtrk.com
@@ -1837,6 +1842,7 @@ fw.adsafeprotected.com
 fx.gtopstats.com
 g.3gl.net
 g.bing.com
+g.ign.com
 g.jwpsrv.com
 g.silicon.co.uk
 ga-beacon.appspot.com
@@ -2162,6 +2168,7 @@ iprom.net
 iprom.si
 ipromlabs.net
 ips-invite.iperceptions.com
+iqfetqjd.g02.ign.com
 ir-fr.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 iris.tomshardware.com
@@ -2247,6 +2254,7 @@ kraftfoodseurope.d3.sc.omtrdc.net
 krater.iprom.net
 kropka.onet.pl
 kt4.kliptracker.com
+kts.visitstats.com
 kweb.videostep.com
 kwobj.com
 kyarm.com
@@ -2443,6 +2451,7 @@ logs-01.loggly.com
 logs.comics.com
 logs.eresmas.com
 logs.eresmas.net
+logs1091.xiti.com
 logs1183.xiti.com
 logs1242.xiti.com
 logs1252.xiti.com
@@ -3331,6 +3340,7 @@ rum.conde.io
 rum.perfops.net
 rum01.revsw.net
 rumds.wpdigital.net
+runmibom.g02.ign.com
 rwt.reichelt.de
 s.66.ru
 s.acexedge.com
@@ -3808,6 +3818,7 @@ static.getclicky.com
 static.hotjar.com
 static.imgserve.us
 static.kameleoon.com
+static.mediarithmics.com
 static.mywebstats.com.au
 static.oktopost.com
 static.proximic.com
@@ -4046,6 +4057,7 @@ ta.queit.in
 tag-st.contextweb.com
 tag.1rx.io
 tag.aticdn.net
+tag.audience.acpm.fr
 tag.bounceexchange.com
 tag.contextweb.com
 tag.digitaltarget.ru
@@ -4382,6 +4394,7 @@ tt1.oload.download
 tt1.openload.co
 tt2.openload.co
 ttauri.techradar.com
+ttauri.tomshardware.com
 tumblrreports.cedexis.com
 tunein-d.openx.net
 turbo.qualaroo.com
@@ -4453,6 +4466,7 @@ uts.ngdata.com
 uuidksinc.net
 v.shopify.com
 v2.ailytics.net
+v2.api.uberflip.com
 v2.superstats.com
 v2mlemerald.com
 v3-i.viafoura.com

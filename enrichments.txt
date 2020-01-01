@@ -191,6 +191,7 @@ freecodecs.us.intellitxt.com
 freeonlinegames.us.intellitxt.com
 front.optimonk.com
 futurelooks.us.intellitxt.com
+futureplc.slgnt.eu
 gabsmash.us.intellitxt.com
 gartendialog.de.intellitxt.com
 gateworld.us.intellitxt.com

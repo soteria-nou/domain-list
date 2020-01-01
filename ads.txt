@@ -946,6 +946,7 @@ ads.datinggold.com
 ads.dedicatedmedia.com
 ads.deliads.com
 ads.deliverimp.com
+ads.deloglasnik.si
 ads.deltatv.site
 ads.depositfiles.com
 ads.designworldonline.com
@@ -4211,6 +4212,7 @@ surgeprice.com
 survey.nuggad.net
 svsub.com
 sw.interpolls.com
+sw.wpu.sh
 switch.d-agency.net
 sync.adap.com
 sync.adap.tv
@@ -4432,6 +4434,7 @@ valuepubmedia.com
 vast-cdn.mtngt.com
 vast.brandads.net
 vast.vertamedia.com
+vd.7vid.net
 vdrn.redplum.com
 venturead.com
 vg74gi6mea.com
