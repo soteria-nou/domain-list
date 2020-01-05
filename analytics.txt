@@ -1329,6 +1329,7 @@ dc.services.visualstudio.com
 dc2-3.112.2o7.net
 dc46.s361.meetrics.net
 dc51.s361.meetrics.net
+dc5k8fg5ioc8s.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
 dcms.alibaba.com
 dd.ca.b0.a2.top.mail.ru
@@ -3938,6 +3939,7 @@ stats.unwired-i.net
 stats.visistat.com
 stats.web-log.nl
 stats.webblogg.se
+stats.windscribe.com
 stats.wired.com
 stats.wordpress.com
 stats.wp.com

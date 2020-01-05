@@ -97,6 +97,7 @@ cdn.goroost.com
 cdn.introbar.com
 cdn.izooto.com
 cdn.klickly.com
+cdn.moengage.com
 cdn.onesignal.com
 cdn.pulpix.com
 cdn.pushassist.com
