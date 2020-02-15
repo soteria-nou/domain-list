@@ -321,6 +321,7 @@ analytics.brandcrumb.com
 analytics.brid.tv
 analytics.brightedge.com
 analytics.businessinsider.com
+analytics.churnzero.net
 analytics.clickdimensions.com
 analytics.cliqz.com
 analytics.coderouge.co
@@ -2002,6 +2003,7 @@ harborfreight.tt.omtrdc.net
 hardluxx.ivwbox.de
 hb-endpoint-elb-307841411.adomik.com
 hb.adomik.com
+hb.emxdgt.com
 hb.springserve.com
 hbopenbid.pubmatic.com
 hchrmain.112.2o7.net
@@ -2074,6 +2076,7 @@ hv3.webstat.com
 hz.mmstat.com
 hzs8.cnzz.com
 i.authorinsights.com
+i.clean.gg
 i.compendium.com
 i.ctnsnet.com
 i.eporner.com

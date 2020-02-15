@@ -86,6 +86,7 @@ cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
 cdn.callbackhunter.com
+cdn.consentmanager.mgr.consensu.org
 cdn.contentsitesrv.com
 cdn.cookielaw.org
 cdn.dynamicyield.com
@@ -128,6 +129,7 @@ comingsoon.us.intellitxt.com
 compnet.us.intellitxt.com
 config-prod.choice.faktor.io
 consent.cookiebot.com
+consentmanager.mgr.consensu.org
 contactmusic.uk.intellitxt.com
 content.zemanta.com
 contextlinks.netseer.com
