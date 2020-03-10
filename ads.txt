@@ -781,6 +781,7 @@ adrunnr.com
 ads-205.quarterserver.de
 ads-by.madadsmedia.com
 ads-by.yieldselect.com
+ads-delivery.gameforge.com
 ads-dev.youporn.com
 ads-jutarnji.r.worldssl.net
 ads-stats.com
@@ -2437,6 +2438,7 @@ code.ptcong.com
 code.taggify.net
 code.theads.me
 code2.adtlgc.com
+codezp1.com
 coinad.com
 coinhive.com
 coinser.in
@@ -4126,6 +4128,7 @@ smartxads.com
 smartyads.com
 smilered.com
 smp.specificmedia.com
+smpop.icfcdn.com
 softonicads.com
 softpopads.com
 solegingly.co
@@ -4513,6 +4516,7 @@ wms.assoc-amazon.com
 wn.pos.baidu.com
 wonderlandads.com
 world.popadscdn.net
+worldmapd.online
 wortparser.info
 wpzka4t6.site
 wrap.tradedoubler.com

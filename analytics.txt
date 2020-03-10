@@ -868,6 +868,7 @@ cdn.securedtouch.com
 cdn.segment.com
 cdn.segment.io
 cdn.sendpulse.com
+cdn.shortpixel.ai
 cdn.siftscience.com
 cdn.smart-digital-solutions.com
 cdn.speedcurve.com
@@ -1320,6 +1321,7 @@ data.flw.li
 data.gosquared.com
 data.minute.ly
 data.publishflow.com
+data.sea.sg
 datacloud.tealiumiq.com
 datacollect3.abtasty.com
 dbwas.service.deutschebahn.com
@@ -3073,6 +3075,7 @@ pixel.wp.com
 pixel.yabidos.com
 pixel.yola.net
 pixel1020.everesttech.net
+pixelzirkus.gameforge.com
 pixfuture-d.openx.net
 pj.l.admedo.com
 pks.a.mobimagic.com
