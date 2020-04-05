@@ -284,6 +284,7 @@ ald.taobao.com
 allbritton.122.2o7.net
 allegro.hit.gemius.pl
 alleyezonme-collection.buzzfeed.com
+allmygoodlife.com
 alog.umeng.com
 alpha75.xiti.com
 alpha76.xiti.com
@@ -881,6 +882,7 @@ cdn.targetfuel.com
 cdn.theoplayer.com
 cdn.threadloom.com
 cdn.trackjs.com
+cdn.trafficbass.com
 cdn.trafficstars.com
 cdn.triggertag.gorillanation.com
 cdn.trmit.com
@@ -1065,7 +1067,9 @@ condenast.tt.omtrdc.net
 condenastus-d.openx.net
 config.sensic.net
 configusa.veinteractive.com
+connect.mail.ru
 connect.odnoklassniki.ru
+connect.topicit.net
 connectio.s3.amazonaws.com
 conrad.122.2o7.net
 conrad.prudsys-rde.de
@@ -3041,6 +3045,7 @@ pixel.admobclick.com
 pixel.adpredictive.com
 pixel.adsafeprotected.com
 pixel.advertising.com
+pixel.anyclip.com
 pixel.audienceinsights.net
 pixel.bild.de
 pixel.buzzdeck
@@ -3572,6 +3577,7 @@ senergy.teslarati.com
 seness.info
 sentry.ilol.si
 sentry.io
+seofast.men
 serv.clicksor.net
 serve.albacross.com
 servedby.adxpose.com
@@ -4834,6 +4840,7 @@ xitiv6.xiti.com
 xl.topstat.com
 xob.miranus.com
 xp.apple.com
+xray.mail.ru
 xre.static-api.pw
 xsltcache.alexa.com
 xyz.tweaktown.com

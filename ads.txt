@@ -1920,6 +1920,7 @@ aoredi.com
 ap76rmx3.accountant
 apapi.dc121677.com
 apex-ad.com
+aphycolourses.info
 api-proxy.bee7.com
 api.ad.sunmedia.net
 api.adg99.com
@@ -2560,6 +2561,7 @@ d2pppxxtaciku9.cloudfront.net
 d2psf55e0gm6yv.cloudfront.net
 d2rhlq203cnmhw.cloudfront.net
 d2xkqxdy6ewr93.cloudfront.net
+d2z51a9spn09cw.cloudfront.net
 d3.condenast.servedbyopenx.com
 d36sxvmjoflc2i.cloudfront.net
 d3al52d8cojds7.cloudfront.net
@@ -2690,6 +2692,7 @@ dprtb.com
 dqqulesm3pfse.cloudfront.net
 drxboeng70b3r.cloudfront.net
 ds-4047.kxcdn.com
+ds88pc0kw6cvc.cloudfront.net
 dsp.adfarm1.adition.com
 dssja7qsifeak.cloudfront.net
 dsum-sec.casalemedia.com
@@ -2821,6 +2824,7 @@ files.adspdbl.com
 filmiki.maxart.pl
 filternal.space
 fim.adnxs.com
+find-my-great-life.com
 fixedpos.advertserve.com
 floatingads.madisonavenue.com
 fls-eu.amazon-adsystem.com
@@ -2930,10 +2934,12 @@ h.verticalscope.com
 h6.msn.com
 haeg1ei.bid
 hahemla.com
+halleyperson.pro
 hammerhearing.com
 happer.info
 hattepush.com
 hb.vntsm.com
+hbx.media.net
 hcg82f2b.com
 heise.nuggad.net
 helix.beanstock.co
@@ -3065,6 +3071,7 @@ ingstralitybuchang.info
 init.supersonicads.com
 inl.adbureau.net
 inmobisdk-a.akamaihd.net
+inpagepush.com
 insight.adsrvr.org
 inskinad.com
 insta-marketing.com
@@ -3156,6 +3163,7 @@ l-forex.com
 l.aaxads.com
 l.betrad.com
 laborates.com
+ladsans.com
 ladsblue.com
 landing.predictad.com
 langtzet.info
@@ -3706,6 +3714,7 @@ pl14300112.puserving.com
 pl14409391.puserving.com
 pl14969192.pvclouds.com
 pl14995214.pvclouds.com
+pl14995270.passeura.com
 pl168555.puhtml.com
 pl177916.puhtml.com
 pl178987.puhtml.com
@@ -4029,6 +4038,7 @@ sand-03.adnxs.com
 sand-04.adnxs.com
 sand-05.adnxs.com
 sar.66.ru
+saturalerdax.site
 savehubs.com
 sawayn.link
 sc.adelement.com
@@ -4037,6 +4047,7 @@ schetu.net
 scr.kliksaya.com
 script.adcamel.pw
 script.rtbclick.net
+scripts.advmusic.net
 scripts.kiosked.com
 scripts.mediavine.com
 sdk.appadhoc.com
@@ -4084,6 +4095,7 @@ service.maxymiser.net
 servicer.adskeeper.co.uk
 services.cdn.speedshiftmedia.com
 services.insurads.com
+services.vlitag.com
 serving.adbetclickin.pink
 serving.bepolite.eu
 servingpps.com
@@ -4123,6 +4135,7 @@ slo-engine.intextad.net
 slomedia.iprom.net
 slopeaota.com
 smart.idmnet.pl
+smart.tubeadvertising.eu
 smartlinks.dianomi.com
 smartxads.com
 smartyads.com
@@ -4228,6 +4241,7 @@ survey.nuggad.net
 svsub.com
 sw.interpolls.com
 sw.wpu.sh
+swants.pro
 switch.d-agency.net
 sync.adap.com
 sync.adap.tv
@@ -4466,6 +4480,7 @@ videos-by.vemba.io
 videos.pmi5media.com
 vidtech.cbsima.com
 vip.adstatic.com
+virallupdates.com
 visualtis.com
 vitalads.net
 vknrfwwxhxaxupqp.pro
@@ -4673,6 +4688,7 @@ www.lcwfab1.com
 www.lcwfab2.com
 www.lexozfldkklgvc.com
 www.liveadexchanger.com
+www.lkddksjgih.com
 www.lmepqfsazb.com
 www.loading-delivery2.com
 www.lovetechs.com
