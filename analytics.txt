@@ -1233,6 +1233,7 @@ d1lm7kd3bd3yo9.cloudfront.net
 d1mgcpums0qvsa.cloudfront.net
 d1mib12jcgwmnv.cloudfront.net
 d1qc76gneygidm.cloudfront.net
+d1qggq1at2gusn.cloudfront.net
 d1r55yzuc1b1bw.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1stxfv94hrhia.cloudfront.net
@@ -2159,6 +2160,7 @@ insights.dyn.archdaily.com
 insights.hotjar.com
 inskin.hs.llnwd.net
 inskin01.wt-eu02.net
+inspikon.com
 int.teracent.net
 intao.hit.gemius.pl
 intel.112.2o7.net
@@ -3143,6 +3145,7 @@ productionb.frontpage-api.virginia.onservo.com
 prof.estat.com
 proffic.org
 profile-eu.exe.bid
+propeller-tracking.com
 propermedia-d.openx.net
 prophet.heise.de
 providence.voxmedia.com
@@ -3831,6 +3834,7 @@ static.getclicky.com
 static.hotjar.com
 static.imgserve.us
 static.kameleoon.com
+static.lalaping.com
 static.mediarithmics.com
 static.mywebstats.com.au
 static.oktopost.com
@@ -4869,6 +4873,7 @@ z2d7c5q4.map2.ssl.hwcdn.net
 za-cdn.effectivemeasure.net
 za-ssl.effectivemeasure.net
 zealotnetworks-d.openx.net
+zeegreen.net
 zeemapsmetrics.s3.amazonaws.com
 zeit.met.vgwort.de
 zeit01.webtrekk.net
