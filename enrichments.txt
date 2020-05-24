@@ -137,6 +137,7 @@ contextual.media.net
 cookiebanner.unionstationapp.com
 cookieinfoscript.com
 cookies.kreatorij.si
+creative-services.ceros.com
 csharpcorner.us.intellitxt.com
 custompc.uk.intellitxt.com
 d.la1-c1-dfw.salesforceliveagent.com
@@ -419,6 +420,7 @@ speedguide.us.intellitxt.com
 sprintusers.us.intellitxt.com
 stacksocial-production-stacksocial.netdna-ssl.com
 staging.sja.sportradar.com
+static.axept.io
 static.elev.io
 static.giftwizard.co
 static.leadpages.net
@@ -493,6 +495,7 @@ velocityreviews.uk.intellitxt.com
 vendorlist.consensu.org
 via.batch.com
 video-drivers.us.intellitxt.com
+view.ceros.com
 vnu.uk.intellitxt.com
 vnunet.uk.intellitxt.com
 vtrhardware.fr.intellitxt.com

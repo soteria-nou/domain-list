@@ -2535,6 +2535,7 @@ d.adsbyisocket.com
 d.adserve.com
 d.afdads.com
 d.dc121677.com
+d.get-native.eu
 d.openx.org
 d.otaserve.net
 d.peoplesearchads.com
@@ -3255,6 +3256,7 @@ mads.download.com
 mads.webshots.com
 mafia-banner.myftp.org
 mahimeta.com
+mail-ads.google.com
 mail.adadvisor.net
 mailgw.adadvisor.net
 main.dynsrvaba.com
@@ -3665,6 +3667,7 @@ pagead.l.doubleclick.net
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pages.etology.com
+paht.tech
 paibopse.com
 pakbanners.com
 panel100.com
@@ -4290,6 +4293,7 @@ system.mondeos.pl
 syyycc.com
 t.66.ru
 t.frtyq.com
+t.get-native.eu
 t.jimdo-platform.net
 t.ju33.com
 t.mdn2015x2.com
