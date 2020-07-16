@@ -349,6 +349,7 @@ analytics.live.com
 analytics.livestream.com
 analytics.llnl.gov
 analytics.logsss.com
+analytics.ly200.com
 analytics.mlstatic.com
 analytics.modul.ac.at
 analytics.mopub.com
@@ -1073,6 +1074,7 @@ connect.topicit.net
 connectio.s3.amazonaws.com
 conrad.122.2o7.net
 conrad.prudsys-rde.de
+consent.cmp.oath.com
 consent.trustarc.com
 content.aimatch.com
 content.pollster.pl
@@ -1203,6 +1205,7 @@ d.agkn.com
 d.applovin.com
 d.btttag.com
 d.castplatform.com
+d.imedia.cz
 d.ligatus.com
 d.lookit.cz
 d.neodatagroup.com
@@ -1748,6 +1751,7 @@ eventbrite.122.2o7.net
 eventgateway.soundcloud.com
 eventlogger.soundcloud.com
 events-api.outfit7.net
+events-collector.spot.im
 events.appsflyer.com
 events.deskapi.com
 events.launchdarkly.com
@@ -1973,6 +1977,7 @@ gpaper141.112.2o7.net
 gpaper145.112.2o7.net
 gpaper177.112.2o7.net
 gpaper199.112.2o7.net
+graizoah.com
 graph.instagram.com
 green.erne.co
 grmtech.net
@@ -3052,6 +3057,7 @@ pixel.audienceinsights.net
 pixel.bild.de
 pixel.buzzdeck
 pixel.condenastdigital.com
+pixel.convertize.io
 pixel.cpex.cz
 pixel.dubnov.com
 pixel.everesttech.net
@@ -3114,6 +3120,7 @@ popcapcom.112.2o7.net
 popsci.com.122.2o7.net
 porsche01.wt-eu02.net
 postat01.webtrekk.net
+posthog-analytics.herokuapp.com
 postmedia.demdex.net
 pp.lp4.io
 pr.realvu.net
@@ -3840,6 +3847,7 @@ static.mywebstats.com.au
 static.oktopost.com
 static.proximic.com
 static.searchstax.com
+static.selfpuc.com
 static.site24x7rum.com
 static.truex.com
 static.vilynx.com
@@ -4294,6 +4302,7 @@ tracker.rareru.ru
 tracker.roitesting.com
 tracker.tradedoubler.com
 tracker.tuberewards.com
+tracker.win.gg
 tracker.wordstream.com
 trackers.adtarget.me
 tracki112.com

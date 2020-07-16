@@ -147,7 +147,9 @@ hl.hellobar.com
 hnbutton.appspot.com
 host1.easypolls.net
 hostedmax.comm100.com
+hotdeals360.com
 i.po.st
+illiweb.com
 image.providesupport.com
 inffuse-fbpopup.appspot.com
 inffuse-platform.appspot.com
@@ -269,6 +271,7 @@ statics.apreslachat.com
 staticw2.yotpo.com
 stg.truvidplayer.com
 sticky-enterprise-shopify.herokuapp.com
+streamate.icfcdn.com
 surveywidget.biz
 suwidget3-bs-fx.sphereup.com
 t.contentinsights.com
@@ -347,6 +350,7 @@ widgets.pinterest.com
 widgets.rankw.ru
 widgets.rewardstyle.com
 widgets.sir.sportradar.com
+widgets.skyprivate.com
 widgets.sprinklecontent.com
 widgets.sprinkletxt.com
 widgets.stackcommerce.com
