@@ -831,6 +831,7 @@ cdn.evgnet.com
 cdn.fandommetrics.com
 cdn.feathr.co
 cdn.fuelx.com
+cdn.fuseplatform.net
 cdn.getkya.com
 cdn.gigya.com
 cdn.glassboxcdn.com
@@ -1953,6 +1954,7 @@ go.giga-abs.de
 go.mobisla.com
 go.mobtrks.com
 go.pushnative.com
+go.schjmp.com
 go.shareaholic.com
 go.techtarget.com
 go.theregister.co.uk
@@ -2133,6 +2135,7 @@ img05.webtrekk.net
 imode.xiti.com
 imp.startappservice.com
 impact.applifier.com
+impactslam.com
 impression.clickinc.com
 improving.duckduckgo.com
 imprsvr.com
@@ -4387,6 +4390,7 @@ traffic.outbrain.com
 traffic.styria.hr
 trajan.httpool.com
 trandsey.info
+trc.pushnami.com
 trck.spoteffects.net
 trckr.click
 trf.greatviews.de

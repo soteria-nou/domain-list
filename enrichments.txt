@@ -105,6 +105,7 @@ cdn.pushassist.com
 cdn.pushcrew.com
 cdn.simility.com
 cdn.siteswithcontent.com
+cdn.snigelweb.com
 cdn.socialmediatabs.com
 cdn.subscribers.com
 cdn.transifex.com
@@ -203,6 +204,8 @@ gdpr.internetbrands.com
 geardigest.us.intellitxt.com
 geekinterview.us.intellitxt.com
 geekstogo.us.intellitxt.com
+geo-eu.snigelweb.com
+geo-us.snigelweb.com
 geolocation.onetrust.com
 ghacks.de.intellitxt.com
 gizmos.hawk-tech.co.uk

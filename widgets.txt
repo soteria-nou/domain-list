@@ -16,6 +16,7 @@ api.flyertown.ca
 api.gravity.com
 api.iflychat.com
 api.pinterest.com
+api.pushnami.com
 api.solidopinion.com
 api.stacksocial.com
 api.yotpo.com
@@ -292,6 +293,7 @@ v1.spot.im
 v2.zopim.com
 v2assets.zopim.io
 va.tawk.to
+video-play.ru
 vms.boldchat.com
 vmss.boldchat.com
 w.chatlio.com

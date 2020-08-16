@@ -899,6 +899,7 @@ ads.bridgetrack.com
 ads.bsplayer.com
 ads.btc-city.com
 ads.bukstavki3102014.com
+ads.bullionyield.com
 ads.campus-party.org
 ads.canaltech.net
 ads.cangura.com
@@ -1731,6 +1732,7 @@ adsvids.com
 adsvidsdouble.com
 adsvr.deviantart.com
 adswizz.com
+adsxyz.com
 adsyah.softonicads.com
 adsyndication.msn.com
 adsyr.dfiles.eu
@@ -1967,6 +1969,7 @@ arcadebanners.com
 ardrone.swoop.com
 arequiry.info
 arrlnk.com
+as.2020mustang.com
 as.ad-flow.com
 as.ad611.com
 as.autoforums.com
@@ -2208,6 +2211,7 @@ boston-d.openx.net
 boudja.com
 boylesportsreklame.com
 brakefluid.website
+brakesoutright.com
 brdmin.com
 browsers.support
 bruceleadx3.com
@@ -2344,6 +2348,7 @@ cdn.midas-network.com
 cdn.nativendo.de
 cdn.nmcdn.us
 cdn.o333o.com
+cdn.ocelot.studio
 cdn.onedmp.com
 cdn.onscroll.com
 cdn.pleenq.com
@@ -2507,6 +2512,7 @@ creative.admtpmp123.com
 creative.adsrevenue.net
 creative.hpyrdr.com
 creative.readserver.net
+creative.schjmp.com
 creative.speednetwork4.com
 creative.speednetwork6.com
 creative.wwwpromoter.com
@@ -2829,6 +2835,7 @@ eyereturn.com
 eyewonder.com
 ez.openx.com
 f.blogads.com
+f1272serve.xyz
 f5v1x3kgv5.com
 fallbacks.carbonads.com
 fapmeth.com
@@ -3280,6 +3287,7 @@ match.basebanner.com
 match.rundsp.com
 matomy.adk2.co
 mautic.infonet.si
+mavenlohi.com
 mc.dailymotion.com
 mcmads.mediacapital.pt
 mcprofits.com
@@ -3707,6 +3715,8 @@ performancingads.com
 petrol.iprom.net
 pezrphjl.com
 ph2dwb.oloadcdn.net
+phaboart.net
+phca85g3n400.com
 phethikapso.pro
 phoossax.net
 photobucket.adnxs.com
@@ -3899,6 +3909,7 @@ r2---sn-h0jeened.googlevideo.com
 r2.ace.advertising.com
 r5---sn-4g5e6nsk.googlevideo.com
 r5---sn-4g5edne6.googlevideo.com
+ra.majorgeeks.com
 rah7uph.bid
 rapidyl.net
 rapistory.info
@@ -4088,6 +4099,7 @@ sc.adelement.com
 sc.adsxgm.com
 schetu.net
 scr.kliksaya.com
+script.4dex.io
 script.adcamel.pw
 script.rtbclick.net
 scripts.advmusic.net
@@ -4265,7 +4277,9 @@ static.parsely.com
 static.pdn-1.com
 static.slfpu.com
 static.supuv2.com
+static.trafficjunky.com
 static.verticalscope.com
+static.wi-fi.ru
 static.yieldmo.com
 static.zanox.com
 static.zeti.com
@@ -4301,6 +4315,7 @@ syndicate.purch.com
 syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
+syndication.realsrv.com
 syndication.streamads.yahoo.com
 syndicpop.com
 system.mondeos.pl
@@ -4474,6 +4489,7 @@ uoredi.com
 uptimecdn.com
 urban.adspirit.de
 uredy.top
+uruswan.com
 us-ads.openx.net
 us-sonar.sociomantic.com
 us-u.openx.net
@@ -4659,6 +4675,7 @@ www.blog-hits.com
 www.bnhtml.com
 www.brainboxdigital.com
 www.brightonclick.com
+www.brydhoye.com
 www.btserve.com
 www.buzzadexchange.com
 www.buzzadnetwork.com
@@ -4765,6 +4782,7 @@ www.newtabtv.com
 www.nharaeklya.com
 www.nklivofyjkbt.com
 www.nnbestmblotl.com
+www.nssyawqyj.com
 www.ntgygnke.com
 www.ntnlawgchgds.com
 www.nzcpdaboaayv.com
