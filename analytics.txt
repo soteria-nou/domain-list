@@ -179,6 +179,7 @@ a.live-conversion.com
 a.mobify.com
 a.mstrlytcs.com
 a.nexeps.com
+a.omappapi.com
 a.optmstr.com
 a.pub.network
 a.retailmenot.com
@@ -198,6 +199,7 @@ a2sky.com
 a4.bing.com
 a5c1d3a015e.com
 aa.agkn.com
+aa.zdnet.com
 aamcf.aamsitecertifier.com
 aax.amazon-adsystem.com
 ab.wetransfer.net
@@ -300,6 +302,7 @@ amos1.taobao.com
 amp.ai
 amplify.outbrain.com
 amplifypixel.outbrain.com
+amsvts.com
 amznshopbop.122.2o7.net
 analitik.obisk.net
 analitika.arnes.si
@@ -482,6 +485,7 @@ app.link
 app.marketizator.com
 app.trustev.com
 app.ubertags.com
+app.usercentrics.eu
 app.whoisvisiting.com
 app.widiz.com
 appapi.inspsearchapi.com
@@ -848,6 +852,7 @@ cdn.krxd.net
 cdn.lift.acquia.com
 cdn.listrakbi.com
 cdn.luckyorange.com
+cdn.mateti.net
 cdn.mediaessence.net
 cdn.mplxtms.com
 cdn.mxpnl.com
@@ -948,6 +953,7 @@ chasles.xiti.com
 chefkoch.ivwbox.de
 chicagosuntimes.122.2o7.net
 chicoutimi.xiti.com
+chimpstatic.com
 chip.ivwbox.de
 chipeu.count.brat-online.ro
 ciao.ivwbox.de
@@ -966,6 +972,7 @@ cl.cpaevent.ru
 cl.qualaroo.com
 cl1.sitestats.de
 clancy.spiceworks.com
+clarity-api-prod.idg.com.au
 clarityray.com
 classmatesde.112.2O7.net
 claxtonsinclairville.tiptonvillepylesville.com
@@ -1275,6 +1282,7 @@ d36ee2fcip1434.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d37gvrvc0wt4s1.cloudfront.net
 d383nfj8voyf25.cloudfront.net
+d38itq6vdv6gr9.cloudfront.net
 d39hdzmeufnl50.cloudfront.net
 d3avqv6zaxegeu.cloudfront.net
 d3b02estmut877.cloudfront.net
@@ -1357,6 +1365,7 @@ decsitefinitycdn.blob.core.windows.net
 dedekind.xiti.com
 delfiadlt.hit.gemius.pl
 delidatax.com
+deliver.ptgncdn.com
 deliveredby.adpilotgroup.net
 delivery.clickonometrics.pl
 delivery.performax.cz
@@ -1440,6 +1449,7 @@ domdex.net
 dominionenterprises.112.2o7.net
 donerus.112.2o7.net
 dooyoodesite.112.2o7.net
+doubleclick-net.com
 doublepimpssl.com
 doug1izaerwt3.cloudfront.net
 download-stats.mozilla.org
@@ -2706,6 +2716,7 @@ monitoring.youronlinechoices.com
 monster.demdex.net
 montblanc.rambler.ru
 montreal.xiti.com
+mophishopti.pro
 morestuff-logging.stuff.com
 morestuffapi.test.inspcloud.com
 moss.aragon.si
@@ -2839,6 +2850,7 @@ nvg.nbcnews.com
 nxp.112.2o7.net
 nxtck.com
 nydailynews.d1.sc.omtrdc.net
+nydrctnk.com
 nytbglobe.112.2o7.net
 o.adhslx.com
 o.analytics.yahoo.com
@@ -3358,6 +3370,7 @@ rta.dailymail.co.uk
 rtb.gumgum.com
 rtb.tubemogul.com
 rtbcdn.doubleverify.com
+rtc.dymatrix.cloud
 rtd.tubemogul.com
 rtst.122.2o7.net
 ru-gmtdmp.mookie1.com
@@ -3495,6 +3508,7 @@ s62.mxcdn.net
 s657486201.t.eloqua.com
 s95.cnzz.com
 sa.bbc.co.uk
+saa.zdnet.com
 safaribooks.112.2o7.net
 safemetric.com
 sageanalyst.net
@@ -3671,6 +3685,7 @@ smetrics.boston.com
 smetrics.cdiscount.com
 smetrics.cnn.com
 smetrics.element14.com
+smetrics.farnell.com
 smetrics.hpe.com
 smetrics.madewell.com
 smetrics.mathworks.com
@@ -3679,6 +3694,7 @@ smetrics.sephora.com
 smetrics.uol.com.br
 smetrics.washingtonpost.com
 smetrics.windowsitpro.com
+smoggystation.com
 smpopmech.112.2o7.net
 smtrcs.redhat.com
 smy.iheart.com
@@ -3758,6 +3774,7 @@ ssl.google-analytics.com
 ssl.gostats.com
 ssl.luckyorange.com
 ssl.mousestats.com
+ssm.codes
 ssp.zryydi.com
 sstatic1.histats.com
 sstats.adobe.com
@@ -3823,6 +3840,7 @@ statcounter.com
 states.flagcounter.com
 statesol.net
 static-analytics.nativeads.com
+static-cdn.spott.ai
 static-tagr.gd1.mookie1.com
 static-trackers.adtarget.me
 static.adinsight.com
@@ -3930,6 +3948,7 @@ stats.owncloud.org
 stats.pagefair.com
 stats.partypoker.com
 stats.paypal.com
+stats.postgen.com
 stats.promineo.si
 stats.protonmail.ch
 stats.pusher.com
@@ -4168,6 +4187,7 @@ thinkgeek.112.2o7.net
 thoccourse.112.2o7.net
 thoughtcatalog-d.openx.net
 thred-warp.appspot.com
+thutolozu.pro
 tia.timeinc.net
 tie.247-inc.net
 tie.iprom.net
@@ -4184,6 +4204,7 @@ tk421.rvldf.com
 tkn.4tube.com
 tknet.rayjump.com
 tkx2-prod.anvato.net
+tlp-02.kameleoon.com
 tlx.3lift.com
 tm.dl.nw.de
 tm.iqfp1.com
@@ -4772,6 +4793,7 @@ www.pstats.com
 www.rapidtrk.net
 www.res-x.com
 www.rnengage.com
+www.rvty.net
 www.s6w.de
 www.sc.pages02.net
 www.sc.pages03.net
@@ -4881,6 +4903,7 @@ yourprecious.geopedia.si
 youtubei.youtube.com
 yp.gw.anametrix.com
 yrtas.btrll.com
+yxsu5ufd2m.kameleoon.eu
 z.analytics.yahoo.com
 z2d7c5q4.map2.ssl.hwcdn.net
 za-cdn.effectivemeasure.net

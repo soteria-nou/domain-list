@@ -33,6 +33,7 @@ answerbag.us.intellitxt.com
 anvari.us.intellitxt.com
 api.booster3000.si
 api.bufferapp.com
+api.cleverpush.com
 api.condenast.io
 api.facebook.com
 api.mediabooster.si
@@ -100,6 +101,7 @@ cdn.izooto.com
 cdn.klickly.com
 cdn.moengage.com
 cdn.onesignal.com
+cdn.privacy-mgmt.com
 cdn.pulpix.com
 cdn.pushassist.com
 cdn.pushcrew.com
@@ -352,6 +354,7 @@ photographyreview.us.intellitxt.com
 phpbb-host.us.intellitxt.com
 physorg.uk.intellitxt.com
 physorg.us.intellitxt.com
+pictr.com
 piskotki.com
 pixel.intellitxt.com
 placehold.it
@@ -374,6 +377,7 @@ quriobot.com
 raymond.uk.intellitxt.com
 rc.revolvermaps.com
 redirect.viglink.com
+responder.wt.heise.de
 ripp-it.fr.intellitxt.com
 rojakpot.us.intellitxt.com
 rootclick.biz
@@ -489,6 +493,7 @@ ui.swogo.com
 uk.intellitxt.com
 ultimatecarpage.us.intellitxt.com
 upsells.boldapps.net
+urs.zdnet.com
 us.intellitxt.com
 usb-drivers.us.intellitxt.com
 usemycomputer.us.intellitxt.com

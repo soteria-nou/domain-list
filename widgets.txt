@@ -90,6 +90,7 @@ connect.facebook.net
 connect.ok.ru
 contentwidgets.net
 counter.personyze.com
+cp.usastreams.com
 creative.stripchat.com
 creative.strpjmp.com
 crossss.com
@@ -210,6 +211,7 @@ plug.plugerr.com
 plusone.google.com
 polldaddy.com
 preferences.truste.com
+pristopmedia.network
 prod-sunbets-widgets.s3-eu-west-1.amazonaws.com
 pthumbnails.5min.com
 pub.grouvi.im
@@ -236,6 +238,7 @@ sd.linkwelove.it
 sdsbucket.s3.amazonaws.com
 sdscdn.userreport.com
 se.monetate.net
+search-api.fie.future.net.uk
 secure-api.gravity.com
 secure.providesupport.com
 secure.widget.cloud.opta.net

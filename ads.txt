@@ -1252,6 +1252,7 @@ ads.radiosarajevo.ba
 ads.rcs.it
 ads.reachlogicmedia.com
 ads.realcastmedia.com
+ads.realsrv.com
 ads.realtechnetwork.net
 ads.rebubbled.com
 ads.rediff.com
@@ -1486,6 +1487,7 @@ ads2.pogodak.ba
 ads2.pogodak.co.yu
 ads2.pogodak.hr
 ads2.renderspace.si
+ads2.servebom.com
 ads2.siol.net
 ads2.speedbit.com
 ads2.techbanner.com
@@ -1989,6 +1991,7 @@ asset.pagefair.net
 assets.bonad.io
 assets.pixlee.com
 assets.servedby-buysellads.com
+assets.ubembed.com
 assets1.adroll.com
 asv.nuggad.net
 async01.admantx.com
@@ -2460,10 +2463,12 @@ coinurl.com
 collective-media.net
 com.adv.vz.ru
 commercialvalue.org
+comsex.site
 concertads-configs.vox-cdn.com
 conduit-adverts.com
 conduit-banners.com
 conduit-data.com
+confiant-integrations.global.ssl.fastly.net
 config-ltvp.inmobi.com
 config.ioam.de
 config.seedtag.com
@@ -2587,6 +2592,7 @@ d3c3uihon9kmp.cloudfront.net
 d3iwjrnl4m67rd.cloudfront.net
 d3iz6lralvg77g.cloudfront.net
 d3laygk9zni6hc.cloudfront.net
+d3mr7y154d2qg5.cloudfront.net
 d3noqwmgo39at7.cloudfront.net
 d3pkrll6is44dx.cloudfront.net
 d3r7h55ola878c.cloudfront.net
@@ -2854,12 +2860,14 @@ filmiki.maxart.pl
 filternal.space
 fim.adnxs.com
 find-my-great-life.com
+firejackpot.com
 fixedpos.advertserve.com
 floatingads.madisonavenue.com
 fls-eu.amazon-adsystem.com
 fls-na.amazon-adsystem.com
 fls.uk.doubleclick.net
 fluxads.com
+fnt-news3.club
 focusin.ads.targetnet.com
 fodlkf9d1p.com
 fontainsuny.club
@@ -2914,6 +2922,7 @@ globaladv.net
 glorinlost.rocks
 glslciwwvtxn.com
 gmads.net
+gnatpointed.com
 go.ad2upapp.com
 go.adversal.com
 go.automatad.com
@@ -2963,6 +2972,7 @@ gw-services.vtrenz.net
 gwp.nuggad.net
 h.verticalscope.com
 h6.msn.com
+hadsabz.com
 haeg1ei.bid
 hahemla.com
 halleyperson.pro
@@ -3038,6 +3048,7 @@ iendoo.com
 ifa.camads.net
 igmatik.com
 ijrah.top
+il05pzhujicf.com
 im.banner.t-online.de
 im2ss2ss.top
 ima3vpaid.appspot.com
@@ -3062,6 +3073,7 @@ imgserv.sponsorads.de
 imgur-d.openx.net
 immedlinkum.info
 imp.admarketplace.net
+imp.readserver.net
 imp.tradedoubler.com
 impact-ad.jp
 impat.tradedoubler.com
@@ -3330,6 +3342,7 @@ mmoads.com
 mmoframes.com
 mo8mwxi1.com
 moavoara.net
+mob.kaipirinhaloka.xyz
 mob.sextvx.com
 mobads.baidu.com
 mobile.adnxs.com
@@ -3384,6 +3397,7 @@ n.adxxx.me
 n.adxxx.org
 n1198adserv.xyz
 n121adserv.com
+n1272serv.xyz
 n13x4nfw8frika.com
 n158adserv.com
 n214adserv.com
@@ -3435,6 +3449,7 @@ ns2.doubleclick.net
 ns3.doubleclick.net
 ns4.doubleclick.net
 nspmotion.com
+nt.smartclick.net
 nudespree.com
 nyacampwk.com
 nym1.adnxs.com
@@ -3761,6 +3776,7 @@ pl14409391.puserving.com
 pl14969192.pvclouds.com
 pl14995214.pvclouds.com
 pl14995270.passeura.com
+pl15338749.profitablegate.com
 pl168555.puhtml.com
 pl177916.puhtml.com
 pl178987.puhtml.com
@@ -3791,6 +3807,7 @@ pntrs.com
 pocketcents.com
 pogledi.iprom.net
 polet.iprom.net
+pooboafi.net
 pool.admedo.com
 pool.ads.netlog.com
 pop.bid
@@ -3962,6 +3979,7 @@ resources.infolinks.com
 retainguaninefluorite.info
 rev.adsession.com
 rev.linuxquestions.org
+reviewedreads.com
 revive.adriadigital.si
 revive.adriamedia.hr
 revive.bocoup.com
@@ -4205,6 +4223,7 @@ soma.smaato.net
 sombersurprise.com
 sommons.co
 soska.us
+sourcepoint.mgr.consensu.org
 southernx.nuggad.net
 sp-work.goviral-content.com
 spaces.slimspots.com
@@ -4368,6 +4387,7 @@ tds.advland.net
 tebadu.com
 tech547789.ru
 terra8nb.com
+testamentfendsounding.com
 tex.trafex.net
 text-link-ads.com
 textad.sexsearch.com
@@ -4576,6 +4596,7 @@ wbkaidsc.webcam
 wct.click
 web.btncdn.com
 web.qtymi.com
+web.webpushs.com
 webads.nl
 westmente.info
 wheelches.info
@@ -4595,6 +4616,7 @@ wmeter.ru
 wms-na.amazon-adsystem.com
 wms.assoc-amazon.com
 wn.pos.baidu.com
+wnprot.com
 wonderlandads.com
 world.popadscdn.net
 worldmapd.online
@@ -4664,6 +4686,7 @@ www.affiliatly.com
 www.afvcugqaulh.co
 www.aljsuubo.com
 www.allanalpass.com
+www.alruqbfjg.com
 www.anrdoezrs.net
 www.asecxggulyrf.com
 www.avsads.com
@@ -4694,6 +4717,7 @@ www.crispads.com
 www.da-ads.com
 www.daxzupqivdoj.com
 www.delidatax.net
+www.dexpredict.com
 www.dfpejgtwrgawen.com
 www.dfujqyjifvoe.com
 www.dianomi.com
@@ -4710,6 +4734,7 @@ www.emg-network.com
 www.espace-plus.net
 www.etggealva.com
 www.exchangead.com
+www.fdbtvavxtfvpbx.com
 www.fnkyyrgraizy.com
 www.fukkzdxfyrchhc.com
 www.fuxhdhdjlyrwhq.com
@@ -4732,8 +4757,10 @@ www.iacpublish.com
 www.icuazeczpeoohx.com
 www.idkyfrsbzesx.com
 www.ihqxhokndcfq.com
+www.ileokscsawzzrh.com
 www.insbrvwfrcgb.com
 www.intelligenceadx.com
+www.intellipopup.com
 www.ipaddress.biz
 www.ipromcloud.com
 www.is1.clixgalore.com
@@ -4813,6 +4840,7 @@ www.ps7894.com
 www.pvuqahjiburadw.com
 www.pyq6n.com
 www.qbahsvxo.com
+www.qhkhchjqawst.com
 www.quick-date.xyz
 www.ragazzeinvendita.com
 www.rdvrxbxwxspxd.com
@@ -4845,6 +4873,7 @@ www.tradeadexchange.com
 www.trafficmagnates.com
 www.trumbo.site
 www.twmvjfatla.com
+www.uhbixtfhwdtmd.com
 www.ujoongeilaej.info
 www.uoarbhxfyygn.com
 www.uorhedemxtni.com
@@ -4859,6 +4888,7 @@ www.vipcpms.com
 www.viperishly.com
 www.vrewpywootyu.com
 www.vvbanner.com
+www.vznntmjdb.com
 www.wggmaxxawkxu.com
 www.wizejdnlqwcb.com
 www.wnzmauurgol.com
@@ -4913,12 +4943,17 @@ xchangebanners.com
 xfire.adbureau.net
 xgogi.com
 xhr.namitol.com
+xml.acertb.com
 xml.adbetnet.com
 xml.adright.com
+xml.adxnexus.com
 xml.pdn-3.com
 xml.pdn-5.com
 xml.popmonetizer.com
+xml.popmonetizer.net
 xml.revrtb.com
+xml.revrtb.net
+xml.zeusadx.com
 xoredi.com
 xp1.zedo.com
 xpollo.com
@@ -4952,6 +4987,7 @@ z.moatads.com
 z1.adserver.com
 z1.zedo.com
 zadovoljna.iprom.net
+zap.buzz
 zapbox.ru
 zd1.november-lax.com
 zdbb.net
