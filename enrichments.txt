@@ -83,6 +83,7 @@ c.la1-c1-dfw.salesforceliveagent.com
 cache.ltvcms.com
 cackle.me
 cc.cdn.civiccomputing.com
+ccpa.sp-prod.net
 cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
@@ -147,6 +148,7 @@ d.la1-c1-dfw.salesforceliveagent.com
 d.txtsrving.info
 d1f8f9xcsvx3ha.cloudfront.net
 d1uo4w7k31k5mn.cloudfront.net
+d2zv5rkii46miq.cloudfront.net
 dac.jp.intellitxt.com
 daniweb.us.intellitxt.com
 de.intellitxt.com
@@ -187,6 +189,7 @@ fixya.us.intellitxt.com
 foreign-trade.us.intellitxt.com
 formel1.de.intellitxt.com
 forms.convertkit.com
+forms.net-results.io
 fortunecity.us.intellitxt.com
 fox4news.us.intellitxt.com
 foxtv.us.intellitxt.com
@@ -298,6 +301,7 @@ magic.uk.intellitxt.com
 majorgeeks.us.intellitxt.com
 media.complex.com
 merriam-webster.us.intellitxt.com
+message.maven.io
 metacafe.us.intellitxt.com
 metro.uk.intellitxt.com
 miner.pr0gramm.com
@@ -367,6 +371,7 @@ popup2.lifterapps.com
 prad.de.intellitxt.com
 presence-pc.fr.intellitxt.com
 primedia.us.intellitxt.com
+production-cmp.isgprivacy.cbsi.com
 ps3-live.fr.intellitxt.com
 public-prod-dspcookiematching.dmxleo.com
 publishing.kaloo.ga

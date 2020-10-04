@@ -192,6 +192,7 @@ a.wishabi.com
 a.yallboen.com
 a0ef2haqr0-1.algolia.io
 a1.superstats.com
+a1austria-survey.sandsiv.com
 a1telekom01.webtrekk.net
 a1webstrategy.com
 a2.mediagra.com
@@ -523,6 +524,7 @@ associatedcontent.112.2o7.net
 assoicatedcontent.112.2o7.net
 asumi.shinobi.jp
 at.2.cqcounter.com
+at.cbsi.com
 at245.infusionsoft.com
 atlanticmedia.122.2o7.net
 atoc.112.2o7.net
@@ -612,6 +614,7 @@ be.sitestat.com
 bea4.v.fwmrm.net
 beacon-eu-ams3.rubiconproject.com
 beacon.ad-serverparc.nl
+beacon.cdnma.com
 beacon.clickequations.net
 beacon.errorception.com
 beacon.gu-web.net
@@ -730,6 +733,7 @@ c.us1.dyntrk.com
 c.vrvm.com
 c.webtrends-optimize.com
 c.webtrends.com
+c.ypcdn.com
 c0.shinystat.com
 c1.adform.net
 c1.microsoft.com
@@ -1268,6 +1272,7 @@ d2lv4zbk7v5f93.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
 d2nq0f8d9ofdwv.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2p3zdq8vjvnxd.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2werhn82xczly.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -2081,6 +2086,7 @@ horizon.forbes.com
 horizon.mashable.com
 hosted-oswa.org
 hotels.112.2o7.net
+hp.lingscars.com
 hpe.tt.omtrdc.net
 hphqglobal.112.2o7.net
 hqx-qmp.quinstreet.com
@@ -2600,6 +2606,7 @@ main.realsrv.com
 main1.host.hit.gemius.pl
 majorgeeks-d.openx.net
 make-it-tracking.iwmedien.de
+mallgroup-api.exponea.com
 manning.postaffiliatepro.com
 mapstats.blogflux.com
 marketing.dropbox.com
@@ -2682,6 +2689,8 @@ metrics.toptenreviews.com
 metrics.washingtonpost.com
 metrics.webhostingtalk.com
 metrics.windowsitpro.com
+metrics.yellowpages.com
+mg-marxy.mall.cz
 mgtbo.112.2o7.net
 micron.112.2o7.net
 microsoft.qualtrics.com
@@ -3747,6 +3756,7 @@ squid.gazeta.pl
 sra.s-9.us
 src.ebay-us.com
 src.litix.io
+srepdata.usatoday.com
 srv.at.ebayrtm.com
 srv.azureedge.net
 srv.clickfuse.com
@@ -3852,6 +3862,7 @@ static.atgsvcs.com
 static.audienceinsights.net
 static.brandcrumb.com
 static.clickpapa.com
+static.clicktripz.com
 static.criteo.net
 static.crowdscience.com
 static.dynamicyield.com
@@ -4476,6 +4487,7 @@ udm.scorecardresearch.com
 ue.flipboard.com
 ue55qnkvwwmu-a.akamaihd.net
 ui.powerreviews.com
+uid.mavencoalition.io
 uidbox.uimserv.net
 uim.tifbs.net
 uip.semasio.net
@@ -4922,6 +4934,7 @@ ziffdavisdesktoplinux.112.2o7.net
 ziffdavisenterprise.112.2o7.net
 ziffdavisglobal.112.2o7.net
 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
+zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn509xlhdhyufqwrp-onion.siteintercept.qualtrics.com
 zn87b2gchqlbyp0jn-viacom.siteintercept.qualtrics.com
 zopim.com
