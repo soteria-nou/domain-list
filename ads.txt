@@ -29,6 +29,7 @@
 2ujo8ayw.racing
 3.adbrite.com
 360ads.com
+362b643a66026e.com
 3718076.fls.doubleclick.net
 3797665.fls.doubleclick.net
 3878896c72ed218.com
@@ -194,6 +195,7 @@ ab167547.adbutler-luxon.com
 ab168260.adbutler-meson.com
 abc2.adtelligent.com
 ablehed.pro
+abluvdiscr.com
 abo.prismamediadigital.com
 abourselfi.com
 abs.proxistore.com
@@ -1421,6 +1423,7 @@ ads.xda-developers.com
 ads.xinetixstudio.com
 ads.xxxwebtraffic.com
 ads.yahoo.com
+ads.yap.yahoo.com
 ads.yazzle.net
 ads.yieldmo.com
 ads.yimg.com
@@ -2015,6 +2018,7 @@ automate-prod.s3.amazonaws.com
 avads.co.uk
 avtomobilizem.iprom.net
 awakebottlestudy.com
+awecre.com
 aweproto.com
 awltovhc.com
 awprt.com
@@ -2278,6 +2282,7 @@ cdn-a.yieldlove.com
 cdn-cf.justpremium.com
 cdn-highwinds.unityads.unity3d.com
 cdn-next.megabon.eu
+cdn-s2s.buysellads.net
 cdn-t.omsnative.de
 cdn-tags.mmondi.com
 cdn.234doo.com
@@ -2346,6 +2351,7 @@ cdn.fusionads.net
 cdn.geni.us
 cdn.hoverr.me
 cdn.hybridclient.naiadsystems.com
+cdn.id5-sync.com
 cdn.iframe.datinggold.com
 cdn.innity.net
 cdn.interactivemedia.net
@@ -2355,6 +2361,7 @@ cdn.ipromcloud.com
 cdn.iqcontentplatform.de
 cdn.kixer.com
 cdn.komoona.com
+cdn.laim.tv
 cdn.livefyre.com
 cdn.mediavoice.com
 cdn.midas-network.com
@@ -2585,6 +2592,7 @@ d1pr3sk5xr0dce.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d1r90st78epsag.cloudfront.net
 d2.zedo.com
+d227cncaprzd7y.cloudfront.net
 d27x580xb9ao1l.cloudfront.net
 d29gqcij.com
 d2allek1za3zyr.cloudfront.net
@@ -2615,6 +2623,7 @@ d3rxqouo2bn71j.cloudfront.net
 d3sxcf6d4hxjd9.cloudfront.net
 d3ujb2t8x8alxd.cloudfront.net
 d3v27wwd40f0xu.cloudfront.net
+d4a77d8bc81ae17.com
 d6.zedo.com
 d63a3au5lqmtu.cloudfront.net
 da.thomasnet.com
@@ -2719,6 +2728,7 @@ dmxleo.dailymotion.com
 dnsstuff-images.adbureau.net
 dnsstuff.adbureau.net
 doc.echoban.ru
+dogconcurrencesauce.com
 dolohen.com
 domainoptions.engine.adglare.net
 domains.googlesyndication.com
@@ -2987,6 +2997,7 @@ gsn.chameleon.ad
 gstat.orange.fr
 gstaticadssl.l.google.com
 gum.criteo.com
+gumbolersgthb.com
 guruads.de
 gw-services.vtrenz.net
 gwp.nuggad.net
@@ -3063,6 +3074,7 @@ ib.adnxs.com
 ibzmh05ibj.s.ad6media.fr
 icjvfvoh.com
 icq.advmaker.ru
+id5-sync.com
 identads.com
 idg.adocean.pl
 idguk1-d.openx.net
@@ -3189,6 +3201,7 @@ js.bulkhentai.com
 js.geoads.com
 js.gumgum.com
 js.himediads.com
+js.hs-banner.com
 js.indexww.com
 js.juicyads.com
 js.moatads.com
@@ -3222,6 +3235,7 @@ jwvwak1a.com
 keytarget.adnet.lt
 kge1ru01.science
 khebkaro.info
+kingithinref.club
 kkddlt2f.site
 kleinanzeigen-d.openx.net
 klixfeed.com
@@ -3281,6 +3295,9 @@ lockerdome.com
 log.adap.com
 log.adap.tv
 look.ichlnk.com
+lophaszip.com
+louchees.net
+loungepatientlyprogramme.com
 lpm-20minutes.nuggad.net
 lpm-lagardere.nuggad.net
 lpm-mondadori.nuggad.net
@@ -3308,6 +3325,7 @@ mads.aol.com
 mads.at.atwola.com
 mads.download.com
 mads.webshots.com
+madsips.com
 mafia-banner.myftp.org
 mahimeta.com
 mail-ads.google.com
@@ -3357,6 +3375,7 @@ meowpushnot.com
 meta.streamcloud.eu
 methinkinge.com
 metroleap.rotator.hadj7.adjuggler.net
+mfad.inskinad.com
 mg.adskeeper.co.uk
 mi.adinterax.com
 miniad2.layer-ad.org
@@ -3369,6 +3388,7 @@ mmaroise.club
 mmoads.com
 mmoframes.com
 mo8mwxi1.com
+moapuwhe.com
 moavoara.net
 mob.kaipirinhaloka.xyz
 mob.sextvx.com
@@ -3815,6 +3835,7 @@ pl2533.puhtml.com
 pl2780.puhtml.com
 pl3226.puhtml.com
 pl3864100.puhtml.com
+pl3864833.passtechusa.com
 pl4492830.puhtml.com
 pl4493458.puhtml.com
 pl4493534.puhtml.com
@@ -3862,6 +3883,7 @@ pozar.iprom.net
 pr.a2dfp.net
 pre.ads.justpremium.com
 preamp-clients.header.tech
+prebid-a.rubiconproject.com
 prebid.adnxs.com
 predictad.com
 presidery.info
@@ -3906,10 +3928,13 @@ psma02.com
 psma03.com
 psoaghie.net
 pssvc.iqzone.com
+pt.potawe.com
 pt.protoawe.com
+ptaughar.com
 ptaulrou.net
 ptewarin.net
 pto.ptawe.com
+ptoushoa.com
 ptp22.com
 ptp33.com
 pu.plugrush.com
@@ -4242,6 +4267,7 @@ slomedia.iprom.net
 slopeaota.com
 smart.idmnet.pl
 smart.tubeadvertising.eu
+smart2cnjuh34jb.com
 smartlinks.dianomi.com
 smartxads.com
 smartyads.com
@@ -4455,6 +4481,7 @@ tnet.flash-xxx.com
 todich.ru
 toftforcal.com
 togenron.com
+tolyafbnjt9dedjj10.com
 tom.itv.com
 tonsterandhantan.info
 tools.bongacams.com
@@ -4584,6 +4611,7 @@ vad-us.adbasket.net
 vad.adbasket.net
 valuepubmedia.com
 vasgenerete.site
+vashoaft.net
 vast-cdn.mtngt.com
 vast.brandads.net
 vast.vertamedia.com
@@ -4762,6 +4790,7 @@ www.dfpejgtwrgawen.com
 www.dfujqyjifvoe.com
 www.dianomi.com
 www.displayvertising.com
+www.dlfclcey.com
 www.donum.co
 www.doubleclickbygoogle.com
 www.drivenetwork.ru
@@ -4781,12 +4810,14 @@ www.fukkzdxfyrchhc.com
 www.fuxhdhdjlyrwhq.com
 www.fvenxjtzuaxu.com
 www.gbfeexoyo.com
+www.gcqdiydpfytvn.com
 www.geniusdexchange.com
 www.gjslebmbiawh.com
 www.gkvhfryrramj.com
 www.googlecommerce.com
 www.googletagmanager.com
 www.googletagservices.com
+www.gqtffirr.com
 www.gtxfafvoohbc.com
 www.helltraffic.com
 www.heracgjcuqmk.com
@@ -4835,6 +4866,7 @@ www.lkddksjgih.com
 www.lmepqfsazb.com
 www.loading-delivery2.com
 www.lovetechs.com
+www.lqeevjgkjjwi.com
 www.lqqcbomqqomtme.com
 www.maxonclick.com
 www.mb103.com
@@ -4878,12 +4910,14 @@ www.performanceadexchange.com
 www.performanceonclick.com
 www.phica.net
 www.poweradvertising.com
+www.pqxadekhqotwkv.com
 www.prctxexizzpp.com
 www.predictivadnetwork.com
 www.premads.info
 www.premierads.net
 www.promotools.biz
 www.ps7894.com
+www.pskidsqhsbfi.com
 www.pvuqahjiburadw.com
 www.pyq6n.com
 www.qbahsvxo.com
@@ -4949,6 +4983,7 @@ www.wykskkpplgfi.com
 www.xadsmart.com
 www.xconeeitqrrq.com
 www.xhvhisywkvha.com
+www.xiqgqftva.com
 www.xl415.com
 www.xlovecam.com
 www.xmediaserve.com
@@ -5046,6 +5081,7 @@ zergnet-d.openx.net
 zf2.quebec-bin.com
 zigad.starves.org
 zk.admoldova.org
+zoachops.com
 zonearmour4u.work
 zrk.imgur.com
 zukxd6fkxqn.com

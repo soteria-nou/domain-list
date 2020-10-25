@@ -202,6 +202,7 @@ a5c1d3a015e.com
 aa.agkn.com
 aa.zdnet.com
 aamcf.aamsitecertifier.com
+aax-eu.amazon.de
 aax.amazon-adsystem.com
 ab.wetransfer.net
 abandonment6.saas.seewhy.com
@@ -265,6 +266,7 @@ adtrack.voicestar.com
 adups.cn
 advancedtracker.appspot.com
 advertures.directtrack.com
+adviggroupdailyfxrollup.112.2o7.net
 advombat.ru
 aetv.112.2o7.net
 afe.specificclick.net
@@ -305,6 +307,7 @@ amplify.outbrain.com
 amplifypixel.outbrain.com
 amsvts.com
 amznshopbop.122.2o7.net
+analista.icons8.com
 analitik.obisk.net
 analitika.arnes.si
 analyses.xiti.com
@@ -532,6 +535,7 @@ ats.bin.livenetlife.com
 ats.tumri.net
 atsfi.de
 atticwicket.com
+audev.zeit.de
 audiag.112.2o7.net
 audiblecom.112.2o7.net
 audit.median.hu
@@ -982,6 +986,7 @@ clarityray.com
 classmatesde.112.2O7.net
 claxtonsinclairville.tiptonvillepylesville.com
 clck.yandex.ru
+clerrrep.com
 clevernt.com
 click.aabacosmallbusiness.com
 click.appinthestore.com
@@ -1012,6 +1017,7 @@ cloudfront.loggly.com
 cluster.awmserve.com
 cm.adform.net
 cm.adgrx.com
+cm.everesttech.net
 cm.eyereturn.com
 cm.l.qq.com
 cmap.alibaba.com
@@ -1019,6 +1025,7 @@ cmdts.ksmobile.com
 cmp.112.2o7.net
 cmp.mediavine.com
 cmpglobalvista.112.2o7.net
+cms.analytics.yahoo.com
 cn01.dwstat.cn
 cnetasiapacific.122.2o7.net
 cnetaustralia.122.2o7.net
@@ -1258,6 +1265,7 @@ d1xfq2052q7thw.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d20flqux56m8w7.cloudfront.net
 d21j20wsoewvjq.cloudfront.net
+d22xmn10vbouk4.cloudfront.net
 d24n15hnbwhuhn.cloudfront.net
 d26b395fwzu5fz.cloudfront.net
 d26opx5dl8t69i.cloudfront.net
@@ -1298,6 +1306,7 @@ d3cxv97fi8q177.cloudfront.net
 d3e5f9p81ao1ib.cloudfront.net
 d3ezl4ajpp2zy8.cloudfront.net
 d3fqhkmofpujs3.cloudfront.net
+d3ithbwcmjcxl7.cloudfront.net
 d3mwhxgzltpnyp.cloudfront.net
 d3n5x2l91yva9h.cloudfront.net
 d3nslu0hdya83q.cloudfront.net
@@ -1488,6 +1497,7 @@ dyn-beacon.akamaized.net
 dyn.emetriq.de
 dynatrace.digikey.com
 dz.glanceguide.com
+dzapmndcb5bhy.cloudfront.net
 dzmxze7hxwn6b.cloudfront.net
 e-2dj6aekiwndzcao.stats.esomniture.com
 e-2dj6aekoemczelo.stats.esomniture.com
@@ -1909,6 +1919,7 @@ gaugecdn.social9.com
 gaylordentertainment.112.2o7.net
 gazeta.hit.gemius.pl
 gcp-events.apester.com
+gcqdiydpfytvn.com
 gde-default.hit.gemius.pl
 gdecz.hit.gemius.pl
 gdehr.hit.gemius.pl
@@ -1995,6 +2006,7 @@ gpaper141.112.2o7.net
 gpaper145.112.2o7.net
 gpaper177.112.2o7.net
 gpaper199.112.2o7.net
+gqtffirr.com
 graizoah.com
 graph.instagram.com
 green.erne.co
@@ -2137,6 +2149,7 @@ idpix.media6degrees.com
 idsync.rlcdn.com
 ie8eamus.com
 ikcart.alipay.com
+ikunselt.com
 im.nuggad.net
 im.xiti.com
 image.masterstats.com
@@ -2243,6 +2256,7 @@ js.gleam.io
 js.honeybadger.io
 js.hotlog.ru
 js.hs-analytics.net
+js.hsadspixel.net
 js.hscta.net
 js.hubspot.com
 js.hull.io
@@ -2619,6 +2633,7 @@ match.rtbidder.net
 mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
+matomo.freeones.com
 maxim.122.2o7.net
 mboxedge26.tt.omtrdc.net
 mc.exacttarget.com
@@ -2911,6 +2926,7 @@ optimized.by.tiller.co
 optimizedby.brealtime.com
 options.xiti.com
 optout.adalliance.io
+opus.analytics.yahoo.com
 oq.cnzz.com
 oracle.112.2o7.net
 oracledocs.112.2o7.net
@@ -3227,6 +3243,7 @@ pxl.tsyndicate.com
 pxlctl.as.com
 pxlctl.elpais.com
 pxlssl.ibpxl.com
+py248.infusionsoft.app
 pylon.iheart.com
 pylon.pro6e.com
 q.stripe.com
@@ -3378,6 +3395,7 @@ rt.flix360.com
 rt.legolas-media.com
 rt.metamarkets.com
 rta.dailymail.co.uk
+rta2.metro.co.uk
 rtb.gumgum.com
 rtb.tubemogul.com
 rtbcdn.doubleverify.com
@@ -3559,6 +3577,7 @@ script.leadboxer.com
 script.opentracker.net
 script.ownpage.fr
 script.tailsweep.com
+script.tapfiliate.com
 scripts.demandbase.com
 scripts.demandmedia.com
 scripts.kissmetrics.com
@@ -3626,6 +3645,7 @@ server2.web-stat.com
 server3.web-stat.com
 server4.web-stat.com
 service.collarity.com
+service.idsync.analytics.yahoo.com
 service.optify.net
 services.pornhub.com
 services.x-traceur.com
@@ -3917,6 +3937,7 @@ stats.bbc.co.uk
 stats.blogger.com
 stats.break.com
 stats.businessol.com
+stats.cdngeek.com
 stats.cdrinfo.com
 stats.channel4.com
 stats.cihar.com
@@ -4047,10 +4068,12 @@ svcs.ebay.com
 svlu.net
 sw88.go.com
 swa.and.co.uk
+swa.metro.co.uk
 swsoft.122.2o7.net
 sx.trhnt.com
 symanteccom.112.2o7.net
 sympatico.112.2o7.net
+sync-tm.everesttech.net
 sync.1dmp.io
 sync.1rx.io
 sync.active-agent.com
@@ -4123,6 +4146,7 @@ tag.bounceexchange.com
 tag.contextweb.com
 tag.digitaltarget.ru
 tag.email-attitude.com
+tag.idsync.analytics.yahoo.com
 tag.imonomy.com
 tag.marinsm.com
 tag.mtrcs.samba.tv
@@ -4496,6 +4520,7 @@ uk.sitestat.com
 ulogs.umengcloud.com
 umds.wpdigital.net
 unagi-na.amazon.com
+unagi.amazon.de
 unimusic.ivwbox.de
 unistreamvideoad.iprom.net
 universal.iperceptions.com
