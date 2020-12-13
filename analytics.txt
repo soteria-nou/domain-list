@@ -781,6 +781,7 @@ capture.condenastdigital.com
 care2.112.2o7.net
 careers.112.2o7.net
 carlson.112.2o7.net
+carmen.themuse.com
 carphonewarehouse.112.2o7.net
 cas.criteo.com
 casalemedia.com
@@ -1977,6 +1978,7 @@ gmeuvauxhallukprod.112.2o7.net
 gnar.grammarly.com
 gntbcstglobal.112.2o7.net
 gntbcstkusa.112.2o7.net
+go-ctr-tracker.pub.24ur.si
 go.giga-abs.de
 go.mobisla.com
 go.mobtrks.com

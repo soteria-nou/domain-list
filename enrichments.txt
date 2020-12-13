@@ -367,6 +367,7 @@ placehold.it
 planetamd64.us.intellitxt.com
 platform-api.sharethis.com
 platform.instagram.com
+player.ex.co
 popcornmetrics.zendesk.com
 popularmechanics.us.intellitxt.com
 popup2.lifterapps.com
