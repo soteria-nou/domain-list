@@ -155,6 +155,7 @@ dac.jp.intellitxt.com
 daniweb.us.intellitxt.com
 de.intellitxt.com
 denguru.us.intellitxt.com
+deploy.mopinion.com
 devicedetect.cloud
 devshed.us.intellitxt.com
 digit-life.uk.intellitxt.com
@@ -213,6 +214,7 @@ geekinterview.us.intellitxt.com
 geekstogo.us.intellitxt.com
 geo-eu.snigelweb.com
 geo-us.snigelweb.com
+geo.ngtv.io
 geolocation.onetrust.com
 ghacks.de.intellitxt.com
 gizmos.hawk-tech.co.uk

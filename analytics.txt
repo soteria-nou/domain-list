@@ -1985,6 +1985,7 @@ go.mobtrks.com
 go.pushnative.com
 go.schjmp.com
 go.shareaholic.com
+go.strpjmp.com
 go.techtarget.com
 go.theregister.co.uk
 go2.hit.gemius.pl
@@ -3309,6 +3310,7 @@ rcv.azureedge.net
 rd.about.com
 rd1.hitbox.com
 rda.net
+rdrctgoweb.com
 rdvrxbxwxspxd.com
 realtime.deximedia.com
 rec.getsmartlook.com
@@ -4193,6 +4195,7 @@ techtarget.122.2o7.net
 ted.dailymail.co.uk
 teledat.iprom.net
 telegraph.sdk.beemray.com
+telemetry.api.wmcdp.io
 telemetry.jivosite.com
 telemetry.tradingview.com
 telenorstartsiden.112.2o7.net
@@ -4767,6 +4770,7 @@ www.center.io
 www.centraliprom.com
 www.centraliprom.net
 www.civicscience.com
+www.clarity.ms
 www.clickmngr.com
 www.clicktripz.com
 www.co2stats.com
@@ -4928,6 +4932,7 @@ y.analytics.yahoo.com
 y3.analytics.yahoo.com
 y72yuyr9.com
 yahoo.ivwbox.de
+yahoovod.hs.llnwd.net
 yamaha.122.2o7.net
 yamaha.com.122.2o7.net
 yamahayca.122.2o7.net
