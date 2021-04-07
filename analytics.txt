@@ -296,6 +296,7 @@ alpha76.xiti.com
 alpha77.xiti.com
 alt.adocean.pl
 alt.hudb.pl
+altynamoan.com
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonmerchants.122.2o7.net
 amazonnba.122.2o7.net
@@ -656,6 +657,7 @@ bigip2-64.hitbox.com
 bin.livenetlife.com
 bitrix.info
 bizjournals.112.2o7.net
+blockadsnot.com
 blockmetrics.com
 blog.ivwbox.de
 blogglisten.no
@@ -1155,6 +1157,7 @@ counter6.sextracker.com
 counter7.sextracker.com
 counter8.sextracker.com
 counter9.sextracker.com
+countermarianne.com
 counters.gigya.com
 countess.twitch.tv
 coxnetmasterglobal.112.2o7.net
@@ -2592,6 +2595,7 @@ lsa.measurelyapp.com
 lsi2006.112.2o7.net
 lt.hit.gemius.pl
 lucent.122.2o7.net
+luvaihoo.com
 lydianprivate.112.2o7.net
 m-shes.ru
 m.addthisedge.com
@@ -2788,6 +2792,7 @@ mxmacromedia.112.2o7.net
 my-cdn.effectivemeasure.net
 my-ssl.effectivemeasure.net
 my.effectivemeasure.net
+my.rtmark.net
 my.statcounter.com
 mycdn.media.net
 mycounter.tinycounter.com
@@ -2836,6 +2841,7 @@ ngastatic.com
 nginx-pixel-1416460284.us-east-1.elb.amazonaws.com
 nhl.112.2o7.net
 niagara.xiti.com
+nickeeha.net
 nielsen.112.2o7.net
 nike.112.2o7.net
 nikkei.112.2o7.net
@@ -2907,6 +2913,7 @@ omniture.112.2o7.net
 omniture.mirror.co.uk
 omniturecom.112.2O7.net
 oms.symantec.com
+onclickgenius.com
 onclickmega.com
 one.123counters.com
 one.statsit.com
@@ -2915,6 +2922,7 @@ onet.hit.gemius.pl
 onet1.hit.gemius.pl
 onet3.hit.gemius.pl
 online.digital-advisor.com
+onmarshtompor.com
 ookla-d.openx.net
 opehs.tanx.com
 openmovesapps.com
@@ -4592,6 +4600,7 @@ vecer.iprom.net
 velocecdn.com
 velocity-cdn.ebaystratus.com
 velocitycdn.com
+venetrigni.com
 verivox01.webtrekk.net
 vg04.met.vgwort.de
 viaaddictinggames.112.2o7.net
@@ -4733,6 +4742,7 @@ wm.wiredminds.de
 wm2.wiredminds.de
 wolverineworldwide.112.2o7.net
 wordgetboo.com
+woundedassurance.com
 wp.hit.gemius.pl
 wp1a.hit.gemius.pl
 wp1b.hit.gemius.pl

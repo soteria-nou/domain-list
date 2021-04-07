@@ -118,6 +118,7 @@ cdrinfo.us.intellitxt.com
 celebrity-rightpundits.us.intellitxt.com
 celebritywonder.us.intellitxt.com
 chat.freshdesk.com
+check.ddos-guard.net
 cinemablend.us.intellitxt.com
 citizen-times.us.intellitxt.com
 clientcdn.pushengage.com
@@ -391,7 +392,6 @@ responder.wt.heise.de
 ripp-it.fr.intellitxt.com
 rojakpot.us.intellitxt.com
 rootclick.biz
-rumble.com
 s.ivillage.us.intellitxt.com
 s.ppjol.net
 savvy.us.intellitxt.com
