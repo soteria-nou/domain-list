@@ -206,6 +206,7 @@ aax-eu.amazon.de
 aax.amazon-adsystem.com
 ab.wetransfer.net
 abandonment6.saas.seewhy.com
+abc50.feed-xml.com
 ablsrv.com
 about-d.openx.net
 absential.info
@@ -372,6 +373,7 @@ analytics.ooyala.com
 analytics.openload.co
 analytics.performable.com
 analytics.pnv.si
+analytics.porn-tube-club.com
 analytics.primorske.si
 analytics.query.yahoo.com
 analytics.r17.com
@@ -672,6 +674,7 @@ bootstrap.vertamedia.com
 botd2.wordpress.com
 bounceexchange.com
 bouncyproperty.com
+bowlpaternity.com
 box.xing.com
 bptracking.com
 brahe.apptimize.com
@@ -690,6 +693,7 @@ bucky.udimg.com
 buffalotech.links.channelintelligence.com
 buffalotech.links.origin.channelintelligence.com
 bulb.76.my
+bullet.cdncontentdelivery.com
 burda-website.piwikpro.com
 burda.iprom.net
 business.samsungusa.com
@@ -762,6 +766,7 @@ c25.statcounter.com
 c2s-openrtb.liverail.com
 c3.statcounter.com
 c31.statcounter.com
+c3t-system-err.club
 c4.gostats.de
 c4.statcounter.com
 c5.statcounter.com
@@ -830,6 +835,7 @@ cdn.bunchbox.co
 cdn.captora.com
 cdn.clickmatic.pl
 cdn.clicktale.net
+cdn.cohesionapps.com
 cdn.contentspread.net
 cdn.cquotient.com
 cdn.cxense.com
@@ -958,6 +964,7 @@ cgw1-236.hitbox.com
 cgw1-237.hitbox.com
 cgw1-238.hitbox.com
 cgw1-239.hitbox.com
+chamsoop.net
 chanmonitor.in
 channelintelligence.com
 chantly.info
@@ -983,6 +990,7 @@ cjs.ptengine.com
 cl.cpaevent.ru
 cl.qualaroo.com
 cl1.sitestats.de
+cl2.webterren.com
 clancy.spiceworks.com
 clarity-api-prod.idg.com.au
 clarityray.com
@@ -1091,6 +1099,7 @@ condenast.tt.omtrdc.net
 condenastus-d.openx.net
 config.sensic.net
 configusa.veinteractive.com
+conjunctionbanner.com
 connect.mail.ru
 connect.odnoklassniki.ru
 connect.topicit.net
@@ -1651,6 +1660,7 @@ ec1.hitbox.com
 ece-logger.nandomedia.com
 ecf.d41.co
 ecn.dev.virtualearth.net
+ecomm.events
 ecruos.golem.de
 ecsv2.roblox.com
 ectestlampsplus1.112.2o7.net
@@ -1740,6 +1750,7 @@ ehg.hitbox.com
 ehg4.hitbox.com
 ehg42.hitbox.com
 eletronicarts.112.2o7.net
+elliotfoodauditioning.com
 elsevier.d1.sc.omtrdc.net
 email-reflex.com
 embed.doorbell.io
@@ -2016,6 +2027,7 @@ gqtffirr.com
 graizoah.com
 graph.instagram.com
 green.erne.co
+gresokie.com
 grmtech.net
 grunerandjahr.112.2o7.net
 grunerjahr01.wt-eu02.net
@@ -2145,6 +2157,7 @@ ibn.adnxs.com
 ibt-d.openx.net
 icagency.xiti.com
 ice.112.2o7.net
+icon2count.com
 idealo01.webtrekk.net
 ideoclick.com
 idg.hit.gemius.pl
@@ -2655,6 +2668,7 @@ mdlbs.motor-talk.de
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
 me-ssl.effectivemeasure.net
+measurefact.com
 medhelpinternational.112.2o7.net
 media.conversio.com
 media.easy2.com
@@ -2859,6 +2873,7 @@ nokia.tt.omtrdc.net
 nordeadk.112.2o7.net
 northstar.4tube.com
 northstar.porntube.com
+note.cdncontentdelivery.com
 notebook.ivwbox.de
 notrack.adviva.net
 notrack.specificmedia.com
@@ -3009,6 +3024,7 @@ partner.gewinnspiele.de
 partner.shareaholic.com
 partners.tremorhub.com
 partygaming.122.2o7.net
+pavlov-prod.healthline.com
 paypal.112.2o7.net
 paypal.d1.sc.omtrdc.net
 pays.xiti.com
@@ -3118,6 +3134,7 @@ pixel.facebook.com
 pixel.getchute.com
 pixel.ilsemedia.nl
 pixel.infernotions.com
+pixel.inforsea.com
 pixel.jumptap.com
 pixel.keywee.co
 pixel.madadsmedia.com
@@ -3130,6 +3147,7 @@ pixel.pzkie.com
 pixel.quantserve.com
 pixel.redditmedia.com
 pixel.rubiconproject.com
+pixel.runative-syndicate.com
 pixel.servebom.com
 pixel.sitescout.com
 pixel.spotify.com
@@ -4096,6 +4114,7 @@ sync.search.spotxchange.com
 sync.tidaltv.com
 t-stand.oewabox.at
 t.254a.com
+t.9gag.com
 t.acxiom-online.com
 t.ambra.com
 t.appsflyer.com
@@ -4137,6 +4156,7 @@ t.tmdn2015x9.com
 t.trackedlink.net
 t.trafmag.com
 t.unbounce.com
+t.vi-serve.com
 t.zqtk.net
 t1.clipkit.com
 t1.createsend1.com
@@ -4235,6 +4255,7 @@ theonecdn.com
 therse.info
 thinkgeek.112.2o7.net
 thoccourse.112.2o7.net
+thoroughask.com
 thoughtcatalog-d.openx.net
 thred-warp.appspot.com
 thutolozu.pro
@@ -4537,6 +4558,7 @@ unagi.amazon.de
 unimusic.ivwbox.de
 unistreamvideoad.iprom.net
 universal.iperceptions.com
+untiloutrage.com
 up.nytimes.com
 update.code.visualstudio.com
 ups.ksmobile.net
