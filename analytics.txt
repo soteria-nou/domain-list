@@ -431,6 +431,7 @@ api-http-lb.vadio.com
 api-v3.tinypass.com
 api.adrtx.net
 api.adsymptotic.com
+api.advmusic.com
 api.altmetric.com
 api.amplitude.com
 api.apflyer.com
@@ -668,6 +669,7 @@ bnkinsur.112.2o7.net
 bo.getjaco.com
 bob.dmpxs.com
 bolha.iprom.net
+bongacams7.com
 bonniercorp.122.2o7.net
 boomerang.dell.com
 bootstrap.vertamedia.com
@@ -1023,6 +1025,7 @@ clients.bluecava.com
 clipfish.ivwbox.de
 clkd.at
 cloud-emea.analytics-egain.com
+cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloudfront.loggly.com
 cluster.awmserve.com
@@ -1181,6 +1184,7 @@ cr3wc89sw3.global.ssl.fastly.net
 crain.d1.sc.omtrdc.net
 crd.hitbox.com
 create.leadid.com
+creative.mshago.com
 cricket.hosted.stats.com
 critictruck.com
 crm-metrix.com
@@ -1261,6 +1265,8 @@ d1bk6lwzdwelz0.cloudfront.net
 d1cdnlzf6usiff.cloudfront.net
 d1dli2tyorled9.cloudfront.net
 d1epsz32winqbo.cloudfront.net
+d1esebcdm6wx7j.cloudfront.net
+d1f05vr3sjsuy7.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1grtyyel8f1mh.cloudfront.net
 d1ivexoxmp59q7.cloudfront.net
@@ -2247,6 +2253,7 @@ istri.it
 it.112.2o7.net
 itm.siol.net
 itrack.iweb8.coms
+ivastoor.com
 ivillageglobal.112.2o7.net
 iwa.iplsc.com
 ixlhrwlucf.execute-api.eu-west-1.amazonaws.com
@@ -2726,6 +2733,7 @@ metrics.washingtonpost.com
 metrics.webhostingtalk.com
 metrics.windowsitpro.com
 metrics.yellowpages.com
+metrika-informer.com
 mg-marxy.mall.cz
 mgtbo.112.2o7.net
 micron.112.2o7.net
@@ -3168,6 +3176,7 @@ pl6447009.puhtml.com
 planck.xiti.com
 platform-metrics-api.sharethis.com
 platform.bidgear.com
+plausible.io
 play.feesocrald.com
 pls.webtype.com
 plugin.reactful.com
@@ -3608,6 +3617,7 @@ script.opentracker.net
 script.ownpage.fr
 script.tailsweep.com
 script.tapfiliate.com
+scripts.advmusic.com
 scripts.demandbase.com
 scripts.demandmedia.com
 scripts.kissmetrics.com
@@ -3866,6 +3876,7 @@ stat.alibaba.com
 stat.automobile.de
 stat.biqle.ru
 stat.cliche.se
+stat.clickfrog.ru
 stat.cncenter.cz
 stat.dealtime.com
 stat.dyna.ultraweb.hu
@@ -3913,6 +3924,7 @@ static.audienceinsights.net
 static.brandcrumb.com
 static.clickpapa.com
 static.clicktripz.com
+static.cloudflareinsights.com
 static.criteo.net
 static.crowdscience.com
 static.dynamicyield.com
@@ -4959,6 +4971,7 @@ xp.apple.com
 xray.mail.ru
 xre.static-api.pw
 xsltcache.alexa.com
+xstats.evoload.io
 xyz.tweaktown.com
 y.analytics.yahoo.com
 y3.analytics.yahoo.com
@@ -4970,6 +4983,7 @@ yamaha.com.122.2o7.net
 yamahayca.122.2o7.net
 yellowpages.112.2o7.net
 yepdigital.adk2x.com
+yhb.p.otm-r.com
 yieldoptimizer.com
 yigg.ivwbox.de
 yip.su

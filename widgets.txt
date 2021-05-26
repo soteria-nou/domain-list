@@ -51,6 +51,7 @@ buzzbox.buzzfeed.com
 c.la1c1.salesforceliveagent.com
 cache1.value-domain.com
 call.chatra.io
+cams.imagetwist.com
 cdn-akamai.mookie1.com
 cdn-pub.sentifi.com
 cdn-stamped-io.azureedge.net

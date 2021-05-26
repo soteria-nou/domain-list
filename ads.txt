@@ -1,6 +1,7 @@
 000001.azureedge.net
 01.creativecdn.com
 04dn8g4f.space
+06156312c77.com
 0914.global.ssl.fastly.net
 0aac4e6a54c170b0.se
 0byv9mgbn0.com
@@ -20,6 +21,7 @@
 1phads.com
 2.adbrite.com
 20754664p.rfihub.com
+23286.dendrito.name
 24ur.iprom.net
 24ur.iprom.si
 2542116.fls.doubleclick.net
@@ -67,6 +69,7 @@
 85dcf732d593.se
 89.8ox.cn
 8hykthze.cricket
+91effa509f8f15a.com
 9524.mimilcnf.pro
 95bc7f616dc797aa.com
 967rett6fzaf.com
@@ -178,6 +181,7 @@ a2.sitio.cl
 a5cee7.se
 a74bbfcc1137449383.com
 a80zha8c.webcam
+a8rm1m4msbbh.com
 aa.adfarm1.adition.com
 aa.doubleclick.net
 aadsserver.freeones.com
@@ -776,6 +780,7 @@ adquest3d.com
 adreactor.com
 adready.com
 adreadytractions.com
+adrenalpop.com
 adresellers.com
 adria.iprom.net
 adrise.de
@@ -1888,6 +1893,7 @@ affiliates.bookdepository.com
 affrh2023.com
 afrigale.co
 afx.tagcdn.com
+ag.adgear.ru
 ag.gbc.criteo.com
 ag.innovid.com
 aglai-tan.com
@@ -1947,6 +1953,7 @@ api.adg99.com
 api.adgoi-1.net
 api.adsnative.com
 api.adstargeting.com
+api.aio.media
 api.b2c.com
 api.bee7.com
 api.branch.io
@@ -2016,6 +2023,7 @@ at-adserver.alltop.com
 at.ad2click.nl
 at.atwola.com
 atlantisjs.brafton.com
+atlookingfo.fun
 atomicblast.lol
 atshops1.ru
 attadworks.turn.com
@@ -2048,6 +2056,7 @@ b.t.tailtarget.com
 b.yu0123456.com
 b.zog.link
 b1480423828.topqualitylink.com
+b2408e4e788280e.com
 b92rs.adocean.pl
 ba2b687.se
 baiducdn.biz
@@ -2178,6 +2187,7 @@ banniere.reussissonsensemble.fr
 baronsoffers.com
 baypops.com
 bb.hdpornpictures.net
+bb4cf48126aab4.com
 bbcdn-bbnaut.ibillboard.com
 bbcdn-tag.ibillboard.com
 bbcdn.go.cz.bbelements.com
@@ -2280,6 +2290,7 @@ campaigns.de.euserv.adaos-ads.net
 canvas.thenextweb.com
 carbonads.com
 carbonads.net
+caringcast.com
 carrymythrone.info
 cas.pxl.ace.advertising.com
 catrg.peer39.net
@@ -2407,6 +2418,7 @@ cdn.w55c.net
 cdn.waframedia9.com
 cdn.yupfiles.net
 cdn.z-cache.com
+cdn01.nativeroll.tv
 cdn1.adadvisor.net
 cdn1.adcdnx.com
 cdn1.adexprt.com
@@ -2572,6 +2584,7 @@ cts.tradepub.com
 ctxt.tribalfusion.com
 ctxtad.tribalfusion.com
 cum.tnaflix.com
+cupidrecession.com
 curriculture.com
 curse-d.openx.net
 cz.adocean.pl
@@ -2598,6 +2611,7 @@ d11enq2rymy0yl.cloudfront.net
 d11lt3e1lizkg0.cloudfront.net
 d13strl4lo8mtp.cloudfront.net
 d14qd3he45186l.cloudfront.net
+d18t35yyry2k49.cloudfront.net
 d19o643lxir6wy.cloudfront.net
 d1az0m14mjvs40.cloudfront.net
 d1cerpgff739r9.cloudfront.net
@@ -2862,6 +2876,7 @@ especifice.info
 estoopsi.com
 et-code.ru
 etcodes.com
+etlanaberez.fun
 etvtabeas.com
 eu-central-1b.connectad.io
 eu-gmtdmp.gd1.mookie1.com
@@ -2890,6 +2905,7 @@ ezhefg9gbhgh10.com
 f.blogads.com
 f1272serve.xyz
 f5v1x3kgv5.com
+f8205a529477e1.com
 fallbacks.carbonads.com
 fandmo.com
 fapmeth.com
@@ -2903,6 +2919,7 @@ feed.topadvert.ru
 feedads.g.doubleclick.net
 feelophe.net
 filadmir.site
+filelox.com
 files.adbrite.com
 files.adselector.ru
 files.adspdbl.com
@@ -2921,10 +2938,12 @@ fnt-news3.club
 focusin.ads.targetnet.com
 fodlkf9d1p.com
 fontainsuny.club
+foocheeb.net
 forshrd.com
 fouoh.com
 fr.105.slidein.clickintext.net
 franecki.net
+franeski.net
 freeads5.com
 freebannerswap.co.uk
 freecodesource.advertserve.com
@@ -2979,6 +2998,7 @@ gmads.net
 gnatpointed.com
 go.ad2upapp.com
 go.adversal.com
+go.alxbgo.com
 go.automatad.com
 go.cz.bbelements.com
 go.deliverydom.com
@@ -3035,6 +3055,7 @@ halleyperson.pro
 hammerhearing.com
 happer.info
 hattepush.com
+hb.adtelligent.com
 hb.vntsm.com
 hbx.media.net
 hcg82f2b.com
@@ -3522,6 +3543,7 @@ ninjagod.com
 nitytolearnan.biz
 nization.com
 nkredir.com
+nkyouvery.fun
 nl1.ero-advertising.com
 nmanateex.top
 nodes.r66t.com
@@ -3582,6 +3604,7 @@ obibanners.com
 ocdn.adsterra.com
 oconner.biz
 oddbanner.bet-at-home.com
+oesfriences.fun
 offers.bittorrent.com
 ogl.primorske.si
 oglas.delavnica.net
@@ -3645,6 +3668,7 @@ online.adservicemedia.dk
 onlineadtracker.co.uk
 onlinewebfind.com
 onshowit.com
+onsideratio.fun
 open-x.technic3d.de
 open.ad.yieldmanager.net
 openad.tf1.fr
@@ -3806,6 +3830,7 @@ patrizio.pro
 paypalssl.doubleclick.net
 pbcde.com
 pbid.pro-market.net
+pbs.alfasense.com
 pc-ads.com
 pc180101.com
 pc20161117.com
@@ -3882,6 +3907,7 @@ pl4654.puserving.com
 pl5163.putags.com
 pl6452454.puhtml.com
 planetlepote.iprom.net
+plantinscription.com
 platform.tout.com
 platinumadvertisement.com
 player-services.goviral-content.com
@@ -3936,6 +3962,7 @@ pro-advertising.com
 pro.buysellads.com
 proadsdirect.com
 probannerswap.com
+proceduresitchy.com
 prod-d.openx.com
 prod.adspsp.com
 projectwonderful.com
@@ -3976,6 +4003,7 @@ ptoushoa.com
 ptp22.com
 ptp33.com
 pu.plugrush.com
+pub-eu.p.otm-r.com
 pub.adfever.com
 pub.qwerty24.net
 pubads.g.doubleclick.net
@@ -4120,6 +4148,7 @@ rt3012.infolinks.com
 rtax.criteo.com
 rtb-ap.vizury.com
 rtb-csync.smartadserver.com
+rtb.com.ru
 rtb.nexage.com
 rtb.strikead.com
 rtb.xpedc.com
@@ -4227,6 +4256,7 @@ sdk.streamrail.com
 sdk.vindicosuite.com
 sdsttt.com
 sea-u.openx.net
+search.supplyframe.com
 secserv.adtech.de
 secure-ads.pictela.net
 secure-assets.rubiconproject.com
@@ -4282,6 +4312,7 @@ shalleda.com
 shareasale.com
 shermore.info
 shopbop.sp1.convertro.com
+shopnetic.com
 shortlink.sex
 show.adacts.com
 show.adlift.ru
@@ -4340,6 +4371,7 @@ sponsorads.de
 spotlights-revive.wikia.net
 spots.ah-me.com
 spotxchange-a.akamaihd.net
+sproutstarbarnacle.com
 squite.club
 srv.adngin.com
 srv.bidvertiser.com
@@ -4361,6 +4393,7 @@ ssl2anyone3.com
 sslwidget.criteo.com
 sso.anbtr.com
 ssp.adriver.ru
+ssp.bidvol.com
 ssp.lkqd.net
 ssp.streamrail.net
 ssp.virool.com
@@ -4513,11 +4546,13 @@ therses.com
 this.content.served.by.adshuffle.com
 thisiswaldo.com
 thor.rtk.io
+thorsado.net
 threedrive.su
 tiads.ew.com
 tiads.si.com
 tiads.timeinc.net
 tionsfurther.fun
+tisttropolic.biz
 titangate-d.openx.net
 tkqlhce.com
 tldadserv.com
@@ -4614,6 +4649,7 @@ ums.adtech.de
 unconf.adkmob.com
 under2given.com
 unicum.adspirit.de
+uniformer.biz
 unlockproject.github.io
 unoblotto.net
 unrestern.info
@@ -4665,6 +4701,7 @@ vasgenerete.site
 vashoaft.net
 vast-cdn.mtngt.com
 vast.brandads.net
+vast.digitalbox.ru
 vast.vertamedia.com
 vd.7vid.net
 vdrn.redplum.com
@@ -4741,6 +4778,7 @@ wms-na.amazon-adsystem.com
 wms.assoc-amazon.com
 wn.pos.baidu.com
 wnprot.com
+wonderhsjnsd.com
 wonderlandads.com
 world.popadscdn.net
 worldmapd.online
@@ -4809,6 +4847,7 @@ www.adzclick.net
 www.affiliatly.com
 www.afvcugqaulh.co
 www.agpiysffnuld.com
+www.ahnioppshfwq.com
 www.ahoigzbodtcd.com
 www.aiiirwciki.com
 www.aklglpwljiv.com
@@ -4820,6 +4859,7 @@ www.asecxggulyrf.com
 www.avsads.com
 www.bbkxmpgjwo.bid
 www.betsonsport.ru
+www.bftrlhesrlfjp.com
 www.bhwcfwjz.com
 www.bircgizd.com
 www.bitadexchange.com
@@ -4843,6 +4883,7 @@ www.cgbqzfjf.com
 www.cityads.ru
 www.clicksgear.com
 www.clickterra.net
+www.coljledqo.com
 www.cpm10.com
 www.cpm20.com
 www.crispads.com
@@ -4863,14 +4904,17 @@ www.e-oglas.com
 www.easygirls.info
 www.eboundservices.com
 www.eccehkho.com
+www.ecjkroklyxvod.com
 www.edfuyyweyz.com
 www.eefiywjjzxry.com
 www.elephant-ads.com
 www.emg-network.com
+www.eoemyywmjx.com
 www.espace-plus.net
 www.etggealva.com
 www.exchangead.com
 www.fdbtvavxtfvpbx.com
+www.fdrptpyxchzjk.com
 www.fnkyyrgraizy.com
 www.fukkzdxfyrchhc.com
 www.fuxhdhdjlyrwhq.com
@@ -4878,6 +4922,7 @@ www.fvenxjtzuaxu.com
 www.gbfeexoyo.com
 www.gcqdiydpfytvn.com
 www.geniusdexchange.com
+www.gjqhufkamcoc.com
 www.gjslebmbiawh.com
 www.gkvhfryrramj.com
 www.googlecommerce.com
@@ -4885,8 +4930,10 @@ www.googletagmanager.com
 www.googletagservices.com
 www.gqtffirr.com
 www.gtxfafvoohbc.com
+www.guvivqlbh.com
 www.helltraffic.com
 www.heracgjcuqmk.com
+www.hgzuqrtzt.com
 www.hibids10.com
 www.hicpm5.com
 www.hiprofitnetworks.com
@@ -4947,6 +4994,7 @@ www.mblkunfd.com
 www.megdexchange.com
 www.mfhgehrnafra.com
 www.mgrxsztbcfeg.com
+www.mjlpqbklxgt.com
 www.modmyads.com
 www.modulepush.com
 www.movcpm.com
@@ -5029,8 +5077,10 @@ www.text-link-ads.com
 www.tfqzkesrzttj.com
 www.tisoomi-services.com
 www.tiunnitm.bid
+www.tluumnjyrc.com
 www.topcpmnetwork.com
 www.toponclick.com
+www.tqmibkqlwqdysi.com
 www.tr553.com
 www.tradeadexchange.com
 www.trafficmagnates.com
@@ -5072,6 +5122,7 @@ www.xknnubcqaa.com
 www.xl415.com
 www.xlovecam.com
 www.xmediaserve.com
+www.xouzmvlt.com
 www.xvideotape.info
 www.xzidjitondzt.com
 www.xzwdhymrdxyp.com
@@ -5081,6 +5132,7 @@ www.yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com
 www.zfkkmayphqrw.com
 www.zhabyesrdnvn.com
 www.ztsletmncez.com
+www.zxgroymagqu.com
 www.zxqeycvsetkh.com
 www.zylokfmgrtzv.com
 www1.adsensecamp.com
@@ -5142,6 +5194,7 @@ yceml.net
 yie4zooseif.info
 yieldlove-d.openx.net
 yiq6p.com
+yititsimplyd.club
 yllix.com
 ylx-1.com
 ym.adnxs.com
