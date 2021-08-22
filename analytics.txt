@@ -3050,6 +3050,7 @@ pdf.xiti.com
 pebed.dm-event.net
 pebed.dm.gg
 pentonmedia.122.2o7.net
+perf.hsforms.com
 perf.mmstat.com
 perf.mouser.com
 performance.typekit.net
@@ -4416,6 +4417,7 @@ tracker.prom.ua
 tracker.rareru.ru
 tracker.roitesting.com
 tracker.tradedoubler.com
+tracker.tubecj.com
 tracker.tuberewards.com
 tracker.win.gg
 tracker.wordstream.com

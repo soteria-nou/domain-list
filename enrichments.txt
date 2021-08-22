@@ -247,6 +247,7 @@ icentric.us.intellitxt.com
 icf.improvely.com
 idm.us.intellitxt.com
 idontlikeyouinthatway.us.intellitxt.com
+im.tradew.com
 images-vm.intellitxt.com
 images.intellitxt.com
 imore.us.intellitxt.com
@@ -268,6 +269,7 @@ jkontherun.us.intellitxt.com
 jp.intellitxt.com
 js-ru.redtram.com
 js.bronto.com
+js.createsend1.com
 js.hs-scripts.com
 js.hsleadflows.net
 js.hubspotfeedback.com
@@ -453,6 +455,7 @@ symbian-freak.us.intellitxt.com
 symbianone.us.intellitxt.com
 tacktech.uk.intellitxt.com
 tagged.us.intellitxt.com
+talk.hyvor.com
 tastefulcelebs.us.intellitxt.com
 techeblog.us.intellitxt.com
 techguy.us.intellitxt.com
