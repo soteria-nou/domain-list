@@ -500,6 +500,7 @@ appapi.inspsearchapi.com
 appinfo.toptal.com
 appleglobal.112.2o7.net
 appload.ingest.crittercism.com
+apps.bazaarvoice.com
 apps.developermedia.com
 apps.outfit7.com
 apwvx.adsbtrack.com
@@ -1199,6 +1200,7 @@ crumbs.robinhood.com
 cs.digitalbox.ru
 cs.luckyorange.net
 cs.ns1p.net
+cs.pikabu.ru
 cs.prototypes.ru
 csi.gstatic.com
 csjs.hitbox.com
@@ -1521,6 +1523,7 @@ dynatrace.digikey.com
 dz.glanceguide.com
 dzapmndcb5bhy.cloudfront.net
 dzmxze7hxwn6b.cloudfront.net
+dzubavstal.com
 e-2dj6aekiwndzcao.stats.esomniture.com
 e-2dj6aekoemczelo.stats.esomniture.com
 e-2dj6aekoukdpeco.stats.esomniture.com
@@ -2169,6 +2172,7 @@ ibt-d.openx.net
 icagency.xiti.com
 ice.112.2o7.net
 icon2count.com
+icotrack.net
 idealo01.webtrekk.net
 ideoclick.com
 idg.hit.gemius.pl
@@ -2847,6 +2851,7 @@ nbcuniversal.122.2o7.net
 nebula-cdn.kampyle.com
 ned.itv.com
 neos.iprom.net
+nereserv.com
 nestor.virool.com
 net.112.2o7.net
 netgear.122.2o7.net
@@ -2909,6 +2914,8 @@ ns2.hitbox.com
 nsblogw-ld05.websys.aol.com
 nsclick.baidu.com
 nscontext.com
+ntvpevnts.com
+ntvpinp.com
 nvg.nbcnews.com
 nxp.112.2o7.net
 nxtck.com
@@ -3459,6 +3466,7 @@ rwt.reichelt.de
 s.66.ru
 s.acexedge.com
 s.arlime.com
+s.baresi.xyz
 s.btstatic.com
 s.canddi.io
 s.clickability.com
@@ -4855,6 +4863,7 @@ www.fullstory.com
 www.getback.ch
 www.getfreebl.com
 www.google-analytics.com
+www.googleoptimize.com
 www.gototrk.com
 www.hey.lt
 www.hlserve.com
