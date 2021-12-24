@@ -326,6 +326,7 @@ widget.culinaryagents.com
 widget.dihitt.com.br
 widget.engageya.com
 widget.halooglasi.com
+widget.instabot.io
 widget.intercom.io
 widget.nepremicnine.net
 widget.plugrush.com

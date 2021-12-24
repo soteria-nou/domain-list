@@ -713,6 +713,7 @@ c.adexchangemachine.com
 c.bigmir.net
 c.cdnma.com
 c.cnzz.com
+c.datareporter.eu
 c.eu1.dyntrk.com
 c.evidon.com
 c.fqtag.com
@@ -764,6 +765,7 @@ c14.statcounter.com
 c15.statcounter.com
 c16.statcounter.com
 c18.statcounter.com
+c2.piano.io
 c2.rfihub.net
 c2.statcounter.com
 c2.taboola.com
@@ -2943,6 +2945,7 @@ ohmystats.com
 oimg.nbcuni.com
 oinqqbzs.com
 om.cbsi.com
+omitneitherrover.com
 omniture-ssl.112.2o7.net
 omniture.112.2o7.net
 omniture.mirror.co.uk
@@ -3361,6 +3364,7 @@ rd1.hitbox.com
 rda.net
 rdrctgoweb.com
 rdvrxbxwxspxd.com
+reach-id.orbit.tm-awx.com
 realtime.deximedia.com
 rec.getsmartlook.com
 receiver.analytics.vadio.com
@@ -4502,6 +4506,7 @@ trackpath.biz
 trackpromotion.net
 tracks.www.zazzle.co.uk
 tracy-moqu.italiaonline.it
+traf.cc
 traffic.acwebconnecting.com
 traffic.buyservices.com
 traffic.idmnet.pl
@@ -4581,6 +4586,7 @@ uim.tifbs.net
 uip.semasio.net
 uk.112.2o7.net
 uk.sitestat.com
+ulbackground.com
 ulogs.umengcloud.com
 ulukaris.com
 umds.wpdigital.net
