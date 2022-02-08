@@ -828,6 +828,7 @@ cdn.astronomer.io
 cdn.avmws.com
 cdn.bauernative.com
 cdn.behavioralengine.com
+cdn.bidder.dev
 cdn.bigmining.com
 cdn.bitrix24.ua
 cdn.bizible.com
@@ -1653,6 +1654,7 @@ e.crashlytics.com
 e.dtscout.com
 e.monetate.net
 e.nexac.com
+e.trckthefun.com
 e0.extreme-dm.com
 e2ertt.com
 ea.warnerbros.fr
@@ -2013,6 +2015,7 @@ go.mobisla.com
 go.mobtrks.com
 go.pushnative.com
 go.schjmp.com
+go.secureclickers.com
 go.shareaholic.com
 go.strpjmp.com
 go.techtarget.com
@@ -4868,6 +4871,7 @@ www.freecamdollars.com
 www.fullstory.com
 www.getback.ch
 www.getfreebl.com
+www.gigamserv.com
 www.google-analytics.com
 www.googleoptimize.com
 www.gototrk.com

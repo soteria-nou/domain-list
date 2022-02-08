@@ -116,6 +116,7 @@ a.exosrv.com
 a.fandango.com
 a.findarticles.com
 a.flashtalking.com
+a.focusde.info
 a.forum.nokia.com
 a.freepornroute.com
 a.getgamers.eu
@@ -2243,6 +2244,7 @@ block.s2block.com
 blogad.com.tw
 blogads.com
 blueadvertise.com
+bngprl.com
 bngpt.com
 bnr2.revdepo.com
 bnrs.it
@@ -2755,6 +2757,7 @@ devart.adbureau.net
 dfapvmql-q.global.ssl.fastly.net
 dff7tx5c2qbxc.cloudfront.net
 dfp.doubleclick.net
+dgu9g3a2kzqx2.cloudfront.net
 dhzws7l31cq8p.cloudfront.net
 diff.smartadserver.com
 diff3.smartadserver.com
@@ -4005,6 +4008,7 @@ probannerswap.com
 proceduresitchy.com
 prod-d.openx.com
 prod.adspsp.com
+profitedsurvey.online
 projectwonderful.com
 promisland.user.madbanner.ru
 promo-bc.com
@@ -4027,6 +4031,7 @@ prpops.com
 prxii.cf
 ps-eu.amazon-adsystem.com
 ps-us.amazon-adsystem.com
+psagridowe.com
 psitchie.com
 psma01.com
 psma02.com
@@ -5021,6 +5026,7 @@ www.ivepdiwslclulq.com
 www.iwanttodeliver.com
 www.ixhparehw.com
 www.jbbgczjipjvb.com
+www.jipfvqusm.com
 www.jjrzlqho.com
 www.jltzknvw.com
 www.jolic2.com
@@ -5238,6 +5244,7 @@ www.zdaptrksg.com
 www.zfkkmayphqrw.com
 www.zgvcfridw.com
 www.zhabyesrdnvn.com
+www.zlajnpfqgsleo.com
 www.zqduqpirbn.com
 www.ztsletmncez.com
 www.zxgroymagqu.com
