@@ -611,6 +611,7 @@ balancer.unified-tracking.com
 bam.nr-data.net
 bankrate.112.2o7.net
 banner.truehits.net
+baradoot.com
 barcelone.xiti.com
 bat.bing.com
 bats.video.yahoo.com
@@ -873,6 +874,7 @@ cdn.hubvisor.io
 cdn.insights.gravity.com
 cdn.inspectlet.com
 cdn.interstateanalytics.com
+cdn.itphanpytor.club
 cdn.justuno.com
 cdn.krxd.net
 cdn.lift.acquia.com
@@ -983,6 +985,7 @@ chicoutimi.xiti.com
 chimpstatic.com
 chip.ivwbox.de
 chipeu.count.brat-online.ro
+chushywoce.com
 ciao.ivwbox.de
 ciaoshopcouk.122.2o7.net
 ciaoshopde.122.2o7.net
@@ -995,6 +998,7 @@ ciscosystemsinc.tt.omtrdc.net
 ciscowebex.112.2o7.net
 citizenstelecom.112.2o7.net
 cjs.ptengine.com
+cl-eu2.k5a.io
 cl.cpaevent.ru
 cl.qualaroo.com
 cl1.sitestats.de
@@ -1190,6 +1194,7 @@ cr3wc89sw3.global.ssl.fastly.net
 crain.d1.sc.omtrdc.net
 crd.hitbox.com
 create.leadid.com
+creative.imagetwistcams.com
 creative.mshago.com
 cricket.hosted.stats.com
 critictruck.com
@@ -1262,6 +1267,7 @@ d10lpsik1i8c69.cloudfront.net
 d11bn9i8gmo4kr.cloudfront.net
 d11rmv9we9fli4.cloudfront.net
 d12ulf131zb0yj.cloudfront.net
+d13nu0oomnx5ti.cloudfront.net
 d1447tq2m68ekg.cloudfront.net
 d15cjcet1djbmv.cloudfront.net
 d15qhc0lu1ghnk.cloudfront.net
@@ -2099,6 +2105,7 @@ heise.met.vgwort.de
 heise01.webtrekk.net
 hello.staticstuff.net
 hetzner.piwikpro.com
+hewmjifrn4gway.com
 hey.hellobar.com
 hfunt.com
 hfutz.com
@@ -2292,6 +2299,7 @@ js.casalemedia.com
 js.center.io
 js.clickequations.net
 js.datadome.co
+js.datafront.co
 js.gleam.io
 js.honeybadger.io
 js.hotlog.ru
@@ -2747,6 +2755,7 @@ metrics.washingtonpost.com
 metrics.webhostingtalk.com
 metrics.windowsitpro.com
 metrics.yellowpages.com
+metricswpsh.com
 metrika-informer.com
 mg-marxy.mall.cz
 mgtbo.112.2o7.net
@@ -3077,6 +3086,7 @@ phar.gu-web.net
 philips.112.2o7.net
 phonograph-static.voxmedia.com
 phonograph2.voxmedia.com
+phyphuphuxy.com
 pi.pardot.com
 pier.deepo.io
 ping.dozuki.com
