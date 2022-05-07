@@ -140,6 +140,7 @@
 5936060.log.optimizely.com
 599.stats.misstrends.com
 5be16.v.fwmrm.net
+5d4eab87c2.7296ee4584.com
 6038712.fls.doubleclick.net
 652760597.log.optimizely.com
 653.stats.stats.fr
@@ -215,6 +216,7 @@ ac.mmstat.com
 ac.perf.linkedin.com
 accstandardbank.112.2o7.net
 accumulatork.com
+accustomreview.com
 acestats.com
 acpc.perf.linkedin.com
 acpmagazines.112.2o7.net
@@ -550,6 +552,7 @@ aumohondatuningmagazine.112.2o7.net
 aumospo.ivwbox.de
 aunica.112.2o7.net
 aurelius.httpool.com
+ausoafab.net
 auth.estat.com
 auto.sophus3.com
 autobytel.112.2o7.net
@@ -785,6 +788,7 @@ c9.statcounter.com
 ca.112.2o7.net
 ca.clickinc.com
 cadence.112.2o7.net
+cagothie.net
 calgary.xiti.com
 callingjustified.com
 callmd5map.com
@@ -1372,6 +1376,7 @@ daimlerag.d2.sc.omtrdc.net
 danitabedtick.net
 dap.digitalgov.gov
 dapxl.com
+dashboard.apprat.com
 dashboard.evolveplatform.net
 dashboard.whoisvisiting.com
 dastelef.ivwbox.de
@@ -2138,6 +2143,7 @@ hits.theguardian.com
 hitsniffer.com
 hitwebcounter.com
 hk.2.cqcounter.com
+hoanoola.net
 horizon.forbes.com
 horizon.mashable.com
 hosted-oswa.org
@@ -2317,6 +2323,7 @@ js.neodatagroup.com
 js.stroeermediabrands.de
 js.ta80.com
 js.usemessages.com
+js.wpshsdk.com
 js1.hitbox.com
 jsc.4shared.com
 jsn.dt07.net
@@ -3274,6 +3281,7 @@ psyng.com
 pt.fiksu.com
 pt.ptawe.com
 pt.trafficjunky.net
+pt.wmptctl.com
 pto.awecr.com
 pto.protoawe.com
 pturt.com
@@ -3388,6 +3396,7 @@ recs.shareaholic.com
 recycle.topky.sk
 redbull01.webtrekk.net
 redistats.com
+reedthatm.biz
 refer.ccbill.com
 referrer.disqus.com
 registercom.tt.omtrdc.net
@@ -3743,6 +3752,7 @@ si21.iprom.net
 siemenscc.112.2o7.net
 silkenthreadiness.info
 simg.bwin.com
+simplewebanalysis.com
 sinceresofa.com
 single.upsight-api.com
 siol.iprom.net
@@ -4605,6 +4615,7 @@ ulukaris.com
 umds.wpdigital.net
 unagi-na.amazon.com
 unagi.amazon.de
+undooptimisticsuction.com
 unimusic.ivwbox.de
 unistreamvideoad.iprom.net
 universal.iperceptions.com
@@ -4792,6 +4803,7 @@ wecai.us
 welt.met.vgwort.de
 weltn24.rtrp13n.de
 weltonline01.webtrekk.net
+westats.dev
 westhostinc.122.2o7.net
 wetransfer-d.openx.net
 wetteronline-d.openx.net
