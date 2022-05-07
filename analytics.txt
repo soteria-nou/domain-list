@@ -2067,7 +2067,6 @@ gscounters.us1.gigya.com
 gslbeacon.lijit.com
 gtru.hit.gemius.pl
 guenstig.ivwbox.de
-gumroad.com
 gurgle.zdbb.net
 gw1-gw2-bcast-30.hitbox.com
 gw1-gw2-net-30.hitbox.com
@@ -3524,7 +3523,6 @@ s.update.rubiconproject.com
 s.vengovision.ru
 s.webtrends.com
 s.xpanama.net
-s.youtube.com
 s.zmctrack.net
 s0.ipstatp.com
 s06.flagcounter.com

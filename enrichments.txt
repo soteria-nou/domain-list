@@ -35,7 +35,6 @@ api.booster3000.si
 api.bufferapp.com
 api.cleverpush.com
 api.condenast.io
-api.facebook.com
 api.mediabooster.si
 api.parsely.com
 api.pulpix.com
@@ -86,7 +85,6 @@ cashewsforlife208.com
 cc.cdn.civiccomputing.com
 ccpa.sp-prod.net
 cdn.adf.ly
-cdn.ampproject.org
 cdn.bitrix24.com
 cdn.callbackhunter.com
 cdn.consentmanager.mgr.consensu.org
@@ -496,7 +494,6 @@ totalvideogames.uk.intellitxt.com
 touslesdrivers.fr.intellitxt.com
 traffic5.helponclick.com
 traileraddict.us.intellitxt.com
-transactions.sendowl.com
 tslfeeder.dotfusion.com
 tutorialized.us.intellitxt.com
 tweaktown.us.intellitxt.com
