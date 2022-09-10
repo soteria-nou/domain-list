@@ -31,6 +31,7 @@ anime44.us.intellitxt.com
 animecubed.us.intellitxt.com
 answerbag.us.intellitxt.com
 anvari.us.intellitxt.com
+api.bibblio.org
 api.booster3000.si
 api.bufferapp.com
 api.cleverpush.com
@@ -286,6 +287,7 @@ libs.a2zinc.net
 license.icopyright.net
 lifescript.us.intellitxt.com
 linkee.xyz
+linker-network.com
 linker.hr
 linuxdevcenter.us.intellitxt.com
 linuxforums.us.intellitxt.com

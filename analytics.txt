@@ -441,6 +441,7 @@ api.appmonsta.com
 api.autopilothq.com
 api.behavioralengine.com
 api.bounceexchange.com
+api.btloader.com
 api.calq.io
 api.choicestream.com
 api.conductrics.com
@@ -645,6 +646,7 @@ beacon.tingyun.com
 beacon.walmart.com
 beacon.wikia-services.com
 beacons.hottraffic.nl
+beagle.prod.tda.link
 beap.gemini.yahoo.com
 beat.wix.com
 beatchucknorris.com
@@ -694,6 +696,7 @@ bshare.optimix.asia
 bstats.adbrite.com
 btcom.112.2o7.net
 btiopenzone.112.2o7.net
+btloader.com
 btrace.qq.com
 btstatic.com
 bttrack.com
@@ -1453,6 +1456,7 @@ dig.ultimedia.com
 dig2.ultimedia.com
 digdemo.hitbox.com
 digg.112.2o7.net
+direct-events-collector.spot.im
 directtrk.com
 dirnt.net
 dis.criteo.com
@@ -1992,6 +1996,8 @@ get.convrse.media
 get.s-onetag.com
 gettyimages.122.2o7.net
 gh-logger-ghair.s3.amazonaws.com
+ghb.adtelligent.com
+ghb.spotim.market
 ghde.oewabox.at
 ghmcz.hit.gemius.pl
 ghmpl.hit.gemius.pl
@@ -2407,6 +2413,7 @@ libs.coremetrics.com
 libs.de.coremetrics.com
 licensing.bitmovin.com
 liczniki.org
+limurol.com
 lin-d.openx.net
 lineadirecta.112.2o7.net
 links.business-informant.de
@@ -2733,6 +2740,7 @@ metacafe.122.2o7.net
 meter-svc.nytimes.com
 metric.asos.com
 metrics-api.librato.com
+metrics-logger.spot.im
 metrics.apple.com
 metrics.autodesk.com
 metrics.bustle.com
@@ -3492,6 +3500,7 @@ runmibom.g02.ign.com
 rwt.reichelt.de
 s.66.ru
 s.acexedge.com
+s.adtelligent.com
 s.arlime.com
 s.baresi.xyz
 s.btstatic.com
@@ -3512,6 +3521,7 @@ s.mousetrace.com
 s.nexeps.com
 s.ns1p.net
 s.ntv.io
+s.optnx.com
 s.sa.aol.com
 s.shopify.com
 s.srvntrk.com
@@ -3841,6 +3851,7 @@ sp1.nypost.com
 spade.twitch.tv
 spanids.dictionary.com
 spanids.reference.com
+spatterjointposition.com
 specsavers01.wt-eu02.net
 spectrum.gettyimages.com
 spektrum.ivwbox.de
@@ -4809,6 +4820,7 @@ westhostinc.122.2o7.net
 wetransfer-d.openx.net
 wetteronline-d.openx.net
 wfpscripts.webspectator.com
+widezealconstant.com
 widget.eagleapi.io
 widgets.backtype.com
 widgets.future-hawk-content.co.uk
@@ -5073,6 +5085,7 @@ zor.livefyre.com
 zorwrite.com
 zt.1rx.io
 zt.allmusic.com
+zuba.prod.tda.link
 zurnal24.iprom.net
 zver.iprom.si
 zy.si
