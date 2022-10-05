@@ -1705,6 +1705,7 @@ adserving.versaneeds.com
 adservinginternational.com
 adservone.com
 adservpi.com
+adsessionserv.com
 adsfac.eu
 adsfac.net
 adsfac.sg
@@ -1916,6 +1917,7 @@ ag.innovid.com
 aglai-tan.com
 agle21xe2anfddirite.com
 agomwefq.com
+agraglie.net
 agreemand.com
 ai.tapxchange.com
 air.adliners.de
@@ -3062,6 +3064,7 @@ gdc.indeed.com
 gde.adocean.pl
 gearslutz.advertserve.com
 gebadu.com
+geejooji.com
 gekko.spiceworks.com
 geo.azads.com
 geo.precisionclick.com
@@ -5004,6 +5007,7 @@ www.adopshost1.com
 www.ads.havamedia.net
 www.ads.netokracija.com
 www.ads.whoishostingthis.com
+www.adscontrol.xyz
 www.adsensecustomsearchads.com
 www.adserverpub.com
 www.adshost1.com

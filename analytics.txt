@@ -392,6 +392,7 @@ analytics.spankbang.com
 analytics.styria.hr
 analytics.supplyframe.com
 analytics.thevideo.me
+analytics.tiktok.com
 analytics.tmonews.com
 analytics.traderlink.com
 analytics.trendmicro.com
@@ -1452,6 +1453,7 @@ devlogin.hitbox.com
 devnull.perfops.net
 dewsburg.info
 dhbx.hitbox.com
+diffuser-cdn.app-us1.com
 dig.ultimedia.com
 dig2.ultimedia.com
 digdemo.hitbox.com
@@ -1459,6 +1461,7 @@ digg.112.2o7.net
 direct-events-collector.spot.im
 directtrk.com
 dirnt.net
+diromalxx.com
 dis.criteo.com
 dischannel.112.2o7.net
 disneyinternational.112.2o7.net
@@ -1808,6 +1811,7 @@ et.nytimes.com
 et.twyn.com
 etahub.com
 etrk.asus.com
+eu-mobile.events.data.microsoft.com
 eu-sonar.sociomantic.com
 eu.npario-inc.net
 eu2.snoobi.eu
@@ -2413,6 +2417,7 @@ libs.coremetrics.com
 libs.de.coremetrics.com
 licensing.bitmovin.com
 liczniki.org
+liirtchf.com
 limurol.com
 lin-d.openx.net
 lineadirecta.112.2o7.net
@@ -2804,6 +2809,7 @@ mobisux.iprom.net
 mobotix01.webtrekk.net
 mojeigre.iprom.net
 mojsms.net
+moksoxos.com
 mondelez.d3.sc.omtrdc.net
 mongo-good-server.ext.nile.works
 monitoring.youronlinechoices.com
@@ -3088,6 +3094,7 @@ pdf.xiti.com
 pebed.dm-event.net
 pebed.dm.gg
 pentonmedia.122.2o7.net
+perf.cdnads.com
 perf.hsforms.com
 perf.mmstat.com
 perf.mouser.com
@@ -3264,6 +3271,7 @@ princehotels.112.2o7.net
 prisacom.112.2o7.net
 prisacomas.112.2o7.net
 prisacommultidistribucion.112.2o7.net
+prism.app-us1.com
 privateoutlet.112.2o7.net
 prmobiles.com
 prnewswire.122.2o7.net
@@ -3642,6 +3650,7 @@ samsungnorthamerica.112.2o7.net
 sandbox.xiti.com
 sandisk.links.origin.channelintelligence.com
 sanyo.112.2o7.net
+saushoag.net
 sayac.onlinewebstat.com
 sb.monetate.net
 sb.scorecardresearch.com
@@ -4288,6 +4297,7 @@ tealium.hs.llnwd.net
 technical-service.net
 techtarget.122.2o7.net
 ted.dailymail.co.uk
+teefuthe.com
 teledat.iprom.net
 telegraph.sdk.beemray.com
 telemetry.api.wmcdp.io
