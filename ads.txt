@@ -2225,6 +2225,7 @@ bbcdn.go.goldbachpoland.bbelements.com
 bbcdn.go.idnes.bbelements.com
 bbnaut.ibillboard.com
 bcbb.rubiconproject.com
+bcprm.com
 bdv.bidvertiser.com
 bea4.cnn.com
 beacon.dedicatednetworks.com
@@ -2248,6 +2249,7 @@ beta.mybestdc.com
 betimbur.com
 betotodilea.com
 bevo-eu-west-1.adsnative.com
+bg4nxu2u5t.com
 bgrndi.com
 bh-engine.intextad.net
 bid.g.doubleclick.net
@@ -2438,6 +2440,7 @@ cdn.ocelot.studio
 cdn.onedmp.com
 cdn.onscroll.com
 cdn.pleenq.com
+cdn.pncloudfl.com
 cdn.popcash.net
 cdn.popmyads.com
 cdn.pulpix.co
@@ -2517,6 +2520,7 @@ ckdegfi5.faith
 cl21.v4.adaction.se
 clc.stackoverflow.com
 clckysudks.com
+clenchedyouthmatching.com
 click.adbrite.com
 click.adpile.net
 clickad.pl
@@ -2625,6 +2629,7 @@ creative.speednetwork6.com
 creative.topcams.tv
 creative.wwwpromoter.com
 creative.xhamsterlive.com
+creative.xlirdr.com
 creative.xlviirdr.com
 creativecdn.com
 creatives.doubleclick.net
@@ -2807,6 +2812,7 @@ diff3.smartadserver.com
 digitaltrends-d.openx.net
 dildo.tnaflix.com
 dinclinx.com
+dipaka-ead.com
 directadvert.ru
 dis.eu.criteo.com
 display-img.g.atti.com
@@ -2952,6 +2958,7 @@ epp.index.hr
 ero-advertising.com
 eroleep.com
 errantolo.com
+escatedint.work
 esimedia-d.openx.net
 especifice.info
 estoopsi.com
@@ -3038,6 +3045,7 @@ freebannerswap.co.uk
 freecodesource.advertserve.com
 fres-news.com
 freychang.fun
+friendshipmale.com
 frogadvert.ru
 frstlead.com
 frtyb.com
@@ -3180,6 +3188,7 @@ hostedads.realitykings.com
 hosting.adjug.com
 hr-engine.xclaimwords.net
 hr.adocean.pl
+href.li
 hrgde.adocean.pl
 hs.interpolls.com
 hstraffa.com
@@ -3388,6 +3397,7 @@ juiceadv.com
 jump.to
 jvads.vsads01.com
 jwvwak1a.com
+kdmttk.com
 keytarget.adnet.lt
 kgdvs9ov3l2aasw4nuts.com
 kge1ru01.science
@@ -3398,6 +3408,7 @@ kleinanzeigen-d.openx.net
 klixfeed.com
 kochopsysti.pro
 koidt1wn.bid
+koptikbaj4.xyz
 kos.interseek.si
 kpqnj.top
 krenovo.online
@@ -3510,6 +3521,7 @@ match.adsrvr.org
 match.basebanner.com
 match.rundsp.com
 matchid.adfox.yandex.ru
+mathcountryside.com
 matomy.adk2.co
 mautic.infonet.si
 mavenlohi.com
@@ -3574,6 +3586,7 @@ mobred.net
 moggattice.com
 moipep.com
 moneymakercdn.com
+monkeysloveyou.com
 monsoonads.com
 moradu.com
 mossyitalian.com
@@ -3778,6 +3791,7 @@ oglasi2.kulinarika.net
 oglasicdn.novilist.hr
 ogle-0740lb.com
 oilchange.website
+ointmentaloofpincers.com
 ok.internet-media.si
 ok.internetmedia.si
 ol.at.atwola.com
@@ -4366,6 +4380,7 @@ s3.atas.io
 s3.atas.io.pornit.me
 s3.buysellads.com
 s3t3d2y8.ackcdn.net
+s3t3d2y8.afcdn.net
 s4.adwatcher.net
 s99i.org
 s9kkremkr0.com
@@ -4479,6 +4494,7 @@ shuttle.yepty.com
 shydastidu.com
 si.adocean.pl
 si.nuggad.net
+sicknessfestivity.com
 sifuglie.com
 sigde.adocean.pl
 silvalliant.info
@@ -4664,6 +4680,7 @@ t13.intelliad.de
 t23.intelliad.de
 t8.zenkreka.com
 ta3nfsordd.com
+tackchen.gitee.io
 tacticmarshannouncing.com
 tads.interseek.si
 tag.admeld.com
@@ -4884,6 +4901,7 @@ vast.yomeno.xyz
 vd.7vid.net
 vdrn.redplum.com
 vehemenceclung.com
+veilsuccessfully.com
 venturead.com
 vg74gi6mea.com
 viatepigan.com
@@ -4958,6 +4976,7 @@ wn.pos.baidu.com
 wnprot.com
 wonderhsjnsd.com
 wonderlandads.com
+woreinformed.com
 world.popadscdn.net
 worldmapd.online
 wortparser.info
@@ -5115,6 +5134,7 @@ www.fdrptpyxchzjk.com
 www.fjbatbqiwpxydg.com
 www.fnkyyrgraizy.com
 www.fukkzdxfyrchhc.com
+www.fuuctxrrvw.com
 www.fuxhdhdjlyrwhq.com
 www.fvenxjtzuaxu.com
 www.fxtiumvhfucrkp.com
@@ -5404,6 +5424,7 @@ www.zgvcfridw.com
 www.zhabyesrdnvn.com
 www.zlajnpfqgsleo.com
 www.zqduqpirbn.com
+www.zrukecdcv.com
 www.ztsletmncez.com
 www.zxgroymagqu.com
 www.zxqeycvsetkh.com

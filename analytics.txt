@@ -182,6 +182,7 @@ a.mstrlytcs.com
 a.nexeps.com
 a.omappapi.com
 a.optmstr.com
+a.privacity.se
 a.pub.network
 a.retailmenot.com
 a.ria.ru
@@ -408,6 +409,7 @@ angvac.112.2o7.net
 anna.whatsupcams.com
 anon-stats.eff.org
 anontop.com
+anwhocam.xyz
 anx.excite.com
 anx.tb.ask.com
 aolcscom.122.2o7.net
@@ -431,6 +433,7 @@ aparser1-nat.hitbox.com
 ape-tagit.timeinc.net
 apex.go.sonobi.com
 api-http-lb.vadio.com
+api-js.datadome.co
 api-v3.tinypass.com
 api.adrtx.net
 api.adsymptotic.com
@@ -479,6 +482,7 @@ api.tvpage.com
 api.umbel.com
 api.usercycle.com
 api.verticalscope.com
+api.viafoura.co
 api.wipmania.com
 api.worldgravity.com
 api.xiti.com
@@ -1694,6 +1698,7 @@ ec.weebly.com
 ec1.hitbox.com
 ece-logger.nandomedia.com
 ecf.d41.co
+echildren.buzz
 ecn.dev.virtualearth.net
 ecomm.events
 ecruos.golem.de
@@ -2456,6 +2461,7 @@ log.polarisoffice.com
 log.publisherdesk.com
 log.quora.com
 log.stats24.net
+log.strm.yandex.ru
 log.thevideo.me
 log.traceics.ca
 log.trafic.ro
@@ -3770,6 +3776,7 @@ si.2.cqcounter.com
 si.hit.gemius.pl
 si21.iprom.net
 siemenscc.112.2o7.net
+significantoperativeclearance.com
 silkenthreadiness.info
 simg.bwin.com
 simplewebanalysis.com
@@ -4775,6 +4782,7 @@ warnerbros.112.2o7.net
 warnerbrothersrecords.112.2o7.net
 waterfrontmedia.112.2o7.net
 wateryvan.com
+waufooke.com
 wbrostmz.112.2o7.net
 wcdn.zoomanalytics.co
 wcs.naver.com
