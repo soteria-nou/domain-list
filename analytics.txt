@@ -182,6 +182,7 @@ a.mstrlytcs.com
 a.nexeps.com
 a.omappapi.com
 a.optmstr.com
+a.privacity.se
 a.pub.network
 a.retailmenot.com
 a.ria.ru
@@ -392,6 +393,7 @@ analytics.spankbang.com
 analytics.styria.hr
 analytics.supplyframe.com
 analytics.thevideo.me
+analytics.tiktok.com
 analytics.tmonews.com
 analytics.traderlink.com
 analytics.trendmicro.com
@@ -407,6 +409,7 @@ angvac.112.2o7.net
 anna.whatsupcams.com
 anon-stats.eff.org
 anontop.com
+anwhocam.xyz
 anx.excite.com
 anx.tb.ask.com
 aolcscom.122.2o7.net
@@ -430,6 +433,7 @@ aparser1-nat.hitbox.com
 ape-tagit.timeinc.net
 apex.go.sonobi.com
 api-http-lb.vadio.com
+api-js.datadome.co
 api-v3.tinypass.com
 api.adrtx.net
 api.adsymptotic.com
@@ -441,6 +445,7 @@ api.appmonsta.com
 api.autopilothq.com
 api.behavioralengine.com
 api.bounceexchange.com
+api.btloader.com
 api.calq.io
 api.choicestream.com
 api.conductrics.com
@@ -477,6 +482,7 @@ api.tvpage.com
 api.umbel.com
 api.usercycle.com
 api.verticalscope.com
+api.viafoura.co
 api.wipmania.com
 api.worldgravity.com
 api.xiti.com
@@ -645,6 +651,7 @@ beacon.tingyun.com
 beacon.walmart.com
 beacon.wikia-services.com
 beacons.hottraffic.nl
+beagle.prod.tda.link
 beap.gemini.yahoo.com
 beat.wix.com
 beatchucknorris.com
@@ -694,6 +701,7 @@ bshare.optimix.asia
 bstats.adbrite.com
 btcom.112.2o7.net
 btiopenzone.112.2o7.net
+btloader.com
 btrace.qq.com
 btstatic.com
 bttrack.com
@@ -1449,12 +1457,15 @@ devlogin.hitbox.com
 devnull.perfops.net
 dewsburg.info
 dhbx.hitbox.com
+diffuser-cdn.app-us1.com
 dig.ultimedia.com
 dig2.ultimedia.com
 digdemo.hitbox.com
 digg.112.2o7.net
+direct-events-collector.spot.im
 directtrk.com
 dirnt.net
+diromalxx.com
 dis.criteo.com
 dischannel.112.2o7.net
 disneyinternational.112.2o7.net
@@ -1687,6 +1698,7 @@ ec.weebly.com
 ec1.hitbox.com
 ece-logger.nandomedia.com
 ecf.d41.co
+echildren.buzz
 ecn.dev.virtualearth.net
 ecomm.events
 ecruos.golem.de
@@ -1804,6 +1816,7 @@ et.nytimes.com
 et.twyn.com
 etahub.com
 etrk.asus.com
+eu-mobile.events.data.microsoft.com
 eu-sonar.sociomantic.com
 eu.npario-inc.net
 eu2.snoobi.eu
@@ -1888,6 +1901,7 @@ financesi.iprom.net
 finaonl.ivwbox.de
 fl.reg.163.com
 flake.formr.io
+fleraprt.com
 flipkart.d1.sc.omtrdc.net
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
@@ -1991,6 +2005,8 @@ get.convrse.media
 get.s-onetag.com
 gettyimages.122.2o7.net
 gh-logger-ghair.s3.amazonaws.com
+ghb.adtelligent.com
+ghb.spotim.market
 ghde.oewabox.at
 ghmcz.hit.gemius.pl
 ghmpl.hit.gemius.pl
@@ -2405,6 +2421,8 @@ libs.coremetrics.com
 libs.de.coremetrics.com
 licensing.bitmovin.com
 liczniki.org
+liirtchf.com
+limurol.com
 lin-d.openx.net
 lineadirecta.112.2o7.net
 links.business-informant.de
@@ -2442,6 +2460,7 @@ log.polarisoffice.com
 log.publisherdesk.com
 log.quora.com
 log.stats24.net
+log.strm.yandex.ru
 log.thevideo.me
 log.traceics.ca
 log.trafic.ro
@@ -2731,6 +2750,7 @@ metacafe.122.2o7.net
 meter-svc.nytimes.com
 metric.asos.com
 metrics-api.librato.com
+metrics-logger.spot.im
 metrics.apple.com
 metrics.autodesk.com
 metrics.bustle.com
@@ -2794,6 +2814,7 @@ mobisux.iprom.net
 mobotix01.webtrekk.net
 mojeigre.iprom.net
 mojsms.net
+moksoxos.com
 mondelez.d3.sc.omtrdc.net
 mongo-good-server.ext.nile.works
 monitoring.youronlinechoices.com
@@ -3078,6 +3099,7 @@ pdf.xiti.com
 pebed.dm-event.net
 pebed.dm.gg
 pentonmedia.122.2o7.net
+perf.cdnads.com
 perf.hsforms.com
 perf.mmstat.com
 perf.mouser.com
@@ -3254,6 +3276,7 @@ princehotels.112.2o7.net
 prisacom.112.2o7.net
 prisacomas.112.2o7.net
 prisacommultidistribucion.112.2o7.net
+prism.app-us1.com
 privateoutlet.112.2o7.net
 prmobiles.com
 prnewswire.122.2o7.net
@@ -3490,6 +3513,7 @@ runmibom.g02.ign.com
 rwt.reichelt.de
 s.66.ru
 s.acexedge.com
+s.adtelligent.com
 s.arlime.com
 s.baresi.xyz
 s.btstatic.com
@@ -3510,6 +3534,7 @@ s.mousetrace.com
 s.nexeps.com
 s.ns1p.net
 s.ntv.io
+s.optnx.com
 s.sa.aol.com
 s.shopify.com
 s.srvntrk.com
@@ -3629,6 +3654,7 @@ samsungnorthamerica.112.2o7.net
 sandbox.xiti.com
 sandisk.links.origin.channelintelligence.com
 sanyo.112.2o7.net
+saushoag.net
 sayac.onlinewebstat.com
 sb.monetate.net
 sb.scorecardresearch.com
@@ -3748,6 +3774,7 @@ si.2.cqcounter.com
 si.hit.gemius.pl
 si21.iprom.net
 siemenscc.112.2o7.net
+significantoperativeclearance.com
 silkenthreadiness.info
 simg.bwin.com
 simplewebanalysis.com
@@ -3838,6 +3865,7 @@ sp1.nypost.com
 spade.twitch.tv
 spanids.dictionary.com
 spanids.reference.com
+spatterjointposition.com
 specsavers01.wt-eu02.net
 spectrum.gettyimages.com
 spektrum.ivwbox.de
@@ -4274,6 +4302,7 @@ tealium.hs.llnwd.net
 technical-service.net
 techtarget.122.2o7.net
 ted.dailymail.co.uk
+teefuthe.com
 teledat.iprom.net
 telegraph.sdk.beemray.com
 telemetry.api.wmcdp.io
@@ -4751,6 +4780,7 @@ warnerbros.112.2o7.net
 warnerbrothersrecords.112.2o7.net
 waterfrontmedia.112.2o7.net
 wateryvan.com
+waufooke.com
 wbrostmz.112.2o7.net
 wcdn.zoomanalytics.co
 wcs.naver.com
@@ -4806,6 +4836,7 @@ westhostinc.122.2o7.net
 wetransfer-d.openx.net
 wetteronline-d.openx.net
 wfpscripts.webspectator.com
+widezealconstant.com
 widget.eagleapi.io
 widgets.backtype.com
 widgets.future-hawk-content.co.uk
@@ -5070,6 +5101,7 @@ zor.livefyre.com
 zorwrite.com
 zt.1rx.io
 zt.allmusic.com
+zuba.prod.tda.link
 zurnal24.iprom.net
 zver.iprom.si
 zy.si
