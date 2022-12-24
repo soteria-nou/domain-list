@@ -1099,6 +1099,7 @@ collector.a.pxi.pub
 collector.contentexchange.me
 collector.githubapp.com
 collector.intergi.com
+collector.seranking.com
 collector.xhamster.com
 collector1.xhamster.com
 colorfot.ivwbox.de
@@ -1918,6 +1919,7 @@ formalyzer.com
 formpr.com
 foundrynetworks.122.2o7.net
 foxcom.112.2o7.net
+fp.metricswpsh.com
 fpn.flipboard.com
 fqtag.com
 fr.sitestat.com
@@ -2710,6 +2712,7 @@ mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
 matomo.freeones.com
+matomo.similarweb.io
 maxim.122.2o7.net
 mboxedge26.tt.omtrdc.net
 mc.exacttarget.com
@@ -3301,6 +3304,7 @@ prscripts.com
 ps.ceneje.si
 ps.eyeota.net
 ps14.pubnub.com
+pstats.seranking.com
 psyng.com
 pt.fiksu.com
 pt.ptawe.com
@@ -3329,6 +3333,7 @@ pv.datacaciques.com
 pw.3ders.net
 pw.ibanbic.com
 px.adhigh.net
+px.ads.linkedin.com
 px.airpr.com
 px.media-serving.com
 px.moatads.com
@@ -3687,6 +3692,7 @@ script.ownpage.fr
 script.tailsweep.com
 script.tapfiliate.com
 scripts.advmusic.com
+scripts.attributionapp.com
 scripts.demandbase.com
 scripts.demandmedia.com
 scripts.kissmetrics.com
@@ -3883,6 +3889,7 @@ springer02.webtrekk.net
 springergmbh01.webtrekk.net
 spruce.rapleaf.com
 spt.dictionary.com
+spyfu.postaffiliatepro.com
 sqs.us-east-1.amazonaws.com
 squid.gazeta.pl
 sra.s-9.us
@@ -4401,6 +4408,7 @@ track.adform.net
 track.adtraction.com
 track.appsflyer.com
 track.asus.com
+track.attributionapp.com
 track.audtd.com
 track.blogcounter.de
 track.brucelead.com
@@ -4588,6 +4596,7 @@ trk.enecto.com
 trk.freepik.com
 trk.justanswer.com
 trk.kissmetrics.com
+trk.kissmetrics.io
 trk.parrable.com
 trk.slimcdns.com
 trk.tracksys55.com
@@ -4748,6 +4757,7 @@ vip06-assets.insnw.net
 viralnova.sc.omtrdc.net
 virginmedia.112.2o7.net
 visibility-stats.com
+vision.fn-pz.com
 visit.webhosting.yahoo.com
 visiteurs.xiti.com
 visitorinsight.silverpop.com
