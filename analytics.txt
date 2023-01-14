@@ -750,6 +750,7 @@ c.parkingcrew.net
 c.paypal.com
 c.prod.theintercept.com
 c.securepaths.com
+c.sf-syn.com
 c.spiegel.de
 c.statcounter.com
 c.t.dps-reach.com
@@ -935,6 +936,7 @@ cdn.triggertag.gorillanation.com
 cdn.trmit.com
 cdn.tt.omtrdc.net
 cdn.turn.com
+cdn.twinrdsrv.com
 cdn.unid.go.com
 cdn.uplift-platform.com
 cdn.uptrends.com
@@ -4198,6 +4200,7 @@ sync-tm.everesttech.net
 sync.1dmp.io
 sync.1rx.io
 sync.active-agent.com
+sync.bumlam.com
 sync.go.sonobi.com
 sync.liverail.com
 sync.mathtag.com
@@ -4407,6 +4410,7 @@ track.adfon.com
 track.adform.net
 track.adtraction.com
 track.appsflyer.com
+track.aso1.net
 track.asus.com
 track.attributionapp.com
 track.audtd.com

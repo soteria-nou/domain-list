@@ -150,6 +150,7 @@ a.mininova.org
 a.monetizedeals.com
 a.mypdacafe.com
 a.namitol.com
+a.naturalhealthsource.club
 a.networkworld.com
 a.nvidia.com
 a.nxnfi.com
@@ -230,6 +231,7 @@ ace-tag.advertising.com
 ace3.adoftheyear.com
 achcdn.com
 achiname.info
+acscdn.com
 action.metaffiliation.com
 action1.adit-media.com
 acxiom-online.com
@@ -862,6 +864,7 @@ ads.adultswim.com
 ads.adverline.com
 ads.adviva.net
 ads.adwitserver.com
+ads.adxadserv.com
 ads.adxpansion.com
 ads.adyea.com
 ads.affbuzzads.com
@@ -1919,6 +1922,7 @@ agle21xe2anfddirite.com
 agomwefq.com
 agraglie.net
 agreemand.com
+ahedrankslowl.com.ua
 ai.tapxchange.com
 air.adliners.de
 aj1907.online
@@ -1951,6 +1955,7 @@ amn.doubleclick.net
 ams-ads-cornerstone-creatives.s3.amazonaws.com
 ams1-ib.adnxs.com
 ams1.ib.adnxs.com
+amshirethfne.xyz
 an.facebook.com
 analytics.matchbin.com
 analytics.sanoma.fi
@@ -2029,6 +2034,7 @@ as1.advfn.com
 as2.autoforums.com
 ascraftan.com
 asd.qrrgv.space
+asdguswfys.com
 asg.phukienthoitranggiare.com
 ashcdn.com
 asia.ads.netlog.com
@@ -2383,6 +2389,7 @@ cdn.bannersnack.com
 cdn.barscreative1.com
 cdn.blatungo.com
 cdn.blueconic.net
+cdn.bncloudfl.com
 cdn.bonertraffic.pro
 cdn.bonertraffic14.pro
 cdn.braun634.com
@@ -2729,6 +2736,7 @@ d3pkrll6is44dx.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3rxqouo2bn71j.cloudfront.net
 d3sxcf6d4hxjd9.cloudfront.net
+d3t87ooo0697p8.cloudfront.net
 d3ujb2t8x8alxd.cloudfront.net
 d3v27wwd40f0xu.cloudfront.net
 d4a77d8bc81ae17.com
@@ -2994,6 +3002,7 @@ exerciselytet.club
 exityield.advertise.com
 exlusepolly.com
 expertnifg.com
+exploredefinitely.com
 extmap.rub.ace.advertising.com
 eyebrowscrambledlater.com
 eyereturn.com
@@ -3110,6 +3119,7 @@ go.deliverymodo.com
 go.eu.bbelements.com
 go.ezoic.net
 go.goaserv.com
+go.goasrv.com
 go.goldbachpoland.bbelements.com
 go.idmnet.bbelements.com
 go.koten.zone
@@ -3131,6 +3141,7 @@ go.trkbee.com
 go.verymuchad.com
 go.video.admulti.com
 go.xlirdr.com
+go.xlrdr.com
 go.xlviirdr.com
 go.youlamedia.com
 go1.aniview.com
@@ -3350,6 +3361,7 @@ j.adscale.de
 j4y01i3o.win
 j880iceh.party
 ja2n2u30a6rgyd.com
+jaavnacsdw.com
 jadserve.postrelease.com
 jainists.us
 jawconcealed.com
@@ -3496,6 +3508,7 @@ lrcm.amgdgt.com
 lrytaslt.adocean.pl
 lt.adocean.pl
 luckypushh.com
+lugsatadf.com
 luhtb.top
 lusthaus2.bannerdealer.com
 luxup.ru
@@ -3552,6 +3565,7 @@ media.admob.com
 media.adrcdn.com
 media.adrevolver.com
 media.adtrack1.pl
+media.aso1.net
 media.bmpas.cz
 media.go2speed.org
 media.gsimedia.net
@@ -3716,6 +3730,7 @@ nspmotion.com
 nt.smartclick.net
 nudespree.com
 nuevonoelmid.com
+nullsrefilliron.com
 nutattorneyjack.com
 nyacampwk.com
 nym1.adnxs.com
@@ -4024,6 +4039,7 @@ pianistrefutationgoose.com
 pic247realm.kompass.com
 pigpodruth.live
 piguiqproxy.com
+pijlpuofkgz.com
 pimmuter.com
 pinprickplums.com
 piop7shm.com
@@ -4175,6 +4191,7 @@ psma02.com
 psma03.com
 psoaghie.net
 pssvc.iqzone.com
+pt-static1.bimwmstat.com
 pt.potawe.com
 pt.protoawe.com
 ptaughar.com
@@ -4218,6 +4235,7 @@ q45nsj9d.accountant
 qj.borsendental.com
 qksz.net
 qnsr.com
+qoqv.com
 qrstes.com
 qtj.vornz.com
 queuecosm.bid
@@ -4261,6 +4279,7 @@ recycle.zoznam.sk
 redir.adap.com
 redir.adap.tv
 redirect.ero-advertising.com
+redirect.frontend.weborama.fr
 redonetype.com
 refbanners.website
 regioncolonel.com
@@ -4355,11 +4374,13 @@ rutrk.org
 rv.furaffinity.net
 rvnc72k.com
 rw9bj24c2j.s.ad6media.fr
+rxeosevsso.com
 rxrfb95v.cricket
 ryano.ru
 rydohimowa.info
 ryeeffortoccupy.com
 ryllae.com
+rysheatlengthani.com.ua
 s-jsonp.moatads.com
 s.206ads.com
 s.ad120m.com
@@ -4388,6 +4409,7 @@ s.ktxtr.com
 s.luxadv.com
 s.moatads.com
 s.nitropay.com
+s.orbsrv.com
 s.pubmine.com
 s.speednetwork4.com
 s.spolecznosci.net
@@ -4540,6 +4562,7 @@ sitewithg.com
 sixapart.adbureau.net
 sk.adocean.pl
 skeettools.com
+skiingsettling.com
 slejv.space
 slo-cdn.intextad.net
 slo-engine.intextad.net
@@ -4583,6 +4606,7 @@ spotxchange-a.akamaihd.net
 sproutstarbarnacle.com
 squite.club
 srv.adngin.com
+srv.aso1.net
 srv.bidvertiser.com
 srv.buysellads.com
 srv.carbonads.net
@@ -5573,4 +5597,5 @@ zrk.imgur.com
 zt.omervagant.com
 zukxd6fkxqn.com
 zulu.r867qq.net
+zwyfuxoh.com
 zz.connextra.com
