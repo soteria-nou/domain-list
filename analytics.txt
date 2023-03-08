@@ -407,6 +407,7 @@ angmar.112.2o7.net
 angpar.112.2o7.net
 angvac.112.2o7.net
 anna.whatsupcams.com
+anomalousmelt.com
 anon-stats.eff.org
 anontop.com
 anwhocam.xyz
@@ -3019,6 +3020,7 @@ optimize-stats.voxmedia.com
 optimize.webtrends.com
 optimized.by.tiller.co
 optimizedby.brealtime.com
+optimizely.couponfollow.com
 options.xiti.com
 optout.adalliance.io
 opus.analytics.yahoo.com
@@ -3434,6 +3436,7 @@ registercom.tt.omtrdc.net
 relap.io
 relestar.com
 rem-track.bild.de
+repayrotten.com
 report-ads-to.pubnation.com
 report-zt.allmusic.com
 report.23video.com
