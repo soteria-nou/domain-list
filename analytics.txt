@@ -619,6 +619,7 @@ badania.hit.gemius.pl
 badaniassl.hit.gemius.pl
 balancer.unified-tracking.com
 bam.nr-data.net
+bande2az.com
 bankrate.112.2o7.net
 banner.truehits.net
 baradoot.com
@@ -890,6 +891,7 @@ cdn.inspectlet.com
 cdn.interstateanalytics.com
 cdn.itphanpytor.club
 cdn.justuno.com
+cdn.kashtanka.in
 cdn.krxd.net
 cdn.lift.acquia.com
 cdn.listrakbi.com
@@ -2166,6 +2168,7 @@ hitsniffer.com
 hitwebcounter.com
 hk.2.cqcounter.com
 hoanoola.net
+hoaxbasesalad.com
 horizon.forbes.com
 horizon.mashable.com
 hosted-oswa.org
@@ -2314,6 +2317,7 @@ j23io4x6gy.kameleoon.eu
 jade01.webtrekk.net
 jadeitite.com
 japum.com
+jetordinarilysouvenirs.com
 jf.revolvermaps.com
 jhame.com
 jizvehd.misosoup.io
@@ -2717,6 +2721,7 @@ matomo.adguard.com
 matomo.freeones.com
 matomo.similarweb.io
 maxim.122.2o7.net
+mayhemsixtydeserves.com
 mboxedge26.tt.omtrdc.net
 mc.exacttarget.com
 mc.s4.exacttarget.com
@@ -3264,6 +3269,7 @@ pop-lva1.perf.linkedin.com
 pop-nsg7.perf.linkedin.com
 popcapcom.112.2o7.net
 popsci.com.122.2o7.net
+pornmet.com
 porsche01.wt-eu02.net
 postat01.webtrekk.net
 posthog-analytics.herokuapp.com
@@ -3779,6 +3785,7 @@ sevenventures01.wt-eu02.net
 sextracker.com
 seznam.hit.gemius.pl
 sfcglobalgateway.122.2o7.net
+sftelemetry.sophos.com
 sftv-ssl.wemfbox.ch
 shareaholic.com
 shaw.demdex.net
@@ -3952,6 +3959,7 @@ staging.trafex.net
 stags.bluekai.com
 stan.xing.com
 startstat.ru
+stas.outbrain.com
 stat.4u.pl
 stat.active24stats.nl
 stat.adlabs.ru
@@ -4870,6 +4878,7 @@ winnipeg.xiti.com
 winzip.122.2o7.net
 wirtschaftskammer01.webtrekk.net
 wirtvlg.oewabox.at
+witchcraftbarterexploded.com
 wix-worker.visitor-analytics.net
 wm.wiredminds.de
 wm2.wiredminds.de
