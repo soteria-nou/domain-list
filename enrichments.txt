@@ -2,6 +2,7 @@
 20min.rcmd.tda.io
 247wallstreet.us.intellitxt.com
 a.c0594.com
+a.delivery.consentmanager.net
 a.optmnstr.com
 activewin.us.intellitxt.com
 admin.paidtime.com
@@ -91,6 +92,7 @@ cdn.ampproject.org
 cdn.bitrix24.com
 cdn.callbackhunter.com
 cdn.consentmanager.mgr.consensu.org
+cdn.consentmanager.net
 cdn.contentsitesrv.com
 cdn.cookielaw.org
 cdn.dynamicyield.com
@@ -147,6 +149,7 @@ cookiebanner.unionstationapp.com
 cookieinfoscript.com
 cookies.kreatorij.si
 creative-services.ceros.com
+creative.xlivrdr.com
 creative.xxxjmp.com
 csharpcorner.us.intellitxt.com
 custompc.uk.intellitxt.com
@@ -241,6 +244,7 @@ head-fi.us.intellitxt.com
 helium.us.intellitxt.com
 hexus.uk.intellitxt.com
 hitsquad.us.intellitxt.com
+hl.upscore.com
 honestjohn.uk.intellitxt.com
 hongkiat.us.intellitxt.com
 hothardware.us.intellitxt.com

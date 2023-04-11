@@ -239,6 +239,7 @@ addfreestats.com
 addkt-d.openx.net
 adevents.neodatagroup.com
 adhit.hit.stat.pl
+adlc-exchange.toast.com
 adlt.hit.gemius.pl
 adm2.xiti.com
 adm3.xiti.com
@@ -262,6 +263,7 @@ ads.adxpose.com
 adsco.re
 adsec.iprom.net
 adserver.teracent.net
+adshrink.it
 adstage-tracker.herokuapp.com
 adstat.4u.pl
 adstax-match.adrtx.net
@@ -509,6 +511,7 @@ appapi.inspsearchapi.com
 appinfo.toptal.com
 appleglobal.112.2o7.net
 appload.ingest.crittercism.com
+apps-cdn.relevant-digital.com
 apps.bazaarvoice.com
 apps.developermedia.com
 apps.outfit7.com
@@ -544,6 +547,7 @@ at.2.cqcounter.com
 at.cbsi.com
 at245.infusionsoft.com
 atlanticmedia.122.2o7.net
+atm.acecounter.com
 atoc.112.2o7.net
 ats.bin.livenetlife.com
 ats.tumri.net
@@ -614,7 +618,9 @@ babycenter.112.2o7.net
 babycentercom.112.2o7.net
 backend.analights.com
 backend2.analights.com
+backstory.ebay.com
 backstory.ebay.de
+backstory.ebay.ie
 badania.hit.gemius.pl
 badaniassl.hit.gemius.pl
 balancer.unified-tracking.com
@@ -654,6 +660,7 @@ beacon.walmart.com
 beacon.wikia-services.com
 beacons.hottraffic.nl
 beagle.prod.tda.link
+beamedshipwreck.com
 beap.gemini.yahoo.com
 beat.wix.com
 beatchucknorris.com
@@ -806,6 +813,7 @@ callmd5map.com
 calls.topspotims.com
 canon.122.2o7.net
 canwestglobal.sc.omtrdc.net
+capi.connatix.com
 capinfoproreport.batiactu.com
 capture.condenastdigital.com
 care2.112.2o7.net
@@ -825,6 +833,7 @@ cc-collector.tech26.de
 cc.chango.com
 cc.zeit.de
 cc2.dealer.com
+cd.connatix.com
 cdc.112.2o7.net
 cdlc.iadvize.com
 cdn-0.d41.co
@@ -1283,6 +1292,7 @@ d.vvbox.cz
 d1.c2.b9.a1.top.mail.ru
 d10g4g69moszqp.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
+d10zmv6hrj5cx1.cloudfront.net
 d11bn9i8gmo4kr.cloudfront.net
 d11rmv9we9fli4.cloudfront.net
 d12ulf131zb0yj.cloudfront.net
@@ -1374,6 +1384,7 @@ d3t9nyds4ufoqz.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3ujids68p6xmq.cloudfront.net
 d3xl0zyjyljwa.cloudfront.net
+d415l8qlhk6u6.cloudfront.net
 d47xnnr8b1rki.cloudfront.net
 d5.c7.b0.a1.top.list.ru
 d5i9o0tpq9sa1.cloudfront.net
@@ -1460,6 +1471,9 @@ devfi.xiti.com
 devfi2.xiti.com
 devhbx.hitbox.com
 device.maxmind.com
+devicebind.ebay.com
+devicebind.ebay.de
+devicebind.ebay.ie
 devlogin.hitbox.com
 devnull.perfops.net
 dewsburg.info
@@ -1713,6 +1727,9 @@ ecsv2.roblox.com
 ectestlampsplus1.112.2o7.net
 edge.simplereach.com
 edge1.certona.net
+edgetrksvc.ebay.com
+edgetrksvc.ebay.de
+edgetrksvc.ebay.ie
 edidomus01.webtrekk.net
 edigitalsurvey.com
 educing.info
@@ -2006,6 +2023,7 @@ geoip.luckyorange.net
 geoloc1.geostats.ovh
 georgewbush.112.2o7.net
 geoservice.curse.com
+germinateensue.com
 gesichtp.ivwbox.de
 geslo.iprom.si
 gestion.xiti.com
@@ -2320,6 +2338,7 @@ japum.com
 jetordinarilysouvenirs.com
 jf.revolvermaps.com
 jhame.com
+jivfuwolxh.com
 jizvehd.misosoup.io
 johnlewis.112.2o7.net
 joker.iprom.net
@@ -3005,6 +3024,7 @@ omniturecom.112.2O7.net
 oms.symantec.com
 onclickgenius.com
 onclickmega.com
+onclickperformance.com
 one.123counters.com
 one.statsit.com
 oneadlt.hit.gemius.pl
@@ -3426,6 +3446,7 @@ rdrctgoweb.com
 rdvrxbxwxspxd.com
 reach-id.orbit.tm-awx.com
 realtime.deximedia.com
+reasoningarcherassuage.com
 rec.getsmartlook.com
 receiver.analytics.vadio.com
 recommendation.24.com
@@ -3443,6 +3464,8 @@ relap.io
 relestar.com
 rem-track.bild.de
 repayrotten.com
+replacementreluctance.com
+replacestuntissue.com
 report-ads-to.pubnation.com
 report-zt.allmusic.com
 report.23video.com
@@ -3465,6 +3488,7 @@ retcode.taobao.com
 return.uk.uniregistry.com
 reuters-d.openx.net
 rev-js-source.revdn.net
+revolvemockerycopper.com
 rf.revolvermaps.com
 rhpury.105app.com
 ri.revolvermaps.com
@@ -3528,6 +3552,7 @@ rum.perfops.net
 rum01.revsw.net
 rumds.wpdigital.net
 runmibom.g02.ign.com
+russellseemslept.com
 rwt.reichelt.de
 s.66.ru
 s.acexedge.com
@@ -3877,6 +3902,7 @@ sonygs.112.2o7.net
 sonymediasoftware.112.2o7.net
 sonypanasia.112.2o7.net
 soosooka.com
+sootconform.com
 soundandvisionmag.com.122.2o7.net
 source.mmi.bemobile.ua
 sp.analytics.yahoo.com
@@ -4780,6 +4806,7 @@ vixnixxer.com
 vlog.leadformix.com
 vnumedia01.webtrekk.net
 volkswagencouk.agillic.eu
+voyageschoolanymore.com
 vra.outbrain.com
 vs.dmtracker.com
 vstats.digitaltrends.com
