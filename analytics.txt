@@ -532,6 +532,7 @@ as.casalemedia.com
 as.ebz.io
 as.eu.angsrvr.com
 as.gostats.com
+asacdn.com
 asoscomltd.tt.omtrdc.net
 aspen.turner.com
 assets.adstage.io
@@ -1312,6 +1313,7 @@ d1f05vr3sjsuy7.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1grtyyel8f1mh.cloudfront.net
 d1ivexoxmp59q7.cloudfront.net
+d1kzm6rtbvkdln.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
 d1lm7kd3bd3yo9.cloudfront.net
 d1mgcpums0qvsa.cloudfront.net
@@ -1488,6 +1490,7 @@ directtrk.com
 dirnt.net
 diromalxx.com
 dis.criteo.com
+disadvantagenaturalistrole.com
 dischannel.112.2o7.net
 disneyinternational.112.2o7.net
 dispatcher.oewabox.at
@@ -1824,6 +1827,7 @@ employee.hitbox.com
 enfs1-ext.hitbox.com
 engine.multiview.com
 engine.newsmaxfeednetwork.com
+enlightencentury.com
 ent-lb.hitbox.com
 ent-lb01.hitbox.com
 ent-lb02.hitbox.com
@@ -2726,6 +2730,7 @@ majorgeeks-d.openx.net
 make-it-tracking.iwmedien.de
 mallgroup-api.exponea.com
 manning.postaffiliatepro.com
+mansfieldeffects.com
 mapstats.blogflux.com
 marketing.dropbox.com
 marketing.ecreativeworks.com
@@ -3022,6 +3027,7 @@ omniture.112.2o7.net
 omniture.mirror.co.uk
 omniturecom.112.2O7.net
 oms.symantec.com
+onclickalgo.com
 onclickgenius.com
 onclickmega.com
 onclickperformance.com
@@ -4689,6 +4695,7 @@ uim.tifbs.net
 uip.semasio.net
 uk.112.2o7.net
 uk.sitestat.com
+ukmlastityty.info
 ulbackground.com
 ulogs.umengcloud.com
 ulukaris.com
