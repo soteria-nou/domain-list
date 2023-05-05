@@ -405,6 +405,7 @@ analytics.vyrl.co
 analytics.yahoo.com
 analytics.yola.net
 analyze.uniquepeek.com
+anbszohtaox.com
 angmar.112.2o7.net
 angpar.112.2o7.net
 angvac.112.2o7.net
@@ -475,6 +476,7 @@ api.permutive.com
 api.petametrics.com
 api.raygun.io
 api.retargetly.com
+api.revopush.com
 api.rollbar.com
 api.share.baidu.com
 api.spoldzielnia.nsaudience.pl
@@ -544,12 +546,14 @@ assets.vidora.com
 associatedcontent.112.2o7.net
 assoicatedcontent.112.2o7.net
 asumi.shinobi.jp
+aswpsdkus.com
 at.2.cqcounter.com
 at.cbsi.com
 at245.infusionsoft.com
 atlanticmedia.122.2o7.net
 atm.acecounter.com
 atoc.112.2o7.net
+ats-wrapper.privacymanager.io
 ats.bin.livenetlife.com
 ats.tumri.net
 atsfi.de
@@ -557,6 +561,7 @@ atticwicket.com
 audev.zeit.de
 audiag.112.2o7.net
 audiblecom.112.2o7.net
+audit-tcfv2.cmp.quantcast.com
 audit.median.hu
 aufeminin.demdex.net
 auguste.xiti.com
@@ -1044,6 +1049,7 @@ click.jasmin.com
 click.lenovo.com
 click.livejasmin.com
 click.startappservice.com
+click.topbrandsearch.com
 clickanalyzer.jp
 clickcdn.shareaholic.com
 clickcdn.xda-developers.com
@@ -1075,6 +1081,7 @@ cmap.alibaba.com
 cmdts.ksmobile.com
 cmp.112.2o7.net
 cmp.mediavine.com
+cmp.quantcast.com
 cmpglobalvista.112.2o7.net
 cms.analytics.yahoo.com
 cn01.dwstat.cn
@@ -1198,6 +1205,7 @@ counter14.sextracker.com
 counter15.sextracker.com
 counter16.sextracker.com
 counter2.blog.livedoor.com
+counter2.optistats.ovh
 counter2.sextracker.com
 counter3.sextracker.com
 counter4.pushauction.com
@@ -1229,6 +1237,7 @@ critictruck.com
 crm-metrix.com
 crm.zoho.com
 cross-sell.inkfrog.com
+crta.dailymail.co.uk
 crtracklink.com
 cruftexcision.xyz
 cruisecritic.d1.sc.omtrdc.net
@@ -1919,6 +1928,8 @@ fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 feedbackws.icloud.com
 feeds.ibt.com
 felix.data.tm-awx.com
+feliz-web.data.tm-awx.com
+feliz.data.tm-awx.com
 fh-main.measure.agilemeasure.com
 fhr.cdn.mozilla.net
 fifa.d2.sc.omtrdc.net
@@ -2127,6 +2138,7 @@ gwa.reedbusiness.net
 gwiqcdn.globalwebindex.net
 h.imedia.cz
 h.nexac.com
+h.seznam.cz
 h.wikia-beacon.com
 h30-deploy.hiconversion.com
 hades.srvtrck.com
@@ -2227,6 +2239,7 @@ i.n.jwpltx.com
 i.plug.it
 i.simpli.fi
 i.ubm-us.net
+i.viafoura.co
 i.w55c.net
 ia.idnes.cz
 ib.3lift.com
@@ -2238,6 +2251,7 @@ icagency.xiti.com
 ice.112.2o7.net
 icon2count.com
 icotrack.net
+id.crwdcntrl.net
 idealo01.webtrekk.net
 ideoclick.com
 idg.hit.gemius.pl
@@ -2852,6 +2866,7 @@ mobotix01.webtrekk.net
 mojeigre.iprom.net
 mojsms.net
 moksoxos.com
+monarchracistsparkle.com
 mondelez.d3.sc.omtrdc.net
 mongo-good-server.ext.nile.works
 monitoring.youronlinechoices.com
@@ -2940,6 +2955,8 @@ netscope.data.marktest.pt
 network.bazaarvoice.com
 new.statistici.ro
 newjobs.d1.sc.omtrdc.net
+newrtbbid.com
+news-muheji.com
 news-uk-d.openx.net
 newsharecounts.s3-us-west-2.amazonaws.com
 newsnetw.oewabox.at
@@ -3034,6 +3051,7 @@ onclickperformance.com
 one.123counters.com
 one.statsit.com
 oneadlt.hit.gemius.pl
+onegar.seznam.cz
 onet.hit.gemius.pl
 onet1.hit.gemius.pl
 onet3.hit.gemius.pl
@@ -3112,6 +3130,7 @@ p.vibrant.co
 p1.dntrck.com
 p13nlog.dz.optimizely.com
 p1cluster.cxense.com
+p2.fwpixel.com
 p2015.olx.ba
 pa.7w.ro
 pa.rxthdr.com
@@ -3343,6 +3362,7 @@ ps14.pubnub.com
 pstats.seranking.com
 psyng.com
 pt.fiksu.com
+pt.pctlwm.com
 pt.ptawe.com
 pt.trafficjunky.net
 pt.wmptctl.com
@@ -3484,6 +3504,8 @@ res.mmstat.com
 reserved-jojo1a.hitbox.com
 reserved-jojo2a.hitbox.com
 reserved-jojo4a.hitbox.com
+resetenhancementsillegal.com
+resignedsauna.com
 resources.fairfax.com.au
 responder.wt-safetag.com
 retailmenot-d.openx.net
@@ -3494,6 +3516,7 @@ retcode.taobao.com
 return.uk.uniregistry.com
 reuters-d.openx.net
 rev-js-source.revdn.net
+rev.owltrack.com
 revolvemockerycopper.com
 rf.revolvermaps.com
 rhpury.105app.com
@@ -3503,6 +3526,7 @@ ridingintractable.com
 rightstats.com
 ringieradrs.hit.gemius.pl
 ritogaga.com
+rm-script.dotmetrics.net
 rma-api.gravity.com
 rmgctracking.com
 rmgparcelforcecom.112.2o7.net
@@ -3724,6 +3748,7 @@ scontent.lrcdn.net
 scout.forkcdn.com
 scout.scoutanalytics.net
 scrippshgtv.112.2o7.net
+script-at.iocnt.net
 script-rumlive.rum.nccgroup-webperf.com
 script.crazyegg.com
 script.dotmetrics.net
@@ -3743,6 +3768,7 @@ scripts.sophus3.com
 scripts.tracdelight.com
 scz.hit.gemius.pl
 sdk-b.apptornado.com
+sdk.mpianalytics.com
 sdk.vyrl.co
 sdkm.w.inmobi.com
 se.112.2o7.net
@@ -4205,6 +4231,7 @@ std.o.webmd.com
 std1.hit.gemius.pl
 steadfastsystem.com
 stepstone.d1.sc.omtrdc.net
+stickerchapelsailing.com
 storemetrics.pixelbits.io
 stormyachiever.com
 strato.ivwbox.de
@@ -4693,6 +4720,7 @@ uid.mavencoalition.io
 uidbox.uimserv.net
 uim.tifbs.net
 uip.semasio.net
+uk-script.dotmetrics.net
 uk.112.2o7.net
 uk.sitestat.com
 ukmlastityty.info
@@ -4804,6 +4832,7 @@ vinivividivx.112.2o7.net
 vip06-assets.insnw.net
 viralnova.sc.omtrdc.net
 virginmedia.112.2o7.net
+visariomedia.com
 visibility-stats.com
 vision.fn-pz.com
 visit.webhosting.yahoo.com
@@ -4817,6 +4846,7 @@ voyageschoolanymore.com
 vra.outbrain.com
 vs.dmtracker.com
 vstats.digitaltrends.com
+vstvstsa.com
 vt.myvisualiq.net
 vuelingnewsletter.112.2o7.net
 vuukle.com
