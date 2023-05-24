@@ -479,6 +479,7 @@ api.retargetly.com
 api.revopush.com
 api.rollbar.com
 api.share.baidu.com
+api.smartocto.com
 api.spoldzielnia.nsaudience.pl
 api.stathat.com
 api.taps.io
@@ -1168,6 +1169,7 @@ conversion-pixel.invitemedia.com
 convertglobal.s3.amazonaws.com
 cookie.brealtime.com
 coolyeti.info
+core.iprom.net
 corpoftp.xiti.com
 count-server.sharethis.com
 count.carrierzone.com
@@ -1875,6 +1877,7 @@ events-collector.spot.im
 events.appsflyer.com
 events.deskapi.com
 events.launchdarkly.com
+events.newsroom.bi
 events.ocdn.eu
 events.redditmedia.com
 eventtracking-log.ustream.tv
@@ -2301,6 +2304,7 @@ infospacellc.112.2o7.net
 infoworldmediagroup.112.2o7.net
 ingdirectitalprod.112.2o7.net
 ingest.onion.com
+ingestion.smartocto.com
 init.cedexis-radar.net
 inpref.com
 ins.techweb.com
@@ -2757,6 +2761,7 @@ mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
 matomo.freeones.com
+matomo.rtvslo.si
 matomo.similarweb.io
 maxim.122.2o7.net
 mayhemsixtydeserves.com
@@ -3294,6 +3299,7 @@ platform-metrics-api.sharethis.com
 platform.bidgear.com
 plausible.io
 play.feesocrald.com
+player-telemetry.vimeo.com
 pls.webtype.com
 plugin.reactful.com
 plus.addkt.com
@@ -3426,6 +3432,7 @@ r.casalemedia.com
 r.holder.com.ua
 r.i.ua
 r.leadzu.com
+r.ltrck.com.br
 r.mradx.net
 r.nexeps.com
 r.openx.net
@@ -4344,6 +4351,7 @@ tag.digitaltarget.ru
 tag.email-attitude.com
 tag.idsync.analytics.yahoo.com
 tag.imonomy.com
+tag.ltrck.com.br
 tag.marinsm.com
 tag.mtrcs.samba.tv
 tag.navdmp.
@@ -4395,6 +4403,7 @@ telenorstartsiden.112.2o7.net
 telstra.demdex.net
 telstracorporationlt.tt.omtrdc.net
 tempox.inc.com
+tentacles.smartocto.com
 teraxhif.com
 terra.112.2o7.net
 test.xiti.com
@@ -4403,6 +4412,7 @@ testbristol.xiti.com
 testclo.xiti.com
 testdav.xiti.com
 testdav2.xiti.com
+testingmetriksbre.ru
 testlb.xiti.com
 testlb3.xiti.com
 testmax.xiti.com
@@ -4529,6 +4539,7 @@ track.vivid.com
 track.w3counter.com
 track.wattpad.com
 track.webtrekk.de
+track.wg-aff.com
 track.www.zazzle.com
 track.x10.com
 track.yieldsoftware.com

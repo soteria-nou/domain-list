@@ -179,6 +179,7 @@ ehow.us.intellitxt.com
 endian.agilecrm.com
 englishforum.ch.intellitxt.com
 entertainment.msnbc.us.intellitxt.com
+entitlements.jwplayer.com
 es.intellitxt.com
 esi.gscontxt.net
 ethn.io
@@ -534,6 +535,7 @@ view.ceros.com
 vnu.uk.intellitxt.com
 vnunet.uk.intellitxt.com
 vtrhardware.fr.intellitxt.com
+wall.xmlx.lol
 web-sdk.urbanairship.com
 webhostingtalk.us.intellitxt.com
 wi-fiplanet.us.intellitxt.com
