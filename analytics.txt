@@ -190,6 +190,7 @@ a.sankakucomplex.com
 a.surefire.link
 a.targetserving.com
 a.ucoz.net
+a.vfghd.com
 a.wishabi.com
 a.yallboen.com
 a0ef2haqr0-1.algolia.io
@@ -438,6 +439,7 @@ ape-tagit.timeinc.net
 apex.go.sonobi.com
 api-http-lb.vadio.com
 api-js.datadome.co
+api-prod.secureprivacy.ai
 api-v3.tinypass.com
 api.adrtx.net
 api.adsymptotic.com
@@ -2039,6 +2041,7 @@ geobeacon.ign.com
 geoip.adtaily.pl
 geoip.luckyorange.net
 geoloc1.geostats.ovh
+geolocation.forbes.com
 georgewbush.112.2o7.net
 geoservice.curse.com
 germinateensue.com
@@ -3160,6 +3163,7 @@ pcworldcommunication.122.2o7.net
 pcworldcommunication.d2.sc.omtrdc.net
 pde.lp4.io
 pdf.xiti.com
+peachywaspish.com
 pebed.dm-event.net
 pebed.dm.gg
 pentonmedia.122.2o7.net
@@ -3413,6 +3417,7 @@ pxlssl.ibpxl.com
 py248.infusionsoft.app
 pylon.iheart.com
 pylon.pro6e.com
+pythia-json.live.external.monitoring.sumup.net
 q.stripe.com
 qa.rlcdn.com
 qi.ckm.onetapi.pl
@@ -4248,6 +4253,7 @@ studentski.iprom.net
 stumbleupon.112.2o7.net
 subaruofamerica.112.2o7.net
 subs.vingd.com
+suctionautomobile.com
 sumome.com
 suncom.112.2o7.net
 sunglobal.112.2o7.net

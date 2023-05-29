@@ -2004,6 +2004,7 @@ api.content-ad.net
 api.elipso.hr
 api.ero-advertising.com
 api.hatscher.eu
+api.kekw.website
 api.ooyala.com
 api.pcgh.io
 api.reon.club
@@ -3227,6 +3228,7 @@ hbx.media.net
 hcg82f2b.com
 hcokcetfyanm.com
 heise.nuggad.net
+helaid.com
 helix.beanstock.co
 hellosociety.com
 hfllrf6lwh.com
@@ -4064,7 +4066,9 @@ pages.etology.com
 paht.tech
 paibopse.com
 pakbanners.com
+panel.bulletads.org
 panel100.com
+parableconverted.com
 parkingridiculous.com
 parserord.info
 parserworld.info
@@ -4105,6 +4109,7 @@ phox2ey.bid
 phpadsnew.abac.com
 pianistrefutationgoose.com
 pic247realm.kompass.com
+picath.com
 pigpodruth.live
 piguiqproxy.com
 pijlpuofkgz.com
@@ -4557,6 +4562,7 @@ scripts.kiosked.com
 scripts.mediavine.com
 scripts.webcontentassessor.com
 sdk.appadhoc.com
+sdk.sharethrough.com
 sdk.streamrail.com
 sdk.vindicosuite.com
 sdsttt.com
@@ -5111,6 +5117,7 @@ wbasi.izmenjava.com
 wbkaidsc.webcam
 wct.click
 wcuamsmakq.com
+weaponsnondescriptperceive.com
 web-oao.ssp.yahoo.com
 web.btncdn.com
 web.qtymi.com
@@ -5214,6 +5221,7 @@ www.adzclick.net
 www.aehjtauekqjtvc.com
 www.aezhvlybcijv.com
 www.affiliatly.com
+www.afgtrwd1.com
 www.afvcugqaulh.co
 www.agpiysffnuld.com
 www.ahnioppshfwq.com
@@ -5483,6 +5491,7 @@ www.rmcxyfqbm.com
 www.rqbxfbls.com
 www.rrrsnxzkhbwwrs.com
 www.rzqctiudsvb.com
+www.scfsdvc.com
 www.sdad.guru
 www.sehiba.com
 www.serveads.com
@@ -5628,6 +5637,7 @@ x19network.com
 x9.shinobi.jp
 xads.zedo.com
 xapi.juicyads.com
+xapzihodca.com
 xbfk51p7.review
 xcelsiusadserver.com
 xch.directrev.com

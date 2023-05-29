@@ -52,6 +52,7 @@ app.getsentry.com
 app.interactiveads.ai
 app.mailerlite.com
 app.optinarchitect.com
+app.secureprivacy.ai
 app.truepush.com
 apps.nexus.bazaarvoice.com
 askmen.us.intellitxt.com
