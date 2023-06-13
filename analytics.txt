@@ -337,6 +337,7 @@ analytics.brandcrumb.com
 analytics.brid.tv
 analytics.brightedge.com
 analytics.businessinsider.com
+analytics.cdn.live
 analytics.churnzero.net
 analytics.clickdimensions.com
 analytics.cliqz.com
@@ -356,6 +357,7 @@ analytics.gameforge.de
 analytics.gandi.net
 analytics.general-changelog-team.fr
 analytics.global.sky.com
+analytics.gtflixtv.com
 analytics.hosting24.com
 analytics.ladmedia.fr
 analytics.leadlifesolutions.net
@@ -453,6 +455,7 @@ api.behavioralengine.com
 api.bounceexchange.com
 api.btloader.com
 api.calq.io
+api.cdnmetric.com
 api.choicestream.com
 api.conductrics.com
 api.cxense.com
@@ -494,6 +497,7 @@ api.viafoura.co
 api.wipmania.com
 api.worldgravity.com
 api.xiti.com
+api2.amplitude.com
 apicit.net
 apiv2.xiti.com
 app-ab14.marketo.com
@@ -2284,6 +2288,7 @@ img05.webtrekk.net
 imode.xiti.com
 imp.startappservice.com
 impact.applifier.com
+impactserving.com
 impactslam.com
 impression.clickinc.com
 improving.duckduckgo.com
@@ -2764,6 +2769,7 @@ mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
 matomo.freeones.com
+matomo.performax.cz
 matomo.rtvslo.si
 matomo.similarweb.io
 maxim.122.2o7.net
@@ -3949,6 +3955,7 @@ soosooka.com
 sootconform.com
 soundandvisionmag.com.122.2o7.net
 source.mmi.bemobile.ua
+souvenirsconsist.com
 sp.analytics.yahoo.com
 sp.deadline.com
 sp1.convertro.com
@@ -4046,6 +4053,7 @@ stat.egloos.com
 stat.gmonitor.aliimg.com
 stat.inkfrog.com
 stat.komoona.com
+stat.kununu.cz
 stat.made-in-china.com
 stat.media
 stat.mylivepage.com
@@ -4405,6 +4413,7 @@ telegraph.sdk.beemray.com
 telemetry.api.wmcdp.io
 telemetry.jivosite.com
 telemetry.tradingview.com
+telemetry.transcend.io
 telenorstartsiden.112.2o7.net
 telstra.demdex.net
 telstracorporationlt.tt.omtrdc.net
@@ -4797,6 +4806,7 @@ v6.xiti.com
 v60.xiti.com
 v6p.xiti.com
 v7.beemray.com
+v7.cnzz.com
 v72dev.xiti.com
 v75.xiti.com
 v75dev.xiti.com

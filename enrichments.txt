@@ -129,6 +129,7 @@ citizen-times.us.intellitxt.com
 clientcdn.pushengage.com
 cmp-loader.choice.faktor.io
 cmp.dmgmediaprivacy.co.uk
+cmp.osano.com
 code.intext.billboard.cz
 code.jivosite.com
 code.murdoog.com
@@ -408,6 +409,7 @@ responder.wt.heise.de
 ripp-it.fr.intellitxt.com
 rojakpot.us.intellitxt.com
 rootclick.biz
+s-eu-1.pushpushgo.com
 s.ivillage.us.intellitxt.com
 s.ppjol.net
 s.surveyplanet.com
