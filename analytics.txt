@@ -636,6 +636,7 @@ backstory.ebay.de
 backstory.ebay.ie
 badania.hit.gemius.pl
 badaniassl.hit.gemius.pl
+badgerstat.com
 balancer.unified-tracking.com
 bam.nr-data.net
 bande2az.com
@@ -912,6 +913,7 @@ cdn.insights.gravity.com
 cdn.inspectlet.com
 cdn.interstateanalytics.com
 cdn.itphanpytor.club
+cdn.itsup.com
 cdn.justuno.com
 cdn.kashtanka.in
 cdn.krxd.net
@@ -2783,6 +2785,7 @@ mc.webvisor.org
 mcc-tags.cisco.com
 mcclatchy.demdex.net
 mcclatchy.sc.omtrdc.net
+mcdote.com
 mdlbs.motor-talk.de
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
@@ -3315,6 +3318,7 @@ plugin.reactful.com
 plus.addkt.com
 pm.w55c.net
 pmc-d.openx.net
+pmc1201.com
 pmcsierra.d1.sc.omtrdc.net
 pmpubs.com
 pnapi0.invoca.net
@@ -5201,6 +5205,7 @@ z.analytics.yahoo.com
 z2d7c5q4.map2.ssl.hwcdn.net
 za-cdn.effectivemeasure.net
 za-ssl.effectivemeasure.net
+zanalytics.vip
 zealotnetworks-d.openx.net
 zeegreen.net
 zeemapsmetrics.s3.amazonaws.com
