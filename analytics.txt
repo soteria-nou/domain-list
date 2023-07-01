@@ -2634,6 +2634,7 @@ logp8.xiti.com
 logp9.xiti.com
 logq3.xiti.com
 logs-01.loggly.com
+logs.browser-intake-datadoghq.com
 logs.comics.com
 logs.eresmas.com
 logs.eresmas.net
@@ -3381,6 +3382,7 @@ ps.eyeota.net
 ps14.pubnub.com
 pstats.seranking.com
 psyng.com
+pt.cdctwm.com
 pt.fiksu.com
 pt.pctlwm.com
 pt.ptawe.com
@@ -3599,6 +3601,7 @@ rtc.dymatrix.cloud
 rtd.tubemogul.com
 rtst.122.2o7.net
 ru-gmtdmp.mookie1.com
+rum.browser-intake-datadoghq.com
 rum.conde.io
 rum.perfops.net
 rum01.revsw.net
@@ -4313,6 +4316,7 @@ t.cinemablend.com
 t.conative.de
 t.contentsquare.net
 t.cqq5id8n.com
+t.cuhite.xyz
 t.dailymail.co.uk
 t.dtscout.com
 t.flux.com
@@ -4789,6 +4793,7 @@ usageanalytics.coveo.com
 usasync01.admantx.com
 usatoday1.112.2o7.net
 uscollector.tealeaf.ibmcloud.com
+use1.fptls.com
 ustatik.com
 ut.performax.cz
 utd.stratigent.com
