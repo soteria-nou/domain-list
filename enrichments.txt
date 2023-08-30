@@ -44,6 +44,7 @@ api.pulpix.com
 api.scribblelive.com
 api.survicate.com
 api.vanilla.futurecdn.net
+app-sj05.marketo.com
 app.consentassist.com
 app.convertfox.com
 app.convertkit.com

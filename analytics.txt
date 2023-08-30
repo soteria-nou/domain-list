@@ -269,6 +269,7 @@ adstage-tracker.herokuapp.com
 adstat.4u.pl
 adstax-match.adrtx.net
 adstracking.doodle.com
+adtrace.online
 adtrack.voicestar.com
 adups.cn
 advancedtracker.appspot.com
@@ -984,6 +985,7 @@ cdn2.lockerdomecdn.com
 cdn2.pollster.pl
 cdn3.optimizely.com
 cdn4.forter.com
+cdn4.userzoom.com
 cdn51.vizury.com
 cdns.au1.gigya.com
 cdns.brsrvr.com
@@ -1511,6 +1513,7 @@ diromalxx.com
 dis.criteo.com
 disadvantagenaturalistrole.com
 dischannel.112.2o7.net
+dismountroute.com
 disneyinternational.112.2o7.net
 dispatcher.oewabox.at
 display.ugc.bazaarvoice.com
@@ -2316,6 +2319,7 @@ ingdirectitalprod.112.2o7.net
 ingest.onion.com
 ingestion.smartocto.com
 init.cedexis-radar.net
+inpp-ssp-trk.nxtpsh.com
 inpref.com
 ins.techweb.com
 insight.torbit.com
@@ -2336,6 +2340,7 @@ internettraffic.click
 interyield.td563.com
 interyield.td573.com
 intljs.rmtag.com
+iodineshine.com
 ipcmedia.122.2o7.net
 ipctrustedreviewsprod.122.2o7.net
 iplogger.com
@@ -2775,6 +2780,7 @@ matomo.freeones.com
 matomo.performax.cz
 matomo.rtvslo.si
 matomo.similarweb.io
+matomo.yppcdn.com
 maxim.122.2o7.net
 mayhemsixtydeserves.com
 mboxedge26.tt.omtrdc.net
@@ -2809,6 +2815,7 @@ mediaoaktree.com
 mediasetitalia01.wt-eu02.net
 medicaldevicelink.112.2o7.net
 medrx.telstra.com.au
+membershipimmunitysport.com
 mentorgraphics.122.2o7.net
 mercedesamg.d3.sc.omtrdc.net
 mercedezbenzusallc.tt.omtrdc.net
@@ -3627,6 +3634,7 @@ s.jsrdn.com
 s.jwpltx.com
 s.komoona.com
 s.logsss.com
+s.magsrv.com
 s.mnet-ad.net
 s.mousetrace.com
 s.nexeps.com
@@ -5010,6 +5018,7 @@ wweconsumer.112.2o7.net
 wwf.122.2o7.net
 www-google-analytics.l.google.com
 www.112.2o7.net
+www.a2y8vytrk.com
 www.acestats.com
 www.addfreestats.com
 www.adobetag.com
