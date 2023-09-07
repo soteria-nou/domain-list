@@ -43,6 +43,7 @@ api.parsely.com
 api.pulpix.com
 api.scribblelive.com
 api.survicate.com
+api.userway.org
 api.vanilla.futurecdn.net
 app-sj05.marketo.com
 app.consentassist.com
@@ -89,6 +90,7 @@ cackle.me
 cashewsforlife208.com
 cc.cdn.civiccomputing.com
 ccpa.sp-prod.net
+cdn-cookieyes.com
 cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
@@ -198,6 +200,7 @@ express.uk.intellitxt.com
 extremeoverclocking.us.intellitxt.com
 extremetech.us.intellitxt.com
 faqts.us.intellitxt.com
+fastcomments.com
 filedudes.us.intellitxt.com
 filmhobbit.us.intellitxt.com
 fixya.us.intellitxt.com
@@ -300,6 +303,7 @@ lightning.cnn.com
 linkee.xyz
 linker-network.com
 linker.hr
+linkprotect.cudasvc.com
 linuxdevcenter.us.intellitxt.com
 linuxforums.us.intellitxt.com
 livenationlabs-tools.s3.amazonaws.com

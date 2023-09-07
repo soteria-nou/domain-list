@@ -343,6 +343,7 @@ analytics.churnzero.net
 analytics.clickdimensions.com
 analytics.cliqz.com
 analytics.coderouge.co
+analytics.codigo.se
 analytics.conmio.com
 analytics.contentexchange.me
 analytics.convertlanguage.com
@@ -1237,6 +1238,7 @@ cpx.golem.de
 cpx.smind.hr
 cpx.smind.si
 cpxl.golem.de
+cr_stats.upscore.com
 cr.acecounter.com
 cr3wc89sw3.global.ssl.fastly.net
 crain.d1.sc.omtrdc.net
@@ -1500,6 +1502,7 @@ devicebind.ebay.ie
 devlogin.hitbox.com
 devnull.perfops.net
 dewsburg.info
+dg.incomaker.com
 dhbx.hitbox.com
 diffuser-cdn.app-us1.com
 dig.ultimedia.com
@@ -1588,6 +1591,7 @@ dutrus.com
 dviixeyykyqjv.cloudfront.net
 dvnafl0qtqz9k.cloudfront.net
 dwl.hitbox.com
+dwt.soundcloud.com
 dyn-beacon.akamaized.net
 dyn.emetriq.de
 dynatrace.digikey.com
@@ -1747,6 +1751,7 @@ ecf.d41.co
 echildren.buzz
 ecn.dev.virtualearth.net
 ecomm.events
+econtinuedidg.com
 ecruos.golem.de
 ecsv2.roblox.com
 ectestlampsplus1.112.2o7.net
@@ -1952,6 +1957,7 @@ files.upscore.com
 finance.iprom.net
 financesi.iprom.net
 finaonl.ivwbox.de
+fitssheashasvs.info
 fl.reg.163.com
 flake.formr.io
 fleraprt.com
@@ -2165,6 +2171,7 @@ harborfreight.tt.omtrdc.net
 hardluxx.ivwbox.de
 hb-endpoint-elb-307841411.adomik.com
 hb.adomik.com
+hb.adscale.de
 hb.emxdgt.com
 hb.springserve.com
 hbopenbid.pubmatic.com
@@ -2212,6 +2219,7 @@ hits-secure.theguardian.com
 hits.convergetrack.com
 hits.e.cl
 hits.informer.com
+hits.tf.rs
 hits.theguardian.com
 hitsniffer.com
 hitwebcounter.com
@@ -2733,6 +2741,7 @@ lucent.122.2o7.net
 luvaihoo.com
 lydianprivate.112.2o7.net
 m-shes.ru
+m.1gr.cz
 m.addthisedge.com
 m.optout.ziffdavis.com
 m.trb.com
@@ -3802,6 +3811,7 @@ scripts.tracdelight.com
 scz.hit.gemius.pl
 sdk-b.apptornado.com
 sdk.mpianalytics.com
+sdk.mrf.io
 sdk.vyrl.co
 sdkm.w.inmobi.com
 se.112.2o7.net
@@ -4692,6 +4702,7 @@ traffic.liveuniversenetwork.com
 traffic.livevideo.com
 traffic.outbrain.com
 traffic.styria.hr
+trafficgateway.research-int.se
 trajan.httpool.com
 trandsey.info
 trc.pushnami.com
@@ -4731,6 +4742,7 @@ tt1.openload.co
 tt2.openload.co
 ttauri.techradar.com
 ttauri.tomshardware.com
+tubbeckfresher.life
 tumblrreports.cedexis.com
 tunein-d.openx.net
 turbo.qualaroo.com
@@ -4740,6 +4752,7 @@ tvguide.112.2o7.net
 tvn.hit.gemius.pl
 tvpgapl.hit.gemius.pl
 twc.demdex.net
+twinrdsyte.com
 twittercounter.com
 ty0lm9uz.onet.pl
 tz.ts.vindicosuite.com
@@ -4981,6 +4994,7 @@ wileycom.112.2o7.net
 wileyeucom.112.2o7.net
 wileypublishing.112.2o7.net
 wilifilm.ivwbox.de
+win-rtb2-eu.afkwa.com
 windowslive.tt.omtrdc.net
 winnipeg.xiti.com
 winzip.122.2o7.net
