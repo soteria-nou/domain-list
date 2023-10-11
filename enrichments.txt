@@ -162,6 +162,7 @@ d.delivery.consentmanager.net
 d.la1-c1-dfw.salesforceliveagent.com
 d.txtsrving.info
 d1f8f9xcsvx3ha.cloudfront.net
+d1hcrjcdtouu7e.cloudfront.net
 d1uo4w7k31k5mn.cloudfront.net
 d2zv5rkii46miq.cloudfront.net
 dac.jp.intellitxt.com

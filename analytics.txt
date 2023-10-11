@@ -158,6 +158,7 @@
 8331216.log.optimizely.com
 8429047.log.optimizely.com
 8453485.log.optimizely.com
+8cmfzco0.micpn.com
 9718688.log.optimizely.com
 9nl.be
 9nl.com
@@ -220,6 +221,7 @@ accstandardbank.112.2o7.net
 accumulatork.com
 accustomreview.com
 acestats.com
+acidpigs.com
 acpc.perf.linkedin.com
 acpmagazines.112.2o7.net
 acquireinsight.net
@@ -469,6 +471,7 @@ api.entrepreneur.com
 api.europe.kontagent.net
 api.fandommetrics.com
 api.funnelytics.io
+api.growthrx.in
 api.infinario.com
 api.infiniamobile.com
 api.innomdc.com
@@ -2050,6 +2053,7 @@ generalmotors.112.2o7.net
 genimages.xiti.com
 genspot.iprom.net
 geo-um.btrll.com
+geo.cnbc.com
 geo.gorillanation.com
 geo.query.yahoo.com
 geo.xcel.io
@@ -2900,6 +2904,7 @@ mobilede-dp.nuggad.net
 mobilink.az
 mobisux.iprom.net
 mobotix01.webtrekk.net
+modularmental.com
 mojeigre.iprom.net
 mojsms.net
 moksoxos.com
@@ -3119,6 +3124,7 @@ oracleglobal.112.2o7.net
 orange.salesmanago.pl
 origin.oiscripts.com
 orpae.com
+osimg.nbcuni.com
 osobnosti-cz.performax.cz
 otf.msn.com
 otnolatrnup.com
@@ -3141,6 +3147,7 @@ ox-d.socialknowledge.servedbyopenx.com
 ox-d.theunlockr.com
 oxtracking.com
 p-ssl.effectivemeasure.net
+p.adlooxtracking.com
 p.adsymptotic.com
 p.adwsys.com
 p.auto-motor-und-sport.de
@@ -3366,6 +3373,7 @@ prad.ivwbox.de
 prd.jwpltx.com
 pre-gn.quimron.net
 preberi.iprom.net
+prebid.andbeyond.media
 prebid.districtm.ca
 premierfarnell.112.2o7.net
 premierfarnell.tt.omtrdc.net
@@ -3389,6 +3397,7 @@ prod01-piwik.firstlook.org
 production-europe.frontpage-web.virginia.onservo.com
 productionb.frontpage-api.virginia.onservo.com
 prof.estat.com
+professionalswebcheck.com
 proffic.org
 profile-eu.exe.bid
 propeller-tracking.com
@@ -3617,6 +3626,7 @@ rta2.metro.co.uk
 rtb.gumgum.com
 rtb.tubemogul.com
 rtbcdn.doubleverify.com
+rtbdemand.apiip.net
 rtc.dymatrix.cloud
 rtd.tubemogul.com
 rtst.122.2o7.net
@@ -3862,6 +3872,7 @@ segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
 senergy.teslarati.com
 seness.info
+sentry.hetzner.company
 sentry.ilol.si
 sentry.io
 seofast.men
@@ -4115,6 +4126,7 @@ static-analytics.nativeads.com
 static-cdn.spott.ai
 static-tagr.gd1.mookie1.com
 static-trackers.adtarget.me
+static-tracking.klaviyo.com
 static.adinsight.com
 static.analytics.artirix.com
 static.apester.com
@@ -4297,6 +4309,7 @@ sunglobal.112.2o7.net
 superfastcdn.com
 superpages.122.2o7.net
 superwidget.gowatchit.com
+supportedbushesimpenetrable.com
 supports.xiti.com
 surfus.me
 survey.112.2o7.net
