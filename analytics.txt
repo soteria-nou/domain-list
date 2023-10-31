@@ -160,6 +160,7 @@
 8453485.log.optimizely.com
 8cmfzco0.micpn.com
 9718688.log.optimizely.com
+9f6bc946ffc84f39ba7761ec18f6d85f.mediatailor.us-east-1.amazonaws.com
 9nl.be
 9nl.com
 9nl.eu
@@ -2374,6 +2375,7 @@ istri.it
 it.112.2o7.net
 itm.siol.net
 itrack.iweb8.coms
+itselfheater.com
 ivastoor.com
 ivillageglobal.112.2o7.net
 iwa.iplsc.com
@@ -3545,6 +3547,7 @@ rem-track.bild.de
 repayrotten.com
 replacementreluctance.com
 replacestuntissue.com
+replicafixedly.com
 report-ads-to.pubnation.com
 report-zt.allmusic.com
 report.23video.com
@@ -4041,6 +4044,7 @@ srx.uk.ebayrtm.com
 srx.us.ebayrtm.com
 ssc.33across.com
 ssc.api.bbc.com
+ssc.independent.co.uk
 ssi.hit.gemius.pl
 ssl-geizhals.oewabox.at
 ssl-golem.met.vgwort.de
@@ -4418,6 +4422,7 @@ tag.researchnow.com
 tag.retargeter.com
 tag.rightmessage.com
 tag.segmetrics.io
+tag.wknd.ai
 tag.yieldoptimizer.com
 tagger.opecloud.com
 tagmanager.schneider-electric.com
@@ -4477,6 +4482,7 @@ testmax.xiti.com
 texasinstrument.122.2o7.net
 texasinstruments.evergage.com
 thaybkmiamibeach.112.2o7.net
+the.gatekeeperconsent.com
 the.sextracker.com
 theblogfrog.com
 thechannelcompany.d1.sc.omtrdc.net

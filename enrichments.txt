@@ -339,6 +339,7 @@ mobile9.us.intellitxt.com
 mobilewhack.us.intellitxt.com
 mobilityguru.us.intellitxt.com
 modaco.uk.intellitxt.com
+moderate.cleantalk.org
 motorcycle.us.intellitxt.com
 movie-list.us.intellitxt.com
 mp3lyrics.us.intellitxt.com
@@ -399,6 +400,7 @@ popup2.lifterapps.com
 prad.de.intellitxt.com
 presence-pc.fr.intellitxt.com
 primedia.us.intellitxt.com
+privacy.gatekeeperconsent.com
 production-cmp.isgprivacy.cbsi.com
 ps3-live.fr.intellitxt.com
 public-prod-dspcookiematching.dmxleo.com
