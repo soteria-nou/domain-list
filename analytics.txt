@@ -193,6 +193,7 @@ a.surefire.link
 a.targetserving.com
 a.ucoz.net
 a.vfghd.com
+a.vfghe.com
 a.wishabi.com
 a.yallboen.com
 a0ef2haqr0-1.algolia.io
@@ -2320,6 +2321,7 @@ in.2.cqcounter.com
 in.bubblestat.com
 in.effectivemeasure.net
 in.getclicky.com
+in.requestmetrics.com
 in.synapqueue.io
 incapsula.evyy.net
 incoming.telemetry.mozilla.org
