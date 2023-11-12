@@ -971,6 +971,7 @@ cdn.triggertag.gorillanation.com
 cdn.trmit.com
 cdn.tt.omtrdc.net
 cdn.turn.com
+cdn.twinrdack.com
 cdn.twinrdsrv.com
 cdn.unid.go.com
 cdn.uplift-platform.com
@@ -3880,6 +3881,7 @@ seness.info
 sentry.hetzner.company
 sentry.ilol.si
 sentry.io
+sentry.vtsmedia.com
 seofast.men
 serv.clicksor.net
 serve.albacross.com
@@ -4778,6 +4780,7 @@ tvguide.112.2o7.net
 tvn.hit.gemius.pl
 tvpgapl.hit.gemius.pl
 twc.demdex.net
+twinrdack.com
 twinrdsyte.com
 twittercounter.com
 ty0lm9uz.onet.pl
