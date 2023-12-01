@@ -332,6 +332,7 @@ widget.halooglasi.com
 widget.helpcrunch.com
 widget.instabot.io
 widget.intercom.io
+widget.marktjagd.de
 widget.nepremicnine.net
 widget.plugrush.com
 widget.privy.com

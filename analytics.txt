@@ -412,6 +412,7 @@ analytics.trendmicro.com
 analytics.unister.gmbh.de
 analytics.vpsboard.com
 analytics.vyrl.co
+analytics.webpushr.com
 analytics.yahoo.com
 analytics.yola.net
 analyze.uniquepeek.com
@@ -541,6 +542,7 @@ areagame.ivwbox.de
 arm.d3.sc.omtrdc.net
 arms-retcode.aliyuncs.com
 arnockglen.club
+aromatic-possibility.pro
 arrassley.info
 arx1-out.hitbox.com
 arx2-out.hitbox.com
@@ -753,6 +755,7 @@ by.uservoice.com
 by2.uservoice.com
 c-ko.imedia.cz
 c.adexchangemachine.com
+c.adskeeper.com
 c.bigmir.net
 c.cdnma.com
 c.cnzz.com
@@ -2307,6 +2310,7 @@ img.secureserver.net
 img.tongji.linezing.com
 img03.en25.com
 img05.webtrekk.net
+imgot.site
 imode.xiti.com
 imp.startappservice.com
 impact.applifier.com
@@ -2620,6 +2624,7 @@ logc8.xiti.com
 logdev.openload.co
 logdev.xiti.com
 logger-05.vty.dailymotion.com
+logger.nerdwallet.com
 logging.admicro.vn
 logging.ourstats.de
 logi1.xiti.com
@@ -4354,6 +4359,7 @@ t.acxiom-online.com
 t.ambra.com
 t.appsflyer.com
 t.authorinsights.com
+t.bawixi.xyz
 t.channeladvisor.com
 t.cinemablend.com
 t.conative.de
@@ -4524,6 +4530,7 @@ tm.dl.nw.de
 tm.iqfp1.com
 tm.tradetracker.net
 tns-counter.ru
+to.getnitropack.com
 tofu-ssl.dmcdn.net
 tofu.dmcdn.net
 toi.ivwbox.de
