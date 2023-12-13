@@ -465,6 +465,7 @@ api.btloader.com
 api.calq.io
 api.cdnmetric.com
 api.choicestream.com
+api.clickaine.com
 api.conductrics.com
 api.cxense.com
 api.dec.sitefinity.com
@@ -730,6 +731,7 @@ bravo-lea.com
 brightcove.112.2o7.net
 brownshoe.112.2o7.net
 browser.pipe.aria.microsoft.com
+browser.sentry-cdn.com
 bshare.optimix.asia
 bstats.adbrite.com
 btcom.112.2o7.net
@@ -1077,6 +1079,7 @@ clickcdn.shareaholic.com
 clickcdn.xda-developers.com
 clickguard.co
 clicklogger.rm.uol.com.br
+clicks.pipaffiliates.com
 clicktale.pantherssl.com
 clicktalecdn.sslcs.cdngc.net
 clicktracker.pint.com
@@ -1907,12 +1910,14 @@ events.launchdarkly.com
 events.newsroom.bi
 events.ocdn.eu
 events.redditmedia.com
+events.tubecup.org
 eventtracking-log.ustream.tv
 everestjs.net
 evisitcs.com
 ewstv.112.2o7.net
 experience.tinypass.com
 expertsexchange.112.2o7.net
+experttrafficmonitor.com
 expo-max.com
 extended.dmtracker.com
 external-pages-stats.rbl.ms
@@ -2030,6 +2035,7 @@ gaiainteractive.112.2o7.net
 gala.spiceworks.com
 galt.hit.gemius.pl
 galv.hit.gemius.pl
+gamingadlt.com
 gannett.demdex.net
 ganon.yahoo.com
 gapl.hit.gemius.pl
@@ -3388,6 +3394,7 @@ prebid.districtm.ca
 premierfarnell.112.2o7.net
 premierfarnell.tt.omtrdc.net
 premium.xiti.com
+preroll.hostave3.net
 prf.hn
 prima.certifica.com
 primediabusiness.122.2o7.net
@@ -3410,6 +3417,7 @@ prof.estat.com
 professionalswebcheck.com
 proffic.org
 profile-eu.exe.bid
+proftrafficcounter.com
 propeller-tracking.com
 propermedia-d.openx.net
 prophet.heise.de
@@ -3419,6 +3427,7 @@ prscripts.com
 ps.ceneje.si
 ps.eyeota.net
 ps14.pubnub.com
+psb.marshlecdn.com
 pstats.seranking.com
 psyng.com
 pt.cdctwm.com
@@ -3886,6 +3895,7 @@ seness.info
 sentry.hetzner.company
 sentry.ilol.si
 sentry.io
+sentry.pnblab.com
 sentry.vtsmedia.com
 seofast.men
 serv.clicksor.net
@@ -3914,6 +3924,8 @@ seznam.hit.gemius.pl
 sfcglobalgateway.122.2o7.net
 sftelemetry.sophos.com
 sftv-ssl.wemfbox.ch
+sghb.adtelligent.com
+sghb.spotim.market
 shareaholic.com
 shaw.demdex.net
 shopping.112.2o7.net
@@ -4526,6 +4538,7 @@ tknet.rayjump.com
 tkx2-prod.anvato.net
 tlp-02.kameleoon.com
 tlx.3lift.com
+tm-banners.gamingadult.com
 tm.dl.nw.de
 tm.iqfp1.com
 tm.tradetracker.net
@@ -4635,6 +4648,7 @@ tracker.anandtech.com
 tracker.azet.sk
 tracker.bannerflow.com
 tracker.beezup.com
+tracker.bet-at-home.com
 tracker.boostable.com
 tracker.bt.uol.com.br
 tracker.contentexchange.me

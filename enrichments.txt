@@ -292,6 +292,7 @@ js.createsend1.com
 js.hs-scripts.com
 js.hsleadflows.net
 js.hubspotfeedback.com
+js.sentry-cdn.com
 jsfiles.rutracker.ga
 jupiter.us.intellitxt.com
 kbalertz.us.intellitxt.com
@@ -406,6 +407,7 @@ privacy.gatekeeperconsent.com
 production-cmp.isgprivacy.cbsi.com
 ps3-live.fr.intellitxt.com
 public-prod-dspcookiematching.dmxleo.com
+publisher.linkvertise.com
 publishing.kaloo.ga
 qeryz.com
 quantcast.mgr.consensu.org
