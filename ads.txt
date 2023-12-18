@@ -95,6 +95,7 @@ a.abnad.net
 a.activestate.com
 a.ad-sys.com
 a.ad.gt
+a.ad.guru
 a.adforcast.com
 a.admaxserver.com
 a.adnium.com
@@ -1874,6 +1875,8 @@ adversaldisplay.com
 adversalservers.com
 adverserve.com
 adverserve.net
+adverster.b-cdn.net
+adverster.g2afse.com
 advert.3dot.info
 advert.co.il
 advert.gittigidiyor.com
@@ -2006,6 +2009,7 @@ am.appserver-cp.com
 am1.space
 am10.ru
 am15.net
+amkbpcc.com
 amn.doubleclick.net
 ams-ads-cornerstone-creatives.s3.amazonaws.com
 ams1-ib.adnxs.com
@@ -2373,6 +2377,7 @@ bororango.com
 boston-d.openx.net
 boudja.com
 boylesportsreklame.com
+br3azil334nutsz.com
 brakefluid.website
 brakesoutright.com
 brdmin.com
@@ -2423,6 +2428,7 @@ cache.betweendigital.com
 cache.celtra.com
 cafemedia-d.openx.net
 campaigns.de.euserv.adaos-ads.net
+camplethora.com
 canvas.thenextweb.com
 carbonads.com
 carbonads.net
@@ -2663,6 +2669,7 @@ clktag.com
 clmcom.com
 cloud.cashtrafic.info
 clpremdo.com
+cls.ad-tech.ru
 cluster.adultadworld.com
 cluster.awmdelivery.com
 cluster2.adultadworld.com
@@ -2795,6 +2802,7 @@ d.ads.readwriteweb.com
 d.adsbyisocket.com
 d.adserve.com
 d.afdads.com
+d.audiencerun.com
 d.baresi.xyz
 d.dc121677.com
 d.get-native.eu
@@ -2875,6 +2883,7 @@ d63a3au5lqmtu.cloudfront.net
 da.thomasnet.com
 da3uf5ucdz00u.cloudfront.net
 daily-caller-d.openx.net
+dankwank.net
 dashgreen.online
 dashisiclotheoswer.com
 data.adsrvr.org
@@ -3046,6 +3055,7 @@ dzcx04lyk9hjp.cloudfront.net
 e-ltvp.inmobi.com
 e.maxtraffic.com
 e.serverbid.com
+e.url2share.co
 e1.static.hoptopboy.com
 e1.zedo.com
 e3.adpushup.com
@@ -3147,6 +3157,7 @@ euw.adserver.snapads.com
 evasiondemandedlearning.com
 event.ohmyad.co
 eventucker.com
+evwmwnd.com
 ex.banner.t-online.de
 excdn-6183.kxcdn.com
 excellent-vids.online
@@ -3250,6 +3261,7 @@ gae.caspion.com
 gaitheed.com
 gam.adnxs.com
 game-advertising-online.com
+gamemonetize.video
 gamersbanner.com
 gamesbannerexchange.com
 gandrad.org
@@ -3696,6 +3708,7 @@ lau2.slot.union.ucweb.com
 launch.newsinc.com
 lavishnessoverboard.com
 layer-ads.de
+lbs-ru1.ads.betweendigital.com
 lby2kd27c.com
 lc0pyfn.com
 lcdn.tsyndicate.com
@@ -3960,6 +3973,7 @@ ncuxaqhivd.com
 neceme.com
 nemewagro.com
 nepremicnine.click
+nessadexchange.com
 net.e-viral.com
 netlog.adhese.org
 network.adsmarket.com
@@ -4195,6 +4209,7 @@ orangeads.fr
 ordie.adbureau.net
 ordinarilyinstead.com
 organizationwoundedvast.com
+origunix.com
 orrtweqfaa.com
 oshoslokkn.com
 ot.ca-mpr.jp
@@ -4538,7 +4553,9 @@ publisher.infinityads.com
 publishers.clickadilla.com
 publishers.halogennetwork.com
 pubportal.brkmd.com
+pubtrky.com
 pumdfferpkin5hs454r43eeds.com
+pupspu.com
 push-news.net
 pushanert.com
 pushedgraceful.com
@@ -5245,6 +5262,7 @@ tracker-adserver.ibillboard.com
 tracking.bol.com
 tracking.onefeed.co.uk
 tracking100.com
+tracksfreezingdomestic.com
 tracot.com
 tradex.openx.com
 traffic.adxprts.com
@@ -5436,6 +5454,7 @@ w.tda.io
 w55c.net
 wads.webteh.com
 waisheph.com
+wanodtbfif.com
 warilydigestionauction.com
 wasgildedall.com
 washingtonpost-d.openx.net
@@ -5573,6 +5592,7 @@ www.betsonsport.ru
 www.betteradsystem.com
 www.bfhxivpij.com
 www.bftrlhesrlfjp.com
+www.bhnhejwj.com
 www.bhwcfwjz.com
 www.bircgizd.com
 www.bitadexchange.com
@@ -5817,6 +5837,7 @@ www.performanceadexchange.com
 www.performanceonclick.com
 www.pgbxrigvbmdz.com
 www.phica.net
+www.plainphilosophy.pro
 www.poweradvertising.com
 www.pqorwmmlkf.com
 www.pqxadekhqotwkv.com
@@ -6042,6 +6063,7 @@ xpollo.com
 xs.doweralrostra.com
 xtr2020.com
 xu.subpenaveinery.com
+xwlketvkzf.com
 xx.openx.com
 xxlargepop.com
 xxx.enterasanblog.xyz
@@ -6055,6 +6077,7 @@ ybs2ffs7v.com
 yceml.net
 yfetyg.com
 yie4zooseif.info
+yiejvik.com
 yieldlove-d.openx.net
 yiq6p.com
 yititsimplyd.club
@@ -6090,9 +6113,11 @@ zd1.november-lax.com
 zdbb.net
 zdstatic.speedtest.net
 zeads.com
+zeekaihu.net
 zem.outbrainimg.com
 zergnet-d.openx.net
 zf2.quebec-bin.com
+zfhuzyw.com
 zigad.starves.org
 zimpolo.com
 zk.admoldova.org

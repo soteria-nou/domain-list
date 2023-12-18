@@ -683,7 +683,13 @@ beacon.thred.woven.com
 beacon.tingyun.com
 beacon.walmart.com
 beacon.wikia-services.com
+beacons.gcp.gvt2.com
+beacons.gvt2.com
 beacons.hottraffic.nl
+beacons2.gvt2.com
+beacons3.gvt2.com
+beacons4.gvt2.com
+beacons5.gvt2.com
 beagle.prod.tda.link
 beamedshipwreck.com
 beap.gemini.yahoo.com
@@ -762,6 +768,7 @@ c.bigmir.net
 c.cdnma.com
 c.cnzz.com
 c.datareporter.eu
+c.delivery.consentmanager.net
 c.eu1.dyntrk.com
 c.evidon.com
 c.fqtag.com
@@ -996,6 +1003,7 @@ cdn1.inspsearchapi.com
 cdn2.developermedia.com
 cdn2.lockerdomecdn.com
 cdn2.pollster.pl
+cdn3.forter.com
 cdn3.optimizely.com
 cdn4.forter.com
 cdn4.userzoom.com
@@ -1144,6 +1152,7 @@ collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
 collector.a.pxi.pub
 collector.contentexchange.me
+collector.fiverr.com
 collector.github.com
 collector.githubapp.com
 collector.intergi.com
@@ -1490,6 +1499,7 @@ delivery.performax.cz
 dellinc.tt.omtrdc.net
 delosi.iprom.net
 demdex.net
+demiseskill.com
 demo.whitelabelanalytics.net
 dennispublishing.112.2o7.net
 dentaint.pro
@@ -3557,6 +3567,7 @@ redistats.com
 reedthatm.biz
 refer.ccbill.com
 referrer.disqus.com
+region1.analytics.google.com
 registercom.tt.omtrdc.net
 relap.io
 relestar.com
@@ -4080,6 +4091,7 @@ ssl.gostats.com
 ssl.luckyorange.com
 ssl.mousestats.com
 ssm.codes
+ssp.rambler.ru
 ssp.zryydi.com
 sstatic1.histats.com
 sstats.adobe.com
@@ -4318,6 +4330,7 @@ std1.hit.gemius.pl
 steadfastsystem.com
 stepstone.d1.sc.omtrdc.net
 stickerchapelsailing.com
+storage.multstorage.com
 storemetrics.pixelbits.io
 stormyachiever.com
 strato.ivwbox.de
@@ -4362,8 +4375,10 @@ sync.bumlam.com
 sync.go.sonobi.com
 sync.liverail.com
 sync.mathtag.com
+sync.rambler.ru
 sync.search.spotxchange.com
 sync.tidaltv.com
+sync.upravel.com
 t-stand.oewabox.at
 t.254a.com
 t.9gag.com
@@ -4577,6 +4592,7 @@ track.addevent.com
 track.adfon.com
 track.adform.net
 track.adtraction.com
+track.affstreck.com
 track.appsflyer.com
 track.aso1.net
 track.asus.com
@@ -4945,11 +4961,13 @@ vision.fn-pz.com
 visit.webhosting.yahoo.com
 visiteurs.xiti.com
 visitorinsight.silverpop.com
+visor.sberbank.ru
 vixnixxer.com
 vlog.leadformix.com
 vnumedia01.webtrekk.net
 volkswagencouk.agillic.eu
 voyageschoolanymore.com
+vp.rambler.ru
 vra.outbrain.com
 vs.dmtracker.com
 vstats.digitaltrends.com
