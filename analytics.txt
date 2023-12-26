@@ -98,6 +98,8 @@
 36c3feee.mpstat.us
 3721509.fls.doubleclick.net
 3878053.fls.doubleclick.net
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 4079040.log.optimizely.com
 40nuggets.com
 4197153.fls.doubleclick.net
@@ -172,6 +174,7 @@ a.air2s.com
 a.apkpure.com
 a.applovin.com
 a.audrte.com
+a.beap.gemini.yahoo.com
 a.chu4n.com
 a.company-target.com
 a.farlex.com
@@ -338,6 +341,7 @@ analytics.analytics-egain.com
 analytics.archive.org
 analytics.atlassian.com
 analytics.avant.si
+analytics.avcdn.net
 analytics.aweber.com
 analytics.brandcrumb.com
 analytics.brid.tv
@@ -357,6 +361,7 @@ analytics.dev.popdust.com
 analytics.ecvv.com
 analytics.eip.telegraph.co.uk
 analytics.fairfax.com.au
+analytics.ff.avast.com
 analytics.fortinet.com
 analytics.freedom.press
 analytics.freespee.com
@@ -1143,6 +1148,7 @@ codicebusiness.shinystat.com
 codiceisp.shinystat.com
 col.eum-appdynamics.com
 collect-eu-central-1.tealiumiq.com
+collect-us.app-us1.com
 collect.albacross.com
 collect.octalytics.com
 collecte.audience.acpm.fr
@@ -1455,6 +1461,7 @@ dashboard.evolveplatform.net
 dashboard.whoisvisiting.com
 dastelef.ivwbox.de
 dat.springserve.com
+data--eu-central.upscope.io
 data.aggregateknowledge.com
 data.captifymedia.com
 data.coremetrics.com
@@ -1884,6 +1891,7 @@ ent-lb01.hitbox.com
 ent-lb02.hitbox.com
 enterprise.hitbox.com
 entertai.ivwbox.de
+environmentals.tt.omtrdc.net
 epromos.ubmcanon.com
 equipement.xiti.com
 erento.ivwbox.de
@@ -2202,6 +2210,7 @@ hb.adomik.com
 hb.adscale.de
 hb.emxdgt.com
 hb.springserve.com
+hb.yahoo.net
 hbopenbid.pubmatic.com
 hchrmain.112.2o7.net
 healte.de
@@ -2518,6 +2527,7 @@ lenovo.tt.omtrdc.net
 levexis.com
 levis.xiti.com
 lg.logging.admicro.vn
+lg1.hb.yahoo.net
 lh.secure.yahoo.com
 lib.selfcampaign.com
 lib.trafit.com
@@ -2811,6 +2821,7 @@ mapstats.blogflux.com
 marketing.dropbox.com
 marketing.ecreativeworks.com
 marketing.foxitsoftware.com
+marketplace.anyclip.com
 mas.nth.ch
 mashable.d2.sc.omtrdc.net
 match.prod.bidr.io
@@ -2951,6 +2962,7 @@ mp.pianomedia.eu
 mp3world.ivwbox.de
 mpn-analytics.mokonocdn.com
 ms.dpd.com
+msetup-partners.com
 msft.demdex.net
 msn.112.2o7.net
 msnaccountservices.112.2o7.net
@@ -3321,6 +3333,7 @@ pixel.anyclip.com
 pixel.audienceinsights.net
 pixel.bild.de
 pixel.buzzdeck
+pixel.carambo.la
 pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
@@ -3662,6 +3675,7 @@ rtc.dymatrix.cloud
 rtd.tubemogul.com
 rtst.122.2o7.net
 ru-gmtdmp.mookie1.com
+rum-http-intake.logs.datadoghq.com
 rum.browser-intake-datadoghq.com
 rum.conde.io
 rum.perfops.net
@@ -3925,6 +3939,7 @@ services.pornhub.com
 services.x-traceur.com
 services.xg4ken.com
 servustv.oewabox.at
+session-replay.browser-intake-datadoghq.com
 settings.crashlytics.com
 sevenload-en.112.2o7.net
 sevenloadgmbh.112.2o7.net
@@ -4031,6 +4046,7 @@ sootconform.com
 soundandvisionmag.com.122.2o7.net
 source.mmi.bemobile.ua
 souvenirsconsist.com
+sp-eu.dev.polarbyte.com
 sp.analytics.yahoo.com
 sp.deadline.com
 sp1.convertro.com
@@ -4283,6 +4299,7 @@ stats.renault.co.uk
 stats.riavera.com
 stats.sa-as.com
 stats.schukat.com
+stats.securebrowser.com
 stats.seedr.com
 stats.shopify.com
 stats.shoppydoo.com
@@ -4307,6 +4324,7 @@ stats.townnews.com
 stats.unity3d.com
 stats.unwired-i.net
 stats.visistat.com
+stats.vk-portal.net
 stats.web-log.nl
 stats.webblogg.se
 stats.windscribe.com
@@ -4331,6 +4349,7 @@ steadfastsystem.com
 stepstone.d1.sc.omtrdc.net
 stickerchapelsailing.com
 storage.multstorage.com
+store.externulls.com
 storemetrics.pixelbits.io
 stormyachiever.com
 strato.ivwbox.de
@@ -4773,6 +4792,7 @@ trandsey.info
 trc.pushnami.com
 trck.spoteffects.net
 trckr.click
+trckr.treexy.com
 trf.greatviews.de
 tribalddb.122.2o7.net
 tribl.io
@@ -4983,6 +5003,7 @@ w1.luckyorange.com
 w113.hitbox.com
 w1999.bulbs.com
 w25.hitbox.com
+w3-reporting-nel.reddit.com
 w88.go.com
 wa.and.co.uk
 wa.aruba.it
@@ -5123,6 +5144,7 @@ www.countercentral.com
 www.counters4u.com
 www.counterwelt.com
 www.countyou.de
+www.datadoghq-browser-agent.com
 www.decenthat.com
 www.delidataxsegment.com
 www.dsply.com
