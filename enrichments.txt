@@ -433,6 +433,7 @@ scripts.mobdub.com
 sdk.beeketing.com
 sdk.hoodline.com
 sdk.privacy-center.org
+secure.aha.io
 seeklyrics.us.intellitxt.com
 share.pluso.ru
 share.yandex.ru

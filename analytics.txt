@@ -741,6 +741,7 @@ brahe.apptimize.com
 bravo-lea.com
 brightcove.112.2o7.net
 brownshoe.112.2o7.net
+browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bshare.optimix.asia
@@ -868,6 +869,7 @@ cbglobal.112.2o7.net
 cbo.ivwbox.de
 cbsdigitalmedia.112.2o7.net
 cbsi.demdex.net
+cc-api-data.adobe.io
 cc-collector.tech26.de
 cc.chango.com
 cc.zeit.de
@@ -1048,6 +1050,7 @@ chanmonitor.in
 channelintelligence.com
 chantly.info
 chasles.xiti.com
+checkupforecast.com
 chefkoch.ivwbox.de
 chicagosuntimes.122.2o7.net
 chicoutimi.xiti.com
@@ -1193,6 +1196,7 @@ connect.mail.ru
 connect.odnoklassniki.ru
 connect.topicit.net
 connectio.s3.amazonaws.com
+conqueredallrightswell.com
 conrad.122.2o7.net
 conrad.prudsys-rde.de
 consent.cmp.oath.com
@@ -1933,6 +1937,7 @@ eventtracking-log.ustream.tv
 everestjs.net
 evisitcs.com
 ewstv.112.2o7.net
+excellentsponsor.com
 experience.tinypass.com
 expertsexchange.112.2o7.net
 experttrafficmonitor.com
@@ -1940,6 +1945,7 @@ expo-max.com
 extended.dmtracker.com
 external-pages-stats.rbl.ms
 extremetracking.com
+eyauknalyticafra.info
 ez24.iprom.net
 f-log-at.grammarly.io
 f.domdex.com
@@ -1991,6 +1997,7 @@ files.upscore.com
 finance.iprom.net
 financesi.iprom.net
 finaonl.ivwbox.de
+fingerprintoysters.com
 fitssheashasvs.info
 fl.reg.163.com
 flake.formr.io
@@ -2449,6 +2456,7 @@ js.jianbaimei.com
 js.kctag.net
 js.logentries.com
 js.matheranalytics.com
+js.monitor.azure.com
 js.neodatagroup.com
 js.stroeermediabrands.de
 js.ta80.com
@@ -2458,6 +2466,7 @@ js1.hitbox.com
 jsc.4shared.com
 jsn.dt07.net
 jsn.lentainform.com
+jssdkcdns.mparticle.com
 juke.mmi.bemobile.ua
 junbi-tracker.com
 justuno.com
@@ -2490,6 +2499,7 @@ kraftfoodseurope.d3.sc.omtrdc.net
 krater.iprom.net
 kropka.onet.pl
 kt4.kliptracker.com
+kts.vasstycom.com
 kts.visitstats.com
 kweb.videostep.com
 kwobj.com
@@ -2817,6 +2827,7 @@ make-it-tracking.iwmedien.de
 mallgroup-api.exponea.com
 manning.postaffiliatepro.com
 mansfieldeffects.com
+manuretravelingaroma.com
 mapstats.blogflux.com
 marketing.dropbox.com
 marketing.ecreativeworks.com
@@ -2872,6 +2883,7 @@ membershipimmunitysport.com
 mentorgraphics.122.2o7.net
 mercedesamg.d3.sc.omtrdc.net
 mercedezbenzusallc.tt.omtrdc.net
+merequartz.com
 merlin.abc.go.com
 merriamwebster-d.openx.net
 met.vgwort.de
@@ -2884,6 +2896,7 @@ metrics.apple.com
 metrics.autodesk.com
 metrics.bustle.com
 metrics.cdiscount.com
+metrics.cdnjs.work
 metrics.cnn.com
 metrics.consumerreports.org
 metrics.dailymotion.com
@@ -3093,11 +3106,13 @@ nscontext.com
 ntvpevnts.com
 ntvpinp.com
 nvg.nbcnews.com
+nwbidrtb.com
 nxp.112.2o7.net
 nxtck.com
 nydailynews.d1.sc.omtrdc.net
 nydrctnk.com
 nytbglobe.112.2o7.net
+nzme.coral.coralproject.net
 o.adhslx.com
 o.analytics.yahoo.com
 o.musicnotes.com
@@ -3317,6 +3332,7 @@ piwik.volkswagen.at
 piwik.weltauto.com
 pix.esm1.net
 pix.impdesk.com
+pix.nbcuni.com
 pix.spot.im
 pix04.revsci.net
 pixall.esm1.net
@@ -3492,6 +3508,7 @@ px.steelhousemedia.com
 px.wa.ui-portal.de
 pxl.connexity.net
 pxl.ibpxl.com
+pxl.sprouts.ai
 pxl.trafficstars.com
 pxl.tsyndicate.com
 pxlctl.as.com
@@ -3645,6 +3662,7 @@ rover.ebay.it
 rover.ebay.ph
 rover.ebay.pl
 rpt.cedexis.com
+rronsep.com
 rs.hit.gemius.pl
 rs.mail.ru
 rs1.scribd.com
@@ -4354,6 +4372,7 @@ storemetrics.pixelbits.io
 stormyachiever.com
 strato.ivwbox.de
 strawberries.112.2o7.net
+stretchsquirrel.com
 stroer-d.openx.net
 studentski.iprom.net
 stumbleupon.112.2o7.net
@@ -4639,6 +4658,7 @@ track.loox.io
 track.mailerlite.com
 track.mlsend2.com
 track.monitis.com
+track.mp4.center
 track.mybloglog.com
 track.netshelter.net
 track.neutraloppurtunity.com
@@ -4933,6 +4953,7 @@ v7test.xiti.com
 v7zp.xiti.com
 v8.xiti.com
 vacwrite.com
+vak345.com
 vap3iad1.lijit.com
 vap5iad1.lijit.com
 vars.hotjar.com
@@ -5007,6 +5028,7 @@ w3-reporting-nel.reddit.com
 w88.go.com
 wa.and.co.uk
 wa.aruba.it
+wa.sprouts.ai
 wa.st.com
 wachovia.112.2o7.net
 wafmedia6.com
@@ -5090,6 +5112,7 @@ winzip.122.2o7.net
 wirtschaftskammer01.webtrekk.net
 wirtvlg.oewabox.at
 witchcraftbarterexploded.com
+withdrewparliamentwatery.com
 wix-worker.visitor-analytics.net
 wm.wiredminds.de
 wm2.wiredminds.de
