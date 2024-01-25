@@ -171,6 +171,7 @@
 a-ssl.ligatus.com
 a.adready.com
 a.air2s.com
+a.aomeisoftware.com
 a.apkpure.com
 a.applovin.com
 a.audrte.com
@@ -290,11 +291,13 @@ affiliate.likemag.com
 affiliate.lunarpages.com
 affilies.xiti.com
 affluents.xiti.com
+afgwsgl.com
 ag1.hitbox.com
 agagkidzone.112.2o7.net
 aggregatorgetb.com
 ahitflip.ivwbox.de
 ai.hitbox.com
+aim-tag.hcn.health
 ak.sail-horizon.com
 ak1s.abmr.net
 akatracking.esearchvision.com
@@ -606,6 +609,7 @@ averydennison.112.2o7.net
 avgtechnologies.112.2o7.net
 avnet.122.2o7.net
 avtonet.iprom.net
+avygpim.com
 awaps.yandex.net
 awaps.yandex.ru
 awio.iljmp.com
@@ -1015,6 +1019,7 @@ cdn3.optimizely.com
 cdn4.forter.com
 cdn4.userzoom.com
 cdn51.vizury.com
+cdnid.net
 cdns.au1.gigya.com
 cdns.brsrvr.com
 cdns.canddi.com
@@ -1121,6 +1126,7 @@ cm.l.qq.com
 cmap.alibaba.com
 cmdts.ksmobile.com
 cmp.112.2o7.net
+cmp.inmobi.com
 cmp.mediavine.com
 cmp.quantcast.com
 cmpglobalvista.112.2o7.net
@@ -1274,6 +1280,7 @@ cpxl.golem.de
 cr_stats.upscore.com
 cr.acecounter.com
 cr3wc89sw3.global.ssl.fastly.net
+cra.hum.works
 crain.d1.sc.omtrdc.net
 crd.hitbox.com
 create.leadid.com
@@ -1316,6 +1323,7 @@ cti.w55c.net
 ctj.wenku.baidu.com
 ctologger01.analytics.go.com
 ctrack.trafficjunky.net
+ctrtrk.com
 cts.channelintelligence.com
 cts.metricsdirect.com
 cts.sanoma.fi
@@ -2001,6 +2009,7 @@ fingerprintoysters.com
 fitssheashasvs.info
 fl.reg.163.com
 flake.formr.io
+flcrcyj.com
 fleraprt.com
 flipkart.d1.sc.omtrdc.net
 fls-eu.amazon.co.uk
@@ -2857,6 +2866,7 @@ mcc-tags.cisco.com
 mcclatchy.demdex.net
 mcclatchy.sc.omtrdc.net
 mcdote.com
+mcuwuxfuqb.com
 mdlbs.motor-talk.de
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
@@ -3064,6 +3074,7 @@ nhl.112.2o7.net
 niagara.xiti.com
 nickeeha.net
 nielsen.112.2o7.net
+nihomlkmeor.com
 nike.112.2o7.net
 nikkei.112.2o7.net
 nikonjp.112.2o7.net
@@ -3253,6 +3264,7 @@ pcworldcommunication.122.2o7.net
 pcworldcommunication.d2.sc.omtrdc.net
 pde.lp4.io
 pdf.xiti.com
+pdrqubl.com
 peachywaspish.com
 pebed.dm-event.net
 pebed.dm.gg
@@ -3858,6 +3870,7 @@ sc-collector.n26.com
 sc.cdnma.com
 sc.iasds01.com
 sc.independent.co.uk
+sc.lfeeder.com
 sc.mtv.com
 scan.botscanner.com
 scdn.cxense.com
@@ -3937,7 +3950,6 @@ senergy.teslarati.com
 seness.info
 sentry.hetzner.company
 sentry.ilol.si
-sentry.io
 sentry.pnblab.com
 sentry.vtsmedia.com
 seofast.men
@@ -4773,6 +4785,7 @@ tracking.quisma.com
 tracking.rfsoao.com
 tracking.searchmarketing.com
 tracking.shopping-flux.com
+tracking.skymobi.agency
 tracking.tidalhifi.com
 tracking.to
 tracking.tomsguide.com
@@ -5335,6 +5348,7 @@ yigg.ivwbox.de
 yip.su
 yjmvx.space
 ymetrica1.com
+yneaimn.com
 ynuf.alipay.com
 yottlyscript.com
 yourprecious.geopedia.si

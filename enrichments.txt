@@ -234,6 +234,7 @@ geekstogo.us.intellitxt.com
 geo-eu.snigelweb.com
 geo-us.snigelweb.com
 geo.ngtv.io
+geo2.statistic.ovh
 geolocation.onetrust.com
 ghacks.de.intellitxt.com
 gizmos.hawk-tech.co.uk
@@ -543,6 +544,7 @@ us.intellitxt.com
 usb-drivers.us.intellitxt.com
 usemycomputer.us.intellitxt.com
 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
+usocial.pro
 v3.uk.intellitxt.com
 v5.actionteaser.ru
 velocityreviews.uk.intellitxt.com

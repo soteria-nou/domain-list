@@ -254,6 +254,7 @@ server.iad.liveperson.net
 shares.ahmedzai.com
 shopify.growemail.com
 shoppingbox.leguide.com
+shorts-api.cdn.live
 showcase4.pushauction.com
 showcase4flash.pushauction.com
 si.contentexchange.me
@@ -405,6 +406,7 @@ www.stevec.si
 www.surveymonkey.com
 www.tribdss.com
 www4.clustrmaps.com
+xat.com
 xdaportal.disqus.com
 z430.takru.com
 zdwidget3-bs.sphereup.com

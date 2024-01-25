@@ -1344,6 +1344,7 @@ ads.satelliteguys.us
 ads.saymedia.com
 ads.schmoozecom.net
 ads.servebom.com
+ads.servenobid.com
 ads.sexinyourcity.com
 ads.sexoyglamour.net
 ads.sextube.si
@@ -2149,6 +2150,7 @@ avtomobilizem.iprom.net
 awakebottlestudy.com
 awecre.com
 aweproto.com
+awhajdorzawd.com
 awltovhc.com
 awprt.com
 awvqfalackho.com
@@ -2158,6 +2160,7 @@ axdget-sync.nuggad.net
 ayabreya.xyz
 az.mniumlapsers.com
 azads.com
+azkphiobpowq.com
 azmwhyabczw.com
 azoogleads.com
 azxaqblzaw.com
@@ -2178,6 +2181,7 @@ b.yu0123456.com
 b.zog.link
 b0oie4xjeb4ite.com
 b1480423828.topqualitylink.com
+b1h-euc1.zemanta.com
 b2408e4e788280e.com
 b92rs.adocean.pl
 ba2b687.se
@@ -2376,6 +2380,7 @@ bngpt.com
 bnr2.revdepo.com
 bnrs.it
 bnsjb1ab1e.com
+bobabillydirect.org
 bodelen.com
 bodieworks.com
 bolhaads.doticni.net
@@ -2569,7 +2574,9 @@ cdn.pleenq.com
 cdn.pncloudfl.com
 cdn.popcash.net
 cdn.popmyads.com
+cdn.pubfuture-ad.com
 cdn.pulpix.co
+cdn.purpleads.io
 cdn.pvrtx.net
 cdn.ratahor.com
 cdn.reporo.net
@@ -2655,6 +2662,7 @@ chronicads.com
 chsrkred.com
 cirazi.com
 circusbreadth.com
+cisviqodbk.com
 cjl58f3agc.com
 ck.ads.affinity.com
 ckdegfi5.faith
@@ -2798,6 +2806,7 @@ cst.cstwpush.com
 cst.wpu.sh
 ct1.kanashibari.jp
 ctasnet.com
+ctiascaqkn.com
 cts.tradepub.com
 ctubhxbaew.com
 ctxt.tribalfusion.com
@@ -2862,6 +2871,7 @@ d2kbaqwa2nt57l.cloudfront.net
 d2klx87bgzngce.cloudfront.net
 d2lxztepvo7ma1.cloudfront.net
 d2o03z2xnyxlz5.cloudfront.net
+d2pa5pbpozeh1f.cloudfront.net
 d2pppxxtaciku9.cloudfront.net
 d2psf55e0gm6yv.cloudfront.net
 d2qnx6y010m4rt.cloudfront.net
@@ -2870,6 +2880,7 @@ d2xkqxdy6ewr93.cloudfront.net
 d2z51a9spn09cw.cloudfront.net
 d3.condenast.servedbyopenx.com
 d31m6w8i2nx65e.cloudfront.net
+d34gjfm75zhp78.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
 d3al52d8cojds7.cloudfront.net
@@ -3265,6 +3276,7 @@ friendshipmale.com
 frogadvert.ru
 frstlead.com
 frtyb.com
+fstatic.netpub.media
 ftaocvatpvra.com
 ftjcfx.com
 fuckmehd.pro
@@ -3368,6 +3380,7 @@ go.xlivrdr.com
 go.xlrdr.com
 go.xlviiirdr.com
 go.xlviirdr.com
+go.xxxiijmp.com
 go.xxxviijmp.com
 go.xxxvjmp.com
 go.youlamedia.com
@@ -3391,6 +3404,7 @@ gsjln04hd.com
 gsn.chameleon.ad
 gstat.orange.fr
 gstaticadssl.l.google.com
+gsurihy.com
 guigebichir.website
 gujakqludcuk.com
 gulsachpyrexia.uno
@@ -3408,8 +3422,10 @@ haeg1ei.bid
 hahemla.com
 halleyperson.pro
 hammerhearing.com
+hapbtualkfi.com
 happer.info
 hattepush.com
+hb-api.omnitagjs.com
 hb.adtelligent.com
 hb.vntsm.com
 hbx.media.net
@@ -3424,6 +3440,7 @@ hfllrf6lwh.com
 hgbn.rocks
 hhbypdoecp.com
 hi5.adnxs.com
+hicovjpufo.com
 hide.implink.xyz
 higheurest.com
 highmaidfhr.com
@@ -3627,6 +3644,7 @@ jawconcealed.com
 jerwested.info
 jf2mn2ms.club
 jistaumt.com
+jnlldyq.com
 jofhsybikfnl.com
 jomtingi.net
 jp.at.atwola.com
@@ -3667,6 +3685,7 @@ js.v1.de.euserv.rad.adaos-ads.net
 js.viglink.com
 js.wpadmngr.com
 js.wpncdn.com
+js.wpnsrv.com
 js.wpushsdk.com
 js.xpg.com.br
 js1632.lishuanghao.com
@@ -3707,6 +3726,7 @@ koronaararao.guru
 korununkept.digital
 kos.interseek.si
 kpqnj.top
+kquzgqf.com
 krenovo.online
 krfwtleggqujgr.net
 kriopqahkli.com
@@ -3715,6 +3735,7 @@ kt.h0ok.com
 ktu.sv2.biz
 ku2d3a7pa8mdi.com
 ku42hjr2e.com
+kuy8h8e.com
 kw3y5otoeuniv7e9rsi.com
 kxwhiogrswx.com
 l-forex.com
@@ -3841,6 +3862,7 @@ makafdsugxco.com
 makespram.com
 manifest-server.naiadsystems.com
 mantodea.mantisadnetwork.com
+mapakrogngi.com
 mappealist.club
 mastertarget.ru
 match.ads.betweendigital.com
@@ -3900,6 +3922,7 @@ miniad2.layer-ad.org
 miscur.com
 mixmarket.biz
 mjxads.internet.com
+mkihakfuzv.com
 mkkvprwskq.com
 mkta.advfn.com
 mladipodjetnik.iprom.net
@@ -4046,6 +4069,7 @@ ns1.doubleclick.net
 ns2.doubleclick.net
 ns3.doubleclick.net
 ns4.doubleclick.net
+nsfwadds.com
 nspmotion.com
 nt.smartclick.net
 ntvpforever.com
@@ -4106,6 +4130,7 @@ ocdn.adsterra.com
 oconner.biz
 oddbanner.bet-at-home.com
 odglhicarv.com
+odpfujlimjuk.com
 oesfriences.fun
 offerimage.com
 offers.bittorrent.com
@@ -4159,6 +4184,7 @@ ointmentaloofpincers.com
 ojwarkmaw.com
 ok.internet-media.si
 ok.internetmedia.si
+okxqmiagltpe.com
 ol.at.atwola.com
 ol.jp.at.atwola.com
 ol.uk.at.atwola.com
@@ -4243,6 +4269,7 @@ ordinarilyinstead.com
 organizationwoundedvast.com
 origunix.com
 orrtweqfaa.com
+oscajzqicalk.com
 oshoslokkn.com
 ot.ca-mpr.jp
 otclick-adv.ru
@@ -4503,6 +4530,7 @@ practiceddrummerballast.com
 pre.ads.justpremium.com
 preamp-clients.header.tech
 prebid-a.rubiconproject.com
+prebid.a-mo.net
 prebid.adnxs.com
 predictad.com
 predictiondexchange.com
@@ -4776,6 +4804,7 @@ rutrk.org
 rv.furaffinity.net
 rvnc72k.com
 rw9bj24c2j.s.ad6media.fr
+rwuomhjazop.com
 rxeosevsso.com
 rxrfb95v.cricket
 ryano.ru
@@ -5016,6 +5045,7 @@ sorryfearknockout.com
 soska.us
 sourcepoint.mgr.consensu.org
 southernx.nuggad.net
+sozzlypeavies.com
 sp-work.goviral-content.com
 spaces.slimspots.com
 spadeballroom.com
@@ -5442,6 +5472,7 @@ vehemenceclung.com
 veilsuccessfully.com
 veneeringextremely.com
 venturead.com
+veresultedinncre.org
 vexationworship.com
 vg74gi6mea.com
 via.placeholder.com
@@ -5485,6 +5516,7 @@ vooruvou.com
 vop.sundaysky.com
 vpixrlkggv.com
 vsh.visilabs.net
+vsucocesisful.com
 vudsy.com
 vv.vxqpomwum.pw
 vwcsl.com
@@ -5546,6 +5578,7 @@ wortparser.info
 wpunativesh.com
 wpzka4t6.site
 wrap.tradedoubler.com
+wruaqpkuwa.com
 ws-eu.amazon-adsystem.com
 ws-gateway.com
 ws-in.amazon-adsystem.com
@@ -5558,6 +5591,7 @@ wtpn.twenga.it
 wu.adonweb.ru
 wunderloop.ad2net.de
 wuzbhjpvsf.com
+wvtynme.com
 ww1.collserve.com
 ww2.circuitcellar.com
 ww251.smartadserver.com
@@ -5727,6 +5761,7 @@ www.gbfeexoyo.com
 www.gcqdiydpfytvn.com
 www.geniusdexchange.com
 www.ggunauhe.com
+www.gimohhfzvmpdt.com
 www.gjqhufkamcoc.com
 www.gjslebmbiawh.com
 www.gkvhfryrramj.com
@@ -5777,6 +5812,7 @@ www.jbbgczjipjvb.com
 www.jipfvqusm.com
 www.jjrzlqho.com
 www.jltzknvw.com
+www.jlufbcef.com
 www.jmpqkikcv.com
 www.jolic2.com
 www.juosmjtadx.com
@@ -6056,6 +6092,7 @@ www1.oratosaeron.com
 www2.adserverpub.com
 www2.bubblesmedia.ru
 www2.smartadserver.com
+www3.doubleclick.net
 www3.reliablebanners.com
 www3.smartadserver.com
 www4.smartadserver.com
@@ -6110,6 +6147,7 @@ xpollo.com
 xs.doweralrostra.com
 xtr2020.com
 xu.subpenaveinery.com
+xv.primalredfish.com
 xwlketvkzf.com
 xx.openx.com
 xxlargepop.com
