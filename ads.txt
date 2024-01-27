@@ -2570,6 +2570,7 @@ cdn.onscroll.com
 cdn.orangeclickmedia.com
 cdn.otnolatrnup.com
 cdn.performax.cz
+cdn.pixfuture.com
 cdn.pleenq.com
 cdn.pncloudfl.com
 cdn.popcash.net
@@ -3323,6 +3324,8 @@ get.optad360.io
 gg.adocean.pl
 gg.google.com
 ggo.directrev.com
+ghb1.adtelligent.com
+ghb2.adtelligent.com
 giddinessdefensivesubject.com
 ginchoirblessed.com
 gkevubmfeaph.com
@@ -4429,6 +4432,7 @@ pixel.adbuyer.com
 pixel.captora.com
 pixel.fetchback.com
 pixel.solvemedia.com
+pixfuture2-d.openx.net
 pixl.li
 pjatr.com
 pjtra.com
@@ -4532,6 +4536,7 @@ preamp-clients.header.tech
 prebid-a.rubiconproject.com
 prebid.a-mo.net
 prebid.adnxs.com
+prebidserver.pixfuture.com
 predictad.com
 predictiondexchange.com
 premiumvertising.com
@@ -4947,6 +4952,7 @@ serve.adplxmd.com
 serve.mondiad.net
 serve.natoms.com
 serve.popads.net
+served-by.pixfuture.com
 servedby-buysellads.com
 servedby.adsfactor.net
 servedby.advertising.com
@@ -5515,6 +5521,7 @@ voltads.com
 vooruvou.com
 vop.sundaysky.com
 vpixrlkggv.com
+vrapuhcpim.com
 vsh.visilabs.net
 vsucocesisful.com
 vudsy.com
