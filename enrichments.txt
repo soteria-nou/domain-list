@@ -476,6 +476,7 @@ static.axept.io
 static.elev.io
 static.giftwizard.co
 static.leadpages.net
+static.narrativ.com
 static.plenigo.com
 static.quriobot.com
 static.whatshelp.io

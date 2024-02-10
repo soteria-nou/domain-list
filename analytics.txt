@@ -999,6 +999,7 @@ cdn.twinrdsrv.com
 cdn.unid.go.com
 cdn.uplift-platform.com
 cdn.uptrends.com
+cdn.viafoura.net
 cdn.walkme.com
 cdn.wbtrk.net
 cdn.webglstats.com
@@ -1941,6 +1942,7 @@ events.launchdarkly.com
 events.newsroom.bi
 events.ocdn.eu
 events.redditmedia.com
+events.release.narrativ.com
 events.tubecup.org
 eventtracking-log.ustream.tv
 everestjs.net
@@ -3201,6 +3203,7 @@ overdrive.112.2o7.net
 ovk.xceler8.io
 owa.piwikanalytics.win
 owa.ptice.si
+owistats.net
 owpas.com
 ox-d.coedmediagroup.com
 ox-d.hulkshare.com
@@ -3971,6 +3974,7 @@ services.x-traceur.com
 services.xg4ken.com
 servustv.oewabox.at
 session-replay.browser-intake-datadoghq.com
+sessions.bugsnag.com
 settings.crashlytics.com
 sevenload-en.112.2o7.net
 sevenloadgmbh.112.2o7.net
