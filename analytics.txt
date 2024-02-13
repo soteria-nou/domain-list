@@ -668,6 +668,7 @@ bat.bing.com
 bats.video.yahoo.com
 baynote.net
 bbc.112.2o7.net
+bbcdn-static.bbelements.com
 bbva.112.2o7.net
 bc.nxp.com
 bdt.123rf.com
@@ -1937,6 +1938,7 @@ eventlogger.soundcloud.com
 events-api.outfit7.net
 events-collector.spot.im
 events.appsflyer.com
+events.brightline.tv
 events.deskapi.com
 events.launchdarkly.com
 events.newsroom.bi
@@ -1964,6 +1966,7 @@ f.monetate.net
 f2ncracker.112.2o7.net
 f2nsmh.112.2o7.net
 f2ntheage.112.2o7.net
+fa.micstatic.com
 faceoff.112.2o7.net
 factpdf.xiti.com
 factures.xiti.com
@@ -3727,6 +3730,7 @@ s.btstatic.com
 s.canddi.io
 s.clickability.com
 s.clickiocdn.com
+s.deepl.com
 s.effectivemeasure.net
 s.go-mpulse.net
 s.idio.co
@@ -3969,9 +3973,11 @@ server4.web-stat.com
 service.collarity.com
 service.idsync.analytics.yahoo.com
 service.optify.net
+services.brightline.tv
 services.pornhub.com
 services.x-traceur.com
 services.xg4ken.com
+serving.stat-rock.com
 servustv.oewabox.at
 session-replay.browser-intake-datadoghq.com
 sessions.bugsnag.com
@@ -3982,6 +3988,7 @@ sevenoneintermedia.112.2o7.net
 sevenventures01.wt-eu02.net
 sextracker.com
 seznam.hit.gemius.pl
+sfa.exypnos.digital
 sfcglobalgateway.122.2o7.net
 sftelemetry.sophos.com
 sftv-ssl.wemfbox.ch

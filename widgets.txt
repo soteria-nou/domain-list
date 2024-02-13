@@ -122,6 +122,7 @@ delivery.content-recommendation.net
 delo.bin.livenetlife.com
 dennis.cvtr.co
 dist.pointslocal.com
+disutgh7q0ncc.cloudfront.net
 ds-recommender.styria.hr
 dtkm4pd19nw6z.cloudfront.net
 edge.jobthread.com
