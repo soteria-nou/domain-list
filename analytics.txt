@@ -479,6 +479,7 @@ api.cxense.com
 api.dec.sitefinity.com
 api.demandbase.com
 api.dimestore.com
+api.easycounter.com
 api.entrepreneur.com
 api.europe.kontagent.net
 api.fandommetrics.com
@@ -3546,6 +3547,7 @@ qmnetwor.ivwbox.de
 qs.oewabox.at
 qsearch.media.net
 query.fandommetrics.com
+quesid.com
 questsoftware.112.2o7.net
 quick-yen-88111.appspot.com
 qwestfull.112.2o7.net
@@ -4097,6 +4099,7 @@ spade.twitch.tv
 spanids.dictionary.com
 spanids.reference.com
 spatterjointposition.com
+spc.n26.com
 specsavers01.wt-eu02.net
 spectrum.gettyimages.com
 spektrum.ivwbox.de
@@ -4860,6 +4863,7 @@ trk.tracksys55.com
 trk.vidible.tv
 trkclk.adk2x.com
 trkn.us
+trx4.famousfix.com
 try.abtasty.com
 ts.popsugar.com
 ts.tnaflix.com
@@ -5352,6 +5356,7 @@ yahoovod.hs.llnwd.net
 yamaha.122.2o7.net
 yamaha.com.122.2o7.net
 yamahayca.122.2o7.net
+yeet.revcontent.com
 yellowpages.112.2o7.net
 yepdigital.adk2x.com
 yhb.p.otm-r.com

@@ -57,6 +57,7 @@ app.mailerlite.com
 app.optinarchitect.com
 app.secureprivacy.ai
 app.truepush.com
+applets.ebxcdn.com
 apps.nexus.bazaarvoice.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
@@ -311,6 +312,7 @@ linker.hr
 linkprotect.cudasvc.com
 linuxdevcenter.us.intellitxt.com
 linuxforums.us.intellitxt.com
+live.primis.tech
 livenationlabs-tools.s3.amazonaws.com
 lmcd.us.intellitxt.com
 load.jsecoin.com
@@ -364,6 +366,7 @@ no.intellitxt.com
 notebookreview.us.intellitxt.com
 nowhere.jp.intellitxt.com
 ntcompatible.us.intellitxt.com
+ntwkbc21.com
 nvnews.us.intellitxt.com
 ny1-g004.us.intellitxt.com
 ny1-g008.us.intellitxt.com

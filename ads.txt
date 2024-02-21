@@ -1694,6 +1694,7 @@ adserver.pressboard.ca
 adserver.pubblicitaonline.it
 adserver.quizdingo.com
 adserver.revision3.com
+adserver.samsvojmajstor.com
 adserver.securityfocus.com
 adserver.seedpeer.com
 adserver.sevenload.com
@@ -2449,6 +2450,7 @@ cache.adelement.com
 cache.betweendigital.com
 cache.celtra.com
 cafemedia-d.openx.net
+cameesse.net
 campaigns.de.euserv.adaos-ads.net
 camplethora.com
 canvas.thenextweb.com
@@ -2605,6 +2607,7 @@ cdn.teads.tv
 cdn.technoratimedia.com
 cdn.trugaze.io
 cdn.tsyndicate.com
+cdn.tubecorp.com
 cdn.twinrdsyte.com
 cdn.uponelectabuzzor.club
 cdn.viglink.com
@@ -2791,6 +2794,7 @@ creative.clbjmp.com
 creative.hpyrdr.com
 creative.mnaspm.com
 creative.readserver.net
+creative.rmhfrtnd.com
 creative.schjmp.com
 creative.speednetwork4.com
 creative.speednetwork6.com
@@ -3255,6 +3259,7 @@ fiorenetwork.com
 firejackpot.com
 fixedencampment.com
 fixedpos.advertserve.com
+flankercerates.top
 floatingads.madisonavenue.com
 fls-eu.amazon-adsystem.com
 fls-na.amazon-adsystem.com
@@ -3447,6 +3452,7 @@ hb.vntsm.com
 hbx.media.net
 hcg82f2b.com
 hcokcetfyanm.com
+hdbkome.com
 heise.nuggad.net
 helaid.com
 heleric.com
@@ -3784,6 +3790,7 @@ lduhtrp.net
 leadback.advertising.com
 leads.specificmedia.com
 leftbedroom.com
+lehoacku.net
 lepinsar.com
 lepubs.com
 lespecies.info
@@ -3938,6 +3945,7 @@ mfakiqmafjr.com
 mg.adskeeper.co.uk
 mgcrs.dawirax.com
 mi.adinterax.com
+micro.rubiconproject.com
 midgetincidentally.com
 miniad2.layer-ad.org
 miscur.com
@@ -3986,6 +3994,7 @@ mps.nbcuni.com
 mr1a.exs.pl
 mrb.upapi.net
 mrkzgpbaapif.com
+mrykkulwenw.com
 mscoldness.com
 mse2v5oglm.com
 msrejection.com
@@ -4010,6 +4019,7 @@ mybestdc.com
 mybestmv.com
 mycdn.co
 myclickbankads.com
+myolnyr5bsk18.com
 myroitracking.com
 myxer.adbureau.net
 n.ads1-adnow.com
@@ -4107,6 +4117,7 @@ nym1.adnxs.com
 nym1.ib.adnxs.com
 nyyed.com
 o0.winfuture.de
+oachailo.net
 oagudsey.uk
 oas-eu.247realmedia.com
 oas.adservingml.com
@@ -4362,6 +4373,7 @@ ox2.pron.tv
 oxbfibsfejh.com
 oxhax.com
 oxmpuvakrtu.com
+oxvmfefzekiv.com
 oxxakkjuzo.com
 p-td.com
 p.adpdx.com
@@ -4661,6 +4673,7 @@ px.adscale.de
 q.adrta.com
 q1mediahydraplatform.com
 q45nsj9d.accountant
+qailemejoucawpb.com
 qciadgomghh.com
 qfoafjopdj.com
 qifxwiruhrr.com
@@ -4677,6 +4690,7 @@ quicktask.xyz
 qvtcigr.com
 qzfrmewdbzkcsf.com
 r-eu.tsyndicate.com
+r-us.tsyndicate.com
 r.adc-srv.net
 r.adrolays.de
 r.ligatus.com
@@ -4755,6 +4769,7 @@ relay.toboads.si
 remarketstats.com
 remtoaku.net
 rentalrebuild.com
+repentantsympathy.com
 repmbuycurl.com
 reportions.club
 reports.adspdbl.com
@@ -4779,6 +4794,7 @@ rh.adscale.de
 rhsorga.com
 ricead.com
 richcatis.com
+rigill.com
 ringierrs.adocean.pl
 ripbwing.com
 rkgwzfwjgk.com
@@ -4882,6 +4898,7 @@ s.pubmine.com
 s.speednetwork4.com
 s.spolecznosci.net
 s.spoutable.com
+s.uuidksinc.net
 s.vi-serve.com
 s.zkcdn.net
 s.zlink3.com
@@ -5066,6 +5083,7 @@ smp.specificmedia.com
 smpop.icfcdn.com
 snappedimpressive.com
 snickgainfulmuch.com
+snuggrow.com
 softonicads.com
 softpopads.com
 soilyseastar.digital
@@ -5235,6 +5253,7 @@ t.crdefault.link
 t.favaqo.xyz
 t.frtyq.com
 t.get-native.eu
+t.hypeauditor.com
 t.jimdo-platform.net
 t.ju33.com
 t.mdn2015x2.com
@@ -5499,6 +5518,7 @@ vast.vstserv.com
 vast.yomeno.xyz
 vast.yurivideo.com
 vaugroar.com
+vavuwetus.com
 vcuazjhuspz.com
 vd.7vid.net
 vdrn.redplum.com
@@ -5828,6 +5848,7 @@ www.hzsmmfohtye.com
 www.iacpublish.com
 www.icjvfvoh.com
 www.icuazeczpeoohx.com
+www.icy-location.com
 www.idkyfrsbzesx.com
 www.ihqxhokndcfq.com
 www.ildwicqrqazgjz.com
@@ -6004,6 +6025,7 @@ www.sflywfcanq.com
 www.sgfsdvc.com
 www.sgiueejx.com
 www.slrviazqkilu.com
+www.smewwuwppjbebd.com
 www.smoozed.rocks
 www.socialnewpages.com
 www.spoj.com
@@ -6027,6 +6049,7 @@ www.text-link-ads.com
 www.tfqhmnexjjni.com
 www.tfqzkesrzttj.com
 www.tgzobwoutuwn.com
+www.thicackfyr.com
 www.tichatafe.pro
 www.tisoomi-services.com
 www.tiunnitm.bid
@@ -6034,6 +6057,7 @@ www.tluumnjyrc.com
 www.tnwyjsgypjpc.com
 www.topcpmnetwork.com
 www.toponclick.com
+www.toprevenuegate.com
 www.tqmibkqlwqdysi.com
 www.tr553.com
 www.tradeadexchange.com
@@ -6190,6 +6214,7 @@ xs.doweralrostra.com
 xtr2020.com
 xu.subpenaveinery.com
 xv.primalredfish.com
+xwahamswip.com
 xwlketvkzf.com
 xx.openx.com
 xxlargepop.com
