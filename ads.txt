@@ -2064,6 +2064,7 @@ api.elipso.hr
 api.ero-advertising.com
 api.hatscher.eu
 api.kekw.website
+api.leanplum.com
 api.ooyala.com
 api.pcgh.io
 api.reon.club
@@ -2079,6 +2080,7 @@ api2.inform.youniversalmedia.com
 apmebf.com
 apnxasonfn.com
 app-ab13.marketo.com
+app.adjust.net.in
 app.brightinfo.com
 app.clickfunnels.com
 app.cointraffic.in
@@ -2092,6 +2094,7 @@ apps.rokt.com
 apycdn.com
 aqdawmosjv.com
 aqpogwawr.com
+aqueduct.revolut.com
 arbomedia.nuggad.net
 arcadebannerexchange.net
 arcadebanners.com
@@ -2403,6 +2406,7 @@ boylesportsreklame.com
 br3azil334nutsz.com
 brakefluid.website
 brakesoutright.com
+braze.eu
 brdmin.com
 brightonclick.com
 browsers.support
@@ -2558,6 +2562,7 @@ cdn.id5-sync.com
 cdn.iframe.datinggold.com
 cdn.impactserving.com
 cdn.innity.net
+cdn.insurads.com
 cdn.interactivemedia.net
 cdn.intergi.com
 cdn.investingchannel.com
@@ -3450,6 +3455,7 @@ hb-api.omnitagjs.com
 hb.adtelligent.com
 hb.vntsm.com
 hbx.media.net
+hbzikbe.com
 hcg82f2b.com
 hcokcetfyanm.com
 hdbkome.com
@@ -4112,6 +4118,7 @@ nullsrefilliron.com
 nutattorneyjack.com
 nutsmargaret.com
 nwwais.com
+nxexydg.com
 nyacampwk.com
 nym1.adnxs.com
 nym1.ib.adnxs.com
@@ -4964,6 +4971,7 @@ scripts.kiosked.com
 scripts.mediavine.com
 scripts.webcontentassessor.com
 sdk.appadhoc.com
+sdk.fra-02.braze.eu
 sdk.sharethrough.com
 sdk.streamrail.com
 sdk.vindicosuite.com

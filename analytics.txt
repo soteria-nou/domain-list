@@ -285,6 +285,7 @@ advertures.directtrack.com
 adviggroupdailyfxrollup.112.2o7.net
 advombat.ru
 aetv.112.2o7.net
+af-appsflyersdk.edgekey.net
 afe.specificclick.net
 aff.xiti.com
 affiliate.likemag.com
@@ -510,6 +511,7 @@ api.taps.io
 api.telemetry.watchabc.go.com
 api.tvpage.com
 api.umbel.com
+api.usercentrics.eu
 api.usercycle.com
 api.verticalscope.com
 api.viafoura.co
@@ -545,6 +547,7 @@ apps.developermedia.com
 apps.outfit7.com
 apwvx.adsbtrack.com
 apx.moatads.com
+aqueduct.revolutlabs.com
 arbo.hit.gemius.pl
 arc.msn.com
 archi2.xiti.com
@@ -1285,6 +1288,7 @@ cr.acecounter.com
 cr3wc89sw3.global.ssl.fastly.net
 cra.hum.works
 crain.d1.sc.omtrdc.net
+crashlyticsreports-pa.googleapis.com
 crd.hitbox.com
 create.leadid.com
 creative.imagetwistcams.com
@@ -2219,6 +2223,7 @@ gwiqcdn.globalwebindex.net
 h.imedia.cz
 h.nexac.com
 h.seznam.cz
+h.trace.qq.com
 h.wikia-beacon.com
 h30-deploy.hiconversion.com
 hades.srvtrck.com
@@ -2510,6 +2515,7 @@ kmtx.de
 kmylvwo5.com
 koi-1megvvq.marketingautomation.services
 konicaminoltahd.122.2o7.net
+kooxfoqgot.com
 kpr2exp21.com
 kraftfoodseurope.d3.sc.omtrdc.net
 krater.iprom.net
@@ -2878,6 +2884,7 @@ mdlbs.motor-talk.de
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
 me-ssl.effectivemeasure.net
+meas.ad.pr.ameba.jp
 measurefact.com
 medhelpinternational.112.2o7.net
 media.conversio.com
@@ -3195,9 +3202,11 @@ oracleglobal.112.2o7.net
 orange.salesmanago.pl
 origin.oiscripts.com
 orpae.com
+osa-logging.s24-media.immobilienscout24.de
 osimg.nbcuni.com
 osobnosti-cz.performax.cz
 otf.msn.com
+oth.str.beacon.qq.com
 otnolatrnup.com
 ots.optimize.webtrends.com
 ottawa.xiti.com
@@ -3520,6 +3529,7 @@ pw.ibanbic.com
 px.adhigh.net
 px.ads.linkedin.com
 px.airpr.com
+px.effirst.com
 px.media-serving.com
 px.moatads.com
 px.owneriq.net
