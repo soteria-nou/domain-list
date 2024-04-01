@@ -509,6 +509,7 @@ api.spoldzielnia.nsaudience.pl
 api.stathat.com
 api.taps.io
 api.telemetry.watchabc.go.com
+api.tezfiles.com
 api.tvpage.com
 api.umbel.com
 api.usercentrics.eu
@@ -748,6 +749,7 @@ box.xing.com
 bptracking.com
 brahe.apptimize.com
 bravo-lea.com
+breezefraudulent.com
 brightcove.112.2o7.net
 brownshoe.112.2o7.net
 browser.events.data.microsoft.com
@@ -1925,6 +1927,7 @@ etahub.com
 etrk.asus.com
 eu-mobile.events.data.microsoft.com
 eu-sonar.sociomantic.com
+eu.histi.co
 eu.npario-inc.net
 eu2.snoobi.eu
 eucerin.122.2o7.net
@@ -2109,6 +2112,7 @@ gemius.zoznam.sk
 generalmotors.112.2o7.net
 genimages.xiti.com
 genspot.iprom.net
+genuine-crash.com
 geo-um.btrll.com
 geo.cnbc.com
 geo.gorillanation.com
@@ -2881,6 +2885,7 @@ mcclatchy.sc.omtrdc.net
 mcdote.com
 mcuwuxfuqb.com
 mdlbs.motor-talk.de
+mdstats.info
 mdwaugusta.112.2o7.net
 me-cdn.effectivemeasure.net
 me-ssl.effectivemeasure.net
@@ -2924,6 +2929,7 @@ metrics.cdnjs.work
 metrics.cnn.com
 metrics.consumerreports.org
 metrics.dailymotion.com
+metrics.doppiostreams.com
 metrics.el-mundo.net
 metrics.electronicdesign.com
 metrics.ew.com
@@ -3053,6 +3059,7 @@ najdi.d3.sc.omtrdc.net
 nakanohito.jp
 nasdaqgcs.d2.sc.omtrdc.net
 natgeonews.112.2o7.net
+native-track.com
 nats.xing.com
 navdmp.com
 nba.122.2o7.net
@@ -3132,6 +3139,7 @@ ntvpevnts.com
 ntvpinp.com
 nvg.nbcnews.com
 nwbidrtb.com
+nwwrtbbit.com
 nxp.112.2o7.net
 nxtck.com
 nydailynews.d1.sc.omtrdc.net
@@ -4550,6 +4558,7 @@ tags.us.onscroll.com
 tags.w55c.net
 tagtestb.ivwbox.de
 tagx.nytimes.com
+tamperlaugh.com
 tap-secure.rubiconproject.com
 tap.idg.de
 target.net.finam.ru
@@ -4934,6 +4943,7 @@ undooptimisticsuction.com
 unimusic.ivwbox.de
 unistreamvideoad.iprom.net
 universal.iperceptions.com
+unseenreport.com
 untiloutrage.com
 up.nytimes.com
 update.code.visualstudio.com
@@ -4960,6 +4970,7 @@ usasync01.admantx.com
 usatoday1.112.2o7.net
 uscollector.tealeaf.ibmcloud.com
 use1.fptls.com
+user-stats.rbl.ms
 ustatik.com
 ut.performax.cz
 utd.stratigent.com
