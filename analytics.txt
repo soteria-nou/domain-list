@@ -284,6 +284,7 @@ advancedtracker.appspot.com
 advertures.directtrack.com
 adviggroupdailyfxrollup.112.2o7.net
 advombat.ru
+aegis.qq.com
 aetv.112.2o7.net
 af-appsflyersdk.edgekey.net
 afe.specificclick.net
@@ -1937,6 +1938,7 @@ europerty.pro
 eurts.com
 eus.rubiconproject.com
 euweaj49.appmetrx.com
+eva2.csdn.net
 event.adxpose.com
 event.inner-active.mobi
 event.wired.com
@@ -3001,6 +3003,7 @@ morestuffapi.test.inspcloud.com
 moss.aragon.si
 motorpressestuttgart.d3.sc.omtrdc.net
 mototalk.ivwbox.de
+mp-activity.csdn.net
 mp.pianomedia.eu
 mp3world.ivwbox.de
 mpn-analytics.mokonocdn.com
@@ -3215,6 +3218,7 @@ osimg.nbcuni.com
 osobnosti-cz.performax.cz
 otf.msn.com
 oth.str.beacon.qq.com
+otheve.beacon.qq.com
 otnolatrnup.com
 ots.optimize.webtrends.com
 ottawa.xiti.com
@@ -3312,6 +3316,7 @@ phonograph2.voxmedia.com
 phyphuphuxy.com
 pi.pardot.com
 pier.deepo.io
+ping.cloud.tencent.com
 ping.dozuki.com
 ping.smyte.com
 ping.typekit.net
@@ -3401,6 +3406,7 @@ pixel.jumptap.com
 pixel.keywee.co
 pixel.madadsmedia.com
 pixel.mathtag.com
+pixel.mediamathrdrt.com
 pixel.netseer.com
 pixel.newsdata.com.au
 pixel.prfct.co
@@ -3848,6 +3854,7 @@ s361.mxcdn.net
 s37.sitemeter.com
 s38.sitemeter.com
 s39.sitemeter.com
+s3a.pstatp.com
 s4.cnzz.com
 s4.histats.com
 s4.hit.stat.pl
@@ -3976,6 +3983,7 @@ segment-pixel.invitemedia.com
 segments.adaptv.advertising.com
 senergy.teslarati.com
 seness.info
+sensors.cloud.tencent.com
 sentry.hetzner.company
 sentry.ilol.si
 sentry.pnblab.com
