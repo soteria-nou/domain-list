@@ -94,6 +94,7 @@ cackle.me
 cashewsforlife208.com
 cc.cdn.civiccomputing.com
 ccpa.sp-prod.net
+cdn-apac.onetrust.com
 cdn-cookieyes.com
 cdn.adf.ly
 cdn.ampproject.org
@@ -133,6 +134,7 @@ celebrity-rightpundits.us.intellitxt.com
 celebritywonder.us.intellitxt.com
 chat.freshdesk.com
 check.ddos-guard.net
+choices.consentframework.com
 cinemablend.us.intellitxt.com
 citizen-times.us.intellitxt.com
 clientcdn.pushengage.com

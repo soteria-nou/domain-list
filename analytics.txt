@@ -223,6 +223,7 @@ absential.info
 abtracker.us
 ac.mmstat.com
 ac.perf.linkedin.com
+ac2.tnaflix.com
 accstandardbank.112.2o7.net
 accumulatork.com
 accustomreview.com
@@ -457,6 +458,7 @@ apac.analytics.yahoo.com
 aparser1-nat.hitbox.com
 ape-tagit.timeinc.net
 apex.go.sonobi.com
+api-2-0.spot.im
 api-http-lb.vadio.com
 api-js.datadome.co
 api-prod.secureprivacy.ai
@@ -468,6 +470,7 @@ api.altmetric.com
 api.amplitude.com
 api.apflyer.com
 api.appmonsta.com
+api.assertcom.de
 api.autopilothq.com
 api.behavioralengine.com
 api.bounceexchange.com
@@ -968,6 +971,7 @@ cdn.onthe.io
 cdn.optimizely.com
 cdn.pardot.com
 cdn.parsely.com
+cdn.pbxai.com
 cdn.perfdrive.com
 cdn.permutive.com
 cdn.petametrics.com
@@ -1151,6 +1155,7 @@ cnnglobal.122.2o7.net
 cnstats.ru
 cnstrc.com
 cnt.sup.com
+cnt.tubeon.com
 cnt.tyxo.bg
 cnt.wetteronline.de
 cnt.xhamster.com
@@ -1306,6 +1311,7 @@ crtracklink.com
 cruftexcision.xyz
 cruisecritic.d1.sc.omtrdc.net
 crumbs.robinhood.com
+cs-server-s2s.yellowblue.io
 cs.digitalbox.ru
 cs.luckyorange.net
 cs.ns1p.net
@@ -1897,6 +1903,7 @@ ehg-zoom.hitbox.com
 ehg.hitbox.com
 ehg4.hitbox.com
 ehg42.hitbox.com
+elb.the-ozone-project.com
 eletronicarts.112.2o7.net
 elliotfoodauditioning.com
 elsevier.d1.sc.omtrdc.net
@@ -2028,6 +2035,7 @@ flake.formr.io
 flcrcyj.com
 fleraprt.com
 flipkart.d1.sc.omtrdc.net
+floor.pbxai.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
 fls-eu.amazon.de
@@ -2212,6 +2220,7 @@ gruppoespresso01.webtrekk.net
 gscounters.au1.gigya.com
 gscounters.us1.gigya.com
 gslbeacon.lijit.com
+gtrack.kueezrtb.com
 gtru.hit.gemius.pl
 guenstig.ivwbox.de
 gumroad.com
@@ -2346,6 +2355,7 @@ ice.112.2o7.net
 icon2count.com
 icotrack.net
 id.crwdcntrl.net
+id.rlcdn.com
 idealo01.webtrekk.net
 ideoclick.com
 idg.hit.gemius.pl
@@ -2360,6 +2370,7 @@ ikunselt.com
 im.nuggad.net
 im.xiti.com
 image.masterstats.com
+image8.pubmatic.com
 images.stats.lt
 img-cdn.mediaplex.com
 img.en25.com
@@ -2485,6 +2496,7 @@ js.logentries.com
 js.matheranalytics.com
 js.monitor.azure.com
 js.neodatagroup.com
+js.onclckmn.com
 js.stroeermediabrands.de
 js.ta80.com
 js.usemessages.com
@@ -2865,6 +2877,7 @@ mas.nth.ch
 mashable.d2.sc.omtrdc.net
 match.prod.bidr.io
 match.rtbidder.net
+match.sharethrough.com
 mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
@@ -3028,6 +3041,7 @@ msntrademarketing.112.2o7.net
 msnwinonecare.112.2o7.net
 mssdk-va.tiktok.com
 mswmwpapolloprod.122.2o7.net
+mt.9gag.com
 mtg100008.112.2o7.net
 mtrx.go.sonobi.com
 mtv-s.nuggad.net
@@ -3176,6 +3190,9 @@ omniture.112.2o7.net
 omniture.mirror.co.uk
 omniturecom.112.2O7.net
 oms.symantec.com
+onclckinp.com
+onclckip.com
+onclckmetrics.com
 onclickalgo.com
 onclickgenius.com
 onclickmega.com
@@ -3433,6 +3450,7 @@ pj.l.admedo.com
 pks.a.mobimagic.com
 pl.gmads.net
 pl6447009.puhtml.com
+placement-prd.jwpltx.com
 planck.xiti.com
 platform-metrics-api.sharethis.com
 platform.bidgear.com
@@ -3697,6 +3715,7 @@ roi.vertical-leap.co.uk
 rok.iprom.si
 rosenberg.appmetrica.yandex.net
 rotator.trafficstars.com
+roundspaniardindefinitely.com
 rover.ebay.at
 rover.ebay.co.uk
 rover.ebay.com
@@ -3774,6 +3793,7 @@ s.ns1p.net
 s.ntv.io
 s.optnx.com
 s.sa.aol.com
+s.seedtag.com
 s.shopify.com
 s.srvntrk.com
 s.swiftypecdn.com
@@ -3945,6 +3965,7 @@ searchstax.measuredsearch.com
 seat.d3.sc.omtrdc.net
 sec.levexis.com
 seccliprod.alipay.com
+secondquaver.com
 secure-au.imrworldwide.com
 secure-cdn.mplxtms.com
 secure-cn.imrworldwide.com
@@ -3975,6 +3996,7 @@ secured.xiti.com
 secured75.xiti.com
 securemetrics.apple.com
 securepubads.g.doubleclick.net
+seg.ad.gt
 segainc.112.2o7.net
 segapi.quantserve.com
 segment-data-us-east.zqtk.net
@@ -4161,6 +4183,7 @@ srx.ca.ebayrtm.com
 srx.cn.ebayrtm.com
 srx.uk.ebayrtm.com
 srx.us.ebayrtm.com
+ssc-cms.33across.com
 ssc.33across.com
 ssc.api.bbc.com
 ssc.independent.co.uk
@@ -4272,6 +4295,7 @@ static.getclicky.com
 static.hotjar.com
 static.imgserve.us
 static.kameleoon.com
+static.kueezrtb.com
 static.lalaping.com
 static.mediarithmics.com
 static.mywebstats.com.au
@@ -4467,7 +4491,9 @@ sync.go.sonobi.com
 sync.liverail.com
 sync.mathtag.com
 sync.rambler.ru
+sync.richaudience.com
 sync.search.spotxchange.com
+sync.smartadserver.com
 sync.tidaltv.com
 sync.upravel.com
 t-stand.oewabox.at
@@ -4492,6 +4518,7 @@ t.frtyi.com
 t.garena.com
 t.grtyo.com
 t.hrtya.com
+t.imgur.com
 t.indeed.com
 t.irtyc.com
 t.irtyf.com
@@ -4578,6 +4605,7 @@ targeting-userprofile-arc-wpost-prod.arc.nile.works
 targeting.unrulymedia.com
 targeting.wpdigital.net
 tarkita.ru
+tbazdq.xyz
 tcss.qq.com
 tdi.mezzobit.com
 tealium.hs.llnwd.net
@@ -4689,6 +4717,7 @@ track.appsflyer.com
 track.aso1.net
 track.asus.com
 track.attributionapp.com
+track.audiotouch.info
 track.audtd.com
 track.blogcounter.de
 track.brucelead.com
@@ -4708,6 +4737,7 @@ track.hulu.com
 track.idtargeting.com
 track.interslo.com
 track.jobst-audio.de
+track.kueezrtb.com
 track.loox.io
 track.mailerlite.com
 track.mlsend2.com
@@ -4919,6 +4949,7 @@ twittercounter.com
 ty0lm9uz.onet.pl
 tz.ts.vindicosuite.com
 u.btserve.com
+u.kueezrtb.com
 u.openx.net
 ua.hit.gemius.pl
 uaadcodedsp.rontar.com
@@ -4955,6 +4986,7 @@ unseenreport.com
 untiloutrage.com
 up.nytimes.com
 update.code.visualstudio.com
+ups.analytics.yahoo.com
 ups.ksmobile.net
 ups.xplosion.de
 upt.graphiq.com
@@ -5059,8 +5091,10 @@ visibility-stats.com
 vision.fn-pz.com
 visit.webhosting.yahoo.com
 visiteurs.xiti.com
+visitor.omnitagjs.com
 visitorinsight.silverpop.com
 visor.sberbank.ru
+vitals.vercel-insights.com
 vixnixxer.com
 vlog.leadformix.com
 vnumedia01.webtrekk.net
