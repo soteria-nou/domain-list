@@ -107,12 +107,14 @@ cdn.cookie-script.com
 cdn.cookielaw.org
 cdn.dynamicyield.com
 cdn.feedbackify.com
+cdn.feedify.net
 cdn.flipboard.com
 cdn.georiot.com
 cdn.getsmartcontent.com
 cdn.goroost.com
 cdn.introbar.com
 cdn.izooto.com
+cdn.ketchjs.com
 cdn.klickly.com
 cdn.moengage.com
 cdn.onesignal.com
@@ -435,6 +437,7 @@ s-eu-1.pushpushgo.com
 s.ivillage.us.intellitxt.com
 s.ppjol.net
 s.surveyplanet.com
+sask.app.bbb.org
 savvy.us.intellitxt.com
 sc.intellitxt.com
 script.idvert.cz

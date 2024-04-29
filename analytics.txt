@@ -231,6 +231,7 @@ acestats.com
 acidpigs.com
 acpc.perf.linkedin.com
 acpmagazines.112.2o7.net
+acquaintcollaboratefruitless.com
 acquireinsight.net
 action.media6degrees.com
 activate.tapatalk.com
@@ -459,6 +460,7 @@ aparser1-nat.hitbox.com
 ape-tagit.timeinc.net
 apex.go.sonobi.com
 api-2-0.spot.im
+api-analista.icons8.com
 api-http-lb.vadio.com
 api-js.datadome.co
 api-prod.secureprivacy.ai
@@ -730,6 +732,7 @@ bigdawg.hitbox.com
 bigip1-64.hitbox.com
 bigip2-64.hitbox.com
 bin.livenetlife.com
+biopsyintruder.com
 bitrix.info
 bizjournals.112.2o7.net
 blockadsnot.com
@@ -756,6 +759,7 @@ bravo-lea.com
 breezefraudulent.com
 brightcove.112.2o7.net
 brownshoe.112.2o7.net
+browser-intake-datadoghq.com
 browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
@@ -958,11 +962,13 @@ cdn.itphanpytor.club
 cdn.itsup.com
 cdn.justuno.com
 cdn.kashtanka.in
+cdn.keywee.co
 cdn.krxd.net
 cdn.lift.acquia.com
 cdn.listrakbi.com
 cdn.luckyorange.com
 cdn.mateti.net
+cdn.matomo.cloud
 cdn.mediaessence.net
 cdn.mplxtms.com
 cdn.mxpnl.com
@@ -988,6 +994,7 @@ cdn.segment.com
 cdn.segment.io
 cdn.sendpulse.com
 cdn.shortpixel.ai
+cdn.sift.com
 cdn.siftscience.com
 cdn.smart-digital-solutions.com
 cdn.speedcurve.com
@@ -1020,6 +1027,7 @@ cdn.yldbt.com
 cdn.yottaa.com
 cdn.zarget.com
 cdn.zeerat.com
+cdn01.basis.net
 cdn01.mzbcdn.net
 cdn1.affirm.com
 cdn1.developermedia.com
@@ -1114,6 +1122,7 @@ clickcdn.xda-developers.com
 clickguard.co
 clicklogger.rm.uol.com.br
 clicks.pipaffiliates.com
+clickserv.sitescout.com
 clicktale.pantherssl.com
 clicktalecdn.sslcs.cdngc.net
 clicktracker.pint.com
@@ -1247,6 +1256,7 @@ countante.info
 counter-new.hitbox.com
 counter-old.hitbox.com
 counter.adguard.com
+counter.eeworld.com.cn
 counter.goingup.com
 counter.inkfrog.com
 counter.lentainform.com
@@ -1988,10 +1998,12 @@ faceoff.112.2o7.net
 factpdf.xiti.com
 factures.xiti.com
 factures2.xiti.com
+failpendingoppose.com
 fairfax.demdex.net
 fairfaxau.d1.sc.omtrdc.net
 fairfaxau.demdex.net
 fairfaxau.sc.omtrdc.net
+faithfullywringfriendship.com
 fanatics.112.2o7.net
 fanaticssingleteam.collect.igodigital.com
 fanefo.com
@@ -2188,6 +2200,7 @@ go.techtarget.com
 go.theregister.co.uk
 go2.hit.gemius.pl
 goals.ar.gy
+gobetweencomment.com
 gocp.stroeermediabrands.de
 goetheinstitut01.webtrekk.net
 goldbach.hit.gemius.pl
@@ -2271,6 +2284,7 @@ heise01.webtrekk.net
 hello.staticstuff.net
 hetzner.piwikpro.com
 hewmjifrn4gway.com
+hexagon-analytics.com
 hey.hellobar.com
 hfunt.com
 hfutz.com
@@ -2306,6 +2320,7 @@ hitwebcounter.com
 hk.2.cqcounter.com
 hoanoola.net
 hoaxbasesalad.com
+honeymoondisappointed.com
 horizon.forbes.com
 horizon.mashable.com
 hosted-oswa.org
@@ -2327,6 +2342,7 @@ hub.celtra.com
 hubt.pornhub.com
 hull.xiti.com
 hulu.112.2o7.net
+hunchsewingproxy.com
 hv3.webstat.com
 hz.mmstat.com
 hzs8.cnzz.com
@@ -2558,6 +2574,8 @@ lapi.ebay.com
 laptopmag.122.2o7.net
 lastminengb.112.2o7.net
 lastminitit.112.2o7.net
+layeravowportent.com
+lazyrelentless.com
 lb.apicit.net
 lb.fruitflan.com
 lb.liveviewer.ez.no
@@ -2576,6 +2594,7 @@ lenovo.evergage.com
 lenovo.tt.omtrdc.net
 levexis.com
 levis.xiti.com
+lf1-cdn-tos.bytegoofy.com
 lg.logging.admicro.vn
 lg1.hb.yahoo.net
 lh.secure.yahoo.com
@@ -3398,6 +3417,7 @@ pixall.esm1.net
 pixel-geo.prfct.co
 pixel-my.pixelinteractivemedia.com
 pixel-static.spotify.com
+pixel-sync.sitescout.com
 pixel.1und1.de
 pixel.33across.com
 pixel.admobclick.com
@@ -3509,6 +3529,8 @@ prnewswire.122.2o7.net
 pro.hit.gemius.pl
 probe.wibilong.com
 probe.yieldlab.net
+prod.fennec.atp.fox
+prod.pyxis.atp.fox
 prod.trendemon.com
 prod01-piwik.firstlook.org
 production-europe.frontpage-web.virginia.onservo.com
@@ -3632,6 +3654,7 @@ rainbowmedia.122.2o7.net
 rainmaker.digitalbrandsinc.netdna-cdn.com
 rakuten.112.2o7.net
 ramp.purch.com
+ransomsection.com
 rapidtrk.net
 rapportspdf.xiti.com
 rateee.hit.gemius.pl
@@ -4117,6 +4140,7 @@ smtrcs.redhat.com
 smy.iheart.com
 snap.licdn.com
 sniff.visistat.com
+snoutinsolence.com
 so.rlcdn.com
 sockjs.pusher.com
 sodc.wunderground.com
@@ -4650,6 +4674,7 @@ thenielsencompany.tt.omtrdc.net
 theonecdn.com
 therse.info
 thinkgeek.112.2o7.net
+thinnerwishingeccentric.com
 thoccourse.112.2o7.net
 thoroughask.com
 thoughtcatalog-d.openx.net
@@ -5209,6 +5234,7 @@ wix-worker.visitor-analytics.net
 wm.wiredminds.de
 wm2.wiredminds.de
 wolverineworldwide.112.2o7.net
+woollouder.com
 wordgetboo.com
 woundedassurance.com
 wp.hit.gemius.pl
@@ -5449,6 +5475,7 @@ zeit01.webtrekk.net
 zero.kz
 zf1.echo-cat.com
 zgi-heise.nuggad.net
+zhanzhang.toutiao.com
 ziffdavisdesktoplinux.112.2o7.net
 ziffdavisenterprise.112.2o7.net
 ziffdavisglobal.112.2o7.net
