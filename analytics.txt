@@ -331,6 +331,7 @@ amplify.outbrain.com
 amplifypixel.outbrain.com
 amsvts.com
 amznshopbop.122.2o7.net
+an.mail.ru
 analista.icons8.com
 analitik.obisk.net
 analitika.arnes.si
@@ -405,6 +406,7 @@ analytics.primorske.si
 analytics.query.yahoo.com
 analytics.r17.com
 analytics.rec-tube.com
+analytics.reporter.si
 analytics.revee.com
 analytics.shareaholic.com
 analytics.si21.com
@@ -416,12 +418,14 @@ analytics.socialblade.com
 analytics.spankbang.com
 analytics.styria.hr
 analytics.supplyframe.com
+analytics.svet24.si
 analytics.thevideo.me
 analytics.tiktok.com
 analytics.tmonews.com
 analytics.traderlink.com
 analytics.trendmicro.com
 analytics.unister.gmbh.de
+analytics.vecer.com
 analytics.vpsboard.com
 analytics.vyrl.co
 analytics.webpushr.com
@@ -544,6 +548,7 @@ app.ubertags.com
 app.usercentrics.eu
 app.whoisvisiting.com
 app.widiz.com
+app3.salesmanago.pl
 appapi.inspsearchapi.com
 appinfo.toptal.com
 appleglobal.112.2o7.net
@@ -712,6 +717,7 @@ beacons3.gvt2.com
 beacons4.gvt2.com
 beacons5.gvt2.com
 beagle.prod.tda.link
+beam.vecer.com
 beamedshipwreck.com
 beap.gemini.yahoo.com
 beat.wix.com
@@ -763,6 +769,7 @@ browser-intake-datadoghq.com
 browser.events.data.microsoft.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
+bs.webtalk.ru
 bshare.optimix.asia
 bstats.adbrite.com
 btcom.112.2o7.net
@@ -787,6 +794,7 @@ bvwr.hitbox.com
 by.uservoice.com
 by2.uservoice.com
 c-ko.imedia.cz
+c.4dex.io
 c.adexchangemachine.com
 c.adskeeper.com
 c.bigmir.net
@@ -2188,6 +2196,7 @@ gnar.grammarly.com
 gntbcstglobal.112.2o7.net
 gntbcstkusa.112.2o7.net
 go-ctr-tracker.pub.24ur.si
+go-usertrack-importer.pub.24ur.si
 go.giga-abs.de
 go.mobisla.com
 go.mobtrks.com
@@ -2448,6 +2457,7 @@ internettraffic.click
 interyield.td563.com
 interyield.td573.com
 intljs.rmtag.com
+invst.pages.dev
 iodineshine.com
 ipcmedia.122.2o7.net
 ipctrustedreviewsprod.122.2o7.net
@@ -3007,6 +3017,7 @@ microsoftwlmessengermkt.112.2o7.net
 millipore.112.2o7.net
 minessetion.info
 mirror2.rummblelabs.com
+mitdmp.whiteboxdigital.ru
 ml314.com
 mlbcom.112.2o7.net
 mm.welt.de
@@ -3158,6 +3169,7 @@ novell.112.2o7.net
 novozymes.112.2o7.net
 now.eloqua.com
 noy90o.com
+nr.bidderstack.com
 ns-ehg-vip.hitbox.com
 ns-freehg-vip.hitbox.com
 ns-staging-vip.hitbox.com
@@ -4102,6 +4114,7 @@ slovenskenovice.iprom.net
 sm-cdn.simplymeasured.com
 sm-stats.inkfrog.com
 sm.dell.com
+sm.rtb.mts.ru
 sm.sitemeter.com
 sm1.sitemeter.com
 sm10.sitemeter.com
@@ -4118,6 +4131,7 @@ sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
 smarter-metrics.smartertravel.com
+smatr.net
 smb.infusionsoft.com
 smct.co
 smetrics.avnet.com
@@ -4149,7 +4163,9 @@ soflopxl.com
 softlayertechnologie.tt.omtrdc.net
 softonic-analytics.net
 softonic.112.2o7.net
+solta-sync.rutarget.ru
 somethodox.info
+sonar.semantiqo.com
 sonar.sociomantic.com
 sonycorporate.112.2o7.net
 sonyelectronicssupportus.112.2o7.net
@@ -4738,6 +4754,7 @@ track.adfon.com
 track.adform.net
 track.adtraction.com
 track.affstreck.com
+track.analitycs.net
 track.appsflyer.com
 track.aso1.net
 track.asus.com
@@ -4939,6 +4956,7 @@ trk.freepik.com
 trk.justanswer.com
 trk.kissmetrics.com
 trk.kissmetrics.io
+trk.mail.ru
 trk.parrable.com
 trk.slimcdns.com
 trk.tracksys55.com
@@ -5290,6 +5308,7 @@ www.decenthat.com
 www.delidataxsegment.com
 www.dsply.com
 www.dwin1.com
+www.easycounter.com
 www.econda-monitor.de
 www.edtp.de
 www.empirikanet.com

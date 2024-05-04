@@ -66,6 +66,7 @@ askmen2.us.intellitxt.com
 assets.bunchball.net
 assets.context.ly
 assets.juicer.io
+assets.mailerlite.com
 auto-motor-und-sport.de.intellitxt.com
 autobild.de.intellitxt.com
 autoexpress.uk.intellitxt.com
@@ -123,6 +124,7 @@ cdn.privacy-mgmt.com
 cdn.pulpix.com
 cdn.pushassist.com
 cdn.pushcrew.com
+cdn.segmentify.com
 cdn.simility.com
 cdn.siteswithcontent.com
 cdn.snigelweb.com
@@ -411,6 +413,7 @@ player.ex.co
 popcornmetrics.zendesk.com
 popularmechanics.us.intellitxt.com
 popup2.lifterapps.com
+potisni.me
 prad.de.intellitxt.com
 presence-pc.fr.intellitxt.com
 primedia.us.intellitxt.com

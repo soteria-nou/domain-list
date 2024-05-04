@@ -71,6 +71,7 @@ cdn.playbuzz.com
 cdn.playwire.com
 cdn.prizma.tv
 cdn.pubexchange.com
+cdn.reamaze.com
 cdn.shareaholic.net
 cdn.syndication.twimg.com
 cdn.topsy.com
