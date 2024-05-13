@@ -2527,6 +2527,7 @@ js.stroeermediabrands.de
 js.ta80.com
 js.usemessages.com
 js.wpshsdk.com
+js09.isatonabench.com
 js1.hitbox.com
 jsc.4shared.com
 jsn.dt07.net
@@ -4081,6 +4082,7 @@ sghb.adtelligent.com
 sghb.spotim.market
 shareaholic.com
 shaw.demdex.net
+sheisnotateacher.com
 shopping.112.2o7.net
 show.smartcontext.pl
 si.2.cqcounter.com

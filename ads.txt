@@ -526,6 +526,7 @@ ad.trafficshop.com
 ad.turbosist.si
 ad.turn.com
 ad.tw.doubleclick.net
+ad.twinrdengine.com
 ad.uk.doubleclick.net
 ad.uk.tangozebra.com
 ad.uptobox.com
@@ -1441,6 +1442,7 @@ ads.trixbox.org
 ads.tunesbag.com
 ads.tv3.si
 ads.tweetmeme.com
+ads.twinrdengine.com
 ads.twitter.com
 ads.uates.com
 ads.ukslc.org
@@ -2066,6 +2068,7 @@ api-proxy.bee7.com
 api.ad.sunmedia.net
 api.adg99.com
 api.adgoi-1.net
+api.adinplay.com
 api.adsnative.com
 api.adstargeting.com
 api.aio.media
@@ -5705,6 +5708,7 @@ vehemenceclung.com
 veilsuccessfully.com
 veneeringextremely.com
 venturead.com
+venusfritter.com
 veresultedinncre.org
 vexationworship.com
 vg74gi6mea.com
