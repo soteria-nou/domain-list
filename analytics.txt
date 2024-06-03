@@ -2912,6 +2912,7 @@ mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
 matomo.freeones.com
+matomo.manjaro.org
 matomo.performax.cz
 matomo.rtvslo.si
 matomo.similarweb.io
@@ -3367,6 +3368,7 @@ pi.pardot.com
 pier.deepo.io
 ping.cloud.tencent.com
 ping.dozuki.com
+ping.manjaro.org
 ping.smyte.com
 ping.typekit.net
 pingback.issuu.com
