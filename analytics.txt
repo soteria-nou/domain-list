@@ -496,6 +496,7 @@ api.europe.kontagent.net
 api.fandommetrics.com
 api.funnelytics.io
 api.growthrx.in
+api.h2.he7ll.com
 api.infinario.com
 api.infiniamobile.com
 api.innomdc.com
@@ -2236,6 +2237,7 @@ graph.instagram.com
 green.erne.co
 gresokie.com
 grmtech.net
+groorsoa.net
 grunerandjahr.112.2o7.net
 grunerjahr01.wt-eu02.net
 grupogod.112.2o7.net
@@ -3370,7 +3372,6 @@ pi.pardot.com
 pier.deepo.io
 ping.cloud.tencent.com
 ping.dozuki.com
-ping.manjaro.org
 ping.smyte.com
 ping.typekit.net
 pingback.issuu.com
@@ -5457,6 +5458,7 @@ xhr.yallboen.com
 xitiad6.xiti.com
 xitiv6.xiti.com
 xl.topstat.com
+xml-v4.tri.media
 xob.miranus.com
 xp.apple.com
 xray.mail.ru

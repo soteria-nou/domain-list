@@ -470,6 +470,7 @@ ad.popup.tbn.ru
 ad.porta.eol.de
 ad.portalplus.si
 ad.potujnekam.com
+ad.pr.ameba.jp
 ad.preferences.com
 ad.preis.de
 ad.prismamediadigital.com
@@ -1976,6 +1977,7 @@ affiliate-new.lunarbreeze.com
 affiliates.bookdepository.com
 affrh2023.com
 afkearupl.com
+afpwmiqwegk.com
 afrigale.co
 afrkpeqmoa.com
 afs.googlesyndication.com
@@ -2004,6 +2006,7 @@ ajfmiqxugc.com
 ajfntoanglci.com
 ajkzd9h.com
 ajvpakaklbca.com
+ak.ceegriwuwoa.net
 ak.kocairdo.net
 ak.oneegrou.net
 ak.phumpauk.com
@@ -2015,6 +2018,7 @@ aka-cdn.adtech.de
 aka-cdn.adtechus.com
 akcdn.nativeadsfeed.com
 akdapi.com
+akftfiam.com
 alas4kanmfa6a4mubte.com
 alfalt.adocean.pl
 alibestru.ru
@@ -2040,6 +2044,7 @@ am1.space
 am10.ru
 am15.net
 amjrweavrosp.com
+amjsiksirkh.com
 amkbpcc.com
 amn.doubleclick.net
 ams-ads-cornerstone-creatives.s3.amazonaws.com
@@ -2137,6 +2142,7 @@ as.ad-flow.com
 as.ad611.com
 as.autoforums.com
 as.expats.cz
+as.footerfont.com
 as.sexad.net
 as1.advfn.com
 as2.autoforums.com
@@ -2427,6 +2433,7 @@ bngprl.com
 bngprm.com
 bngpt.com
 bnr2.revdepo.com
+bnrdom.com
 bnrs.it
 bnsjb1ab1e.com
 bobabillydirect.org
@@ -2592,6 +2599,7 @@ cdn.connectad.io
 cdn.cpmstar.com
 cdn.creative-bars1.com
 cdn.defractal.com
+cdn.delight-vr.com
 cdn.directrev.com
 cdn.directtrk.com
 cdn.districtm.ca
@@ -2740,6 +2748,7 @@ cirazi.com
 circusbreadth.com
 cisfazpisju.com
 cisviqodbk.com
+citadelpathstatue.com
 cjl58f3agc.com
 ck.ads.affinity.com
 ckdegfi5.faith
@@ -2902,6 +2911,8 @@ cts.tradepub.com
 ctubhxbaew.com
 ctxt.tribalfusion.com
 ctxtad.tribalfusion.com
+cubdanqcya.com
+cubeuptownpert.com
 cuddlethehyena.com
 cum.tnaflix.com
 cupidrecession.com
@@ -3163,6 +3174,7 @@ dssja7qsifeak.cloudfront.net
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
 dteaqjowxal.com
+dteopchmad.com
 dtm.advertising.com
 du0pud0sdlmzf.cloudfront.net
 dufibepe.com
@@ -3365,6 +3377,7 @@ forfeitsubscribe.com
 forklacy.com
 forlumineoner.com
 forshrd.com
+fortnightindictment.com
 foryou.tophosting101.com
 fouoh.com
 fpukxcinlf.com
@@ -3395,6 +3408,7 @@ funtomic-d.openx.net
 fuse.forbes.com
 fusionads.net
 fvcwqkkqmuv.com
+fvohyywkbc.com
 fwbntw.com
 fweokcgamoj.com
 fx.danaineuveas.com
@@ -3434,6 +3448,7 @@ get.optad360.io
 gg.adocean.pl
 gg.google.com
 ggo.directrev.com
+ggwifobvx.com
 ghb1.adtelligent.com
 ghb2.adtelligent.com
 giddinessdefensivesubject.com
@@ -3450,6 +3465,7 @@ globaladv.net
 glochatuji.com
 glorinlost.rocks
 glslciwwvtxn.com
+glutenmuttsensuous.com
 gmads.net
 gmijkajzor.com
 gmiqicw.com
@@ -3583,6 +3599,7 @@ hkoroalxgsnu.com
 hlok.qertewrt.com
 hlu9tseh.men
 hm.baidu.com
+holahupa.com
 holdhelptime.com
 homeads.home.pl
 hometheaterreview.advertserve.com
@@ -3766,6 +3783,7 @@ irboga.info
 irbout.com
 irs09.com
 is3eho4w.download
+isopik.com
 it.primary.affinitad.com
 itemgnat.com
 itempana.site
@@ -4365,6 +4383,7 @@ ogle-0740lb.com
 ohkogpzamvzi.com
 oilchange.website
 ointmentaloofpincers.com
+ojdmuwovtqi.com
 ojwarkmaw.com
 ok.internet-media.si
 ok.internetmedia.si
@@ -4456,6 +4475,7 @@ ordie.adbureau.net
 ordinarilyinstead.com
 organizationwoundedvast.com
 origunix.com
+orningamidamaruhal.com
 orrtweqfaa.com
 oscajzqicalk.com
 oshoslokkn.com
@@ -4535,6 +4555,7 @@ p-td.com
 p.adpdx.com
 p.annocdn.com
 p.ato.mx
+p.badoinkvr.com
 p.hgfdtujlknhkghf.site
 p.inte.sogou.com
 p.nevtron.si
@@ -4681,6 +4702,7 @@ player-services.goviral-content.com
 player.adtelligent.com
 player.spotim.market
 pleaseletmeadvertise.com
+plhhisqiem.com
 plug.plufdsb.com
 plugin.mediavoice.com
 plugin.monotote.com
@@ -4795,6 +4817,7 @@ pt-static1.bimwmstat.com
 pt.ctsdwm.com
 pt.potawe.com
 pt.protoawe.com
+pt.wmptcd.com
 ptaughar.com
 ptaulrou.net
 ptekuwiny.pro
@@ -4851,6 +4874,7 @@ qksz.net
 qkyliljavzci.com
 qnsr.com
 qoqv.com
+qpigulofbwah.com
 qrstes.com
 qruohmguna.com
 qtj.vornz.com
@@ -5213,6 +5237,7 @@ servingpps.com
 set.adap.com
 set.adap.tv
 sexpennyauctions.com
+sfagwaokja.com
 sgreen.erne.co
 shadesincreasingcontents.com
 shalleda.com
@@ -5267,6 +5292,7 @@ smartlinks.dianomi.com
 smartxads.com
 smartyads.com
 smilered.com
+smkezc.com
 smp.specificmedia.com
 smpop.icfcdn.com
 snappedimpressive.com
@@ -5492,6 +5518,7 @@ tanz.biallo2.de
 tap-cdn.rubiconproject.com
 tap2-cdn.rubiconproject.com
 tapestry.tapad.com
+taqrkiftiodx.com
 targeting.adwebster.com
 tas-ba.toboads.com
 tas-bg.toboads.com
@@ -5569,6 +5596,7 @@ tools.prnewswire.com
 tools.runetki.co
 toothbrushconceitedsemi.com
 topacity.info
+topkew.com
 toroadvertisingmedia.com
 tororango.com
 torpsol.com
@@ -5610,6 +5638,7 @@ trends.revcontent.com
 trex.cu.cc
 triadmedianetwork.com
 triggers.wfxtriggers.com
+trimpagkygg.com
 tripple.nuggad.net
 trixtraff.com
 trk.newtention.net
@@ -5648,6 +5677,7 @@ ubbfpm.com
 ubfhq.top
 udarem.com
 udmserve.net
+udzpel.com
 ufgrsymbcqk.xyz
 ufpcdn.com
 uiadserver.com
@@ -5944,6 +5974,7 @@ www.aklglpwljiv.com
 www.aljsuubo.com
 www.allanalpass.com
 www.alruqbfjg.com
+www.aniwave.ru.com
 www.anrdoezrs.net
 www.asecxggulyrf.com
 www.avsads.com
@@ -6150,6 +6181,7 @@ www.lovetechs.com
 www.lqeevjgkjjwi.com
 www.lqqcbomqqomtme.com
 www.lvjvremluuej.com
+www.lwppgbkdxnbxw.com
 www.lzqicpumq.com
 www.makzidhq.com
 www.maxonclick.com
@@ -6315,6 +6347,7 @@ www.uhbixtfhwdtmd.com
 www.uhqpnhorurueku.com
 www.ujidhusjvmbfv.com
 www.ujoongeilaej.info
+www.umcrrpqufkgna.com
 www.uoarbhxfyygn.com
 www.uorhedemxtni.com
 www.upqeudhzf.com
@@ -6376,6 +6409,7 @@ www.yatbzuwo.com
 www.ycmejutxukkz.com
 www.yhkeqboz.com
 www.ykrssqaufg.com
+www.yorhdsotikbyeu.com
 www.yshbklgje.com
 www.ysxuehcerecoge.com
 www.yuqyihkyk.com
@@ -6470,6 +6504,7 @@ xx.openx.com
 xxlargepop.com
 xxx.enterasanblog.xyz
 xxxrevpushclcdu.com
+xzeszuortc.com
 xzezapozghp.com
 y.the-ad.net
 y1jxiqds7v.com
@@ -6533,6 +6568,7 @@ zmekihobkru.com
 zoachops.com
 zonearmour4u.work
 zrk.imgur.com
+zsxeymv.com
 zt.omervagant.com
 ztumuvofzbfe.com
 zukxd6fkxqn.com

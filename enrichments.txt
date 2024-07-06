@@ -48,6 +48,7 @@ api.survicate.com
 api.userway.org
 api.vanilla.futurecdn.net
 app-sj05.marketo.com
+app.cdnyl.net
 app.consentassist.com
 app.convertfox.com
 app.convertkit.com
