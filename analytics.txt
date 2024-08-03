@@ -233,6 +233,7 @@ acpc.perf.linkedin.com
 acpmagazines.112.2o7.net
 acquaintcollaboratefruitless.com
 acquireinsight.net
+action.dstillery.com
 action.media6degrees.com
 activate.tapatalk.com
 activeview.hitbox.com
@@ -508,6 +509,7 @@ api.mixpanel.com
 api.myx.cz
 api.nanigans.com
 api.ownpage.fr
+api.pbxai.com
 api.permutive.com
 api.petametrics.com
 api.raygun.io
@@ -961,6 +963,7 @@ cdn.getkya.com
 cdn.gigya.com
 cdn.glassboxcdn.com
 cdn.granify.com
+cdn.gravito.net
 cdn.greta.io
 cdn.heapanalytics.com
 cdn.histats.com
@@ -2199,6 +2202,7 @@ gntbcstglobal.112.2o7.net
 gntbcstkusa.112.2o7.net
 go-ctr-tracker.pub.24ur.si
 go-usertrack-importer.pub.24ur.si
+go.affec.tv
 go.giga-abs.de
 go.mobisla.com
 go.mobtrks.com
@@ -3095,6 +3099,7 @@ my-ssl.effectivemeasure.net
 my.effectivemeasure.net
 my.rtmark.net
 my.statcounter.com
+myanalytics.click
 mycdn.media.net
 mycounter.tinycounter.com
 myfamilyancestry.112.2o7.net
@@ -3878,6 +3883,7 @@ s1795.t.eloqua.com
 s18.sitemeter.com
 s19.cnzz.com
 s19.sitemeter.com
+s2.adform.net
 s2.cdnplanet.com
 s2.hit.stat.pl
 s2.hit.stat24.com
@@ -4196,6 +4202,7 @@ spanids.dictionary.com
 spanids.reference.com
 spatterjointposition.com
 spc.n26.com
+spc.siliconera.com
 specsavers01.wt-eu02.net
 spectrum.gettyimages.com
 spektrum.ivwbox.de
@@ -4591,6 +4598,7 @@ t.thepennyhoarder.com
 t.tmdn2015x9.com
 t.trackedlink.net
 t.trafmag.com
+t.unblockia.com
 t.unbounce.com
 t.vi-serve.com
 t.zqtk.net
@@ -4635,6 +4643,7 @@ tags.adsafety.net
 tags.api.umbel.com
 tags.bluekai.com
 tags.clickintext.net
+tags.dxmdp.com
 tags.mediaforge.com
 tags.t.tailtarget.com
 tags.tiqcdn.com

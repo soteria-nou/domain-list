@@ -59,6 +59,7 @@ app.mailerlite.com
 app.optinarchitect.com
 app.secureprivacy.ai
 app.securiti.ai
+app.slickstream.com
 app.truepush.com
 applets.ebxcdn.com
 apps.nexus.bazaarvoice.com
@@ -146,6 +147,7 @@ clientcdn.pushengage.com
 cmp-loader.choice.faktor.io
 cmp.dmgmediaprivacy.co.uk
 cmp.osano.com
+cmp.uniconsent.com
 code.intext.billboard.cz
 code.jivosite.com
 code.murdoog.com
@@ -190,6 +192,7 @@ digitalcamerareview.us.intellitxt.com
 display.apester.com
 djtflbt20bdde.cloudfront.net
 dramacrazy.us.intellitxt.com
+driftpizza.com
 driverguide.us.intellitxt.com
 drugscom.us.intellitxt.com
 dsms0mj1bbhn4.cloudfront.net
@@ -312,6 +315,7 @@ kde-look.us.intellitxt.com
 kicksonfire.us.intellitxt.com
 knowyourmobile.uk.intellitxt.com
 laptopmag.us.intellitxt.com
+launcher.spot.im
 libs.a2zinc.net
 license.icopyright.net
 lifescript.us.intellitxt.com
@@ -327,6 +331,7 @@ livenationlabs-tools.s3.amazonaws.com
 lmcd.us.intellitxt.com
 load.jsecoin.com
 lockergnome.us.intellitxt.com
+lockmy.link
 lon-g001.uk.intellitxt.com
 lon-g002.uk.intellitxt.com
 lon-g004.uk.intellitxt.com

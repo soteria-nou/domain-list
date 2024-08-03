@@ -46,6 +46,7 @@ bidder.criteo.com
 bizsolutions.strands.com
 bnstero.com
 builder.extensionfactory.com
+butterfly-button.web.app
 button.flattr.com
 buzzbox.buzzfeed.com
 c.la1c1.salesforceliveagent.com
@@ -76,6 +77,7 @@ cdn.shareaholic.net
 cdn.syndication.twimg.com
 cdn.topsy.com
 cdn.trending.ntrsctn.com
+cdn.userway.org
 cdn.ywxi.net
 cdn01.smartling.com
 cdn4.wibbitz.com
