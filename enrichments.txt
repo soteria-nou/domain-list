@@ -39,6 +39,7 @@ api.bufferapp.com
 api.cleverpush.com
 api.condenast.io
 api.facebook.com
+api.grow.me
 api.mediabooster.si
 api.parsely.com
 api.pulpix.com

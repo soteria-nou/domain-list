@@ -567,6 +567,7 @@ arbo.hit.gemius.pl
 arc.msn.com
 archi2.xiti.com
 areagame.ivwbox.de
+argus.100m2.si
 arm.d3.sc.omtrdc.net
 arms-retcode.aliyuncs.com
 arnockglen.club
@@ -987,6 +988,7 @@ cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.nsstatic.net
 cdn.onthe.io
+cdn.opecloud.com
 cdn.optimizely.com
 cdn.pardot.com
 cdn.parsely.com
@@ -1146,6 +1148,7 @@ client.perimeterx.net
 client.swpcld.com
 clientlog.portal.office.com
 clients.bluecava.com
+clilogs.windy.com
 clipfish.ivwbox.de
 clkd.at
 cloud-emea.analytics-egain.com
@@ -3209,6 +3212,7 @@ o.adhslx.com
 o.analytics.yahoo.com
 o.musicnotes.com
 o.sa.aol.com
+oa.openxcdn.net
 oas.monster.com
 oascentral.spineuniverse.com
 objectrocket.112.2o7.net
@@ -4076,6 +4080,7 @@ services.pornhub.com
 services.x-traceur.com
 services.xg4ken.com
 serving.stat-rock.com
+servt.vidcrunch.com
 servustv.oewabox.at
 session-replay.browser-intake-datadoghq.com
 sessions.bugsnag.com
