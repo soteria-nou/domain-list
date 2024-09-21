@@ -539,6 +539,7 @@ app-ab14.marketo.com
 app-analytics.snapchat.com
 app-measurement.com
 app.adjust.com
+app.adoric-om.com
 app.compendium.com
 app.getsitecontrol.com
 app.intercom.io
@@ -821,6 +822,7 @@ c.klcheck.com
 c.leadlab.click
 c.live.com
 c.lytics.io
+c.m.163.com
 c.marketgid.com
 c.msn.com
 c.msparktrk.com
@@ -913,6 +915,7 @@ cdn-0.d41.co
 cdn-1.convertexperiments.com
 cdn-3.convertexperiments.com
 cdn-athena.cafemom.com
+cdn-ext.spiny.ai
 cdn-gl.imrworldwide.com
 cdn-rtb.sape.ru
 cdn-sec.optmd.com
@@ -2273,6 +2276,7 @@ h.seznam.cz
 h.trace.qq.com
 h.wikia-beacon.com
 h30-deploy.hiconversion.com
+h5.analytics.126.net
 hades.srvtrck.com
 hadrian.httpool.com
 halc.iadvize.com
@@ -2512,6 +2516,7 @@ joydorado.com
 js-webt-lol.9cache.com
 js.6dad.com
 js.agkn.com
+js.assemblyexchange.com
 js.casalemedia.com
 js.center.io
 js.clickequations.net
@@ -3060,6 +3065,7 @@ moss.aragon.si
 motorpressestuttgart.d3.sc.omtrdc.net
 mototalk.ivwbox.de
 mp-activity.csdn.net
+mp.imgur.com
 mp.pianomedia.eu
 mp3world.ivwbox.de
 mpn-analytics.mokonocdn.com
@@ -3146,6 +3152,7 @@ news-muheji.com
 news-uk-d.openx.net
 newsharecounts.s3-us-west-2.amazonaws.com
 newsnetw.oewabox.at
+nex.163.com
 nexus.ensighten.com
 nfnetflixcom.112.2o7.net
 nfpasjc.d1.sc.omtrdc.net
@@ -3253,6 +3260,7 @@ onet3.hit.gemius.pl
 online.digital-advisor.com
 onmarshtompor.com
 ookla-d.openx.net
+opclck.com
 opehs.tanx.com
 openmovesapps.com
 opensharecount.com
@@ -4866,6 +4874,7 @@ tracker.nccgroup.com
 tracker.pinnaclesports.com
 tracker.prom.ua
 tracker.rareru.ru
+tracker.remp-beam.golem.de
 tracker.roitesting.com
 tracker.tradedoubler.com
 tracker.tubecj.com
