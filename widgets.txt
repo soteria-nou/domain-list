@@ -333,6 +333,7 @@ widget.crowdynews.com
 widget.culinaryagents.com
 widget.dihitt.com.br
 widget.engageya.com
+widget.freshworks.com
 widget.halooglasi.com
 widget.helpcrunch.com
 widget.instabot.io
@@ -397,6 +398,7 @@ www.inxero.com
 www.lcwfabt1.com
 www.lightboxcdn.com
 www.linkwithin.com
+www.newzit.com
 www.powr.io
 www.salesmanago.pl
 www.secondego.com

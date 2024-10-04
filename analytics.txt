@@ -292,6 +292,7 @@ aetv.112.2o7.net
 af-appsflyersdk.edgekey.net
 afe.specificclick.net
 aff.xiti.com
+affcpatrk.com
 affiliate.likemag.com
 affiliate.lunarpages.com
 affilies.xiti.com
@@ -1011,6 +1012,7 @@ cdn.securedtouch.com
 cdn.segment.com
 cdn.segment.io
 cdn.sendpulse.com
+cdn.sentinelbi.com
 cdn.shortpixel.ai
 cdn.sift.com
 cdn.siftscience.com
@@ -1205,6 +1207,7 @@ collect.octalytics.com
 collecte.audience.acpm.fr
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
+collector-pxebumdlwe.px-cdn.net
 collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
 collector.a.pxi.pub
@@ -1966,6 +1969,7 @@ eu-mobile.events.data.microsoft.com
 eu-sonar.sociomantic.com
 eu.histi.co
 eu.npario-inc.net
+eu.thtk.temu.com
 eu2.snoobi.eu
 eucerin.122.2o7.net
 eue-1.steelcentral.net
@@ -2384,6 +2388,7 @@ i.ubm-us.net
 i.viafoura.co
 i.w55c.net
 ia.idnes.cz
+iad.anm.co.uk
 ib.3lift.com
 ibclick.stream
 ibm.122.2o7.net
@@ -2637,6 +2642,7 @@ liirtchf.com
 limurol.com
 lin-d.openx.net
 lineadirecta.112.2o7.net
+link.joingekko.com
 links.business-informant.de
 links.services.disqus.com
 links.voyeurweb.com
@@ -3092,6 +3098,7 @@ mssdk-va.tiktok.com
 mswmwpapolloprod.122.2o7.net
 mt.9gag.com
 mtg100008.112.2o7.net
+mtm.ntl.cloud
 mtrx.go.sonobi.com
 mtv-s.nuggad.net
 mtv.ivwbox.de
@@ -3783,6 +3790,7 @@ rover.ebay.ie
 rover.ebay.it
 rover.ebay.ph
 rover.ebay.pl
+rp.liadm.com
 rpt.cedexis.com
 rronsep.com
 rs.hit.gemius.pl
@@ -4171,6 +4179,7 @@ smetrics.hpe.com
 smetrics.madewell.com
 smetrics.mathworks.com
 smetrics.rcsmetrics.it
+smetrics.realestate.com.au
 smetrics.sephora.com
 smetrics.uol.com.br
 smetrics.washingtonpost.com
@@ -4658,6 +4667,7 @@ tags.bluekai.com
 tags.clickintext.net
 tags.dxmdp.com
 tags.mediaforge.com
+tags.reagroupdata.com.au
 tags.t.tailtarget.com
 tags.tiqcdn.com
 tags.us.onscroll.com
@@ -5072,6 +5082,7 @@ us-gmtdmp.mookie1.com
 us-ssl.effectivemeasure.net
 us.af.beap.bc.yahoo.com
 us.creativecdn.com
+us.q2s15.com
 us.sitestat.com
 us.tracking.justpremium.com
 us.y.atwola.com
@@ -5181,6 +5192,7 @@ vs.dmtracker.com
 vstats.digitaltrends.com
 vstvstsa.com
 vt.myvisualiq.net
+vts.zohopublic.com
 vuelingnewsletter.112.2o7.net
 vuukle.com
 vvv.itpro.co.uk
@@ -5471,6 +5483,7 @@ x.jd.com
 x.ulogix.ru
 x.velocity.ebay.com
 x01.aidata.io
+x2tag.com
 x8.genin.jp
 xapi-publisher.quinstreet.com
 xc3.services.livejournal.com
@@ -5514,6 +5527,7 @@ youtubei.youtube.com
 yp.gw.anametrix.com
 yrtas.btrll.com
 yxsu5ufd2m.kameleoon.eu
+z-na.associates-amazon.com
 z.analytics.yahoo.com
 z2d7c5q4.map2.ssl.hwcdn.net
 za-cdn.effectivemeasure.net
