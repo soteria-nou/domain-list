@@ -4837,6 +4837,7 @@ track.reference.com
 track.roiservice.com
 track.sigcpamobile.com
 track.sitetag.us
+track.speraspace.com
 track.spots.im
 track.thesaurus.com
 track.tiara.daum.net
@@ -5249,6 +5250,7 @@ webmasters.tubealliance.com
 webmdcom.tt.omtrdc.net
 webmdglobal.112.2o7.net
 weboramapublishertrackinguk.solution.weborama.fr
+websdk.appsflyer.com
 websense.tt.omtrdc.net
 webservices.ecn5.com
 webservices.sub2tech.com
