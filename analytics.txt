@@ -304,6 +304,8 @@ aggregatorgetb.com
 ahitflip.ivwbox.de
 ai.hitbox.com
 aim-tag.hcn.health
+airbus.containers.piwik.pro
+airbus.piwik.pro
 ak.sail-horizon.com
 ak1s.abmr.net
 akatracking.esearchvision.com
@@ -1211,6 +1213,7 @@ collector-pxebumdlwe.px-cdn.net
 collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
 collector.a.pxi.pub
+collector.appconsent.io
 collector.contentexchange.me
 collector.fiverr.com
 collector.github.com
@@ -1559,6 +1562,7 @@ decide.mixpanel.com
 decsitefinitycdn.blob.core.windows.net
 dedekind.xiti.com
 delfiadlt.hit.gemius.pl
+delicateraccoon.com
 delidatax.com
 deliver.ptgncdn.com
 deliveredby.adpilotgroup.net
@@ -1684,6 +1688,7 @@ dviixeyykyqjv.cloudfront.net
 dvnafl0qtqz9k.cloudfront.net
 dwl.hitbox.com
 dwt.soundcloud.com
+dx.frontend.weborama.com
 dyn-beacon.akamaized.net
 dyn.emetriq.de
 dynatrace.digikey.com
@@ -2078,6 +2083,7 @@ fls-fe.amazon.co.jp
 fls-na.amazon.com
 fls.doubleclick.net
 flukecorporation.122.2o7.net
+fmtwonvied.com
 fo-api.omnitagjs.com
 fo-static.omnitagjs.com
 focus.met.vgwort.de
@@ -2095,6 +2101,7 @@ freeonlineusers.com
 freescale.d2.sc.omtrdc.net
 frequentation.xiti.com
 fresnel.vimeocdn.com
+freyr.futurecdn.net
 frog.wix.com
 front.facetz.net
 frtyd.com
@@ -2350,6 +2357,7 @@ hoaxbasesalad.com
 honeymoondisappointed.com
 horizon.forbes.com
 horizon.mashable.com
+hornylitics.b-cdn.net
 hosted-oswa.org
 hotels.112.2o7.net
 hp.lingscars.com
@@ -2416,6 +2424,7 @@ im.xiti.com
 image.masterstats.com
 image8.pubmatic.com
 images.stats.lt
+imcod.net
 img-cdn.mediaplex.com
 img.en25.com
 img.footprintlive.com
@@ -2567,6 +2576,7 @@ karma.mdpcdn.com
 karriere.oewabox.at
 kcart.alipay.com
 kd.iprom.net
+kdlktswsqhpd.com
 kdtags1.com
 kentucky.xiti.com
 keywordrankingsonline.com
@@ -3136,6 +3146,7 @@ natgeonews.112.2o7.net
 native-track.com
 nats.xing.com
 navdmp.com
+navvy.media.net
 nba.122.2o7.net
 nbcu.demdex.net
 nbcudigitaladops.com
@@ -3237,6 +3248,7 @@ ocyss.com
 odb.outbrain.com
 odr.mookie1.com
 oeh.d3.sc.omtrdc.net
+oehgk.com
 offers.paypal.com
 office-gw1.hitbox.com
 og3i93vzhywk-a.akamaihd.net
@@ -3609,6 +3621,7 @@ pubgalaxy-d.openx.net
 public.cobrowse.oraclecloud.com
 public.xiti.com
 publique.xiti.com
+publish.vuukle.com
 pubs2-eu.creativecdn.com
 pubtags.addoor.net
 pulsar.ebay.com
