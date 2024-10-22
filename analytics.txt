@@ -335,6 +335,7 @@ amplify.outbrain.com
 amplifypixel.outbrain.com
 amsvts.com
 amznshopbop.122.2o7.net
+an.gr-wcon.com
 an.mail.ru
 analista.icons8.com
 analitik.obisk.net
@@ -589,6 +590,7 @@ asoscomltd.tt.omtrdc.net
 aspen.turner.com
 assets.adstage.io
 assets.customer.io
+assets.hearstapps.com
 assets.ipcdigital.co.uk
 assets.teradata.com
 assets.ti-media.net
@@ -921,7 +923,9 @@ cdn-athena.cafemom.com
 cdn-ext.spiny.ai
 cdn-gl.imrworldwide.com
 cdn-rtb.sape.ru
+cdn-scripts.signifyd.com
 cdn-sec.optmd.com
+cdn-ukwest.onetrust.com
 cdn.adrtx.net
 cdn.amilliamilli.com
 cdn.apflyer.com
@@ -1152,6 +1156,7 @@ clics.xiti.com
 client-event-reporter.twitch.tv
 client.a.pxi.pub
 client.perimeterx.net
+client.px-cloud.net
 client.swpcld.com
 clientlog.portal.office.com
 clients.bluecava.com
@@ -2569,6 +2574,7 @@ jwpltx.com
 jyaby.com
 jyawd.com
 jz9ugaqb.com
+jztwidpixa.icu
 k.intellitxt.com
 k.r66net.com
 k266d5zsl.onet.pl
@@ -2935,6 +2941,7 @@ marketing.dropbox.com
 marketing.ecreativeworks.com
 marketing.foxitsoftware.com
 marketplace.anyclip.com
+martech.condenastdigital.com
 mas.nth.ch
 mashable.d2.sc.omtrdc.net
 match.prod.bidr.io
@@ -3480,6 +3487,7 @@ pixel.adsafeprotected.com
 pixel.advertising.com
 pixel.anyclip.com
 pixel.audienceinsights.net
+pixel.azshopp.com
 pixel.bild.de
 pixel.buzzdeck
 pixel.carambo.la
@@ -4027,6 +4035,7 @@ script.tailsweep.com
 script.tapfiliate.com
 scripts.advmusic.com
 scripts.attributionapp.com
+scripts.azshopp.com
 scripts.demandbase.com
 scripts.demandmedia.com
 scripts.kissmetrics.com
@@ -4534,6 +4543,7 @@ std1.hit.gemius.pl
 steadfastsystem.com
 stepstone.d1.sc.omtrdc.net
 stickerchapelsailing.com
+stk.px-cloud.net
 storage.multstorage.com
 store.externulls.com
 storemetrics.pixelbits.io
@@ -5357,6 +5367,7 @@ www.clickmngr.com
 www.clicktripz.com
 www.co2stats.com
 www.connectignite.com
+www.contentify.needs-wants.com
 www.controlup.com
 www.countercentral.com
 www.counters4u.com

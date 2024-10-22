@@ -2598,6 +2598,7 @@ a.nexeps.com
 an.facebook.com
 angmar.112.2o7.net
 angpar.112.2o7.net
+an.gr-wcon.com
 anguishworst.com
 angvac.112.2o7.net
 anime44.us.intellitxt.com
@@ -2866,6 +2867,7 @@ apps.outfit7.com
 apps.rokt.com
 apps.vingd.com
 app.truepush.com
+app.trustami.com
 app.trustev.com
 app.ubertags.com
 app.usercentrics.eu
@@ -2960,6 +2962,7 @@ assets.contextly.com
 assets.cookieconsent.silktide.com
 assets.customer.io
 assets.freshdesk.com
+assets.hearstapps.com
 assets.ipcdigital.co.uk
 assets.juicer.io
 assets.kampyle.com
@@ -4048,6 +4051,7 @@ cdn.sb-inv1.com
 cdns.brsrvr.com
 cdns.canddi.com
 cdn.scarabresearch.com
+cdn-scripts.signifyd.com
 cdn-sec.optmd.com
 cdn.securedtouch.com
 cdn.segment.com
@@ -4111,6 +4115,7 @@ cdn.turn.com
 cdn.twinrdack.com
 cdn.twinrdsrv.com
 cdn.twinrdsyte.com
+cdn-ukwest.onetrust.com
 cdn.unblockia.com
 cdn.unid.go.com
 cdn.uplift-platform.com
@@ -4292,6 +4297,7 @@ clientcdn.pushengage.com
 client-event-reporter.twitch.tv
 clientlog.portal.office.com
 client.perimeterx.net
+client.px-cloud.net
 clients.bluecava.com
 client.swpcld.com
 client-verify.adtricity.com
@@ -7147,6 +7153,7 @@ js.neodatagroup.com
 jsn.lentainform.com
 js.onclckmn.com
 jsonp.moatads.com
+js.qualified.com
 js.qwerty24.net
 js.recurly.com
 js-ru.redtram.com
@@ -7189,6 +7196,7 @@ jyaby.com
 jy.astylararsines.com
 jyawd.com
 jz9ugaqb.com
+jztwidpixa.icu
 k266d5zsl.onet.pl
 k4z6w9b5.stackpathcdn.com
 kabrcuolcpu.com
@@ -7291,6 +7299,7 @@ lau2.click.union.ucweb.com
 lau2.slot.union.ucweb.com
 launcher.spot.im
 launch.newsinc.com
+launchpad-wrapper.privacymanager.io
 lavishnessoverboard.com
 layer-ads.de
 layeravowportent.com
@@ -7784,6 +7793,7 @@ marketing.ecreativeworks.com
 marketing.foxitsoftware.com
 marketplace.anyclip.com
 markets.financialcontent.com
+martech.condenastdigital.com
 masachxzuz.com
 mashable.d2.sc.omtrdc.net
 mas.nth.ch
@@ -7948,6 +7958,7 @@ metro.uk.intellitxt.com
 met.vgwort.de
 mfad.inskinad.com
 mfakiqmafjr.com
+m-fmfadcfm.icu
 mg.adskeeper.co.uk
 mgcrs.dawirax.com
 mg.marketgid.com
@@ -7989,6 +8000,7 @@ mk.apocopewheeple.com
 mkihakfuzv.com
 mkkvprwskq.com
 mkta.advfn.com
+mkt.solution.coupons
 ml314.com
 mladipodjetnik.iprom.net
 mlbcom.112.2o7.net
@@ -9042,6 +9054,7 @@ pixel.advertising.com
 pixel.anyclip.com
 pixel-a.sitescout.com
 pixel.audienceinsights.net
+pixel.azshopp.com
 pixel.bild.de
 pixel.buzzdeck
 pixel.captora.com
@@ -9372,6 +9385,7 @@ providence.voxmedia.com
 prpops.com
 pr.realvu.net
 prscripts.com
+prvc.io
 prxii.cf
 ps14.pubnub.com
 ps3-live.fr.intellitxt.com
@@ -10182,6 +10196,7 @@ scripts.advmusic.com
 scripts.advmusic.net
 scripts.affiliatefuture.com
 scripts.attributionapp.com
+scripts.azshopp.com
 scripts.demandbase.com
 scripts.demandmedia.com
 scripts.kiosked.com
@@ -11099,6 +11114,7 @@ st.hit.gemius.pl
 stickerchapelsailing.com
 stickyads.adswizz.com
 sticky-enterprise-shopify.herokuapp.com
+stk.px-cloud.net
 st.listrak.com
 st.magnify.net
 st-n.ads2-adnow.com
@@ -12836,6 +12852,7 @@ www.co2stats.com
 www.coljledqo.com
 www.connectignite.com
 www.contentexchange.me
+www.contentify.needs-wants.com
 www.controlup.com
 www.countercentral.com
 www.counters4u.com

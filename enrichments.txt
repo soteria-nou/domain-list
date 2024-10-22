@@ -309,6 +309,7 @@ js.createsend1.com
 js.hs-scripts.com
 js.hsleadflows.net
 js.hubspotfeedback.com
+js.qualified.com
 js.sentry-cdn.com
 jsfiles.rutracker.ga
 jupiter.us.intellitxt.com
@@ -318,6 +319,7 @@ kicksonfire.us.intellitxt.com
 knowyourmobile.uk.intellitxt.com
 laptopmag.us.intellitxt.com
 launcher.spot.im
+launchpad-wrapper.privacymanager.io
 libs.a2zinc.net
 license.icopyright.net
 lifescript.us.intellitxt.com
