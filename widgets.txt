@@ -154,6 +154,7 @@ go.pardot.com
 goku.brightcove.com
 gradnik.dobrodelen.si
 graph.facebook.com
+hawk.tomshardware.com
 headway-widget.net
 hl.hellobar.com
 hnbutton.appspot.com

@@ -522,6 +522,7 @@ ad2.peel.com
 ad2.pl.mediainter.net
 ad2.popnw.com
 ad2.rambler.ru
+ad.360yield-basic.com
 ad.360yield.com
 ad.37.com
 ad3.adcept.net
@@ -2524,6 +2525,7 @@ analytics.general-changelog-team.fr
 analytics.global.sky.com
 analytics.gtflixtv.com
 analytics.hosting24.com
+analytics.imedia8.com
 analytics.ladmedia.fr
 analytics.leadlifesolutions.net
 analytics.linkwelove.com
@@ -3479,6 +3481,7 @@ bonniercorp.122.2o7.net
 bonniercorp-d.openx.net
 boomerang.dell.com
 bootstrap.vertamedia.com
+bordeaux.futurecdn.net
 borderboomb.space
 bornate.info
 bororango.com
@@ -6135,6 +6138,7 @@ fweokcgamoj.com
 fx.danaineuveas.com
 fx.gtopstats.com
 fzamtef.com
+fzmflvwn.tech
 g.3gl.net
 gaae.hit.gemius.pl
 gaba.hit.gemius.pl
@@ -6518,6 +6522,7 @@ harmony-central.us.intellitxt.com
 hartattenuate.com
 hattepush.com
 hausgarten.de.intellitxt.com
+hawk.tomshardware.com
 hb.adomik.com
 hb.adscale.de
 hb.adtelligent.com
@@ -6609,6 +6614,7 @@ hits.theguardian.com
 hit.trafficholder.com
 hitwastedgarden.com
 hitwebcounter.com
+hi-xgnnkqs.buzz
 hk.2.cqcounter.com
 hkoroalxgsnu.com
 hl.hellobar.com
@@ -10897,6 +10903,7 @@ static.ifa.camads.net
 static.iias.eu
 static.imgserve.us
 static.kameleoon.com
+static.klaviyo.com
 static.kueezrtb.com
 static.lalaping.com
 static.leaddyno.com
@@ -11446,6 +11453,7 @@ textonlyads.com
 tex.trafex.net
 textsrv.com
 t.favaqo.xyz
+t.flickr.com
 t.flux.com
 tfosrv.com
 t.freelancer.com

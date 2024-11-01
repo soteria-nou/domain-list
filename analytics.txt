@@ -384,6 +384,7 @@ analytics.general-changelog-team.fr
 analytics.global.sky.com
 analytics.gtflixtv.com
 analytics.hosting24.com
+analytics.imedia8.com
 analytics.ladmedia.fr
 analytics.leadlifesolutions.net
 analytics.linkwelove.com
@@ -2118,6 +2119,7 @@ funtikapa.info
 fusetv.112.2o7.net
 fw.adsafeprotected.com
 fx.gtopstats.com
+fzmflvwn.tech
 g.3gl.net
 g.bing.com
 g.ign.com
@@ -4394,6 +4396,7 @@ static.getclicky.com
 static.hotjar.com
 static.imgserve.us
 static.kameleoon.com
+static.klaviyo.com
 static.kueezrtb.com
 static.lalaping.com
 static.mediarithmics.com
@@ -4613,6 +4616,7 @@ t.cqq5id8n.com
 t.cuhite.xyz
 t.dailymail.co.uk
 t.dtscout.com
+t.flickr.com
 t.flux.com
 t.freelancer.com
 t.frtyi.com
