@@ -538,6 +538,7 @@ api.wipmania.com
 api.worldgravity.com
 api.xiti.com
 api2.amplitude.com
+api2.analyticspodium.com
 apicit.net
 apiv2.xiti.com
 app-ab14.marketo.com
@@ -776,6 +777,7 @@ brahe.apptimize.com
 bravo-lea.com
 breezefraudulent.com
 brightcove.112.2o7.net
+broadsview.site
 brownshoe.112.2o7.net
 browser-intake-datadoghq.com
 browser.events.data.microsoft.com
@@ -1025,6 +1027,7 @@ cdn.sift.com
 cdn.siftscience.com
 cdn.smart-digital-solutions.com
 cdn.speedcurve.com
+cdn.speraspace.com
 cdn.spoutable.com
 cdn.static.zdtag.com
 cdn.stroeerdigitalmedia.de
@@ -1122,6 +1125,7 @@ cisco.sc.omtrdc.net
 ciscosystemsinc.tt.omtrdc.net
 ciscowebex.112.2o7.net
 citizenstelecom.112.2o7.net
+cjbyfsmr.life
 cjs.ptengine.com
 cl-eu2.k5a.io
 cl.cpaevent.ru
@@ -1362,6 +1366,7 @@ csi.gstatic.com
 csjs.hitbox.com
 csm2waycm-atl.netmng.com
 csp-logging.jimdo-platform.net
+csp.secureserver.net
 csr.onet.pl
 cstatic.weborama.fr
 csw10-mip1.hitbox.com
@@ -2011,6 +2016,7 @@ eventtracking-log.ustream.tv
 everestjs.net
 evisitcs.com
 ewstv.112.2o7.net
+exceedinglytells.com
 excellentsponsor.com
 experience.tinypass.com
 expertsexchange.112.2o7.net
@@ -2106,6 +2112,7 @@ freehostedscripts.net
 freeonlineusers.com
 freescale.d2.sc.omtrdc.net
 frequentation.xiti.com
+frequentjam.com
 fresnel.vimeocdn.com
 freyr.futurecdn.net
 frog.wix.com
@@ -2329,7 +2336,9 @@ hexagon-analytics.com
 hey.hellobar.com
 hfunt.com
 hfutz.com
+hif.to
 highbeam.122.2o7.net
+highrevenuenetwork.com
 himidia.112.2o7.net
 hinsm.com
 histioned-modgerous.icu
@@ -2534,6 +2543,7 @@ jizvehd.misosoup.io
 johnlewis.112.2o7.net
 joker.iprom.net
 joydorado.com
+jpmkbcgx-o.buzz
 js-webt-lol.9cache.com
 js.6dad.com
 js.agkn.com
@@ -2809,6 +2819,7 @@ logp8.xiti.com
 logp9.xiti.com
 logq3.xiti.com
 logs-01.loggly.com
+logs.ambitionbox.com
 logs.browser-intake-datadoghq.com
 logs.comics.com
 logs.eresmas.com
@@ -3135,6 +3146,7 @@ my.effectivemeasure.net
 my.rtmark.net
 my.statcounter.com
 myanalytics.click
+mybbc-analytics.files.bbci.co.uk
 mycdn.media.net
 mycounter.tinycounter.com
 myfamilyancestry.112.2o7.net
@@ -3388,6 +3400,7 @@ paypal.d1.sc.omtrdc.net
 pays.xiti.com
 pb.adriver.ru
 pcgameha.ivwbox.de
+pcqze.tech
 pcworldcommunication.122.2o7.net
 pcworldcommunication.d2.sc.omtrdc.net
 pde.lp4.io
@@ -3731,6 +3744,7 @@ rcv.azureedge.net
 rd.about.com
 rd1.hitbox.com
 rda.net
+rddjzbwt.click
 rdrctgoweb.com
 rdvrxbxwxspxd.com
 reach-id.orbit.tm-awx.com
@@ -3773,6 +3787,7 @@ resetenhancementsillegal.com
 resignedsauna.com
 resources.fairfax.com.au
 responder.wt-safetag.com
+restrictionsvan.com
 retailmenot-d.openx.net
 retarget.ssl-services.com
 retaryrs.com
@@ -3889,6 +3904,7 @@ s.swiftypecdn.com
 s.tagsrvcs.com
 s.thebrighttag.com
 s.tribalfusion.com
+s.trkcall.com
 s.uadx.com
 s.update.dailymotion.com
 s.update.rubiconproject.com
@@ -4215,6 +4231,7 @@ smy.iheart.com
 snap.licdn.com
 sniff.visistat.com
 snoutinsolence.com
+sntr.aukro.cz
 so.rlcdn.com
 sockjs.pusher.com
 sodc.wunderground.com
@@ -4970,6 +4987,7 @@ tracking.rfsoao.com
 tracking.searchmarketing.com
 tracking.shopping-flux.com
 tracking.skymobi.agency
+tracking.speraspace.com
 tracking.tidalhifi.com
 tracking.to
 tracking.tomsguide.com
@@ -5060,6 +5078,7 @@ twinrdack.com
 twinrdsyte.com
 twittercounter.com
 ty0lm9uz.onet.pl
+tyfqjbuk.one
 tz.ts.vindicosuite.com
 u.btserve.com
 u.kueezrtb.com
@@ -5168,6 +5187,7 @@ velocity-cdn.ebaystratus.com
 velocitycdn.com
 venetrigni.com
 verivox01.webtrekk.net
+vfyhwapi.com
 vg04.met.vgwort.de
 viaaddictinggames.112.2o7.net
 viaatom.112.2o7.net
@@ -5195,6 +5215,7 @@ vidivx.112.2o7.net
 vidstest1.d1.sc.omtrdc.net
 vidstest2.d1.sc.omtrdc.net
 vidstest3.d1.sc.omtrdc.net
+view.adbravotech.com
 vinci.xiti.com
 vinivividivx.112.2o7.net
 vip06-assets.insnw.net
@@ -5411,6 +5432,7 @@ www.iprom.si
 www.jdoqocy.com
 www.jumpers.mobi
 www.klepet.eu
+www.knotch-cdn.com
 www.lansrv030.com
 www.lasagneandands.com
 www.launchbit.com

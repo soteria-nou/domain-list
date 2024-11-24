@@ -47,6 +47,7 @@ bidder.criteo.com
 bizsolutions.strands.com
 bnstero.com
 builder.extensionfactory.com
+bundle.dyn-rev.app
 butterfly-button.web.app
 button.flattr.com
 buzzbox.buzzfeed.com
@@ -58,6 +59,7 @@ cdn-akamai.mookie1.com
 cdn-pub.sentifi.com
 cdn-stamped-io.azureedge.net
 cdn-widget.stuff.com
+cdn.506.io
 cdn.addnow.com
 cdn.earnify.com
 cdn.embedly.com
@@ -90,9 +92,11 @@ chs02.cookie-script.com
 cn.cbsimg.net
 cointent.com
 components.justanswer.com
+config.gorgias.chat
 connect.ekomi.de
 connect.facebook.net
 connect.ok.ru
+connect.podium.com
 contentwidgets.net
 counter.personyze.com
 cp.usastreams.com
@@ -209,6 +213,7 @@ nk.pl
 nwidget.networkedblogs.com
 oap.accuweather.com
 offers.lendingtree.com
+omnisnippet1.com
 otter.topsy.com
 our.glossip.nl
 p.drivek.it
@@ -245,6 +250,7 @@ s1885539667.t.eloqua.com
 sales.liveperson.net
 sb.freeskreen.com
 sb.sellpoint.net
+schemaplusfiles.s3.amazonaws.com
 scribol.com
 sd.linkwelove.it
 sdsbucket.s3.amazonaws.com

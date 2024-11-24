@@ -305,6 +305,7 @@ a11ybar.com
 a1austria-survey.sandsiv.com
 a1.superstats.com
 a1telekom01.webtrekk.net
+a1w3m3e3.aacdn.net
 a1webstrategy.com
 a2.mediagra.com
 a2nn5eri7ce.com
@@ -2217,6 +2218,7 @@ aegis.qq.com
 a.elecdesign.com
 ae.siteapps.com
 aetv.112.2o7.net
+a.eunow4u.com
 a.exdynsrv.com
 a.exoclick.com
 a.exosrv.com
@@ -2342,6 +2344,7 @@ agreemand.com
 a.gsmarena.com
 ahd.ruten.com.tw
 ahedrankslowl.com.ua
+ahhwpucku.com
 a.hi5.com
 ahitflip.ivwbox.de
 ahjanhabmo.com
@@ -2666,6 +2669,7 @@ aphycolourses.info
 api-2-0.spot.im
 api2.adstargeting.com
 api2.amplitude.com
+api2.analyticspodium.com
 api2.inform.youniversalmedia.com
 api.adg99.com
 api.adgoi-1.net
@@ -2845,6 +2849,7 @@ app.marsello.com
 app-measurement.com
 appnext-a.akamaihd.net
 appnext.hs.llnwd.net
+appointeeivyspongy.com
 app.optinarchitect.com
 app.popupdomination.com
 app.purechat.com
@@ -2963,6 +2968,7 @@ assets.context.ly
 assets.contextly.com
 assets.cookieconsent.silktide.com
 assets.customer.io
+assets.evolutionadv.it
 assets.freshdesk.com
 assets.hearstapps.com
 assets.ipcdigital.co.uk
@@ -3509,6 +3515,7 @@ breezefraudulent.com
 brightcove.112.2o7.net
 brightonclick.com
 b.rmgserving.com
+broadsview.site
 bronze-tip.com
 brothersoft.us.intellitxt.com
 brownshoe.112.2o7.net
@@ -3551,6 +3558,7 @@ bullz-eye-ads.com
 bullzeye.rotator.hadj1.adjuggler.net
 bulrev.com
 bundev.com
+bundle.dyn-rev.app
 bupnjndj.com
 buqkrzbrucz.com
 burda.iprom.net
@@ -3764,6 +3772,7 @@ cdn4.forter.com
 cdn4.userzoom.com
 cdn4.wibbitz.com
 cdn503.rontar.com
+cdn.506.io
 cdn51.vizury.com
 cdn52969391.ahacdn.me
 cdn5.js.ad.dotandad.com
@@ -4075,6 +4084,7 @@ cdn.smart-digital-solutions.com
 cdn.snigelweb.com
 cdn.socialmediatabs.com
 cdn.speedcurve.com
+cdn.speraspace.com
 cdn.spotxcdn.com
 cdn.spoutable.com
 cdns.revenviews.com
@@ -4242,6 +4252,7 @@ cisviqodbk.com
 citadelpathstatue.com
 citizenstelecom.112.2o7.net
 citizen-times.us.intellitxt.com
+cjbyfsmr.life
 cjl58f3agc.com
 cjs.ptengine.com
 c.jsrdn.com
@@ -4464,6 +4475,7 @@ computerworldcom.112.2o7.net
 comsex.site
 comsurvey.112.2o7.net
 concertads-configs.vox-cdn.com
+concludedstoredtechnique.com
 condenast.112.2o7.net
 condenast.demdex.net
 condenast-d.openx.net
@@ -4474,6 +4486,7 @@ conduit-banners.com
 conduit-data.com
 confiant-integrations.global.ssl.fastly.net
 config1.veinteractive.com
+config.gorgias.chat
 config.ioam.de
 config-ltvp.inmobi.com
 config-prod.choice.faktor.io
@@ -4491,6 +4504,7 @@ connectio.s3.amazonaws.com
 connect.mail.ru
 connect.odnoklassniki.ru
 connect.ok.ru
+connect.podium.com
 connect.topicit.net
 conqueredallrightswell.com
 conrad.122.2o7.net
@@ -4705,6 +4719,7 @@ c.spiegel.de
 cs.pikabu.ru
 csp-logging.jimdo-platform.net
 cs.prototypes.ru
+csp.secureserver.net
 csr.inspsearchapi.com
 csr.onet.pl
 cs-server-s2s.yellowblue.io
@@ -5284,6 +5299,7 @@ dmuqumodgwm.com
 dmx.districtm.io
 dmxleo.dailymotion.com
 dmx.sync.yume.com
+dmz3nd5oywtsw.cloudfront.net
 dn3y71tq7jf07.cloudfront.net
 dna8twue3dlxq.cloudfront.net
 d.neodatagroup.com
@@ -5738,7 +5754,6 @@ emea.tracking.justpremium.com
 emisja.contentstream.pl
 emjcd.com
 e.monetate.net
-emp.bbci.co.uk
 employee.hitbox.com
 ems2bmen.com
 en.btcupapp.co
@@ -5871,12 +5886,14 @@ event.wired.com
 everestjs.net
 evisitcs.com
 evshed.us.intellitxt.com
+evsw-zfdmag.one
 evwmwnd.com
 eweek.us.intellitxt.com
 ewstv.112.2o7.net
 examnotes.us.intellitxt.com
 ex.banner.t-online.de
 excdn-6183.kxcdn.com
+exceedinglytells.com
 excellentsponsor.com
 excellent-vids.online
 exchange.buzzoola.com
@@ -6088,6 +6105,7 @@ freescale.d2.sc.omtrdc.net
 free.timeanddate.com
 freezescrackly.com
 frequentation.xiti.com
+frequentjam.com
 freshplum.com
 fresnel.vimeocdn.com
 fres-news.com
@@ -6575,9 +6593,11 @@ hhbypdoecp.com
 hi5.adnxs.com
 hicovjpufo.com
 hide.implink.xyz
+hif.to
 highbeam.122.2o7.net
 higheurest.com
 highmaidfhr.com
+highrevenuenetwork.com
 hilltopads.net
 h.imedia.cz
 himediads.com
@@ -7084,6 +7104,7 @@ jpeotqwrio.com
 jpg1.su
 jpg4.su
 jp.intellitxt.com
+jpmkbcgx-o.buzz
 jpooavwizlvf.com
 js09.isatonabench.com
 js11.klmainprost.com
@@ -7575,6 +7596,7 @@ logs4.contadorwap.com
 logs5.contadorwap.com
 logs6.xiti.com
 logs8.xiti.com
+logs.ambitionbox.com
 logs.browser-intake-datadoghq.com
 logs.comics.com
 logsdk.kwai-pro.com
@@ -8172,8 +8194,10 @@ myadsystem.com
 myanalytics.click
 myao.adocean.pl
 myatorak.ru
+mybbc-analytics.files.bbci.co.uk
 mybestdc.com
 mybestmv.com
+my.blissgallery.xyz
 my.blueadvertise.com
 mycdn.co
 my-cdn.effectivemeasure.net
@@ -8297,6 +8321,7 @@ newstarads.com
 new.statistici.ro
 newsubscribes.com
 news-uk-d.openx.net
+news-xwovani.com
 newt1.adultadworld.com
 newt2.adultadworld.com
 newt3.adultadworld.com
@@ -8495,6 +8520,7 @@ odb.outbrain.com
 oddbanner.bet-at-home.com
 odglhicarv.com
 odpfujlimjuk.com
+odqciqdazjuk.com
 odr.mookie1.com
 oeh.d3.sc.omtrdc.net
 oehgk.com
@@ -8578,6 +8604,7 @@ omareeper.com
 ombdraosjc.com
 om.cbsi.com
 omitneitherrover.com
+omnisnippet1.com
 omniture.112.2o7.net
 omniturecom.112.2O7.net
 omniture.mirror.co.uk
@@ -8910,6 +8937,7 @@ pcmag.us.intellitxt.com
 pcpro.uk.intellitxt.com
 pcpro.us.intellitxt.com
 p.cpx.to
+pcqze.tech
 pcreview.uk.intellitxt.com
 p.ctpost.com
 pcv1.varinode.com
@@ -9113,6 +9141,7 @@ pixfuture-d.openx.net
 pix.impdesk.com
 pixl.li
 pix.nbcuni.com
+pix.pub
 pix.spot.im
 pix.stcounter.com
 pix.tagcdn.com
@@ -9650,6 +9679,7 @@ rd1.hitbox.com
 rd.about.com
 rda.net
 rd.clickshift.com
+rddjzbwt.click
 rd.himediads.com
 rdrct1.org
 rdrctgoweb.com
@@ -9754,6 +9784,7 @@ resources.infolinks.com
 responder.wt.heise.de
 responder.wt-safetag.com
 rest.contextly.com
+restrictionsvan.com
 retagro.com
 retailmenot-d.openx.net
 retainguaninefluorite.info
@@ -10169,6 +10200,7 @@ scarofnght.com
 sc.cdnma.com
 sc-collector.n26.com
 scdn.cxense.com
+schemaplusfiles.s3.amazonaws.com
 schetu.net
 sciamcom.112.2o7.net
 sc.iasds01.com
@@ -10389,6 +10421,7 @@ settings.crashlytics.com
 setup.mediadrug.com
 setup.pereday.ru
 s-eu-1.pushpushgo.com
+s.eunow4u.com
 sevenload-en.112.2o7.net
 sevenloadgmbh.112.2o7.net
 sevenoneintermedia.112.2o7.net
@@ -10407,6 +10440,7 @@ sghb.spotim.market
 s.go-mpulse.net
 sgreen.erne.co
 shadesincreasingcontents.com
+shakingtacklingunpeeled.com
 shalleda.com
 shareaholic.com
 shareasale.com
@@ -10435,6 +10469,7 @@ show.adlift.ru
 showads.pubmatic.com
 showcase4flash.pushauction.com
 showcase4.pushauction.com
+show.partners-show.com
 show.smartcontext.pl
 show.textads.lt
 show.textads.lv
@@ -10516,6 +10551,7 @@ s.komoona.com
 s.ktxtr.com
 skydeutschland.122.2o7.net
 sky.estat.com
+sky.ijhyugb.com
 skywaverocs.space
 slashphone.us.intellitxt.com
 slejv.space
@@ -10607,6 +10643,7 @@ snippet.minute.ly
 s.nitropay.com
 snoutinsolence.com
 s.ns1p.net
+sntr.aukro.cz
 s.ntv.io
 snuggrow.com
 s.o333o.com
@@ -10689,6 +10726,7 @@ spir.hit.gemius.pl
 spleniafallows.com
 spletnaakademija.ladesk.com
 splitter.clickspromos.com
+spondeekitling.top
 sponsorads.de
 spoods.rce.veeseo.com
 s.po.st
@@ -11144,6 +11182,7 @@ streamate.icfcdn.com
 stream.bantgoau.com
 stretchsquirrel.com
 s.tribalfusion.com
+s.trkcall.com
 stroer-d.openx.net
 strongestconvenient.com
 st.top100.ru
@@ -11260,6 +11299,7 @@ syndicpop.com
 s.youtube.com
 systemcallpointcamel.info
 system.mondeos.pl
+system-notify.app
 systemsivory.com
 syyycc.com
 s.zkcdn.net
@@ -11771,6 +11811,7 @@ tracking.rfsoao.com
 tracking.searchmarketing.com
 tracking.shopping-flux.com
 tracking.skymobi.agency
+tracking.speraspace.com
 tracking.tidalhifi.com
 tracking.to
 tracking.tomsguide.com
@@ -11986,6 +12027,7 @@ twontoofkot.com
 twpasol.com
 txjdgm53.win
 ty0lm9uz.onet.pl
+tyfqjbuk.one
 t.yunaga.xyz
 tzegilo.com
 t.zqtk.net
@@ -12235,6 +12277,7 @@ veresultedinncre.org
 verivox01.webtrekk.net
 vexationworship.com
 vfastdownload.com
+vfyhwapi.com
 vg04.met.vgwort.de
 vg74gi6mea.com
 viaaddictinggames.112.2o7.net
@@ -12282,6 +12325,7 @@ vidstest1.d1.sc.omtrdc.net
 vidstest2.d1.sc.omtrdc.net
 vidstest3.d1.sc.omtrdc.net
 vidtech.cbsima.com
+view.adbravotech.com
 view.ceros.com
 viewyentreat.guru
 vigraghe.net
@@ -12617,6 +12661,7 @@ wpunativesh.com
 wpzka4t6.site
 wrap.tradedoubler.com
 wredint.com
+wristhunknagging.com
 wrrlidnlerx.com
 wruaqpkuwa.com
 wse3as1rg475.pintto.com
@@ -13065,6 +13110,7 @@ www.klepet.eu
 www.kmbyktnb.com
 www.kmvrdkjr.com
 www.knkhshkxdtwsk.com
+www.knotch-cdn.com
 www.kootzjkz.com
 www.kprkrbatuob.com
 www.kqpcfthouivgvs.com
@@ -13394,6 +13440,7 @@ www.viperishly.com
 www.visariomedia.com
 www.vloudsze.com
 www.vmmvqbqgqueh.com
+www.vqdtnsabdcutht.com
 www.vrewpywootyu.com
 www.vrsshsdaa.com
 www.vseenmtdmcqssv.com
@@ -13633,6 +13680,7 @@ z2d7c5q4.map2.ssl.hwcdn.net
 z430.takru.com
 za-cdn.effectivemeasure.net
 zadovoljna.iprom.net
+zakriqnzeo.com
 zanalytics.vip
 z.analytics.yahoo.com
 zanox-affiliate.de
