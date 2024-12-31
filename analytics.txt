@@ -1137,6 +1137,7 @@ clarity-api-prod.idg.com.au
 clarityray.com
 classmatesde.112.2O7.net
 claxtonsinclairville.tiptonvillepylesville.com
+clck.dzen.ru
 clck.yandex.ru
 clerrrep.com
 clevernt.com
@@ -1697,6 +1698,7 @@ dust.ipfingerprint.com
 dutrus.com
 dviixeyykyqjv.cloudfront.net
 dvnafl0qtqz9k.cloudfront.net
+dvxrxm-cxo.top
 dwl.hitbox.com
 dwt.soundcloud.com
 dx.frontend.weborama.com
@@ -2681,6 +2683,7 @@ live.chartboost.com
 livenation.122.2o7.net
 liveperformancesales.com
 livetracker.rfe.pangea-cms.com
+lltrck.com
 load.sumo.com
 load.sumome.com
 loadbalancing.xiti.com
@@ -2783,6 +2786,7 @@ logger-05.vty.dailymotion.com
 logger.nerdwallet.com
 logging.admicro.vn
 logging.ourstats.de
+logging.pw.adn.cloud
 logi1.xiti.com
 logi10.xiti.com
 logi104.xiti.com
@@ -4711,6 +4715,7 @@ tags.bluekai.com
 tags.clickintext.net
 tags.dxmdp.com
 tags.mediaforge.com
+tags.pw.adn.cloud
 tags.reagroupdata.com.au
 tags.t.tailtarget.com
 tags.tiqcdn.com
@@ -5329,6 +5334,7 @@ widezealconstant.com
 widget.eagleapi.io
 widgets.backtype.com
 widgets.future-hawk-content.co.uk
+widgetsapi.ncls1.com
 wienerberger.112.2o7.net
 wileycom.112.2o7.net
 wileyeucom.112.2o7.net
