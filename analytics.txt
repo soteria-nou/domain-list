@@ -375,6 +375,7 @@ analytics.ecvv.com
 analytics.eip.telegraph.co.uk
 analytics.fairfax.com.au
 analytics.ff.avast.com
+analytics.files.fm
 analytics.fortinet.com
 analytics.freedom.press
 analytics.freespee.com
@@ -468,6 +469,7 @@ ap.lijit.com
 apac.analytics.yahoo.com
 aparser1-nat.hitbox.com
 ape-tagit.timeinc.net
+apetite.index.hr
 apex.go.sonobi.com
 api-2-0.spot.im
 api-analista.icons8.com
@@ -673,6 +675,7 @@ b.techcrunch.com
 b.wal.co
 b.wishabi.com
 b1sync.zemanta.com
+b1t-amsdc1.zemanta.com
 b2b.cbsimg.net
 b91.yahoo.co.jp
 b92adrs.hit.gemius.pl
@@ -781,6 +784,7 @@ broadsview.site
 brownshoe.112.2o7.net
 browser-intake-datadoghq.com
 browser.events.data.microsoft.com
+browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 bs.webtalk.ru
@@ -1057,6 +1061,7 @@ cdn.yldbt.com
 cdn.yottaa.com
 cdn.zarget.com
 cdn.zeerat.com
+cdn0.forter.com
 cdn01.basis.net
 cdn01.mzbcdn.net
 cdn1.affirm.com
@@ -1070,6 +1075,7 @@ cdn3.optimizely.com
 cdn4.forter.com
 cdn4.userzoom.com
 cdn51.vizury.com
+cdn9.forter.com
 cdnid.net
 cdns.au1.gigya.com
 cdns.brsrvr.com
@@ -1179,6 +1185,7 @@ cm.adgrx.com
 cm.everesttech.net
 cm.eyereturn.com
 cm.l.qq.com
+cm.mgid.com
 cmap.alibaba.com
 cmdts.ksmobile.com
 cmp.112.2o7.net
@@ -2109,6 +2116,7 @@ fp.metricswpsh.com
 fpn.flipboard.com
 fqtag.com
 fr.sitestat.com
+fra1-ib.adnxs-simple.com
 freedom.reviews
 freehostedscripts.net
 freeonlineusers.com
@@ -2246,6 +2254,7 @@ go.shareaholic.com
 go.strpjmp.com
 go.techtarget.com
 go.theregister.co.uk
+go.ts-tracker.me
 go2.hit.gemius.pl
 goals.ar.gy
 gobetweencomment.com
@@ -2968,6 +2977,7 @@ mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
 matomo.freeones.com
+matomo.groovetech.io
 matomo.manjaro.org
 matomo.performax.cz
 matomo.rtvslo.si
@@ -3767,6 +3777,7 @@ reedthatm.biz
 refer.ccbill.com
 referrer.disqus.com
 region1.analytics.google.com
+region1.google-analytics.com
 registercom.tt.omtrdc.net
 relap.io
 relestar.com
@@ -3913,6 +3924,7 @@ s.uadx.com
 s.update.dailymotion.com
 s.update.rubiconproject.com
 s.vengovision.ru
+s.viiwgrhk.com
 s.webtrends.com
 s.xpanama.net
 s.youtube.com
@@ -4836,6 +4848,7 @@ tr.snapchat.com
 tr2.smarterhq.io
 tr5.myroitracking.com
 trace.events
+trace.mediago.io
 trace.qq.com
 tracethestats.com
 track.acclaimnetwork.com
@@ -5396,6 +5409,7 @@ www.civicscience.com
 www.clarity.ms
 www.clickmngr.com
 www.clicktripz.com
+www.clkmc.com
 www.co2stats.com
 www.connectignite.com
 www.contentify.needs-wants.com

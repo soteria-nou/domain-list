@@ -169,6 +169,7 @@ contextual.media.net
 cookiebanner.unionstationapp.com
 cookieinfoscript.com
 cookies.kreatorij.si
+coral.condenastdigital.com
 creative-services.ceros.com
 creative.xlivrdr.com
 creative.xxxjmp.com
@@ -446,6 +447,7 @@ responder.wt.heise.de
 ripp-it.fr.intellitxt.com
 rojakpot.us.intellitxt.com
 rootclick.biz
+rts-static-prod.freshworksapi.com
 s-eu-1.pushpushgo.com
 s.ivillage.us.intellitxt.com
 s.ppjol.net
@@ -561,6 +563,7 @@ uberphones.us.intellitxt.com
 ubuntugeek.uk.intellitxt.com
 ubuntux.uk.intellitxt.com
 uhf.microsoft.com
+ui-avatars.com
 ui.swogo.com
 uk.intellitxt.com
 ultimatecarpage.us.intellitxt.com
@@ -582,6 +585,7 @@ vnu.uk.intellitxt.com
 vnunet.uk.intellitxt.com
 vtrhardware.fr.intellitxt.com
 wall.xmlx.lol
+wchat.freshchat.com
 web-sdk.urbanairship.com
 webhostingtalk.us.intellitxt.com
 wi-fiplanet.us.intellitxt.com
@@ -590,6 +594,7 @@ widgets.fccinteractive.com
 widgets.membership.s-msft.com
 windowsitpro.us.intellitxt.com
 wpcentral.us.intellitxt.com
+wss.commentsmodule.com
 wugnet.us.intellitxt.com
 wwtdd.us.intellitxt.com
 www.antiadblocksystems.com
