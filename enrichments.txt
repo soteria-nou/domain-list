@@ -217,6 +217,7 @@ eweek.us.intellitxt.com
 examnotes.us.intellitxt.com
 experts.us.intellitxt.com
 express.uk.intellitxt.com
+ext.spinwheelapp.com
 extremeoverclocking.us.intellitxt.com
 extremetech.us.intellitxt.com
 faqts.us.intellitxt.com
@@ -312,6 +313,7 @@ js.hsleadflows.net
 js.hubspotfeedback.com
 js.qualified.com
 js.sentry-cdn.com
+js.smile.io
 jsfiles.rutracker.ga
 jupiter.us.intellitxt.com
 kbalertz.us.intellitxt.com

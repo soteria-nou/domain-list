@@ -539,6 +539,7 @@ api.viafoura.co
 api.wipmania.com
 api.worldgravity.com
 api.xiti.com
+api.zbanx.com
 api2.amplitude.com
 api2.analyticspodium.com
 apicit.net
@@ -1232,6 +1233,7 @@ collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
 collector.a.pxi.pub
 collector.appconsent.io
+collector.cdp.cnn.com
 collector.contentexchange.me
 collector.fiverr.com
 collector.github.com
@@ -1399,6 +1401,7 @@ cts.metricsdirect.com
 cts.sanoma.fi
 ctv.122.2o7.net
 ctvtrutv.112.2o7.net
+ctwmcd.com
 cursecom.ivwbox.de
 customcode.shephertz.com
 customer.cludo.com
@@ -1458,6 +1461,7 @@ d1r55yzuc1b1bw.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1stxfv94hrhia.cloudfront.net
 d1tprjo2w7krrh.cloudfront.net
+d1v2u6by4izioz.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d20flqux56m8w7.cloudfront.net
@@ -2127,6 +2131,7 @@ fresnel.vimeocdn.com
 freyr.futurecdn.net
 frog.wix.com
 front.facetz.net
+frostedecho.com
 frtyd.com
 frutrun.com
 fu-61495ceefa.upalytics.com
@@ -2938,6 +2943,7 @@ m1.webstats.motigo.com
 m1.webstats4u.com
 m2d.m2.ai
 m57ku6sm.com
+ma.krka.si
 ma.minutebuzz.com
 ma180-r.analytics.edgesuite.net
 ma800-r.analytics.edgesuite.net
@@ -2963,6 +2969,7 @@ manning.postaffiliatepro.com
 mansfieldeffects.com
 manuretravelingaroma.com
 mapstats.blogflux.com
+marketing.contlo.com
 marketing.dropbox.com
 marketing.ecreativeworks.com
 marketing.foxitsoftware.com
@@ -3229,6 +3236,7 @@ nmfortworth.112.2o7.net
 nmminneapolis.112.2o7.net
 nmnuevo.112.2o7.net
 nmsacramento.112.2o7.net
+noa.yahoo.com
 nokia.tt.omtrdc.net
 nordeadk.112.2o7.net
 northstar.4tube.com
@@ -3281,12 +3289,14 @@ oc-track.autonomycloud.com
 ocpkx.voluumtrk.com
 ocyss.com
 odb.outbrain.com
+odqxukovk.com
 odr.mookie1.com
 oeh.d3.sc.omtrdc.net
 oehgk.com
 offers.paypal.com
 office-gw1.hitbox.com
 og3i93vzhywk-a.akamaihd.net
+ogads-pa.googleapis.com
 ohmystats.com
 oimg.nbcuni.com
 oinqqbzs.com
@@ -3911,6 +3921,7 @@ s.nexeps.com
 s.ns1p.net
 s.ntv.io
 s.optnx.com
+s.optvz.com
 s.sa.aol.com
 s.seedtag.com
 s.shopify.com
@@ -4077,6 +4088,7 @@ scripts.psyma.com
 scripts.sophus3.com
 scripts.tracdelight.com
 scz.hit.gemius.pl
+sdk-api-v1.singular.net
 sdk-b.apptornado.com
 sdk.mpianalytics.com
 sdk.mrf.io
@@ -5252,6 +5264,7 @@ vixnixxer.com
 vlog.leadformix.com
 vnumedia01.webtrekk.net
 volkswagencouk.agillic.eu
+voulauweeg.net
 voyageschoolanymore.com
 vp.rambler.ru
 vra.outbrain.com
@@ -5598,6 +5611,7 @@ yourprecious.geopedia.si
 youtubei.youtube.com
 yp.gw.anametrix.com
 yrtas.btrll.com
+ywusfyjhnpflr.top
 yxsu5ufd2m.kameleoon.eu
 z-na.associates-amazon.com
 z.analytics.yahoo.com
