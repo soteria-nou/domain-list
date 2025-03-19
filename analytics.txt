@@ -245,6 +245,7 @@ ad2.rambler.ru
 adadvisor.net
 adanalytics.openload.co
 adash.m.taobao.com
+adblock-proxy.tools.improvado.io
 adclick.hit.gemius.pl
 adcz.hit.gemius.pl
 addfreestats.com
@@ -386,6 +387,7 @@ analytics.global.sky.com
 analytics.gtflixtv.com
 analytics.hosting24.com
 analytics.imedia8.com
+analytics.kaltura.com
 analytics.ladmedia.fr
 analytics.leadlifesolutions.net
 analytics.linkwelove.com
@@ -475,6 +477,7 @@ api-2-0.spot.im
 api-analista.icons8.com
 api-http-lb.vadio.com
 api-js.datadome.co
+api-js.mixpanel.com
 api-prod.secureprivacy.ai
 api-v3.tinypass.com
 api.adrtx.net
@@ -572,6 +575,7 @@ apps.developermedia.com
 apps.outfit7.com
 apwvx.adsbtrack.com
 apx.moatads.com
+aqgyncebdxmpw.icu
 aqueduct.revolutlabs.com
 arbo.hit.gemius.pl
 arc.msn.com
@@ -1160,6 +1164,7 @@ clickcdn.shareaholic.com
 clickcdn.xda-developers.com
 clickguard.co
 clicklogger.rm.uol.com.br
+clicks-dt.b-cdn.net
 clicks.pipaffiliates.com
 clickserv.sitescout.com
 clicktale.pantherssl.com
@@ -1225,6 +1230,7 @@ collect-eu-central-1.tealiumiq.com
 collect-us.app-us1.com
 collect.albacross.com
 collect.octalytics.com
+collect.verify.lnearn.com
 collecte.audience.acpm.fr
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
@@ -2140,6 +2146,7 @@ funn.graphiq.com
 funtikapa.info
 fusetv.112.2o7.net
 fw.adsafeprotected.com
+fwciiqsskqyih.site
 fx.gtopstats.com
 fzmflvwn.tech
 g.3gl.net
@@ -2698,6 +2705,7 @@ livenation.122.2o7.net
 liveperformancesales.com
 livetracker.rfe.pangea-cms.com
 lltrck.com
+ln.gamesrevenue.com
 load.sumo.com
 load.sumome.com
 loadbalancing.xiti.com
@@ -3205,6 +3213,7 @@ netlog.ivwbox.de
 netmng.com
 netscope.data.marktest.pt
 network.bazaarvoice.com
+new-sentry.gitlab.net
 new.statistici.ro
 newjobs.d1.sc.omtrdc.net
 newrtbbid.com
@@ -3243,6 +3252,7 @@ northstar.4tube.com
 northstar.porntube.com
 note.cdncontentdelivery.com
 notebook.ivwbox.de
+notify.bugsnag.com
 notrack.adviva.net
 notrack.specificmedia.com
 nova.collect.igodigital.com
@@ -4259,6 +4269,7 @@ smy.iheart.com
 snap.licdn.com
 sniff.visistat.com
 snoutinsolence.com
+snowplowprd.trx.gitlab.net
 sntr.aukro.cz
 so.rlcdn.com
 sockjs.pusher.com
@@ -4600,6 +4611,7 @@ strato.ivwbox.de
 strawberries.112.2o7.net
 stretchsquirrel.com
 stroer-d.openx.net
+stubhub-proxy.genius.com
 studentski.iprom.net
 stumbleupon.112.2o7.net
 subaruofamerica.112.2o7.net
@@ -5217,6 +5229,7 @@ velocity-cdn.ebaystratus.com
 velocitycdn.com
 venetrigni.com
 verivox01.webtrekk.net
+vfqgmtqglqxkd.xyz
 vfyhwapi.com
 vg04.met.vgwort.de
 viaaddictinggames.112.2o7.net

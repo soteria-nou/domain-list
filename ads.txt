@@ -1131,6 +1131,7 @@ ads.goear.com
 ads.gofuckyourself.com
 ads.golem.de
 ads.goodreads.com
+ads.google.com
 ads.groundspeak.com
 ads.guardian.co.uk
 ads.guru3d.com
@@ -1343,6 +1344,7 @@ ads.pubmatic.com
 ads.pugetsoundsoftware.com
 ads.pwcr.net
 ads.q1media.com
+ads.quality-traffic.com
 ads.quartermedia.de
 ads.qubetv.tv
 ads.racunalniske-novice.com
@@ -2034,6 +2036,7 @@ ak.aimukreegee.net
 ak.ceegriwuwoa.net
 ak.hetapus.com
 ak.kocairdo.net
+ak.litaudrootsa.net
 ak.naiwoalooca.net
 ak.oneegrou.net
 ak.phumpauk.com
@@ -2047,6 +2050,7 @@ aka-cdn.adtechus.com
 akcdn.nativeadsfeed.com
 akdapi.com
 akftfiam.com
+akkmakpi.com
 al.gangwafriend.com
 alas4kanmfa6a4mubte.com
 alfalt.adocean.pl
@@ -2078,6 +2082,7 @@ amjsiksirkh.com
 amkbpcc.com
 amn.doubleclick.net
 ams-ads-cornerstone-creatives.s3.amazonaws.com
+ams.creativecdn.com
 ams1-ib.adnxs.com
 ams1.ib.adnxs.com
 amshirethfne.xyz
@@ -2226,6 +2231,7 @@ austria1.adverserve.net
 authedmine.com
 automate-prod.s3.amazonaws.com
 avads.co.uk
+avhffexurg.com
 avjockjpiduc.com
 avtomobilizem.iprom.net
 awakebottlestudy.com
@@ -2413,6 +2419,7 @@ bathingdelicatedemise.com
 baxascpkean.com
 baypops.com
 bb.hdpornpictures.net
+bb2r.com
 bb4cf48126aab4.com
 bbaannrr11.com
 bbcdn-bbnaut.ibillboard.com
@@ -2510,6 +2517,7 @@ brakefluid.website
 brakesoutright.com
 braze.eu
 brdmin.com
+breachneatlylane.com
 brightonclick.com
 broadsimp.site
 bronze-tip.com
@@ -2531,6 +2539,7 @@ buqkrzbrucz.com
 burningpushing.info
 butalksuw9dj10.com
 buysellads.com
+bv.atellanabdali.shop
 bvlbcqcg.com
 bwp.cnet.com
 bwuotrwahsij.com
@@ -2807,6 +2816,7 @@ cfgr5.com
 cfgrcr1.com
 cfnewsads.thomasnet.com
 cgbqzfjf.com
+cgqhtithixi.com
 chargeit.baby
 charmflirt.com
 charmour.club
@@ -2820,6 +2830,7 @@ chrolal.com
 chronicads.com
 chsrkred.com
 ci.spontonelatery.com
+cijoorsairgusa.com
 cirazi.com
 circusbreadth.com
 cisfazpisju.com
@@ -3076,6 +3087,7 @@ d2z51a9spn09cw.cloudfront.net
 d3.condenast.servedbyopenx.com
 d31m6w8i2nx65e.cloudfront.net
 d34gjfm75zhp78.cloudfront.net
+d34r8q7sht0t9k.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
 d36zfztxfflmqo.cloudfront.net
 d3al52d8cojds7.cloudfront.net
@@ -3144,6 +3156,7 @@ deal.hmitf.com
 deberorewhen.info
 decals.rcgroups.com
 decals.rcgroups.net
+decanolflabby.shop
 deckdistant.com
 declareave.com
 decordingaudied.site
@@ -3279,6 +3292,7 @@ duhtate.ru
 dularkqkeo.com
 dulcormutated.com
 dumbpop.com
+duomoscrinkum.shop
 duscb12r.loan
 duwcacahfa.com
 dvagh3p3rk8xj.cloudfront.net
@@ -3383,6 +3397,7 @@ ero-advertising.com
 eroleep.com
 errantolo.com
 escatedint.work
+esemnjeptffjb.xyz
 esimedia-d.openx.net
 especifice.info
 estoopsi.com
@@ -3441,6 +3456,7 @@ fandmo.com
 fapmeth.com
 faqirsgoliard.top
 farlexintl-d.openx.net
+farmyengrail.top
 fastlane.rubiconproject.com
 fastlycdn.com
 fatalloved.com
@@ -3489,6 +3505,7 @@ forspearowor.com
 fortnightindictment.com
 foryou.tophosting101.com
 fouoh.com
+fouterwicket.shop
 fpukxcinlf.com
 fr.105.slidein.clickintext.net
 fractionfridgejudiciary.com
@@ -3669,6 +3686,7 @@ gstat.orange.fr
 gstaticadssl.l.google.com
 gsurihy.com
 gtm.stampenmedia.se
+gudesuberic.top
 guigebichir.website
 gujakqludcuk.com
 gulsachpyrexia.uno
@@ -3709,6 +3727,7 @@ helix.beanstock.co
 hellerraucous.top
 hellosociety.com
 herynore.com
+hf.vespaacone.top
 hfllrf6lwh.com
 hgbn.rocks
 hgjxjis.com
@@ -3757,6 +3776,7 @@ htlb.casalemedia.com
 htlbid.com
 hts68934.com
 httpool.nuggad.net
+hu.slushedencaged.com
 hugde.adocean.pl
 huhaxvawgwa.com
 hukojlbrijtu.com
@@ -3800,6 +3820,7 @@ icjvfvoh.com
 icon.dt.mndlvr.com
 icon.dt.mndsrv.com
 icq.advmaker.ru
+id.a-mx.com
 id.hadron.ad.gt
 id5-sync.com
 identads.com
@@ -4026,7 +4047,9 @@ keytarget.adnet.lt
 kgdvs9ov3l2aasw4nuts.com
 kge1ru01.science
 kgfjrb711.com
+kh.molimengrocery.top
 khebkaro.info
+kidpowers.com
 kingithinref.club
 kipnjjwvulmy.fun
 kiznzerigo.com
@@ -4157,6 +4180,7 @@ luhtb.top
 lusthaus2.bannerdealer.com
 luxup.ru
 lvodomi.info
+lvtuucmyfpz.com
 lwadm.com
 lwonclbench.com
 lxpl6t0t.cricket
@@ -4262,9 +4286,11 @@ mg.adskeeper.co.uk
 mgcrs.dawirax.com
 mh.plotchwrive.com
 mheniwwacl.com
+mhkyydnuqqwpvn.com
 mi.adinterax.com
 micro.rubiconproject.com
 midgetincidentally.com
+midnightlotusgrove.com
 miganqobjzu.com
 miniad2.layer-ad.org
 miscur.com
@@ -4326,6 +4352,7 @@ mtg.banneradministration.com
 mtvads.nivas.hr
 mtvp05j.com
 muddychronicstuffed.com
+mufaommef.com
 munvpuavwa.com
 murava.zaebaladblock.ru
 muzhikendover.top
@@ -4427,6 +4454,7 @@ nl1.ero-advertising.com
 nmanateex.top
 nmbr.info
 no2veeamggaseber.com
+noavoahevugrib.com
 nodes.r66t.com
 nopickytime.com
 notification.tubecup.net
@@ -4461,6 +4489,7 @@ nyyed.com
 o0.winfuture.de
 oachailo.net
 oagudsey.uk
+oamoameevee.net
 oas-eu.247realmedia.com
 oas.adservingml.com
 oas.ameinfo.com
@@ -4568,6 +4597,7 @@ ojdmuwovtqi.com
 ojwarkmaw.com
 ok.internet-media.si
 ok.internetmedia.si
+okjkidtajoh.com
 okxaplomkpca.com
 okxqmiagltpe.com
 ol.at.atwola.com
@@ -4669,6 +4699,7 @@ ot.ca-mpr.jp
 otclick-adv.ru
 ottcukqifam.com
 our.amplifinder.biz
+ov.gumdropolena.com
 overreare.co
 oveukrnmen.com
 ovgads.ovguide.com
@@ -4918,6 +4949,7 @@ pooboafi.net
 pool.admedo.com
 pool.ads.netlog.com
 poorlystepmotherresolute.com
+pop.admpire.com
 pop.bid
 popadscdn.net
 popcash.net
@@ -5146,6 +5178,7 @@ recirculation.spot.im
 reclaimantennajolt.com
 recoiltravellingbreach.com
 recorded.to
+recordedthereby.com
 recs.richrelevance.com
 rect.b2bpersonals.net
 recusticks.co
@@ -5180,6 +5213,7 @@ relay-si.ads.httpool.com
 relay-si.toboads.com
 relay.mobile.toboads.com
 relay.toboads.si
+remaininghopefully.com
 remarketstats.com
 remtoaku.net
 rentalrebuild.com
@@ -5224,6 +5258,7 @@ rmtckjzct.com
 rmxads.com
 rndskittytor.com
 ro2.biz
+robitoaceeb.net
 rocku.adbureau.net
 roletaryk.info
 rollerstrayprawn.com
@@ -5273,6 +5308,7 @@ rtzbpsy.com
 rudy.adsnative.com
 ruglhiahxam.com
 rumcdn.geoedge.be
+rumqrobuv.com
 run.admost.com
 runative-syndicate.com
 ruptly-d.openx.net
@@ -5471,12 +5507,14 @@ sexpennyauctions.com
 sfagwaokja.com
 sgreen.erne.co
 shadesincreasingcontents.com
+shaiwourtijogno.net
 shakingtacklingunpeeled.com
 shalleda.com
 shareasale.com
 shb.richaudience.com
 sheetvibe.com
 shermore.info
+shitcheksauh.net
 shopbop.sp1.convertro.com
 shopnetic.com
 shortlink.sex
@@ -5612,6 +5650,7 @@ stacksocial.com
 stag-core.tfla.xyz
 stagens.com
 stagepopkek.com
+stageseshoals.com
 standardequivalent.com
 stat.flashtalking.com
 static.adclick.lt
@@ -5753,6 +5792,7 @@ tag.tlvmedia.com
 tag1.adaptiveads.com
 tagan.adlightning.com
 tags.bkrtx.com
+tags.creativecdn.com
 tags.dashboardad.net
 tags.deployads.com
 tags.evolvemediallc.com
@@ -5774,6 +5814,7 @@ tas-si.toboads.com
 tas.toboads.si
 tas2.toboads.si
 taughtwandamazingly.com
+tautaisteesutie.net
 taxismaned.top
 tb.turbocap.net
 td.vs3.com
@@ -6028,6 +6069,7 @@ vd.7vid.net
 vdrn.redplum.com
 vehemenceclung.com
 veilsuccessfully.com
+velvetarrowhawk.com
 veneeringextremely.com
 venturead.com
 venusfritter.com
@@ -6077,6 +6119,7 @@ voltads.com
 vooruvou.com
 vop.sundaysky.com
 vpixrlkggv.com
+vplxmpagryjvl.space
 vrapuhcpim.com
 vruotzzz.com
 vsftsyriv.com
@@ -6157,6 +6200,7 @@ world.popadscdn.net
 worldmapd.online
 wortparser.info
 wounofoarausooy.net
+wpiohdquqo.com
 wpunativesh.com
 wpzka4t6.site
 wrap.tradedoubler.com
@@ -6458,6 +6502,7 @@ www.lovetechs.com
 www.lqeevjgkjjwi.com
 www.lqqcbomqqomtme.com
 www.lvjvremluuej.com
+www.lvtuucmyfpz.com
 www.lwppgbkdxnbxw.com
 www.lzqicpumq.com
 www.makzidhq.com
@@ -6487,6 +6532,7 @@ www.mypaidads.com
 www.nairaland.com
 www.nbkaflrbqlkqx.com
 www.nbnefwuifvp.com
+www.nefrvjfkzus.com
 www.netvertising.be
 www.networkadvertising.org
 www.newpoptab.com
@@ -6585,6 +6631,7 @@ www.sgiueejx.com
 www.shfsdvc.com
 www.slrviazqkilu.com
 www.smewwuwppjbebd.com
+www.smnyayzhv.com
 www.smoozed.rocks
 www.socialnewpages.com
 www.spoj.com
@@ -6630,6 +6677,7 @@ www.txrhpjddhbal.com
 www.tyiqebrbpxc.com
 www.tywzyhfliwdbu.com
 www.tzgmnyuqcp.com
+www.udyvlcvsb.com
 www.uhbixtfhwdtmd.com
 www.uhqpnhorurueku.com
 www.ujidhusjvmbfv.com
@@ -6763,6 +6811,7 @@ xfire.adbureau.net
 xgogi.com
 xhr.namitol.com
 xhuhcrwokxnvvu.com
+xl.condyleboggart.com
 xm.wakoreacetous.com
 xmegaxvideox.com
 xml-v4.fstsrv5.com
@@ -6867,10 +6916,12 @@ zmekihobkru.com
 zn.impairgaunt.com
 zoachops.com
 zonearmour4u.work
+zq.grampermilwell.top
 zrk.imgur.com
 zsxeymv.com
 zt.omervagant.com
 ztumuvofzbfe.com
+zucoagorsout.com
 zujibumlgc.com
 zukxd6fkxqn.com
 zulu.r867qq.net

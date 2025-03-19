@@ -4,6 +4,7 @@
 a.c0594.com
 a.delivery.consentmanager.net
 a.optmnstr.com
+acsbapp.com
 activewin.us.intellitxt.com
 admin.paidtime.com
 adv-g001.us.intellitxt.com
@@ -149,6 +150,7 @@ cmp-loader.choice.faktor.io
 cmp.dmgmediaprivacy.co.uk
 cmp.osano.com
 cmp.uniconsent.com
+cns.av-studio.si
 code.intext.billboard.cz
 code.jivosite.com
 code.murdoog.com
@@ -161,11 +163,13 @@ comingsoon.us.intellitxt.com
 compnet.us.intellitxt.com
 config-prod.choice.faktor.io
 consent.cookiebot.com
+consent.cookiebot.eu
 consentmanager.mgr.consensu.org
 contactmusic.uk.intellitxt.com
 content.zemanta.com
 contextlinks.netseer.com
 contextual.media.net
+cookie-cdn.cookiepro.com
 cookiebanner.unionstationapp.com
 cookieinfoscript.com
 cookies.kreatorij.si
@@ -183,6 +187,7 @@ d1f8f9xcsvx3ha.cloudfront.net
 d1hcrjcdtouu7e.cloudfront.net
 d1uo4w7k31k5mn.cloudfront.net
 d2zv5rkii46miq.cloudfront.net
+d3l739e8r8y9v7.cloudfront.net
 dac.jp.intellitxt.com
 daniweb.us.intellitxt.com
 de.intellitxt.com
