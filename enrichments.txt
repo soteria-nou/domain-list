@@ -105,12 +105,14 @@ cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
 cdn.callbackhunter.com
+cdn.callibri.ru
 cdn.consentmanager.mgr.consensu.org
 cdn.consentmanager.net
 cdn.contentsitesrv.com
 cdn.cookie-script.com
 cdn.cookielaw.org
 cdn.dynamicyield.com
+cdn.envybox.io
 cdn.feedbackify.com
 cdn.feedify.net
 cdn.flipboard.com

@@ -288,6 +288,7 @@ advancedtracker.appspot.com
 advertures.directtrack.com
 adviggroupdailyfxrollup.112.2o7.net
 advombat.ru
+aegis.anonymised.io
 aegis.qq.com
 aetv.112.2o7.net
 af-appsflyersdk.edgekey.net
@@ -514,6 +515,7 @@ api.innomdc.com
 api.instabug.com
 api.intellimize.co
 api.keen.io
+api.lab.amplitude.com
 api.lever.co
 api.mixpanel.com
 api.myx.cz
@@ -932,6 +934,7 @@ cdn-0.d41.co
 cdn-1.convertexperiments.com
 cdn-3.convertexperiments.com
 cdn-athena.cafemom.com
+cdn-eu.dynamicyield.com
 cdn-ext.spiny.ai
 cdn-gl.imrworldwide.com
 cdn-rtb.sape.ru
@@ -940,6 +943,7 @@ cdn-sec.optmd.com
 cdn-ukwest.onetrust.com
 cdn.adrtx.net
 cdn.amilliamilli.com
+cdn.amplitude.com
 cdn.apflyer.com
 cdn.app.exitmonitor.com
 cdn.appdynamics.com
@@ -2172,6 +2176,7 @@ gala.spiceworks.com
 galt.hit.gemius.pl
 galv.hit.gemius.pl
 gamingadlt.com
+ganalyticshub.net
 gannett.demdex.net
 ganon.yahoo.com
 gapl.hit.gemius.pl
@@ -2988,6 +2993,7 @@ mashable.d2.sc.omtrdc.net
 match.prod.bidr.io
 match.rtbidder.net
 match.sharethrough.com
+material.anonymised.io
 mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
@@ -3674,6 +3680,7 @@ pto.protoawe.com
 pturt.com
 pu.trafficshop.com
 pub.freestar.io
+pub.pixels.ai
 pubgalaxy-d.openx.net
 public.cobrowse.oraclecloud.com
 public.xiti.com
@@ -3897,6 +3904,7 @@ rtd.tubemogul.com
 rtst.122.2o7.net
 ru-gmtdmp.mookie1.com
 rum-http-intake.logs.datadoghq.com
+rum-ingest.eu0.signalfx.com
 rum.browser-intake-datadoghq.com
 rum.conde.io
 rum.perfops.net
@@ -4365,6 +4373,7 @@ sstats.adobe.com
 sstats.teenvogue.com
 sstats.wired.com
 ssum-sec.casalemedia.com
+st-eu.dynamicyield.com
 st.bebi.com
 st.dynamicyield.com
 st.e2.medianetworks.ru
@@ -4433,6 +4442,7 @@ static-trackers.adtarget.me
 static-tracking.klaviyo.com
 static.adinsight.com
 static.analytics.artirix.com
+static.anonymised.io
 static.apester.com
 static.atgsvcs.com
 static.audienceinsights.net
@@ -5428,6 +5438,7 @@ www.alternateatmosphere.com
 www.bluesli.de
 www.bnserving.com
 www.budgetedbauer.com
+www.cdn.privado.ai
 www.center.io
 www.centraliprom.com
 www.centraliprom.net
