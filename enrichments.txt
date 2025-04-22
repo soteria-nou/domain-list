@@ -71,6 +71,7 @@ assets.bunchball.net
 assets.context.ly
 assets.juicer.io
 assets.mailerlite.com
+assets.zephr.com
 auto-motor-und-sport.de.intellitxt.com
 autobild.de.intellitxt.com
 autoexpress.uk.intellitxt.com
@@ -506,6 +507,7 @@ soundtrack.us.intellitxt.com
 speedguide.us.intellitxt.com
 spotlight.offerista.com
 sprintusers.us.intellitxt.com
+squirrels-live.getsquirrel.co
 stacksocial-production-stacksocial.netdna-ssl.com
 staging.sja.sportradar.com
 static.axept.io

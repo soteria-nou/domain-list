@@ -178,6 +178,7 @@ a.audrte.com
 a.beap.gemini.yahoo.com
 a.chu4n.com
 a.company-target.com
+a.et.nytimes.com
 a.farlex.com
 a.hstrck.com
 a.klaviyo.com
@@ -352,6 +353,7 @@ analytics-static.ugc.bazaarvoice.com
 analytics-static.unister-gmbh.de
 analytics-v2.anvato.com
 analytics.163.com
+analytics.ahrefs.com
 analytics.analytics-egain.com
 analytics.archive.org
 analytics.atlassian.com
@@ -528,6 +530,7 @@ api.raygun.io
 api.retargetly.com
 api.revopush.com
 api.rollbar.com
+api.segment.io
 api.share.baidu.com
 api.smartocto.com
 api.spoldzielnia.nsaudience.pl
@@ -617,6 +620,7 @@ athena.archive.org
 atlanticmedia.122.2o7.net
 atm.acecounter.com
 atoc.112.2o7.net
+atrochacalappa.shop
 ats-wrapper.privacymanager.io
 ats.bin.livenetlife.com
 ats.tumri.net
@@ -768,6 +772,7 @@ blockadsnot.com
 blockmetrics.com
 blog.ivwbox.de
 blogglisten.no
+bm.redbull.com
 bmwmoter.122.2o7.net
 bnkinsur.112.2o7.net
 bo.getjaco.com
@@ -776,6 +781,7 @@ bolha.iprom.net
 bongacams7.com
 bonniercorp.122.2o7.net
 boomerang.dell.com
+boot.pbstck.com
 bootstrap.vertamedia.com
 botd2.wordpress.com
 bounceexchange.com
@@ -1018,6 +1024,7 @@ cdn.opecloud.com
 cdn.optimizely.com
 cdn.pardot.com
 cdn.parsely.com
+cdn.pbstck.com
 cdn.pbxai.com
 cdn.perfdrive.com
 cdn.permutive.com
@@ -2520,6 +2527,7 @@ inskin.hs.llnwd.net
 inskin01.wt-eu02.net
 inspikon.com
 int.teracent.net
+intake.pbstck.com
 intao.hit.gemius.pl
 intel.112.2o7.net
 intent.cbsi.com
@@ -3446,6 +3454,7 @@ pcworldcommunication.d2.sc.omtrdc.net
 pde.lp4.io
 pdf.xiti.com
 pdrqubl.com
+pdw-usr.userreport.com
 peachywaspish.com
 pebed.dm-event.net
 pebed.dm.gg
@@ -3597,6 +3606,7 @@ player-telemetry.vimeo.com
 pls.webtype.com
 plugin.reactful.com
 plus.addkt.com
+pm.redbull.com
 pm.w55c.net
 pmc-d.openx.net
 pmc1201.com
@@ -3667,6 +3677,7 @@ ps.ceneje.si
 ps.eyeota.net
 ps14.pubnub.com
 psb.marshlecdn.com
+psirsooxeens.net
 pstats.seranking.com
 psyng.com
 pt.cdctwm.com
@@ -3696,6 +3707,7 @@ pulse-waw02.revdn.net
 pulse.w3counter.com
 pulsembed.eu
 purevpn.postaffiliatepro.com
+purr.nytimes.com
 pv.datacaciques.com
 pw.3ders.net
 pw.ibanbic.com
@@ -3726,6 +3738,7 @@ qa.rlcdn.com
 qi.ckm.onetapi.pl
 qjex.net
 qls.qsstats.com
+qm.redbull.com
 qmnetwor.ivwbox.de
 qs.oewabox.at
 qsearch.media.net
@@ -4330,6 +4343,7 @@ spt.dictionary.com
 spyfu.postaffiliatepro.com
 sqs.us-east-1.amazonaws.com
 squid.gazeta.pl
+sr.studiostack.com
 sra.s-9.us
 src.ebay-us.com
 src.litix.io
@@ -4677,6 +4691,7 @@ t.authorinsights.com
 t.bawixi.xyz
 t.channeladvisor.com
 t.cinemablend.com
+t.collectiveaudience.co
 t.conative.de
 t.contentsquare.net
 t.cqq5id8n.com
@@ -4989,6 +5004,7 @@ tracker.tuberewards.com
 tracker.win.gg
 tracker.wordstream.com
 trackers.adtarget.me
+trackhorizon.nnmtools.com
 tracki112.com
 tracking-lr.deepsearch.adlucent.com
 tracking-rce.veeseo.com
