@@ -2006,6 +2006,7 @@ afrigale.co
 afrkpeqmoa.com
 afs.googlesyndication.com
 aftontvapa.com
+afx.adfixus.com
 afx.tagcdn.com
 ag.adgear.ru
 ag.gbc.criteo.com
@@ -3684,6 +3685,7 @@ googleads.g.doubleclick.net
 googlesyndication.com
 googletagservices.com
 gopjn.com
+gossishauphy.com
 gotacha.rotator.hadj7.adjuggler.net
 gotfrid.hu
 gqalqi656.com
@@ -3888,6 +3890,7 @@ imp.admarketplace.net
 imp.admeking.com
 imp.readserver.net
 imp.tradedoubler.com
+imp9.pubadx.one
 impact-ad.jp
 impat.tradedoubler.com
 impbe.tradedoubler.com
@@ -4485,6 +4488,7 @@ nopickytime.com
 notification.tubecup.net
 notifyday.com
 notonthebedsheets.com
+noudounaigri.net
 np.lexity.com
 nq.trikeunpured.com
 nrospyvilsko.com
@@ -4636,6 +4640,7 @@ oltptelifmal.com
 olxro-d.openx.net
 omareeper.com
 ombdraosjc.com
+omlcwooxhw.com
 oms.nuggad.net
 onads.com
 onceux.unicornmedia.com
@@ -4951,6 +4956,7 @@ pl5163.putags.com
 pl6452454.puhtml.com
 planetlepote.iprom.net
 plantinscription.com
+platform.pubadx.one
 platform.tout.com
 platinumadvertisement.com
 player-services.goviral-content.com
@@ -5358,6 +5364,7 @@ s-img.adskeeper.com
 s-jsonp.moatads.com
 s.206ads.com
 s.a3ion.com
+s.ad.twinrdengine.com
 s.ad120m.com
 s.ad123m.com
 s.ad125m.com
@@ -5601,6 +5608,7 @@ smp.specificmedia.com
 smpop.icfcdn.com
 snappedimpressive.com
 snickgainfulmuch.com
+snowmentor.com
 snuggrow.com
 softonicads.com
 softpopads.com
@@ -6161,6 +6169,7 @@ vsh.visilabs.net
 vsucocesisful.com
 vudsy.com
 vv.vxqpomwum.pw
+vwahacrubri.com
 vwcsl.com
 vwipizokxlu.com
 vz-cdn.trafficjunky.net
@@ -6942,6 +6951,7 @@ zdbb.net
 zdstatic.speedtest.net
 zeads.com
 zeekaihu.net
+zeepsaiphaupaig.com
 zem.outbrainimg.com
 zentrixads.xml-v4.ak-is2.net
 zergnet-d.openx.net

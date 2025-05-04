@@ -2342,6 +2342,7 @@ afs.googlesyndication.com
 afterdawn.fi.intellitxt.com
 afterdawn.us.intellitxt.com
 aftontvapa.com
+afx.adfixus.com
 afx.tagcdn.com
 ag1.hitbox.com
 ag.adgear.ru
@@ -3740,6 +3741,7 @@ capaciousdrewreligion.com
 capi.connatix.com
 capinfoproreport.batiactu.com
 capture.condenastdigital.com
+capture.trackjs.com
 carbonads.com
 carbonads.net
 cardiwersg.com
@@ -4147,6 +4149,7 @@ cdn.segmentify.com
 cdn.segment.io
 cdn.sendpulse.com
 cdn.sentinelbi.com
+cdn.sentinelpro.com
 cdns.gigya.com
 cdn.shareaholic.net
 cdn.shorte.st
@@ -4818,6 +4821,7 @@ cs.ns1p.net
 c.spiegel.de
 cs.pikabu.ru
 csp-logging.jimdo-platform.net
+csp-reporting.cloudflare.com
 cs.prototypes.ru
 csp.secureserver.net
 csr.inspsearchapi.com
@@ -5338,6 +5342,7 @@ dipaka-ead.com
 d-ipv4.mmapiws.com
 d-ipv6.mmapiws.com
 directadvert.ru
+direct.dy-api.eu
 direct-events-collector.spot.im
 directtrk.com
 dirnt.net
@@ -6560,6 +6565,7 @@ go.schjmp.com
 go.secureclickers.com
 go.shareaholic.com
 go.sonobi.com
+gossishauphy.com
 go.static-srv.com
 gostats.com
 go.stirshakead.com
@@ -6889,6 +6895,7 @@ hz.mmstat.com
 hzs8.cnzz.com
 i4rro6vlmonoe1q8hvlcx8en9dj.com
 i4u.us.intellitxt.com
+iabusprivacy.pmc.com
 iacas.adbureau.net
 iad.anm.co.uk
 i.addmob.info
@@ -7011,6 +7018,7 @@ im.nuggad.net
 imode.xiti.com
 imore.us.intellitxt.com
 imoughtcallmeoc.com
+imp9.pubadx.one
 impact-ad.jp
 impact.applifier.com
 impactserving.com
@@ -7084,6 +7092,7 @@ ingdirectitalprod.112.2o7.net
 ingestion.smartocto.com
 ingest.onion.com
 in.getclicky.com
+ingress.linktr.ee
 ingstralitybuchang.info
 init.cedexis-radar.net
 init.supersonicads.com
@@ -7587,6 +7596,7 @@ linker.hr
 linker-network.com
 link.joingekko.com
 link.mercent.com
+link.monetizer101.com
 linkprotect.cudasvc.com
 links.business-informant.de
 links.services.disqus.com
@@ -8590,6 +8600,7 @@ notifyday.com
 notonthebedsheets.com
 notrack.adviva.net
 notrack.specificmedia.com
+noudounaigri.net
 nova.collect.igodigital.com
 nova.everstring.com
 novell.112.2o7.net
@@ -8812,6 +8823,7 @@ omareeper.com
 ombdraosjc.com
 om.cbsi.com
 omitneitherrover.com
+omlcwooxhw.com
 omnisnippet1.com
 omniture.112.2o7.net
 omniturecom.112.2O7.net
@@ -9424,6 +9436,7 @@ platform.bidgear.com
 platform.instagram.com
 platform.linkedin.com
 platform-metrics-api.sharethis.com
+platform.pubadx.one
 platform.tout.com
 platform.twitter.com
 platinumadvertisement.com
@@ -9814,6 +9827,7 @@ qls.qsstats.com
 qmnetwor.ivwbox.de
 qm.redbull.com
 qnsr.com
+qoe-1.yottaa.net
 qoqv.com
 qpezuwdhaf.com
 qpigulofbwah.com
@@ -9938,6 +9952,7 @@ reclaimantennajolt.com
 recoiltravellingbreach.com
 recommendation.24.com
 recommendation.revee.com
+recommendations.data.tm-awx.com
 recommender.scarabresearch.com
 recordedthereby.com
 recorded.to
@@ -10382,6 +10397,7 @@ sadsans.com
 sadsims.com
 sadskis.com
 s.adtelligent.com
+s.ad.twinrdengine.com
 s.advertiserurl.com
 safaribooks.112.2o7.net
 safeadnetworkdata.net
@@ -10895,6 +10911,7 @@ sniff.visistat.com
 snippet.minute.ly
 s.nitropay.com
 snoutinsolence.com
+snowmentor.com
 snowplowprd.trx.gitlab.net
 s.ns1p.net
 sntr.aukro.cz
@@ -11218,6 +11235,7 @@ static.pdn-1.com
 static.plenigo.com
 static.proximic.com
 static.quriobot.com
+static.reachdata.live
 statics.apreslachat.com
 static.searchstax.com
 static.selfpuc.com
@@ -11613,6 +11631,7 @@ tag.digitaltarget.ru
 tag.email-attitude.com
 tagged.us.intellitxt.com
 tagger.opecloud.com
+tag.heylink.com
 tag.idsync.analytics.yahoo.com
 tag.imonomy.com
 tag.ltrck.com.br
@@ -11757,6 +11776,7 @@ testlb3.xiti.com
 testlb.xiti.com
 testmax.xiti.com
 test.xiti.com
+t.eu1.target2sell.mirakl.net
 texasinstrument.122.2o7.net
 texasinstruments.evergage.com
 textad.sexsearch.com
@@ -12695,6 +12715,7 @@ v.vidghjlgkuyfk.site
 v.visitweb.com
 vvv.itpro.co.uk
 vv.vxqpomwum.pw
+vwahacrubri.com
 vwcsl.com
 vwipizokxlu.com
 vz-cdn.trafficjunky.net
@@ -14034,6 +14055,7 @@ zealotnetworks-d.openx.net
 zeegreen.net
 zeekaihu.net
 zeemapsmetrics.s3.amazonaws.com
+zeepsaiphaupaig.com
 zeit01.webtrekk.net
 zeit.met.vgwort.de
 zem.outbrainimg.com

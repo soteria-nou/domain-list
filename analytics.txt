@@ -915,6 +915,7 @@ canwestglobal.sc.omtrdc.net
 capi.connatix.com
 capinfoproreport.batiactu.com
 capture.condenastdigital.com
+capture.trackjs.com
 care2.112.2o7.net
 careers.112.2o7.net
 carlson.112.2o7.net
@@ -1042,6 +1043,7 @@ cdn.segment.com
 cdn.segment.io
 cdn.sendpulse.com
 cdn.sentinelbi.com
+cdn.sentinelpro.com
 cdn.shortpixel.ai
 cdn.sift.com
 cdn.siftscience.com
@@ -1393,6 +1395,7 @@ csi.gstatic.com
 csjs.hitbox.com
 csm2waycm-atl.netmng.com
 csp-logging.jimdo-platform.net
+csp-reporting.cloudflare.com
 csp.secureserver.net
 csr.onet.pl
 cstatic.weborama.fr
@@ -1646,6 +1649,7 @@ dig2.ultimedia.com
 digdemo.hitbox.com
 digg.112.2o7.net
 direct-events-collector.spot.im
+direct.dy-api.eu
 directtrk.com
 dirnt.net
 diromalxx.com
@@ -2514,6 +2518,7 @@ infoworldmediagroup.112.2o7.net
 ingdirectitalprod.112.2o7.net
 ingest.onion.com
 ingestion.smartocto.com
+ingress.linktr.ee
 init.cedexis-radar.net
 inpp-ssp-trk.nxtpsh.com
 inpref.com
@@ -3740,6 +3745,7 @@ qjex.net
 qls.qsstats.com
 qm.redbull.com
 qmnetwor.ivwbox.de
+qoe-1.yottaa.net
 qs.oewabox.at
 qsearch.media.net
 query.fandommetrics.com
@@ -4698,6 +4704,7 @@ t.cqq5id8n.com
 t.cuhite.xyz
 t.dailymail.co.uk
 t.dtscout.com
+t.eu1.target2sell.mirakl.net
 t.flickr.com
 t.flux.com
 t.freelancer.com
@@ -4753,6 +4760,7 @@ tag.bounceexchange.com
 tag.contextweb.com
 tag.digitaltarget.ru
 tag.email-attitude.com
+tag.heylink.com
 tag.idsync.analytics.yahoo.com
 tag.imonomy.com
 tag.ltrck.com.br

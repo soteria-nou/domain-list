@@ -289,6 +289,7 @@ hotscripts.us.intellitxt.com
 hotstockmarket.us.intellitxt.com
 i.txtsrving.info
 i4u.us.intellitxt.com
+iabusprivacy.pmc.com
 icentric.us.intellitxt.com
 icf.improvely.com
 idm.us.intellitxt.com
@@ -452,6 +453,7 @@ raymond.uk.intellitxt.com
 rc.revolvermaps.com
 rcmjs.rambler.ru
 realtime.pa.highwebmedia.com
+recommendations.data.tm-awx.com
 redirect.viglink.com
 responder.wt.heise.de
 ripp-it.fr.intellitxt.com
@@ -517,6 +519,7 @@ static.leadpages.net
 static.narrativ.com
 static.plenigo.com
 static.quriobot.com
+static.reachdata.live
 static.whatshelp.io
 stern.de.intellitxt.com
 subscribe.wired.com
