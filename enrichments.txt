@@ -102,6 +102,7 @@ cc.cdn.civiccomputing.com
 ccpa.sp-prod.net
 cdn-apac.onetrust.com
 cdn-cookieyes.com
+cdn-ops.verloop.io
 cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
@@ -114,6 +115,7 @@ cdn.cookie-script.com
 cdn.cookielaw.org
 cdn.dynamicyield.com
 cdn.envybox.io
+cdn.facil-iti.app
 cdn.feedbackify.com
 cdn.feedify.net
 cdn.flipboard.com
@@ -590,6 +592,7 @@ userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 usocial.pro
 v3.uk.intellitxt.com
 v5.actionteaser.ru
+variants.conde.digital
 velocityreviews.uk.intellitxt.com
 vendorlist.consensu.org
 via.batch.com

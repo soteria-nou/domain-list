@@ -370,6 +370,7 @@ analytics.clickdimensions.com
 analytics.cliqz.com
 analytics.coderouge.co
 analytics.codigo.se
+analytics.codingninjas.com
 analytics.conmio.com
 analytics.contentexchange.me
 analytics.convertlanguage.com
@@ -2115,6 +2116,7 @@ finance.iprom.net
 financesi.iprom.net
 finaonl.ivwbox.de
 fingerprintoysters.com
+firebase-settings.crashlytics.com
 fitssheashasvs.info
 fl.reg.163.com
 flake.formr.io
@@ -3271,6 +3273,7 @@ northstar.4tube.com
 northstar.porntube.com
 note.cdncontentdelivery.com
 notebook.ivwbox.de
+notifier-configs.airbrake.io
 notify.bugsnag.com
 notrack.adviva.net
 notrack.specificmedia.com
@@ -3942,6 +3945,7 @@ s.canddi.io
 s.clickability.com
 s.clickiocdn.com
 s.deepl.com
+s.dttc0p.com
 s.effectivemeasure.net
 s.go-mpulse.net
 s.idio.co
