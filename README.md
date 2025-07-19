@@ -2,7 +2,7 @@
 
 This repository contains lists of domains that very likely serve ads, analytics scripts, tracking pixels, widgets (webpage plugins), content enrichment (begging for mail subscription, sharing abilities), and represent affiliate or fake webpages. Usually lists get at least a monthly update.
 
-Domains have been manually gathered by looking at dns requests, javascript and html code in the past 13 years and put into categories where they mostly belong. Note: Although some domains could fit into two or more categories they are listed in only one. Since domains are not automatically added, high quality (fewer false positives) could be guaranteed.
+Domains have been manually gathered by looking at dns requests, javascript and html code in the past 16 years and put into categories where they mostly belong. Note: Although some domains could fit into two or more categories they are listed in only one. Since domains are not automatically added, high quality (fewer false positives) could be guaranteed.
 
 Please submit any additions, corrections or comments by using issue or pull request.
 

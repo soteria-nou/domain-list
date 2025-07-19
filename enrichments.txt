@@ -374,6 +374,7 @@ metro.uk.intellitxt.com
 miner.pr0gramm.com
 minitechnet.de.intellitxt.com
 mirror.uk.intellitxt.com
+mobile-data.onetrust.io
 mobile9.us.intellitxt.com
 mobilewhack.us.intellitxt.com
 mobilityguru.us.intellitxt.com
@@ -506,6 +507,7 @@ softonic.us.intellitxt.com
 softpedia.uk.intellitxt.com
 softwaretipsandtricks.us.intellitxt.com
 somethingawful.us.intellitxt.com
+sonic.portalfoxmix.club
 soundcard-drivers.us.intellitxt.com
 soundtrack.us.intellitxt.com
 speedguide.us.intellitxt.com
