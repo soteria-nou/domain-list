@@ -61,6 +61,7 @@
 22173359.log.optimizely.com
 224830033.log.optimizely.com
 22674.tctm.co
+22hgc.com
 234483865.log.optimizely.com
 236741765.log.optimizely.com
 237572123.log.optimizely.com
@@ -559,6 +560,7 @@ app-ab14.marketo.com
 app-analytics.snapchat.com
 app-measurement.com
 app.adjust.com
+app.adjust.world
 app.adoric-om.com
 app.compendium.com
 app.getsitecontrol.com
@@ -982,6 +984,7 @@ cdn.clicktale.net
 cdn.cohesionapps.com
 cdn.contentspread.net
 cdn.cquotient.com
+cdn.cr-relay.com
 cdn.cxense.com
 cdn.decibelinsight.net
 cdn.distiltag.com
@@ -1061,6 +1064,7 @@ cdn.stroeerdigitalmedia.de
 cdn.taboola.com
 cdn.tagcommander.com
 cdn.targetfuel.com
+cdn.tel1mekar.com
 cdn.theoplayer.com
 cdn.threadloom.com
 cdn.trackjs.com
@@ -2108,6 +2112,7 @@ fathern.info
 fc.webmasterpro.de
 fc.yahoo.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
+featureassets.org
 feedbackws.icloud.com
 feeds.ibt.com
 felix.data.tm-awx.com
@@ -2123,6 +2128,8 @@ financesi.iprom.net
 finaonl.ivwbox.de
 fingerprintoysters.com
 firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
 fitssheashasvs.info
 fl.reg.163.com
 flake.formr.io
@@ -3310,6 +3317,7 @@ ntvpinp.com
 nvg.nbcnews.com
 nwbidrtb.com
 nwwrtbbit.com
+nxisi.com
 nxp.112.2o7.net
 nxtck.com
 nydailynews.d1.sc.omtrdc.net
@@ -3677,6 +3685,7 @@ prod.fennec.atp.fox
 prod.pyxis.atp.fox
 prod.trendemon.com
 prod01-piwik.firstlook.org
+prodregistryv2.org
 production-europe.frontpage-web.virginia.onservo.com
 productionb.frontpage-api.virginia.onservo.com
 prof.estat.com
@@ -3966,6 +3975,7 @@ s.jwpltx.com
 s.komoona.com
 s.logsss.com
 s.magsrv.com
+s.ml-attr.com
 s.mnet-ad.net
 s.mousetrace.com
 s.nexeps.com
@@ -4174,6 +4184,7 @@ secure.fastclick.net
 secure.fruitflan.com
 secure.gaug.es
 secure.liveviewer.ez.no
+secure.mantis-intelligence.com
 secure.p01.eloqua.com
 secure.statcounter.com
 secure.trafic.ro
@@ -4781,7 +4792,6 @@ tag.imonomy.com
 tag.ltrck.com.br
 tag.marinsm.com
 tag.mtrcs.samba.tv
-tag.navdmp.
 tag.navdmp.com
 tag.perfectaudience.com
 tag.researchnow.com
@@ -5662,6 +5672,7 @@ yahoovod.hs.llnwd.net
 yamaha.122.2o7.net
 yamaha.com.122.2o7.net
 yamahayca.122.2o7.net
+yb26b.com
 yeet.revcontent.com
 yellowpages.112.2o7.net
 yepdigital.adk2x.com

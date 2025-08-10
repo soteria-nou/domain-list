@@ -49,6 +49,7 @@ api.scribblelive.com
 api.survicate.com
 api.userway.org
 api.vanilla.futurecdn.net
+api.widget.trengo.eu
 app-sj05.marketo.com
 app.cdnyl.net
 app.consentassist.com

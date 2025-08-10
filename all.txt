@@ -103,6 +103,7 @@
 224830033.log.optimizely.com
 22674.tctm.co
 22bet.de.com
+22hgc.com
 23286.dendrito.name
 234483865.log.optimizely.com
 236741765.log.optimizely.com
@@ -2515,6 +2516,7 @@ ams1-ib.adnxs.com
 ams1.ib.adnxs.com
 ams-ads-cornerstone-creatives.s3.amazonaws.com
 ams.creativecdn.com
+ams.goadserver.com
 amshirethfne.xyz
 a.mstrlytcs.com
 amsvts.com
@@ -2847,6 +2849,7 @@ api.verticalscope.com
 api.viafoura.co
 api.viglink.com
 api.vungle.com
+api.widget.trengo.eu
 api.wipmania.com
 api.worldgravity.com
 api.xiti.com
@@ -2866,6 +2869,7 @@ app-ab13.marketo.com
 app-ab14.marketo.com
 app.adjust.com
 app.adjust.net.in
+app.adjust.world
 app.adoric-om.com
 app-analytics.snapchat.com
 appapi.inspsearchapi.com
@@ -3174,6 +3178,7 @@ axonesvare.shop
 axvdhiowntw.com
 a.xvika.com
 axvzmijw.com
+axworksoperate.com
 ax.xrea.com
 ayabreya.xyz
 a.yallboen.com
@@ -3645,6 +3650,7 @@ bullzeye.rotator.hadj1.adjuggler.net
 bulrev.com
 bundev.com
 bundle.dyn-rev.app
+bundle.ppas.monster
 bupnjndj.com
 buqkrzbrucz.com
 burda.iprom.net
@@ -3951,6 +3957,7 @@ cdn.brcdn.com
 cdn.bronto.com
 cdn.brsrvr.com
 cdn.bttrack.com
+cdn.bullwhip.cloud
 cdn.bunchbox.co
 cdn.buysellads.com
 cdn.callbackhunter.com
@@ -3984,6 +3991,7 @@ cdn-cookieyes.com
 cdn.cpmstar.com
 cdn.cquotient.com
 cdn.creative-bars1.com
+cdn.cr-relay.com
 cdn.cxense.com
 cdn.decibelinsight.net
 cdn.defractal.com
@@ -4030,6 +4038,7 @@ cdn.flipboard.com
 cdn.fuelx.com
 cdn.fuseplatform.net
 cdn.fusionads.net
+cdn.gd85.com
 cdn.geni.us
 cdn.georiot.com
 cdn.getkya.com
@@ -4213,6 +4222,7 @@ cdn.targetfuel.com
 cdn.teads.tv
 cdn.technoratimedia.com
 cdntechone.com
+cdn.tel1mekar.com
 cdntestfeedback.adrecover.com
 cdn.theoplayer.com
 cdn.threadloom.com
@@ -4399,6 +4409,7 @@ clickad.pl
 clickadu.com
 clickanalyzer.jp
 click.appinthestore.com
+clickblitzo.com
 clickboothlnk.com
 clickcdn.shareaholic.com
 clickcdn.xda-developers.com
@@ -6009,6 +6020,7 @@ eue-1.steelcentral.net
 eu-eb2.3lift.com
 eu-gmtdmp.gd1.mookie1.com
 eu.histi.co
+euhnacvlndlrrgs.com
 eu.i.posthog.com
 eum.instana.io
 eu-mobile.events.data.microsoft.com
@@ -6161,6 +6173,7 @@ fd5orie8e.com
 fdawdnh.com
 fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 f.domdex.com
+featureassets.org
 februarylovestory.com
 fee515f1fa1f.com
 feed-ads.com
@@ -6199,6 +6212,8 @@ findbetterresults.com
 find-my-great-life.com
 fingerprintoysters.com
 fiorenetwork.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
 firejackpot.com
 fitssheashasvs.info
@@ -6231,6 +6246,7 @@ fluxads.com
 fmiomdrwy.com
 fmljbodtnweou.com
 f.monetate.net
+fmscc.com
 fmtwonvied.com
 fnbauniukvi.com
 fnt-news3.club
@@ -6382,6 +6398,7 @@ gannett.demdex.net
 ganon.yahoo.com
 ga.nsimg.net
 gapl.hit.gemius.pl
+garmentclimbinghotel.com
 garnishpoints.com
 garo.hit.gemius.pl
 garrogy.info
@@ -6547,6 +6564,7 @@ gntbcstglobal.112.2o7.net
 gntbcstkusa.112.2o7.net
 go1.aniview.com
 go2.hit.gemius.pl
+go31355.expressof.com
 go6shde9nj2itle.com
 go.activengage.com
 go.ad2upapp.com
@@ -7537,6 +7555,7 @@ kts.visitstats.com
 ktu.sv2.biz
 ku2d3a7pa8mdi.com
 ku42hjr2e.com
+kuiyizyzoadmf.online
 kunyu.csdn.net
 kuvirixa.com
 kuy8h8e.com
@@ -8683,6 +8702,7 @@ noy90o.com
 np.lexity.com
 nq.trikeunpured.com
 nr.bidderstack.com
+nriceukwater.org
 nrospyvilsko.com
 nrs6ffl9w.com
 nrubunkuzawg.com
@@ -8725,6 +8745,7 @@ nwidget.networkedblogs.com
 nwwais.com
 nwwrtbbit.com
 nxexydg.com
+nxisi.com
 nxp.112.2o7.net
 nxtck.com
 ny1-g004.us.intellitxt.com
@@ -8874,6 +8895,7 @@ ogle-0740lb.com
 ogl.primorske.si
 ohkogpzamvzi.com
 ohmystats.com
+oifxrhsnoyufz.space
 oilchange.website
 oimg.nbcuni.com
 oinqqbzs.com
@@ -9558,6 +9580,7 @@ pntrac.com
 pntra.com
 pntrs.com
 pnuhondppw.com
+poafoashou.com
 poc-affiliate.com
 pocketcents.com
 podarimo.iprom.net
@@ -9692,6 +9715,7 @@ prod.adspsp.com
 prod-d.openx.com
 prod.fennec.atp.fox
 prod.pyxis.atp.fox
+prodregistryv2.org
 prod-sunbets-widgets.s3-eu-west-1.amazonaws.com
 prod.trendemon.com
 productionb.frontpage-api.virginia.onservo.com
@@ -9887,6 +9911,7 @@ q1mediahydraplatform.com
 q45nsj9d.accountant
 q.adrta.com
 qailemejoucawpb.com
+qapdututycwyj.store
 qa.rlcdn.com
 qa.shboshbok.com
 qchesghvem.com
@@ -9970,6 +9995,7 @@ radarurl.com
 r.adc-serv.net
 r.adc-srv.net
 r.adrolays.de
+radshedmisrep.com
 ragofkanc.com
 ra.gtimg.com
 rah7uph.bid
@@ -10674,6 +10700,7 @@ secure.gaug.es
 secure-it.imrworldwide.com
 secure.leadback.advertising.com
 secure.liveviewer.ez.no
+secure.mantis-intelligence.com
 secure.medleyads.com
 securemetrics.apple.com
 secure-nz.imrworldwide.com
@@ -10981,6 +11008,7 @@ smi2.ru
 smile.captionquicksand.accountant
 smilered.com
 smkezc.com
+s.ml-attr.com
 smmmafia.com
 s.mnet-ad.net
 s.moatads.com
@@ -11119,6 +11147,7 @@ sp-work.goviral-content.com
 spyfu.postaffiliatepro.com
 s.q88z1s3.com
 sqs.us-east-1.amazonaws.com
+squashreservebrim.com
 squid.gazeta.pl
 squirrels-live.getsquirrel.co
 squite.club
@@ -11736,7 +11765,6 @@ tag.ltrck.com.br
 tagmanager.schneider-electric.com
 tag.marinsm.com
 tag.mtrcs.samba.tv
-tag.navdmp.
 tag.navdmp.com
 tag.onscroll.com
 tag.perfectaudience.com
@@ -12510,6 +12538,7 @@ uniqueflatlysorting.com
 unistreamvideoad.iprom.net
 unitspybookukset.org
 universal.iperceptions.com
+unlock-content.com
 unlockproject.github.io
 unmetswipy.com
 unoblotto.net
@@ -13405,6 +13434,7 @@ www.eccehkho.com
 www.ecjkroklyxvod.com
 www.econda-monitor.de
 www.edfuyyweyz.com
+www.editorialgold.com
 www.edrpmfpmzjnuy.com
 www.edtp.de
 www.eefiywjjzxry.com
@@ -14033,6 +14063,7 @@ xhr.invl.co
 xhr.namitol.com
 xhr.yallboen.com
 xhuhcrwokxnvvu.com
+xhumfuovpduz.com
 xitiad6.xiti.com
 xitiv6.xiti.com
 x.jd.com
@@ -14044,12 +14075,16 @@ xml.adbetnet.com
 xml.adright.com
 xml.adxnexus.com
 xml.affiliate.rakuten.co.jp
+xml.bigboxads.com
 xml.bird-getabid.net
+xml.cachegorilla.com
+xmlclick.adzestocp.com
 xml.pdn-3.com
 xml.pdn-5.com
 xml.popmonetizer.com
 xml.popmonetizer.net
 xml.poprtb.com
+xml.popviking.com
 xml.realtime-bid.com
 xml.revrtb.com
 xml.revrtb.net
@@ -14058,6 +14093,8 @@ xml-v4.kunvertads.com
 xml-v4.tri.media
 xml-v4.zentrixads.com
 xml.xmlking.com
+xml.xmlwiz.com
+xml.xmlwolf.com
 xml.zeusadx.com
 x.mochiads.com
 xm.wakoreacetous.com
@@ -14108,6 +14145,7 @@ yamaha.122.2o7.net
 yamaha.com.122.2o7.net
 yamahayca.122.2o7.net
 y.analytics.yahoo.com
+yb26b.com
 ybs2ffs7v.com
 yceml.net
 yeet.revcontent.com
