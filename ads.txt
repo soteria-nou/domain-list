@@ -2246,6 +2246,7 @@ atshops1.ru
 attadworks.turn.com
 attemptsbetween.com
 attenhance.com
+aud.pubmatic.com
 audioad-sdk.advmusic.com
 aufr67i8sten.com
 austria1.adverserve.net
@@ -4646,6 +4647,7 @@ offerimage.com
 offers.bittorrent.com
 ofgalktfabki.com
 oftheappyri.org
+ogads-pa.clients6.google.com
 ogghpaoxwv.com
 ogl.primorske.si
 oglas.delavnica.net

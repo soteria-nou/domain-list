@@ -2540,6 +2540,7 @@ analytics.avant.si
 analytics.avcdn.net
 analytics.aweber.com
 analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
+analytics.bollywoodshaadis.com
 analytics.brandcrumb.com
 analytics.brid.tv
 analytics.brightedge.com
@@ -3102,6 +3103,7 @@ audiblecom.112.2o7.net
 audioad-sdk.advmusic.com
 audit.median.hu
 audit-tcfv2.cmp.quantcast.com
+aud.pubmatic.com
 aufeminin.demdex.net
 aufr67i8sten.com
 auguste.xiti.com
@@ -5202,6 +5204,7 @@ data.initialcontroledge.info
 data.likablescaldfelted.info
 data.minute.ly
 data.namesakeoscilloscopemarquis.com
+data.privacy.ensighten.com
 data.privatemedia.com.au
 data.publishflow.com
 data.resultlinks.com
@@ -6631,6 +6634,7 @@ go.proffering.xyz
 go.pushnative.com
 go.realvu.net
 go.rmhfrtnd.com
+go.rmshqa.com
 go.rmzsglng.com
 go.schjmp.com
 go.secureclickers.com
@@ -8848,6 +8852,7 @@ off-road.us.intellitxt.com
 ofgalktfabki.com
 oftheappyri.org
 og3i93vzhywk-a.akamaihd.net
+ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
 ogghpaoxwv.com
 oglas.delavnica.net
