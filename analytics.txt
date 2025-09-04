@@ -2154,6 +2154,7 @@ formalyzer.com
 formpr.com
 foundrynetworks.122.2o7.net
 foxcom.112.2o7.net
+fp.hprofits.com
 fp.metricswpsh.com
 fpn.flipboard.com
 fqtag.com
@@ -3037,6 +3038,7 @@ matomo.performax.cz
 matomo.rtvslo.si
 matomo.similarweb.io
 matomo.yppcdn.com
+maucn.yomeno.xyz
 maxim.122.2o7.net
 mayhemsixtydeserves.com
 mboxedge26.tt.omtrdc.net
