@@ -420,6 +420,7 @@ analytics.performable.com
 analytics.pnv.si
 analytics.porn-tube-club.com
 analytics.primorske.si
+analytics.pulsz.tv
 analytics.query.yahoo.com
 analytics.r17.com
 analytics.rec-tube.com
@@ -3496,6 +3497,7 @@ perf.mouser.com
 performance.typekit.net
 performancetrack.info
 perr.h-cdn.com
+perr.hola.org
 persoen.wemfbox.ch
 peugeot-uk.s3ae.com
 pfa.levexis.com
@@ -4926,6 +4928,7 @@ topwap.lt
 toro-tags.com
 toronto.xiti.com
 tpc.googlesyndication.com
+tpdwm.com
 tr-metrics.loomia.com
 tr.computeruniverse.net
 tr.datanyze.com
@@ -5678,6 +5681,7 @@ yamaha.122.2o7.net
 yamaha.com.122.2o7.net
 yamahayca.122.2o7.net
 yb26b.com
+ycfoqj.mcgo2.com
 yeet.revcontent.com
 yellowpages.112.2o7.net
 yepdigital.adk2x.com

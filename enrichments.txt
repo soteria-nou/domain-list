@@ -166,6 +166,7 @@ codeproject.us.intellitxt.com
 coin-have.com
 coin-hive.com
 comingsoon.us.intellitxt.com
+commentsmodule.com
 compnet.us.intellitxt.com
 config-prod.choice.faktor.io
 consent.cookiebot.com
