@@ -198,6 +198,7 @@ a.sankakucomplex.com
 a.surefire.link
 a.targetserving.com
 a.ucoz.net
+a.usbrowserspeed.com
 a.vfghd.com
 a.vfghe.com
 a.wishabi.com
@@ -485,6 +486,7 @@ apex.go.sonobi.com
 api-2-0.spot.im
 api-analista.icons8.com
 api-http-lb.vadio.com
+api-id.midbound.ai
 api-js.datadome.co
 api-js.mixpanel.com
 api-prod.secureprivacy.ai
@@ -538,6 +540,7 @@ api.revopush.com
 api.rollbar.com
 api.segment.io
 api.share.baidu.com
+api.sitelytics.tech
 api.smartocto.com
 api.spoldzielnia.nsaudience.pl
 api.stathat.com
@@ -2332,6 +2335,7 @@ green.erne.co
 gresokie.com
 grmtech.net
 groorsoa.net
+groshoapsock.net
 grunerandjahr.112.2o7.net
 grunerjahr01.wt-eu02.net
 grupogod.112.2o7.net
