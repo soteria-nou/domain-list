@@ -144,6 +144,7 @@
 599.stats.misstrends.com
 5be16.v.fwmrm.net
 5d4eab87c2.7296ee4584.com
+5hxvxemsh6.kameleoon.eu
 6038712.fls.doubleclick.net
 652760597.log.optimizely.com
 653.stats.stats.fr
@@ -811,6 +812,7 @@ browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
+bs.serving-sys.ru
 bs.webtalk.ru
 bshare.optimix.asia
 bstats.adbrite.com
@@ -1214,12 +1216,14 @@ cloudfront-labs.amazonaws.com
 cloudfront.loggly.com
 cluster-active-gate-lb.dynatrace.stackit.zone
 cluster.awmserve.com
+cm.a.mts.ru
 cm.adform.net
 cm.adgrx.com
 cm.everesttech.net
 cm.eyereturn.com
 cm.l.qq.com
 cm.mgid.com
+cm.tns-counter.ru
 cmap.alibaba.com
 cmdts.ksmobile.com
 cmp.112.2o7.net
@@ -1381,6 +1385,7 @@ cpx.smind.hr
 cpx.smind.si
 cpxl.golem.de
 cr_stats.upscore.com
+cr-frontend.weborama-tech.ru
 cr.acecounter.com
 cr3wc89sw3.global.ssl.fastly.net
 cra.hum.works
@@ -1459,6 +1464,7 @@ d.imedia.cz
 d.ligatus.com
 d.lookit.cz
 d.neodatagroup.com
+d.nordvpn.com
 d.tailtarget.com
 d.turn.com
 d.vvbox.cz
@@ -2031,6 +2037,7 @@ et.nytimes.com
 et.twyn.com
 etahub.com
 etrk.asus.com
+eu-data.kameleoon.eu
 eu-mobile.events.data.microsoft.com
 eu-sonar.sociomantic.com
 eu.histi.co
@@ -2058,6 +2065,7 @@ events.appsflyer.com
 events.brightline.tv
 events.deskapi.com
 events.launchdarkly.com
+events.myweb3id.io
 events.newsroom.bi
 events.ocdn.eu
 events.redditmedia.com
@@ -3217,6 +3225,7 @@ muse.theodysseyonline.com
 mxmacromedia.112.2o7.net
 my-cdn.effectivemeasure.net
 my-ssl.effectivemeasure.net
+my.boopelek.pl
 my.effectivemeasure.net
 my.rtmark.net
 my.statcounter.com
@@ -3581,6 +3590,7 @@ pixel-static.spotify.com
 pixel-sync.sitescout.com
 pixel.1und1.de
 pixel.33across.com
+pixel.adlooxtracking.com
 pixel.admobclick.com
 pixel.adpredictive.com
 pixel.adsafeprotected.com
@@ -3594,6 +3604,8 @@ pixel.carambo.la
 pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
+pixel.demo.dsp.onetarget.ru
+pixel.dsp.onetarget.ru
 pixel.dubnov.com
 pixel.everesttech.net
 pixel.facebook.com
@@ -3751,6 +3763,7 @@ pw.ibanbic.com
 px.adhigh.net
 px.ads.linkedin.com
 px.airpr.com
+px.arcspire.io
 px.derstandard.at
 px.effirst.com
 px.media-serving.com
@@ -3947,6 +3960,7 @@ rt.legolas-media.com
 rt.metamarkets.com
 rta.dailymail.co.uk
 rta2.metro.co.uk
+rtb.dynotech.io
 rtb.gumgum.com
 rtb.tubemogul.com
 rtbcdn.doubleverify.com
@@ -3975,6 +3989,7 @@ s.canddi.io
 s.clickability.com
 s.clickiocdn.com
 s.deepl.com
+s.dsxsdn.com
 s.dttc0p.com
 s.effectivemeasure.net
 s.go-mpulse.net
@@ -4028,6 +4043,7 @@ s11.sitemeter.com
 s117.cnzz.com
 s12.shinystat.com
 s12.sitemeter.com
+s13.cnzz.com
 s13.sitemeter.com
 s1325.t.eloqua.com
 s14.sitemeter.com
@@ -4702,6 +4718,7 @@ susnet.nu
 susnet.se
 sv.sonovente.com
 svcs.ebay.com
+svibeacon.onezapp.com
 svlu.net
 sw88.go.com
 swa.and.co.uk
@@ -4728,6 +4745,7 @@ t-stand.oewabox.at
 t.254a.com
 t.9gag.com
 t.acxiom-online.com
+t.adx.opera.com
 t.ambra.com
 t.appsflyer.com
 t.authorinsights.com
@@ -5044,6 +5062,7 @@ tracker.prom.ua
 tracker.rareru.ru
 tracker.remp-beam.golem.de
 tracker.roitesting.com
+tracker.smartcallback.ru
 tracker.tradedoubler.com
 tracker.tubecj.com
 tracker.tuberewards.com
@@ -5222,6 +5241,7 @@ ukmlastityty.info
 ulbackground.com
 ulogs.umengcloud.com
 ulukaris.com
+um.stats.si
 umds.wpdigital.net
 unagi-na.amazon.com
 unagi.amazon.de
@@ -5390,6 +5410,8 @@ wateryvan.com
 waufooke.com
 wbrostmz.112.2o7.net
 wcdn.zoomanalytics.co
+wcm-ru.frontend.weborama.fr
+wcm.weborama-tech.ru
 wcs.naver.com
 wcs.naver.net
 wd.fiftyone.com

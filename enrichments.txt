@@ -599,6 +599,7 @@ v5.actionteaser.ru
 variants.conde.digital
 velocityreviews.uk.intellitxt.com
 vendorlist.consensu.org
+verifycdn.agego.com
 via.batch.com
 video-drivers.us.intellitxt.com
 view.ceros.com
@@ -608,6 +609,7 @@ vtrhardware.fr.intellitxt.com
 wall.xmlx.lol
 wchat.freshchat.com
 web-sdk.urbanairship.com
+web.cmp.usercentrics.eu
 webhostingtalk.us.intellitxt.com
 wi-fiplanet.us.intellitxt.com
 wi-fitechnology.uk.intellitxt.com

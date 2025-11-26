@@ -246,6 +246,7 @@
 5d32q.com
 5d4eab87c2.7296ee4584.com
 5gl1x9qc.com
+5hxvxemsh6.kameleoon.eu
 5i68sbhin.com
 5nt1gx7o57.com
 5pykpdq7k.com
@@ -317,6 +318,7 @@ a.adorika.com
 a.adorika.net
 a.adready.com
 a.adroll.com
+a.adspector.io
 a.adtng.com
 a.adultcamchatfree.com
 a.adultdvdtalk.com
@@ -3643,6 +3645,7 @@ browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browsers.support
 bruceleadx3.com
+bs.serving-sys.ru
 bs.webtalk.ru
 bshare.optimix.asia
 bstats.adbrite.com
@@ -4204,6 +4207,7 @@ cdn.shortpixel.ai
 cdn.sift.com
 cdn.siftscience.com
 cdn.simility.com
+cdn.sinparty.com
 cdn.siteswithcontent.com
 cdn.smachnakittchen.com
 cdn.smart-digital-solutions.com
@@ -4224,6 +4228,7 @@ cdn.syndication.twimg.com
 cdn.taboola.com
 cdn.tagcommander.com
 cdn.tapioni.com
+cdn.targetads.io
 cdn.targetfuel.com
 cdn.teads.tv
 cdn.technoratimedia.com
@@ -4525,6 +4530,7 @@ cluster.awmdelivery.com
 cluster.awmserve.com
 cluster2.adultadworld.com
 cluster3.adultadworld.com
+cm.a.mts.ru
 cm.adform.net
 cm.adgrx.com
 cm.adkmob.com
@@ -4534,6 +4540,7 @@ cm.everesttech.net
 cm.eyereturn.com
 cm.l.qq.com
 cm.mgid.com
+cm.tns-counter.ru
 cm65.com
 cmap.alibaba.com
 cmdts.ksmobile.com
@@ -4813,6 +4820,7 @@ cpx.golem.de
 cpx.smind.hr
 cpx.smind.si
 cpxl.golem.de
+cr-frontend.weborama-tech.ru
 cr.acecounter.com
 cr3wc89sw3.global.ssl.fastly.net
 cr_stats.upscore.com
@@ -5002,6 +5010,7 @@ d.linker-network.com
 d.linker.hr
 d.lookit.cz
 d.neodatagroup.com
+d.nordvpn.com
 d.openx.org
 d.otaserve.net
 d.peoplesearchads.com
@@ -5488,6 +5497,7 @@ dlvr.adne.tv
 dlvr.readserver.net
 dm.codeproject.com
 dm.fishmanmurph.com
+dm.hybrid.ai
 dmbjbgiifpfo.com
 dmg.digitaltarget.ru
 dmmotion.com
@@ -5588,6 +5598,7 @@ dsa.csdata1.com
 dsms0mj1bbhn4.cloudfront.net
 dsnr-affiliates.com
 dsp.adfarm1.adition.com
+dsp.mpartner.digital
 dssja7qsifeak.cloudfront.net
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
@@ -6040,6 +6051,7 @@ etrk.asus.com
 etvtabeas.com
 eu-adsrv.rtbsuperhub.com
 eu-central-1b.connectad.io
+eu-data.kameleoon.eu
 eu-eb2.3lift.com
 eu-gmtdmp.gd1.mookie1.com
 eu-mobile.events.data.microsoft.com
@@ -6065,6 +6077,7 @@ europerty.pro
 eurostream.adspirit.de
 eurts.com
 eus.rubiconproject.com
+euw-ice.360yield.com
 euw.adserver.snapads.com
 euweaj49.appmetrx.com
 eva2.csdn.net
@@ -6085,6 +6098,7 @@ events.brightline.tv
 events.deskapi.com
 events.genndi.com
 events.launchdarkly.com
+events.myweb3id.io
 events.newsroom.bi
 events.ocdn.eu
 events.redditmedia.com
@@ -6133,12 +6147,14 @@ extremetech.us.intellitxt.com
 extremetracking.com
 ey43.com
 eyauknalyticafra.info
+eye.targetads.io
 eyebrowscrambledlater.com
 eyebrowsneardual.com
 eyereturn.com
 eyewonder.com
 ez.openx.com
 ez24.iprom.net
+ezcgojaamg.com
 ezhefg9gbhgh10.com
 ezozojawg.com
 f-log-at.grammarly.io
@@ -6217,6 +6233,7 @@ felix.data.tm-awx.com
 feliz-web.data.tm-awx.com
 feliz.data.tm-awx.com
 fh-main.measure.agilemeasure.com
+fh-wgt.com
 fhkfdgwtzueans.com
 fhr.cdn.mozilla.net
 fifa.d2.sc.omtrdc.net
@@ -7553,6 +7570,8 @@ kh.molimengrocery.top
 khebkaro.info
 kicksonfire.us.intellitxt.com
 kidpowers.com
+kimberlite.io
+kindly-equivalent.com
 kingithinref.club
 kingston.xiti.com
 kipnjjwvulmy.fun
@@ -8169,10 +8188,12 @@ mastertarget.ru
 match.ads.betweendigital.com
 match.adsrvr.org
 match.basebanner.com
+match.new-programmatic.com
 match.prod.bidr.io
 match.rtbidder.net
 match.rundsp.com
 match.sharethrough.com
+match.targetrtb.com
 matchid.adfox.yandex.ru
 material.anonymised.io
 mathcountryside.com
@@ -8530,6 +8551,7 @@ my.adocean.pl
 my.adright.co
 my.blissgallery.xyz
 my.blueadvertise.com
+my.boopelek.pl
 my.effectivemeasure.net
 my.mobfox.com
 my.popxxx.net
@@ -9497,6 +9519,7 @@ pixel-sync.sitescout.com
 pixel.1und1.de
 pixel.33across.com
 pixel.adbuyer.com
+pixel.adlooxtracking.com
 pixel.admobclick.com
 pixel.adpredictive.com
 pixel.adsafeprotected.com
@@ -9511,6 +9534,8 @@ pixel.carambo.la
 pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
+pixel.demo.dsp.onetarget.ru
+pixel.dsp.onetarget.ru
 pixel.dubnov.com
 pixel.everesttech.net
 pixel.facebook.com
@@ -9942,6 +9967,7 @@ px.adhigh.net
 px.ads.linkedin.com
 px.adscale.de
 px.airpr.com
+px.arcspire.io
 px.derstandard.at
 px.effirst.com
 px.media-serving.com
@@ -10368,6 +10394,7 @@ rtax.criteo.com
 rtb-ap.vizury.com
 rtb-csync.smartadserver.com
 rtb.com.ru
+rtb.dynotech.io
 rtb.gumgum.com
 rtb.nexage.com
 rtb.openx.net
@@ -10461,6 +10488,7 @@ s.crme7srv.com
 s.cwgads.com
 s.d.adup-tech.com
 s.deepl.com
+s.dsxsdn.com
 s.dttc0p.com
 s.effectivemeasure.net
 s.eunow4u.com
@@ -10555,6 +10583,7 @@ s11.sitemeter.com
 s117.cnzz.com
 s12.shinystat.com
 s12.sitemeter.com
+s13.cnzz.com
 s13.sitemeter.com
 s1325.t.eloqua.com
 s14.sitemeter.com
@@ -11305,6 +11334,7 @@ ssor.tribdss.com
 ssp-rce.veeseo.com
 ssp-rtb.sape.ru
 ssp.adriver.ru
+ssp.al-adtech.com
 ssp.bidvol.com
 ssp.imedia.cz
 ssp.lkqd.net
@@ -11716,6 +11746,7 @@ sv1-g008.us.intellitxt.com
 sv1-g011.us.intellitxt.com
 sv1.cdend.com
 svcs.ebay.com
+svibeacon.onezapp.com
 svlu.net
 svsub.com
 sw.interpolls.com
@@ -11783,6 +11814,7 @@ t.66.ru
 t.9gag.com
 t.acxiom-online.com
 t.adcell.com
+t.adx.opera.com
 t.ambra.com
 t.appsflyer.com
 t.authorinsights.com
@@ -12298,6 +12330,7 @@ tracker.prom.ua
 tracker.rareru.ru
 tracker.remp-beam.golem.de
 tracker.roitesting.com
+tracker.smartcallback.ru
 tracker.tradedoubler.com
 tracker.tubecj.com
 tracker.tuberewards.com
@@ -12580,6 +12613,7 @@ ulnhz.site
 ulogs.umengcloud.com
 ultimatecarpage.us.intellitxt.com
 ulukaris.com
+um.stats.si
 um2.eqads.com
 umds.wpdigital.net
 umekana.ru
@@ -12784,6 +12818,7 @@ venetrigni.com
 venturead.com
 venusfritter.com
 veresultedinncre.org
+verifycdn.agego.com
 verifyebay.click
 verivox01.webtrekk.net
 vexationworship.com
@@ -12980,6 +13015,8 @@ wbkaidsc.webcam
 wbrostmz.112.2o7.net
 wcdn.zoomanalytics.co
 wchat.freshchat.com
+wcm-ru.frontend.weborama.fr
+wcm.weborama-tech.ru
 wcoaswaxkrt.com
 wcs.naver.com
 wcs.naver.net
@@ -12993,6 +13030,7 @@ web-oao.ssp.yahoo.com
 web-sdk.urbanairship.com
 web-t.9gag.com
 web.btncdn.com
+web.cmp.usercentrics.eu
 web.localytics.com
 web.mxradon.com
 web.qtymi.com
@@ -13410,6 +13448,7 @@ www.cpm10.com
 www.cpm20.com
 www.crevnrela.com
 www.crispads.com
+www.crxcr2.com
 www.curlybottom.com
 www.cutestat.com
 www.cwchmb.com

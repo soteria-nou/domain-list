@@ -110,6 +110,7 @@ a.adnium.com
 a.adorika.com
 a.adorika.net
 a.adroll.com
+a.adspector.io
 a.adtng.com
 a.adultcamchatfree.com
 a.adultdvdtalk.com
@@ -2794,6 +2795,7 @@ cdn.runative-syndicate.com
 cdn.samvaulter.com
 cdn.sb-inv1.com
 cdn.shorte.st
+cdn.sinparty.com
 cdn.smachnakittchen.com
 cdn.spotxcdn.com
 cdn.static-fra.de
@@ -2801,6 +2803,7 @@ cdn.stickyadstv.com
 cdn.storageimagedisplay.com
 cdn.stroeerdigitalgroup.de
 cdn.tapioni.com
+cdn.targetads.io
 cdn.teads.tv
 cdn.technoratimedia.com
 cdn.tradbypass.com
@@ -3310,6 +3313,7 @@ dlrioxg1637dk.cloudfront.net
 dlvr.adne.tv
 dlvr.readserver.net
 dm.fishmanmurph.com
+dm.hybrid.ai
 dmbjbgiifpfo.com
 dmmotion.com
 dmmzkfd82wayn.cloudfront.net
@@ -3351,6 +3355,7 @@ drxboeng70b3r.cloudfront.net
 ds-4047.kxcdn.com
 ds88pc0kw6cvc.cloudfront.net
 dsp.adfarm1.adition.com
+dsp.mpartner.digital
 dssja7qsifeak.cloudfront.net
 dsum-sec.casalemedia.com
 dsum.casalemedia.com
@@ -3495,6 +3500,7 @@ eu.nuggad.net
 euasync01.admantx.com
 euhnacvlndlrrgs.com
 eurostream.adspirit.de
+euw-ice.360yield.com
 euw.adserver.snapads.com
 evasiondemandedlearning.com
 evecticvocoder.life
@@ -3518,11 +3524,13 @@ expertnifg.com
 exploredefinitely.com
 extmap.rub.ace.advertising.com
 ey43.com
+eye.targetads.io
 eyebrowscrambledlater.com
 eyebrowsneardual.com
 eyereturn.com
 eyewonder.com
 ez.openx.com
+ezcgojaamg.com
 ezhefg9gbhgh10.com
 ezozojawg.com
 f.blogads.com
@@ -3551,6 +3559,7 @@ feed-ads.com
 feed.topadvert.ru
 feedads.g.doubleclick.net
 feelophe.net
+fh-wgt.com
 fhkfdgwtzueans.com
 figaroweb.com
 filadmir.site
@@ -4168,6 +4177,8 @@ kgfjrb711.com
 kh.molimengrocery.top
 khebkaro.info
 kidpowers.com
+kimberlite.io
+kindly-equivalent.com
 kingithinref.club
 kipnjjwvulmy.fun
 kiznzerigo.com
@@ -4361,7 +4372,9 @@ mastertarget.ru
 match.ads.betweendigital.com
 match.adsrvr.org
 match.basebanner.com
+match.new-programmatic.com
 match.rundsp.com
+match.targetrtb.com
 matchid.adfox.yandex.ru
 mathcountryside.com
 matomy.adk2.co
@@ -5806,6 +5819,7 @@ sslwidget.criteo.com
 sso.anbtr.com
 ssp-rtb.sape.ru
 ssp.adriver.ru
+ssp.al-adtech.com
 ssp.bidvol.com
 ssp.imedia.cz
 ssp.lkqd.net
@@ -6550,6 +6564,7 @@ www.cpm10.com
 www.cpm20.com
 www.crevnrela.com
 www.crispads.com
+www.crxcr2.com
 www.curlybottom.com
 www.cwchmb.com
 www.cyzdyiccpwx.com
