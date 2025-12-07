@@ -265,6 +265,7 @@ geo-eu.snigelweb.com
 geo-us.snigelweb.com
 geo.ngtv.io
 geo2.statistic.ovh
+geoloc12.geostats.ovh
 geolocation.onetrust.com
 ghacks.de.intellitxt.com
 gizmos.hawk-tech.co.uk

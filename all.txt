@@ -1003,6 +1003,7 @@ adchoices.corusdigitaldev.com
 adclear.baur.de
 adclick.g.doubleclick.net
 adclick.hit.gemius.pl
+adclickad.com
 adclickmedia.com
 adclient.siga.uol.com.br
 adcloud.net
@@ -2268,6 +2269,7 @@ adv.wiw.ru
 adv.wp.pl
 adv.xboard.us
 adv08.edintorni.net
+adv1.clickadu.net
 adv3.clickadu.net
 advaction.ru
 advancedtracker.appspot.com
@@ -2467,6 +2469,7 @@ ag.innovid.com
 ag1.hitbox.com
 agagkidzone.112.2o7.net
 aggregatorgetb.com
+agileskincareunrented.com
 aglai-tan.com
 agle21xe2anfddirite.com
 agnegzpmbt.com
@@ -4155,6 +4158,7 @@ cdn.parsely.com
 cdn.pbstck.com
 cdn.pbxai.com
 cdn.perfdrive.com
+cdn.perfops.net
 cdn.performax.cz
 cdn.permutive.com
 cdn.petametrics.com
@@ -6278,6 +6282,7 @@ fleraprt.com
 flipkart.d1.sc.omtrdc.net
 floatingads.madisonavenue.com
 floor.pbxai.com
+flowerbooms.com
 fls-eu.amazon-adsystem.com
 fls-eu.amazon.co.uk
 fls-eu.amazon.com
@@ -6521,6 +6526,7 @@ geoip.luckyorange.net
 geoip.solarleadfactory.com
 geoloc1.geostats.ovh
 geoloc10.whoaremyfriends.net
+geoloc12.geostats.ovh
 geoloc4.whoaremyfriends.net
 geolocation.forbes.com
 geolocation.onetrust.com
@@ -6606,6 +6612,7 @@ gmijkajzor.com
 gmiqicw.com
 gmm.website
 gmodules.com
+gmxes.com
 gmxvmvptfm.com
 gnar.grammarly.com
 gnatpointed.com
@@ -7087,6 +7094,7 @@ icf.improvely.com
 icjvfvoh.com
 icon.dt.mndlvr.com
 icon.dt.mndsrv.com
+icon.eu.atmndx.com
 icon2count.com
 icotrack.net
 icq.advmaker.ru
@@ -7511,6 +7519,7 @@ js993.lishuanghao.com
 jsad1.adsflip.com
 jsc.4shared.com
 jsc.adskeeper.co.uk
+jsc.adskeeper.com
 jsc.marketgid.com
 jsc.mgid.com
 jsc.traffic-media.co
@@ -7778,6 +7787,7 @@ liveperformancesales.com
 livetracker.rfe.pangea-cms.com
 ljb.advertserve.com
 lkxahvf.com
+lleana.com
 llink.site
 lltrck.com
 lm.rinserbefore.com
@@ -9698,6 +9708,7 @@ pop-lva1.perf.linkedin.com
 pop-nsg7.perf.linkedin.com
 pop.admpire.com
 pop.bid
+pop.durunetwork.com
 popadscdn.net
 popcapcom.112.2o7.net
 popcash.net
@@ -12780,6 +12791,7 @@ vacwrite.com
 vad-us.adbasket.net
 vad.adbasket.net
 vak345.com
+valuable-distance.com
 valueaffiliate.net
 valuepubmedia.com
 vap3iad1.lijit.com

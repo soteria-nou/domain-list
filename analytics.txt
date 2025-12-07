@@ -1043,6 +1043,7 @@ cdn.parsely.com
 cdn.pbstck.com
 cdn.pbxai.com
 cdn.perfdrive.com
+cdn.perfops.net
 cdn.permutive.com
 cdn.petametrics.com
 cdn.popt.in
