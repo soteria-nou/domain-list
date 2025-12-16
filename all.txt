@@ -1582,6 +1582,7 @@ ads.motdgd.com
 ads.motosvet.com
 ads.moviemaze.de
 ads.movieweb.com
+ads.mozilla.org
 ads.mp.mydas.mobi
 ads.mplx.valueclick.net
 ads.msn.com
@@ -4385,6 +4386,7 @@ cgw1-236.hitbox.com
 cgw1-237.hitbox.com
 cgw1-238.hitbox.com
 cgw1-239.hitbox.com
+chaipoksore.com
 chamsoop.net
 chanmonitor.in
 channelintelligence.com
@@ -8111,6 +8113,7 @@ m.xp1.ru4.com
 m1.nedstatbasic.net
 m1.webstats.motigo.com
 m1.webstats4u.com
+m1rs.com
 m2.doubleclick.net
 m2d.m2.ai
 m2m1.inner-active.mobi
@@ -11003,6 +11006,7 @@ shared.9msn.com.au
 shares.ahmedzai.com
 shaw.demdex.net
 shb.richaudience.com
+sheetchoglauck.net
 sheetvibe.com
 sheisnotateacher.com
 shermore.info
@@ -11600,6 +11604,7 @@ stats.ilsemedia.nl
 stats.indextools.com
 stats.infobit.si
 stats.iwebtrack.com
+stats.joonis.de
 stats.kre8tiv.de
 stats.lnol.com.ar
 stats.manticoretechnology.com
