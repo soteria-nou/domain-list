@@ -268,6 +268,7 @@ geo2.statistic.ovh
 geoloc12.geostats.ovh
 geolocation.onetrust.com
 ghacks.de.intellitxt.com
+gitlab.apizee.com
 gizmos.hawk-tech.co.uk
 golem.de.intellitxt.com
 gsmarena.us.intellitxt.com
@@ -484,6 +485,7 @@ share.pluso.ru
 share.yandex.ru
 sharecdn.social9.com
 shared.9msn.com.au
+shield.sitelock.com
 shoutwire.us.intellitxt.com
 sillydog.us.intellitxt.com
 sjc-g004.us.intellitxt.com

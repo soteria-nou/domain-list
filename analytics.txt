@@ -763,6 +763,7 @@ beat.wix.com
 beatchucknorris.com
 bechtle01.webtrekk.net
 beiersdorf.122.2o7.net
+benelph.de
 bergenstidende.112.2o7.net
 berlin.ivwbox.de
 betastats.112.2o7.net
@@ -812,6 +813,7 @@ browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
+brwsrfrm.com
 bs.serving-sys.ru
 bs.webtalk.ru
 bshare.optimix.asia
@@ -2039,6 +2041,7 @@ et.twyn.com
 etahub.com
 etrk.asus.com
 eu-data.kameleoon.eu
+eu-data.kameleoon.io
 eu-mobile.events.data.microsoft.com
 eu-sonar.sociomantic.com
 eu.histi.co
@@ -2048,6 +2051,7 @@ eu2.snoobi.eu
 eucerin.122.2o7.net
 eue-1.steelcentral.net
 eum.instana.io
+euob.seroundprince.com
 euob.youseasky.com
 europerty.pro
 eurts.com
@@ -2075,6 +2079,7 @@ events.tubecup.org
 eventtracking-log.ustream.tv
 everestjs.net
 evisitcs.com
+evs.aayinltcs.arduino.cc
 ewstv.112.2o7.net
 exceedinglytells.com
 excellentsponsor.com
@@ -3352,6 +3357,7 @@ oa.openxcdn.net
 oas.monster.com
 oascentral.spineuniverse.com
 objectrocket.112.2o7.net
+obseu.seroundprince.com
 obseu.youseasky.com
 oc-dc1.112.2o7.net
 oc-track.autonomycloud.com
