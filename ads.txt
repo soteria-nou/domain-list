@@ -725,7 +725,6 @@ addenly.info
 addin.name
 addresseepaper.com
 addresseetransportationsyndrome.com
-addynamix.com
 ade.clmbtech.com
 ade.googlesyndication.com
 adecn.adnxs.com
@@ -815,7 +814,6 @@ admedia.com
 admeld.adnxs.com
 admeld.com
 admeta.com
-admez.com
 admine.io
 admirableoverdone.com
 admitad.com
@@ -1436,7 +1434,6 @@ ads.swgenerator.com
 ads.switchboard.com
 ads.t-media.si
 ads.targetix.net
-ads.targetnet.com
 ads.techclicks.net
 ads.techguy.org
 ads.techno4ever.net
@@ -1819,7 +1816,6 @@ adshost1.com
 adshost2.com
 adshostnet.com
 adshow.it168.com
-adshuffle.com
 adsignals.com
 adsimilis.com
 adsintl.starwave.com
@@ -1972,7 +1968,6 @@ advertom.com
 adverts.loadedinc.com
 adverts.wegotserved.com
 advertserve.com
-advertsoft.com
 advertstatic.com
 advertstream.com
 advertxi.com
@@ -2045,9 +2040,7 @@ ahjanhabmo.com
 ahshujhpyh.com
 ai.tapxchange.com
 aibsgc.com
-aimukreegee.net
 air.adliners.de
-airpush.com
 aistekso.net
 aixukiwaikra.com
 aj1907.online
@@ -2153,7 +2146,6 @@ api.adinplay.com
 api.adsnative.com
 api.adstargeting.com
 api.aio.media
-api.airpush.com
 api.around.xxx
 api.b2c.com
 api.bee7.com
@@ -2208,7 +2200,6 @@ arcadebanners.com
 ardovbzwyo.com
 ardrone.swoop.com
 arequiry.info
-argrowlitheor.com
 arguerepetition.com
 arhvtaonkvi.com
 ariawn.click
@@ -2238,7 +2229,6 @@ asia.ads.netlog.com
 asiatravel2017.com
 ask-d.openx.net
 askhilltop.com
-askmecca.com
 asmi-mobile.nuggad.net
 asrdcifaqaqx.com
 asset.pagefair.com
@@ -2259,7 +2249,6 @@ at.ad2click.nl
 at.adtech.redventures.io
 at.atwola.com
 at.teads.tv
-atas.io
 athbzeobts.com
 atlantisjs.brafton.com
 atlookingfo.fun
@@ -2552,7 +2541,6 @@ bngprm.com
 bngpt.com
 bngrol.com
 bngtrak.com
-bnhtml.com
 bnr2.revdepo.com
 bnrdom.com
 bnrs.it
@@ -2610,7 +2598,6 @@ bxic0ho.com
 bxjch.top
 by.adocean.pl
 by.adshuffle.com
-bymetapodchan.com
 bymyth.com
 bypassmaestro.com
 bytogeticr.com
@@ -2657,7 +2644,6 @@ cargodownloads.com
 caringcast.com
 carrymythrone.info
 cas.pxl.ace.advertising.com
-caspion.com
 catavo.uno
 catrg.peer39.net
 cawlavzzap.com
@@ -2929,9 +2915,6 @@ clickboothlnk.com
 clickcertain.com
 clickeu.teracreative.com
 clickio.mgr.consensu.org
-clickochet.com
-clicksgear.com
-clickterra.net
 client-verify.adtricity.com
 clk.verblife-3.co
 clkads.com
@@ -3289,7 +3272,6 @@ dell.demdex.net
 delodom.iprom.net
 deloplen.com
 deloton.com
-dendrito.name
 dennis.cvtr.io
 departmentscontinentalreveal.com
 des.smartclip.net
@@ -3417,7 +3399,6 @@ e1.static.hoptopboy.com
 e1.zedo.com
 e3.adpushup.com
 e67repidwnfu7gcha.com
-e7cod.com
 e7ea10c4af.aa2172c617.com
 ea2j.alldatenow.com
 eads-adserving.com
@@ -3718,7 +3699,6 @@ ginhpozi.com
 gixogkoffo.com
 gkapumbhex.com
 gkevubmfeaph.com
-glamourbabe.info
 glassmilheart.com
 glatsevudoawi.net
 gldkzr-lpqw.buzz
@@ -3728,7 +3708,6 @@ gloaphoo.net
 global.proper.io
 globaladv.net
 glochatuji.com
-glootsomes.net
 glorinlost.rocks
 glslciwwvtxn.com
 glutenmuttsensuous.com
@@ -3865,16 +3844,13 @@ hbzikbe.com
 hcg82f2b.com
 hcokcetfyanm.com
 hdbkome.com
-heias.com
 heise.nuggad.net
 helaid.com
 heleric.com
 helix.beanstock.co
 hellerraucous.top
 hellosociety.com
-hericom.com
 herynore.com
-hetapus.com
 hf.vespaacone.top
 hfllrf6lwh.com
 hgbn.rocks
@@ -3882,7 +3858,6 @@ hgjxjis.com
 hhbypdoecp.com
 hi-xgnnkqs.buzz
 hi5.adnxs.com
-hibids10.com
 hicovjpufo.com
 hide.implink.xyz
 higheurest.com
@@ -3891,8 +3866,6 @@ hilltopads.net
 himediads.com
 himselvet.info
 hipersushiads.com
-hiprofitnetworks.com
-hitcpm.com
 hitwastedgarden.com
 hj.tourneecoef.com
 hkoroalxgsnu.com
@@ -3914,11 +3887,9 @@ hostedads.realitykings.com
 hosting.adjug.com
 hotbraraja.cc
 hotbxocajo.today
-hoverr.me
 hpilzison-r.online
 hpmarzhnny.com
 hpnkctxx.buzz
-hpyrdr.com
 hr-engine.xclaimwords.net
 hr.adocean.pl
 hrahdmon.com
@@ -4058,7 +4029,6 @@ in3.zog.link
 in8.zog.link
 inabsolor.com
 inclk.com
-incmd03.com
 incogpontus.club
 incontext.pl
 indexhu.adocean.pl
@@ -4128,7 +4098,6 @@ jaavnacsdw.com
 jac.yahoosandbox.com
 jadserve.postrelease.com
 jainists.us
-jamster.co.uk
 jawconcealed.com
 jbzj.jzvwawvwkwqrq.top
 jeewoo.xctd.me
@@ -4210,7 +4179,6 @@ jy.astylararsines.com
 kabrcuolcpu.com
 kadniltuwsu.com
 kaminari.systems
-kaskus.us
 kd.bromalsbroke.top
 kdmttk.com
 kettakihome.com
@@ -4227,7 +4195,6 @@ kingithinref.club
 kipnjjwvulmy.fun
 kiznzerigo.com
 kkddlt2f.site
-kklgftiyqvd.com
 kkoacpohjomc.com
 kkqcnrk.com
 kleinanzeigen-d.openx.net
@@ -4254,7 +4221,6 @@ kuiyizyzoadmf.online
 kuvirixa.com
 kuy8h8e.com
 kvt.sddan.com
-kw.revenue.net
 kw3y5otoeuniv7e9rsi.com
 kx.windsuredine.shop
 kxwhiogrswx.com
@@ -4513,8 +4479,6 @@ mobilede.nuggad.net
 mobileweb.api.airpush.com
 mobon.com
 mobred.net
-mochiads.com
-modulepush.com
 moggattice.com
 moipep.com
 moneymakercdn.com
@@ -4527,7 +4491,6 @@ motifcdn2.doubleclick.net
 motivesbreastchopped.com
 motleyfool-d.openx.net
 moutoofa.com
-movcpm.com
 mp.4dex.io
 mp.weixin.qq.com
 mpp2.vindicosuite.com
@@ -4564,7 +4527,6 @@ myao.adocean.pl
 myatorak.ru
 mybestdc.com
 mybestmv.com
-mybittorrent.com
 mycdn.co
 myclickbankads.com
 myolnyr5bsk18.com
@@ -4594,7 +4556,6 @@ n479ad.doubleclick.net
 n99adshostnet.com
 na.ads.yahoo.com
 na.nawpush.com
-naiwoalooca.net
 namesakeoscilloscopemarquis.com
 nan46ysangt28eec.com
 nanouwho.com
@@ -4659,7 +4620,6 @@ notification.tubecup.net
 notifyday.com
 notonthebedsheets.com
 noudounaigri.net
-novimediji.com
 np.lexity.com
 nq.trikeunpured.com
 nriceukwater.org
@@ -5037,8 +4997,6 @@ parwrite.com
 pashiwjudffa.com
 pasice.rockonnet.com
 paslsa.com
-passeura.com
-passtechusa.com
 paste-d.openx.net
 patiotheoretical.com
 patrizio.pro
@@ -5174,16 +5132,15 @@ poorlystepmotherresolute.com
 pop.admpire.com
 pop.bid
 pop.durunetwork.com
-popads.net
 popadscdn.net
 popcash.net
 popearn.com
 popload.net
 popmyads.com
-popnw.com
 popped.biz
 popunder.adsrevenue.net
 popunder.adtrgt.com
+popup.taboola.com
 porngamut.com
 pornoh.info
 porojo.net
@@ -5237,7 +5194,6 @@ proceduresitchy.com
 prod-d.openx.com
 prod.adspsp.com
 profitabledisplaynetwork.com
-profitablegate.com
 profitablegatecpm.com
 profitedsurvey.online
 projectwonderful.com
@@ -5304,12 +5260,10 @@ public.advarkads.com
 public.servenobid.com
 publisher.caroda.io
 publisher.infinityads.com
-publisher.to
 publishers.clickadilla.com
 publishers.halogennetwork.com
 pubportal.brkmd.com
 pubtrky.com
-puhtml.com
 pumdfferpkin5hs454r43eeds.com
 pupspu.com
 purenestdynamics.xyz
@@ -5325,7 +5279,6 @@ pussl23.com
 pussl32.com
 pussl37.com
 putrr16.com
-pvclouds.com
 pw.bougheddonor.cfd
 pweabzcatoh.com
 pwrads.net
@@ -5383,7 +5336,6 @@ r2b2-emea.adnxs.com
 r3dbng.com
 r5---sn-4g5e6nsk.googlevideo.com
 r5---sn-4g5edne6.googlevideo.com
-r66t.com
 ra.majorgeeks.com
 radshedmisrep.com
 ragofkanc.com
@@ -5465,7 +5417,6 @@ retainguaninefluorite.info
 retryngs.com
 rev.adsession.com
 rev.linuxquestions.org
-revenue.net
 reviewedreads.com
 revive.adriadigital.si
 revive.adriamedia.hr
@@ -5547,7 +5498,6 @@ rtqdgro.com
 rts.sparkstudios.com
 rtt.adrolays.de
 rtzbpsy.com
-rubigame.com
 rudy.adsnative.com
 ruglhiahxam.com
 rumcdn.geoedge.be
@@ -5809,7 +5759,6 @@ skywaverocs.space
 slejv.space
 slo-cdn.intextad.net
 slo-engine.intextad.net
-slo-foto.net
 slomedia.iprom.net
 slopeaota.com
 smallfunnybears.com
@@ -5829,7 +5778,6 @@ snowmentor.com
 snuggrow.com
 softonicads.com
 softpopads.com
-softure.com
 soilyseastar.digital
 solegingly.co
 soliads.net
@@ -5974,7 +5922,6 @@ subqueriesendedgrounds.com
 subscribers.click
 successfulpatience.com
 sukbutnfoo.com
-sumotorrent.com
 supaads.com
 superiorickyfreshen.com
 superonclick.com
@@ -6070,7 +6017,6 @@ tap2-cdn.rubiconproject.com
 tapestry.tapad.com
 taqrkiftiodx.com
 targeting.adwebster.com
-targetnet.com
 tas-ba.toboads.com
 tas-bg.toboads.com
 tas-hr.toboads.com
@@ -6083,7 +6029,6 @@ tautaisteesutie.net
 taxismaned.top
 tb.turbocap.net
 td.vs3.com
-td553.com
 tdmrfw.com
 tdn.gtranslate.net
 tds.admaxer.ru
@@ -6155,9 +6100,7 @@ tools.runetki.co
 toothbrushconceitedsemi.com
 topacity.info
 topkew.com
-toprevenuegate.com
 topworkredbay.shop
-torioluor.com
 toroadvertisingmedia.com
 tororango.com
 torpsol.com
@@ -6260,7 +6203,6 @@ unconf.adkmob.com
 under2given.com
 undercoverwaterfront.com
 undrininvereb.info
-uniblue.com
 unicum.adspirit.de
 uniformer.biz
 uniqueflatlysorting.com
@@ -6277,11 +6219,9 @@ upflowsshiitic.click
 upgulpinon.com
 uponge.com
 uptimecdn.com
-urbae.com
 urban.adspirit.de
 urbanrentalmanagement.ca
 uredy.top
-urldelivery.com
 urokzlapav.com
 uruswan.com
 us-ads.openx.net
@@ -6361,10 +6301,8 @@ via.placeholder.com
 viatepigan.com
 vice-ads-cdn.vice.com
 vice-publishers.s3.amazonaws.com
-vicoteka.com
 vid.springserve.com
 vidasco.rotator.hadj7.adjuggler.net
-vidcpm.com
 video-ads-module.ad-tech.nbcuni.com
 video-adserver.ibillboard.com
 video.unrulymedia.com
@@ -6373,7 +6311,6 @@ video.videotouch88.info
 videoegg.adbureau.net
 videos-by.vemba.io
 videos.pmi5media.com
-videosprofitnetwork.com
 vidsplanet.space
 vidtech.cbsima.com
 viewyentreat.guru
@@ -7187,7 +7124,6 @@ yahoo.nuggad.net
 yaisha0.bid
 ybs2ffs7v.com
 yceml.net
-yepty.com
 yespetor.com
 yfefdlv.com
 yfetyg.com
@@ -7239,7 +7175,6 @@ zeepsaiphaupaig.com
 zem.outbrainimg.com
 zentrixads.xml-v4.ak-is2.net
 zergnet-d.openx.net
-zeti.com
 zf2.quebec-bin.com
 zfhuzyw.com
 zigad.starves.org

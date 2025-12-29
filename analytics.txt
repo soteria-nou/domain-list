@@ -658,6 +658,7 @@ autocounter.lentainform.com
 autodiscover.xiti.com
 autoscout24.112.2o7.net
 aux-log.vertamedia.com
+avast.telemetry.eyeo.com
 avazutracking.net
 averydennison.112.2o7.net
 avgtechnologies.112.2o7.net
@@ -1046,6 +1047,7 @@ cdn.pbstck.com
 cdn.pbxai.com
 cdn.perfdrive.com
 cdn.perfops.net
+cdn.permutive.app
 cdn.permutive.com
 cdn.petametrics.com
 cdn.popt.in
@@ -3107,6 +3109,8 @@ metacafe.122.2o7.net
 meter-svc.nytimes.com
 metric.asos.com
 metrics-api.librato.com
+metrics-dre.dt.dbankcloud.cn
+metrics-dre.dt.dbankcloud.com
 metrics-logger.spot.im
 metrics.apple.com
 metrics.autodesk.com
@@ -3353,6 +3357,7 @@ o.adhslx.com
 o.analytics.yahoo.com
 o.musicnotes.com
 o.sa.aol.com
+o.send.now
 oa.openxcdn.net
 oas.monster.com
 oascentral.spineuniverse.com
@@ -3727,6 +3732,7 @@ propeller-tracking.com
 propermedia-d.openx.net
 prophet.heise.de
 protovid.com
+protrafficinspector.com
 providence.voxmedia.com
 prscripts.com
 ps.ceneje.si
@@ -4000,6 +4006,7 @@ s.dsxsdn.com
 s.dttc0p.com
 s.effectivemeasure.net
 s.go-mpulse.net
+s.gofile.io
 s.idio.co
 s.in.com
 s.infogr.am
@@ -4877,6 +4884,7 @@ teefuthe.com
 teledat.iprom.net
 telegraph.sdk.beemray.com
 telemetry.api.wmcdp.io
+telemetry.eyeo.com
 telemetry.jivosite.com
 telemetry.tradingview.com
 telemetry.transcend.io
