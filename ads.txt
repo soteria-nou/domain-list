@@ -4517,6 +4517,7 @@ mxpopad.com
 mxtads.com
 my.adocean.pl
 my.adright.co
+my.artcrafts.store
 my.blissgallery.xyz
 my.blueadvertise.com
 my.mobfox.com
@@ -5690,6 +5691,7 @@ servedby.revcontent.com
 servedbyadbutler.com
 server.bittads.com
 server.ethicalads.io
+server.iprom.net
 server1.fone-me.com
 server7.myvidster.com
 service.clicksvenue.com

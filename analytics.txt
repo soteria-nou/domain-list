@@ -348,6 +348,7 @@ an.mail.ru
 analista.icons8.com
 analitik.obisk.net
 analitika.arnes.si
+analitika.tend.si
 analyses.xiti.com
 analysis2.chartboosts.com
 analytics-api-samples.googlecode.com
