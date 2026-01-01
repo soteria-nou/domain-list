@@ -725,6 +725,7 @@ addenly.info
 addin.name
 addresseepaper.com
 addresseetransportationsyndrome.com
+addynamix.com
 ade.clmbtech.com
 ade.googlesyndication.com
 adecn.adnxs.com
@@ -5485,6 +5486,7 @@ rta2.newzit.com
 rtax.criteo.com
 rtb-ap.vizury.com
 rtb-csync.smartadserver.com
+rtb.adgrx.com
 rtb.com.ru
 rtb.nexage.com
 rtb.openx.net
