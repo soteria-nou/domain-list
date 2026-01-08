@@ -35,6 +35,7 @@
 120102781.log.optimizely.com
 123.dominoad.com
 123.fluxads.com
+12332392.fls.doubleclick.net
 1234picz.com
 123banners.com
 123mediax.com
@@ -142,6 +143,7 @@
 2982.tm.zedo.com
 2a.112.2o7.net
 2a86.v.fwmrm.net
+2giga.link
 2girls1cup-free.com
 2girls1cup.nl
 2girls1cup.ws
@@ -693,6 +695,7 @@ ad.de.doubleclick.net
 ad.directrev.com
 ad.dk.doubleclick.net
 ad.dogpile.com
+ad.dotandad.com
 ad.doubleclick.net
 ad.dragonstar.dmoglobal.net
 ad.dumedia.ru
@@ -1531,6 +1534,7 @@ ads.jo-games.com
 ads.joemonster.org
 ads.joj.si
 ads.juicyads.com
+ads.justpremium.com
 ads.justrelevant.com
 ads.kajgana.com
 ads.kaktuz.net
@@ -2647,9 +2651,11 @@ analitika.arnes.si
 analitika.tend.si
 analyses.xiti.com
 analysis2.chartboosts.com
+analytic-info-collector.unimealplan.com
 analytics-api-samples.googlecode.com
 analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
 analytics-eu.clickdimensions.com
+analytics-fe.digital-cloud-prem.medallia.co
 analytics-production.hapyak.com
 analytics-static.ugc.bazaarvoice.com
 analytics-static.unister-gmbh.de
@@ -3069,6 +3075,7 @@ arrassley.info
 arrlnk.com
 arscwyscea.com
 artpever.com
+arttrk.com
 arx1-out.hitbox.com
 arx2-out.hitbox.com
 as-sec.casalemedia.com
@@ -3724,6 +3731,7 @@ buffalotech.links.origin.channelintelligence.com
 builder.extensionfactory.com
 bulb.76.my
 bullet.cdncontentdelivery.com
+bulletads.org
 bullionglidingscuttle.com
 bullz-eye-ads.com
 bullzeye.rotator.hadj1.adjuggler.net
@@ -4093,6 +4101,7 @@ cdn.directrev.com
 cdn.directtrk.com
 cdn.distiltag.com
 cdn.districtm.ca
+cdn.doofinder.com
 cdn.doublepimpssl.com
 cdn.drnxs.com
 cdn.dtxngr.com
@@ -4123,6 +4132,7 @@ cdn.feedify.net
 cdn.firstimpression.io
 cdn.flashtalking.com
 cdn.flipboard.com
+cdn.fluidplayer.com
 cdn.fuelx.com
 cdn.fuseplatform.net
 cdn.fusionads.net
@@ -5012,6 +5022,7 @@ ct.buzzfeed.com
 ct.capterra.com
 ct.pinterest.com
 ct1.kanashibari.jp
+cta-eu1.hubspot.com
 ctasnet.com
 cti.w55c.net
 ctiascaqkn.com
@@ -5140,6 +5151,7 @@ d1fc8wv8zag5ca.cloudfront.net
 d1gpxn1nf5xsl8.cloudfront.net
 d1grtyyel8f1mh.cloudfront.net
 d1hcrjcdtouu7e.cloudfront.net
+d1i4rchxg0yau7.cloudfront.net
 d1ivexoxmp59q7.cloudfront.net
 d1kzm6rtbvkdln.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
@@ -5184,6 +5196,7 @@ d2c4ylitp1qu24.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
 d2fbkzyicji7c4.cloudfront.net
 d2fbvay81k4ji3.cloudfront.net
+d2fuc4clr7gvcn.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2ghscazvn398x.cloudfront.net
 d2is3w689nunba.cloudfront.net
@@ -6145,6 +6158,7 @@ eu-mobile.events.data.microsoft.com
 eu-pn2.adserver.yahoo.com
 eu-sonar.sociomantic.com
 eu-u.openx.net
+eu.acsbapp.com
 eu.cookie-script.com
 eu.digitaldsp.com
 eu.histi.co
@@ -6566,6 +6580,7 @@ gaylordentertainment.112.2o7.net
 gazeta.hit.gemius.pl
 gbanners.hornymatches.com
 gbaseby.ru
+gbc.criteo.com
 gcotipdaxatp.com
 gcp-events.apester.com
 gcqdiydpfytvn.com
@@ -7540,6 +7555,7 @@ jpmkbcgx-o.buzz
 jpooavwizlvf.com
 jrpkizae.com
 js-at.goldbach.com
+js-eu1.hs-analytics.net
 js-ru.redtram.com
 js-sec.indexww.com
 js-webt-lol.9cache.com
@@ -7894,6 +7910,7 @@ live.demand.supply
 live.fakings.com
 live.primis.tech
 live.quixova.com
+live.rezync.com
 live.sekindo.com
 live2support.com
 livenation.122.2o7.net
@@ -8520,6 +8537,7 @@ miscur.com
 mitdmp.whiteboxdigital.ru
 mitowdcagos.com
 mixmarket.biz
+mjjjhfgqqpt.com
 mjxads.internet.com
 mk.apocopewheeple.com
 mkihakfuzv.com
@@ -8985,6 +9003,7 @@ o.musicnotes.com
 o.sa.aol.com
 o.send.now
 o0.winfuture.de
+o100521.ingest.sentry.io
 oa.openxcdn.net
 oachailo.net
 oagudsey.uk
@@ -9543,6 +9562,7 @@ pensionboarding.com
 penton.us.intellitxt.com
 pentonads.advertising.de
 pentonmedia.122.2o7.net
+perf-eu1.hsforms.com
 perf.cdnads.com
 perf.hsforms.com
 perf.mmstat.com
@@ -9553,6 +9573,7 @@ performancetrack.info
 performancingads.com
 perr.h-cdn.com
 perr.hola.org
+perseus.midas-network.com
 persoen.wemfbox.ch
 petrol.iprom.net
 peugeot-uk.s3ae.com
@@ -9825,6 +9846,7 @@ pmi5media.com
 pmiadzopcowr.com
 pmmlxrbib.com
 pmpubs.com
+pnapi.invoca.net
 pnapi0.invoca.net
 pncvaoh.com
 pntra.com
@@ -10202,6 +10224,7 @@ query.fandommetrics.com
 quesid.com
 questsoftware.112.2o7.net
 queuecosm.bid
+quick-date.xyz
 quick-yen-88111.appspot.com
 quicktask.xyz
 quixova.com
@@ -10231,6 +10254,7 @@ r.mradx.net
 r.nexeps.com
 r.openx.net
 r.remarketingpixel.com
+r.sascdn.com
 r.stygg.xyz
 r.teads.tv
 r.trwl1.com
@@ -10320,8 +10344,8 @@ rdvrxbxwxspxd.com
 re.directrev.com
 reach-cdn.siliconexpert.com
 reach-id.orbit.tm-awx.com
+reachlogicmedia.com
 reactads.engine.adglare.net
-readserver.net
 realcastmedia.com
 realpush.realsh.xyz
 realtime.deximedia.com
@@ -10576,6 +10600,7 @@ rta2.newzit.com
 rtax.criteo.com
 rtb-ap.vizury.com
 rtb-csync.smartadserver.com
+rtb.adgrx.com
 rtb.com.ru
 rtb.dynotech.io
 rtb.gumgum.com
@@ -11334,6 +11359,7 @@ smetrics.rcsmetrics.it
 smetrics.realestate.com.au
 smetrics.sephora.com
 smetrics.uol.com.br
+smetrics.vanguard.com
 smetrics.washingtonpost.com
 smetrics.windowsitpro.com
 smi2.ru
@@ -11468,6 +11494,7 @@ sra.s-9.us
 src.ebay-us.com
 src.litix.io
 srepdata.usatoday.com
+srowpxhaqzskt.com
 srv.adngin.com
 srv.aso1.net
 srv.at.ebayrtm.com
@@ -11913,6 +11940,7 @@ subscribe.wired.com
 subscribers.click
 successfulpatience.com
 suctionautomobile.com
+suggest.sso.dzen.ru
 sukbutnfoo.com
 sumome.com
 sumotorrent.com
@@ -12335,6 +12363,7 @@ timeoutcommunications.122.2o7.net
 timer.accorp.pl
 tinek.iprom.net
 tionsfurther.fun
+tiscali.dotandad.com
 tiscaliadv01.webtrekk.net
 tisttropolic.biz
 titangate-d.openx.net
@@ -12435,6 +12464,7 @@ tr.pubnative.net
 tr.snapchat.com
 tr2.smarterhq.io
 tr5.myroitracking.com
+tr553.com
 trace.events
 trace.mediago.io
 trace.qq.com
@@ -12466,6 +12496,7 @@ track.digitalriver.com
 track.effiliation.com
 track.eyeviewads.com
 track.financialcontent.com
+track.gaug.es
 track.gawker.com
 track.hubspot.com
 track.hulu.com
@@ -12825,6 +12856,7 @@ uk.bulkagetufas.com
 uk.intellitxt.com
 uk.sitestat.com
 ukbanners.com
+ukehacrdmjspvb.com
 ukmlastityty.info
 uktwvhfezyvxn.com
 ulbackground.com
@@ -12879,6 +12911,7 @@ uptimecdn.com
 urbae.com
 urban.adspirit.de
 urbanrentalmanagement.ca
+urednik.com
 uredy.top
 urhjoqudc.com
 urldelivery.com
@@ -13164,6 +13197,7 @@ vq91811.com
 vqdtnsabdcutht.com
 vra.outbrain.com
 vrapuhcpim.com
+vrsshsdaa.com
 vruotzzz.com
 vs.buildnaq91.site
 vs.dmtracker.com
@@ -13427,6 +13461,7 @@ wl.hpyrdr.com
 wlbetathome.adsrv.eacdn.com
 wm.wiredminds.de
 wm2.wiredminds.de
+wmcdct.com
 wmcdpt.com
 wmeaxqjasm.com
 wmedia.adk2.co
@@ -14447,6 +14482,7 @@ xmlclick.adzestocp.com
 xngqoc.com
 xob.miranus.com
 xoredi.com
+xouzmvlt.com
 xp.apple.com
 xp1.zedo.com
 xpicw.top

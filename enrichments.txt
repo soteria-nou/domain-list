@@ -185,6 +185,7 @@ creative-services.ceros.com
 creative.xlivrdr.com
 creative.xxxjmp.com
 csharpcorner.us.intellitxt.com
+cta-eu1.hubspot.com
 custompc.uk.intellitxt.com
 d.delivery.consentmanager.net
 d.la1-c1-dfw.salesforceliveagent.com
@@ -220,6 +221,7 @@ entitlements.jwplayer.com
 es.intellitxt.com
 esi.gscontxt.net
 ethn.io
+eu.acsbapp.com
 eu.cookie-script.com
 eucookie.internetbrands.com
 events.apester.com
@@ -439,6 +441,7 @@ planetamd64.us.intellitxt.com
 platform-api.sharethis.com
 platform.instagram.com
 player.ex.co
+pnapi.invoca.net
 popcornmetrics.zendesk.com
 popularmechanics.us.intellitxt.com
 popup2.lifterapps.com

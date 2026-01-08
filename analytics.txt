@@ -351,9 +351,11 @@ analitika.arnes.si
 analitika.tend.si
 analyses.xiti.com
 analysis2.chartboosts.com
+analytic-info-collector.unimealplan.com
 analytics-api-samples.googlecode.com
 analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
 analytics-eu.clickdimensions.com
+analytics-fe.digital-cloud-prem.medallia.co
 analytics-production.hapyak.com
 analytics-static.ugc.bazaarvoice.com
 analytics-static.unister-gmbh.de
@@ -605,6 +607,7 @@ arms-retcode.aliyuncs.com
 arnockglen.club
 aromatic-possibility.pro
 arrassley.info
+arttrk.com
 arx1-out.hitbox.com
 arx2-out.hitbox.com
 as-sec.casalemedia.com
@@ -1496,6 +1499,7 @@ d1esebcdm6wx7j.cloudfront.net
 d1f05vr3sjsuy7.cloudfront.net
 d1fc8wv8zag5ca.cloudfront.net
 d1grtyyel8f1mh.cloudfront.net
+d1i4rchxg0yau7.cloudfront.net
 d1ivexoxmp59q7.cloudfront.net
 d1kzm6rtbvkdln.cloudfront.net
 d1l6p2sc9645hc.cloudfront.net
@@ -1519,6 +1523,7 @@ d26b395fwzu5fz.cloudfront.net
 d26opx5dl8t69i.cloudfront.net
 d2a83yrkcf5k5p.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
+d2fuc4clr7gvcn.cloudfront.net
 d2gfdmu30u15x7.cloudfront.net
 d2ghscazvn398x.cloudfront.net
 d2is3w689nunba.cloudfront.net
@@ -2627,6 +2632,7 @@ johnlewis.112.2o7.net
 joker.iprom.net
 joydorado.com
 jpmkbcgx-o.buzz
+js-eu1.hs-analytics.net
 js-webt-lol.9cache.com
 js.6dad.com
 js.agkn.com
@@ -2761,6 +2767,7 @@ linksys.links.origin.channelintelligence.com
 lintv.122.2o7.net
 live-red-t.com
 live.chartboost.com
+live.rezync.com
 livenation.122.2o7.net
 liveperformancesales.com
 livetracker.rfe.pangea-cms.com
@@ -3359,6 +3366,7 @@ o.analytics.yahoo.com
 o.musicnotes.com
 o.sa.aol.com
 o.send.now
+o100521.ingest.sentry.io
 oa.openxcdn.net
 oas.monster.com
 oascentral.spineuniverse.com
@@ -3516,6 +3524,7 @@ peachywaspish.com
 pebed.dm-event.net
 pebed.dm.gg
 pentonmedia.122.2o7.net
+perf-eu1.hsforms.com
 perf.cdnads.com
 perf.hsforms.com
 perf.mmstat.com
@@ -3524,6 +3533,7 @@ performance.typekit.net
 performancetrack.info
 perr.h-cdn.com
 perr.hola.org
+perseus.midas-network.com
 persoen.wemfbox.ch
 peugeot-uk.s3ae.com
 pfa.levexis.com
@@ -4355,6 +4365,7 @@ smetrics.rcsmetrics.it
 smetrics.realestate.com.au
 smetrics.sephora.com
 smetrics.uol.com.br
+smetrics.vanguard.com
 smetrics.washingtonpost.com
 smetrics.windowsitpro.com
 smoggystation.com
@@ -4716,6 +4727,7 @@ stumbleupon.112.2o7.net
 subaruofamerica.112.2o7.net
 subs.vingd.com
 suctionautomobile.com
+suggest.sso.dzen.ru
 sumome.com
 suncom.112.2o7.net
 sunglobal.112.2o7.net
@@ -5006,6 +5018,7 @@ track.digitalriver.com
 track.effiliation.com
 track.eyeviewads.com
 track.financialcontent.com
+track.gaug.es
 track.gawker.com
 track.hubspot.com
 track.hulu.com
