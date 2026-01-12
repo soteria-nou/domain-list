@@ -128,6 +128,7 @@
 5110037.fls.doubleclick.net
 52198.tctm.co
 526710254.log.optimizely.com
+536003278.collect.igodigital.com
 5369219.fls.doubleclick.net
 5406241.fls.doubleclick.net
 5433255.fls.doubleclick.net
@@ -364,6 +365,7 @@ analytics.163.com
 analytics.ahrefs.com
 analytics.analytics-egain.com
 analytics.archive.org
+analytics.armymwr.com
 analytics.atlassian.com
 analytics.avant.si
 analytics.avcdn.net
@@ -2585,6 +2587,7 @@ intel.112.2o7.net
 intent.cbsi.com
 interet.xiti.com
 interia.hit.gemius.pl
+internal-analytics.odoo.com
 internettraffic.click
 interyield.td563.com
 interyield.td573.com
@@ -3060,6 +3063,7 @@ material.anonymised.io
 mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
+matomo.cloudfront.similarweb.io
 matomo.freeones.com
 matomo.groovetech.io
 matomo.manjaro.org

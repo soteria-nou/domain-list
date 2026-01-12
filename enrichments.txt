@@ -169,6 +169,7 @@ comingsoon.us.intellitxt.com
 commentsmodule.com
 compnet.us.intellitxt.com
 config-prod.choice.faktor.io
+connect.nosto.com
 consent.cookiebot.com
 consent.cookiebot.eu
 consentmanager.mgr.consensu.org
@@ -449,6 +450,7 @@ potisni.me
 prad.de.intellitxt.com
 presence-pc.fr.intellitxt.com
 primedia.us.intellitxt.com
+privacy-proxy.usercentrics.eu
 privacy.gatekeeperconsent.com
 production-cmp.isgprivacy.cbsi.com
 ps3-live.fr.intellitxt.com

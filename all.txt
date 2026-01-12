@@ -232,6 +232,7 @@
 5110037.fls.doubleclick.net
 52198.tctm.co
 526710254.log.optimizely.com
+536003278.collect.igodigital.com
 5369219.fls.doubleclick.net
 5406241.fls.doubleclick.net
 5433255.fls.doubleclick.net
@@ -2664,6 +2665,7 @@ analytics.163.com
 analytics.ahrefs.com
 analytics.analytics-egain.com
 analytics.archive.org
+analytics.armymwr.com
 analytics.atlassian.com
 analytics.avant.si
 analytics.avcdn.net
@@ -3074,6 +3076,7 @@ aromatic-possibility.pro
 arrassley.info
 arrlnk.com
 arscwyscea.com
+artempireindustries.com
 artpever.com
 arttrk.com
 arx1-out.hitbox.com
@@ -4769,6 +4772,7 @@ connect.decknetwork.net
 connect.ekomi.de
 connect.facebook.net
 connect.mail.ru
+connect.nosto.com
 connect.odnoklassniki.ru
 connect.ok.ru
 connect.podium.com
@@ -7421,6 +7425,7 @@ intent.cbsi.com
 interedy.info
 interet.xiti.com
 interia.hit.gemius.pl
+internal-analytics.odoo.com
 internettraffic.click
 interyield.jmp9.com
 interyield.td553.com
@@ -8348,6 +8353,7 @@ mathcountryside.com
 mathworks.112.2o7.net
 mathworks.com.ssl.sc.omtrdc.net
 matomo.adguard.com
+matomo.cloudfront.similarweb.io
 matomo.freeones.com
 matomo.groovetech.io
 matomo.manjaro.org
@@ -9972,6 +9978,7 @@ prisacomas.112.2o7.net
 prisacommultidistribucion.112.2o7.net
 prism.app-us1.com
 pristopmedia.network
+privacy-proxy.usercentrics.eu
 privacy.crwdcntrl.net
 privacy.gatekeeperconsent.com
 privacy.purch.com
@@ -10415,6 +10422,7 @@ relay-si.toboads.com
 relay.mobile.toboads.com
 relay.toboads.si
 relestar.com
+reliablebanners.com
 rem-track.bild.de
 remaininghopefully.com
 remarketstats.com
@@ -11946,6 +11954,7 @@ sumome.com
 sumotorrent.com
 suncom.112.2o7.net
 sunglobal.112.2o7.net
+sunmedia.net
 supaads.com
 superfastcdn.com
 superiorickyfreshen.com
@@ -14149,6 +14158,7 @@ www.shinystat.com
 www.shopperapproved.com
 www.sitemeter.com
 www.skeletal-quiet.pro
+www.slo-foto.net
 www.slrviazqkilu.com
 www.slutroulette.com
 www.smartlinks.dianomi.com
