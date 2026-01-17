@@ -35,7 +35,6 @@
 120102781.log.optimizely.com
 123.dominoad.com
 123.fluxads.com
-12332392.fls.doubleclick.net
 1234picz.com
 123banners.com
 123mediax.com
@@ -143,7 +142,6 @@
 2982.tm.zedo.com
 2a.112.2o7.net
 2a86.v.fwmrm.net
-2giga.link
 2girls1cup-free.com
 2girls1cup.nl
 2girls1cup.ws
@@ -495,7 +493,6 @@ a1w3m3e3.aacdn.net
 a1webstrategy.com
 a2.mediagra.com
 a2.sitio.cl
-a2dfp.net
 a2gw.com
 a2nn5eri7ce.com
 a2sky.com
@@ -834,6 +831,7 @@ ad.spot200.com
 ad.sq.doubleclick.net
 ad.stopklatka.pl
 ad.str400.tbn.ru
+ad.sunmedia.net
 ad.sxp.smartclip.net
 ad.t2t2.com
 ad.targetingmarketplace.com
@@ -1018,7 +1016,6 @@ adchoices.corusdigitaldev.com
 adclear.baur.de
 adclick.g.doubleclick.net
 adclick.hit.gemius.pl
-adclick.lt
 adclickad.com
 adclickmedia.com
 adclient.siga.uol.com.br
@@ -1984,7 +1981,6 @@ adsatt.go.starwave.com
 adsbookie.com
 adsby.bidtheatre.com
 adsby.breezeads.com
-adsbyisocket.com
 adscale.de
 adscale.net
 adscendmedia.com
@@ -2363,7 +2359,6 @@ advpoints.com
 advrtice.com
 advs.brznetwork.com
 advt.otbm.com
-adwatcher.net
 adweb2.hornymatches.com
 adwebster.com
 adwitserver.com
@@ -2478,7 +2473,6 @@ affiliation-france.com
 affiliation.groupe-ldlc.com
 affiliationzone.com
 affilies.xiti.com
-affilimatch.de
 affiliproducts.com
 affilorama.com
 affinitad.com
@@ -2630,7 +2624,6 @@ amldev.info
 amn.doubleclick.net
 amos1.taobao.com
 amp.ai
-amplifinder.biz
 amplify.outbrain.com
 amplifypixel.outbrain.com
 ams-ads-cornerstone-creatives.s3.amazonaws.com
@@ -3053,7 +3046,6 @@ aqpogwawr.com
 aqueduct.revolut.com
 aqueduct.revolutlabs.com
 arbo.hit.gemius.pl
-arbocontext.ro
 arbomedia.nuggad.net
 arc.msn.com
 arcadebannerexchange.net
@@ -3496,7 +3488,6 @@ bbcdn-tag.ibillboard.com
 bbcdn.go.cz.bbelements.com
 bbcdn.go.goldbachpoland.bbelements.com
 bbcdn.go.idnes.bbelements.com
-bbmedia.cz
 bbnaut.ibillboard.com
 bbva.112.2o7.net
 bc.nxp.com
@@ -3641,6 +3632,7 @@ blyqvidllwukv.website
 bm.redbull.com
 bmucuzdho.com
 bmwmoter.122.2o7.net
+bngdin.com
 bngdyn.com
 bngprl.com
 bngprm.com
@@ -3667,7 +3659,6 @@ bongacams.com
 bongacams7.com
 bonniercorp-d.openx.net
 bonniercorp.122.2o7.net
-boom.ro
 boomerang.dell.com
 boot.pbstck.com
 bootstrap.vertamedia.com
@@ -3925,7 +3916,6 @@ cargodownloads.com
 caringcast.com
 carlson.112.2o7.net
 carmen.themuse.com
-carocean.co.uk
 carphonewarehouse.112.2o7.net
 carrymythrone.info
 cas.criteo.com
@@ -4104,7 +4094,6 @@ cdn.directrev.com
 cdn.directtrk.com
 cdn.distiltag.com
 cdn.districtm.ca
-cdn.doofinder.com
 cdn.doublepimpssl.com
 cdn.drnxs.com
 cdn.dtxngr.com
@@ -4135,7 +4124,6 @@ cdn.feedify.net
 cdn.firstimpression.io
 cdn.flashtalking.com
 cdn.flipboard.com
-cdn.fluidplayer.com
 cdn.fuelx.com
 cdn.fuseplatform.net
 cdn.fusionads.net
@@ -4245,6 +4233,7 @@ cdn.popt.in
 cdn.privacy-mgmt.com
 cdn.prizma.tv
 cdn.production.townsquareblogs.com
+cdn.prplad.com
 cdn.pubexchange.com
 cdn.pubfuture-ad.com
 cdn.pulpix.co
@@ -4438,6 +4427,7 @@ certaken.com
 certify-js.alexametrics.com
 ceskedrahy01.webtrekk.net
 cetrk.com
+cewmd.com
 cf.ads.kontextua.com
 cf.kampyle.com
 cfa.2mdnsys.com
@@ -4537,7 +4527,6 @@ clearlightdigital.com
 clenchedyouthmatching.com
 clerrrep.com
 clevernt.com
-click-now.co
 click-v4.expdirclk.com
 click.aabacosmallbusiness.com
 click.adbrite.com
@@ -5377,6 +5366,7 @@ datemya.club
 dateoftheday.club
 dating-banners.com
 datoshop.engine.adglare.net
+dawirax.com
 db4zl9wffwnmb.cloudfront.net
 dbadk.nuggad.net
 dban.home.ch
@@ -6412,6 +6402,7 @@ focalink.com
 focus.met.vgwort.de
 focusin.ads.targetnet.com
 fodlkf9d1p.com
+fondleaegipan.shop
 fontainsuny.club
 foocheeb.net
 foreign-trade.us.intellitxt.com
@@ -6983,7 +6974,6 @@ heatmap.24ur.com
 heavy-d.openx.net
 heavycom.122.2o7.net
 heias.com
-heias.de
 heise.ivwbox.de
 heise.met.vgwort.de
 heise.nuggad.net
@@ -7158,7 +7148,6 @@ hypoot.com
 hz.mmstat.com
 hzcdwgcch.com
 hzs8.cnzz.com
-i-am-bored.com
 i.addmob.info
 i.adnium.com
 i.adwise.bg
@@ -8420,7 +8409,6 @@ media.trafficjunky.net
 mediacdn.disqus.com
 mediafire-d.openx.net
 mediafriends.adspirit.net
-mediainter.net
 mediaiprom.com
 mediaiprom.net
 mediametrics.mpsa.com
@@ -8982,6 +8970,7 @@ nvg.nbcnews.com
 nvnews.us.intellitxt.com
 nwbidrtb.com
 nwidget.networkedblogs.com
+nwr.mmcdn.com
 nwwais.com
 nwwrtbbit.com
 nxexydg.com
@@ -9477,7 +9466,6 @@ p50523.clksite.com
 p69-2.tbn.ru
 pa.7w.ro
 pa.rxthdr.com
-padsdel.com
 page-events-ustats.udemy.com
 page-view-ingestion.appspot.com
 pagead.googlesyndication.com
@@ -9763,7 +9751,6 @@ pjtra.com
 pk910324e.com
 pks.a.mobimagic.com
 pl.gmads.net
-pl.mediainter.net
 pl105715.puhtml.com
 pl106052.puhtml.com
 pl107323.puhtml.com
@@ -9884,7 +9871,6 @@ pop-nsg7.perf.linkedin.com
 pop.admpire.com
 pop.bid
 pop.durunetwork.com
-popads.net
 popadscdn.net
 popcapcom.112.2o7.net
 popcash.net
@@ -10422,7 +10408,6 @@ relay-si.toboads.com
 relay.mobile.toboads.com
 relay.toboads.si
 relestar.com
-reliablebanners.com
 rem-track.bild.de
 remaininghopefully.com
 remarketstats.com
@@ -10491,6 +10476,7 @@ rh.adscale.de
 rhdgwsrzaqovkw.com
 rhpury.105app.com
 rhsorga.com
+ri.pummicelapwork.cfd
 ri.revolvermaps.com
 riamiavid.com
 ricead.com
@@ -10667,6 +10653,7 @@ rydohimowa.info
 ryeeffortoccupy.com
 ryllae.com
 rysheatlengthani.com.ua
+rz.pulsateethered.com
 s-eu-1.pushpushgo.com
 s-img.adskeeper.com
 s-jsonp.moatads.com
@@ -10706,6 +10693,7 @@ s.crme7srv.com
 s.cwgads.com
 s.d.adup-tech.com
 s.deepl.com
+s.dsc5yj.com
 s.dsxsdn.com
 s.dttc0p.com
 s.effectivemeasure.net
@@ -11225,7 +11213,6 @@ shopify.growemail.com
 shopnetic.com
 shopping.112.2o7.net
 shoppingbox.leguide.com
-shorte.st
 shortlink.sex
 shorts-api.cdn.live
 shortssibilantcrept.com
@@ -11341,6 +11328,7 @@ sm6.sitemeter.com
 sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
+smachnakittchen.com
 smallfunnybears.com
 smallnetbuilder.us.intellitxt.com
 smart.idmnet.pl
@@ -11912,6 +11900,7 @@ stk.px-cloud.net
 stoangaifoobour.net
 stodyew.info
 stoomeddert.info
+stoorgel.com
 stootsou.net
 storage.multstorage.com
 store.externulls.com
@@ -11998,10 +11987,8 @@ swants.pro
 swapsprediet.top
 swellknife.com
 sweptgrimace.com
-swid.switchads.com
 swindlehumorfossil.com
 switch.d-agency.net
-switchads.com
 swsoft.122.2o7.net
 sx.trhnt.com
 symanteccom.112.2o7.net
@@ -12677,7 +12664,6 @@ tracy-moqu.italiaonline.it
 tradedownload.com
 tradex.openx.com
 traf.cc
-trafex.net
 traffic-delivery.com
 traffic.acwebconnecting.com
 traffic.adxprts.com
@@ -12694,7 +12680,6 @@ traffic.tc-clicks.com
 traffic5.helponclick.com
 trafficgateway.research-int.se
 trafforsrv.com
-traficdublu.ro
 traflib28.download
 traflib36.win
 trafmag.com
@@ -12733,7 +12718,6 @@ trinitymirror.grapeshot.co.uk
 tripod.postaffiliatepro.com
 tripple.nuggad.net
 tripple.oewabox.at
-trixbox.org
 trixtraff.com
 trk.bhs4.com
 trk.enecto.com
@@ -14325,6 +14309,7 @@ www.xl415.com
 www.xlovecam.com
 www.xmediaserve.com
 www.xouzmvlt.com
+www.xqcniblvlbgu.com
 www.xvideotape.info
 www.xvojpnbcahfzbv.com
 www.xzidjitondzt.com
@@ -14579,7 +14564,6 @@ yqvzrpxxwyk.net
 yr9n47004g.com
 yrhnw7h63.com
 yrtas.btrll.com
-yu0123456.com
 yudexjr.com
 yuppyads.com
 yuqyihkyk.com
