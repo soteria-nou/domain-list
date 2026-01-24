@@ -1041,6 +1041,7 @@ cdn.luckyorange.com
 cdn.mateti.net
 cdn.matomo.cloud
 cdn.mediaessence.net
+cdn.metadata.io
 cdn.mplxtms.com
 cdn.mxpnl.com
 cdn.nsstatic.net
