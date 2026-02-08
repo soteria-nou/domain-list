@@ -40,6 +40,7 @@
 123banners.com
 123mediax.com
 12ezo5v60.com
+12mnkys.com
 12place.com
 1344760251.log.optimizely.com
 1364.tm.zedo.com
@@ -2326,6 +2327,7 @@ advertiseforfree.co.za
 advertisegame.com
 advertisementave.com
 advertiseyourgame.com
+advertising-cdn.dpgmedia.cloud
 advertising-department.com
 advertising.aol.com
 advertising.cadsoft.de
@@ -2360,6 +2362,8 @@ adviva.net
 advmd.com
 advmusic.net
 advombat.ru
+advp1.com
+advp2.com
 advpoints.com
 advrtice.com
 advs.brznetwork.com
@@ -2381,6 +2385,7 @@ adxpower.com
 adxprts.com
 adxserve.net
 adxsrver.com
+adxxx.info
 adxxx.me
 adxxx.org
 adyard.de
@@ -2489,6 +2494,7 @@ affluents.xiti.com
 afforma.postaffiliatepro.com
 affrh2023.com
 affsi.kolektiva.net
+afgtrwd1.com
 afgwsgl.com
 afilio.autodna.com
 afkearupl.com
@@ -3115,6 +3121,7 @@ askmecca.com
 askmen.us.intellitxt.com
 askmen2.us.intellitxt.com
 asmi-mobile.nuggad.net
+asoogreg.com
 asoscomltd.tt.omtrdc.net
 aspen.turner.com
 asrdcifaqaqx.com
@@ -4605,6 +4612,7 @@ cloud.cashtrafic.info
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloudfront.loggly.com
+cloudmetrics.xenforo.com
 clpremdo.com
 cls.ad-tech.ru
 clubwinnerz.com
@@ -4707,6 +4715,7 @@ collecte.audience.acpm.fr
 collective-media.net
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
+collector-pxdojv695v.protechts.net
 collector-pxebumdlwe.px-cdn.net
 collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
@@ -4737,6 +4746,7 @@ commentaryforestblaspheme.com
 commentsmodule.com
 commercev2.hitbox.com
 commercialvalue.org
+commissionpartner.com
 commons.dw.com
 compbase.ivwbox.de
 compnet.us.intellitxt.com
@@ -5880,6 +5890,7 @@ e-2dj6wnlosgc5kgp.stats.esomniture.com
 e-2dj6wnmiend5ego.stats.esomniture.com
 e-2dj6wnmikpcpgkp.stats.esomniture.com
 e-ltvp.inmobi.com
+e-mesto.com
 e.analytics.yahoo.com
 e.connectad.io
 e.crashlytics.com
@@ -6715,6 +6726,7 @@ gloaphoo.net
 global.proper.io
 globaladv.net
 globalspec.d2.sc.omtrdc.net
+globaltakeoff.net
 glochatuji.com
 glogger.stuff.com
 gloomwrite.com
@@ -7847,6 +7859,7 @@ lead.adsender.us
 leadback.advertising.com
 leads.demandbase.com
 leads.specificmedia.com
+lecjdleexhi.com
 leeenterprises.112.2o7.net
 leftbedroom.com
 lego.112.2o7.net
@@ -8369,6 +8382,7 @@ matomo.adguard.com
 matomo.cloudfront.similarweb.io
 matomo.freeones.com
 matomo.groovetech.io
+matomo.introserv.com
 matomo.manjaro.org
 matomo.performax.cz
 matomo.rtvslo.si
@@ -8754,6 +8768,7 @@ myolnyr5bsk18.com
 myroitracking.com
 myroledance.com
 mysearch-engine.net
+myshopify.com
 mysymbian.uk.intellitxt.com
 mytdsnet.com
 mytravelguide.us.intellitxt.com
@@ -9322,6 +9337,7 @@ ordinarilyinstead.com
 organizationwoundedvast.com
 origin.oiscripts.com
 origunix.com
+ormifqpvoyr.com
 orningamidamaruhal.com
 orpae.com
 orrtweqfaa.com
@@ -10065,6 +10081,7 @@ prpops.com
 prscripts.com
 prvc.io
 prxii.cf
+prxshigpyir.com
 ps-eu.amazon-adsystem.com
 ps-us.amazon-adsystem.com
 ps.ceneje.si
@@ -10479,6 +10496,7 @@ retarget.ssl-services.com
 retaryrs.com
 retcode-us-west-1.arms.aliyuncs.com
 retcode.taobao.com
+retrodreams.ca
 retryngs.com
 return.uk.uniregistry.com
 reuters-d.openx.net
@@ -10985,6 +11003,7 @@ scan.botscanner.com
 scaredsnakes.com
 scarofnght.com
 scdn.cxense.com
+scfsdvc.com
 schemaplusfiles.s3.amazonaws.com
 schetu.net
 sciamcom.112.2o7.net
@@ -11215,6 +11234,7 @@ sfagwaokja.com
 sfcglobalgateway.122.2o7.net
 sftelemetry.sophos.com
 sftv-ssl.wemfbox.ch
+sgfsdvc.com
 sghb.adtelligent.com
 sghb.spotim.market
 sgreen.erne.co
@@ -11236,6 +11256,7 @@ sheetchoglauck.net
 sheetvibe.com
 sheisnotateacher.com
 shermore.info
+shfsdvc.com
 shield.sitelock.com
 shitcheksauh.net
 shopbop.sp1.convertro.com
@@ -11723,7 +11744,6 @@ static.criteo.net
 static.crowdscience.com
 static.de.euserv.adaos-ads.net
 static.digidip.net
-static.doubleclick.net
 static.dynamicyield.com
 static.easyhits4u.com
 static.elev.io
@@ -12462,6 +12482,7 @@ topdownloads.nl.intellitxt.com
 topkew.com
 toplist.cz
 toplist.eu
+topqualitylink.com
 toprevenuegate.com
 topspeed.us.intellitxt.com
 toptenreviews.us.intellitxt.com
@@ -12833,6 +12854,7 @@ txjdgm53.win
 txrhpjddhbal.com
 ty0lm9uz.onet.pl
 tyfqjbuk.one
+tywzyhfliwdbu.com
 tz.ts.vindicosuite.com
 tzegilo.com
 tzgmnyuqcp.com
@@ -14450,6 +14472,7 @@ x.videobyte.com
 x.vindicosuite.com
 x.vipergirls.to
 x01.aidata.io
+x10.com
 x19network.com
 x2tag.com
 x7r3mk6ldr.com
@@ -14463,6 +14486,7 @@ xapzihodca.com
 xat.com
 xaxcilracor.com
 xbfk51p7.review
+xboard.us
 xc3.services.livejournal.com
 xcelsiusadserver.com
 xch.directrev.com

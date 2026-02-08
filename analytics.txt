@@ -1226,6 +1226,7 @@ cloud-emea.analytics-egain.com
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloudfront.loggly.com
+cloudmetrics.xenforo.com
 cluster-active-gate-lb.dynatrace.stackit.zone
 cluster.awmserve.com
 cm.a.mts.ru
@@ -1278,6 +1279,7 @@ collect.verify.lnearn.com
 collecte.audience.acpm.fr
 collector-medium.lightstep.com
 collector-px0py5pczn.octopart.com
+collector-pxdojv695v.protechts.net
 collector-pxebumdlwe.px-cdn.net
 collector-pxel3l4xih.perimeterx.net
 collector-sp.stumbleupon.com
@@ -3067,6 +3069,7 @@ matomo.adguard.com
 matomo.cloudfront.similarweb.io
 matomo.freeones.com
 matomo.groovetech.io
+matomo.introserv.com
 matomo.manjaro.org
 matomo.performax.cz
 matomo.rtvslo.si
