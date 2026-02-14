@@ -497,7 +497,6 @@ a1webstrategy.com
 a2.mediagra.com
 a2.sitio.cl
 a2dfp.net
-a2gw.com
 a2nn5eri7ce.com
 a2sky.com
 a4.bing.com
@@ -2657,6 +2656,7 @@ anacondamonster.com
 analista.icons8.com
 analitik.obisk.net
 analitika.arnes.si
+analitika.gorenjskiglas.si
 analitika.tend.si
 analyses.xiti.com
 analysis2.chartboosts.com
@@ -3175,7 +3175,6 @@ atlantisjs.brafton.com
 atlookingfo.fun
 atlxpstsf.com
 atm.acecounter.com
-ato.mx
 atoc.112.2o7.net
 atomicblast.lol
 atonato.de
@@ -6204,6 +6203,7 @@ eurts.com
 eus.rubiconproject.com
 euw-ice.360yield.com
 euw.adserver.snapads.com
+euw2.smartadserver.com
 euweaj49.appmetrx.com
 eva2.csdn.net
 evasiondemandedlearning.com
@@ -6365,6 +6365,7 @@ fhr.cdn.mozilla.net
 fifa.d2.sc.omtrdc.net
 figaroweb.com
 filadmir.site
+file2.nakedly.ai
 fileandmore.com
 filedudes.us.intellitxt.com
 filelox.com
@@ -6762,6 +6763,7 @@ go.alxbgo.com
 go.automatad.com
 go.bbrdbr.com
 go.blcdog.com
+go.bluetrafficstream.com
 go.cz.bbelements.com
 go.deliverydom.com
 go.deliverymodo.com
@@ -10243,6 +10245,7 @@ qhogcyoqrl.com
 qi.ckm.onetapi.pl
 qifxwiruhrr.com
 qj.borsendental.com
+qj.mandorewaxhaw.qpon
 qjex.net
 qksz.net
 qkyliljavzci.com
@@ -11044,6 +11047,7 @@ scripts.mediavine.com
 scripts.mobdub.com
 scripts.psyma.com
 scripts.pubnation.com
+scripts.simpleanalyticscdn.com
 scripts.sophus3.com
 scripts.tracdelight.com
 scripts.webcontentassessor.com
@@ -11250,6 +11254,7 @@ shareasale.com
 sharecdn.social9.com
 shared.9msn.com.au
 shares.ahmedzai.com
+sharexy.com
 shaw.demdex.net
 shb.richaudience.com
 sheetchoglauck.net
@@ -14237,6 +14242,7 @@ www.stats4you.com
 www.statsforads.com
 www.stevec.si
 www.stressx.org
+www.submissivebalance.com
 www.sufzmohljbgw.com
 www.summerhamster.com
 www.superadexchange.com
@@ -14401,6 +14407,7 @@ www.zfkkmayphqrw.com
 www.zgvcfridw.com
 www.zhabyesrdnvn.com
 www.zlajnpfqgsleo.com
+www.zlsxqoru.com
 www.zqduqpirbn.com
 www.zrukecdcv.com
 www.ztsletmncez.com
@@ -14649,6 +14656,7 @@ z430.takru.com
 za-cdn.effectivemeasure.net
 za-ssl.effectivemeasure.net
 zadovoljna.iprom.net
+zafsayaexptas.online
 zakriqnzeo.com
 zanalytics.vip
 zanox-affiliate.de
