@@ -371,6 +371,7 @@ analytics.atlassian.com
 analytics.avant.si
 analytics.avcdn.net
 analytics.aweber.com
+analytics.bargainhardware.co.uk
 analytics.bollywoodshaadis.com
 analytics.brandcrumb.com
 analytics.brid.tv
@@ -2036,6 +2037,7 @@ employee.hitbox.com
 enfs1-ext.hitbox.com
 engine.multiview.com
 engine.newsmaxfeednetwork.com
+engine.sadbaguette.com
 enlightencentury.com
 ent-lb.hitbox.com
 ent-lb01.hitbox.com
@@ -3459,6 +3461,7 @@ ottawa.xiti.com
 out.tomsguide.fr
 outseeltor.com
 overdrive.112.2o7.net
+overseas-datasink.jlcpcb.com
 ovk.xceler8.io
 owa.piwikanalytics.win
 owa.ptice.si
@@ -5051,6 +5054,7 @@ track.promptfile.com
 track.qcri.org
 track.reference.com
 track.roiservice.com
+track.selfgems.com
 track.sigcpamobile.com
 track.sitetag.us
 track.speraspace.com
@@ -5446,6 +5450,7 @@ walmartcom.112.2o7.net
 wap.xiti.com
 warnerbros.112.2o7.net
 warnerbrothersrecords.112.2o7.net
+wasp-182b.com
 waterfrontmedia.112.2o7.net
 wateryvan.com
 waufooke.com
