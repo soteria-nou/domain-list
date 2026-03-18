@@ -1992,6 +1992,7 @@ adscale.de
 adscale.net
 adscendmedia.com
 adsco.re
+adscope.gotrackier.com
 adsdk.com
 adsdk.microsoft.com
 adsearch.adkontekst.pl
@@ -2389,6 +2390,7 @@ adxxx.info
 adxxx.me
 adxxx.org
 adyard.de
+adyea.com
 adyoulike.api.omnitagjs.com
 adyoulike.omnitagjs.com
 adyoz.com
@@ -2783,6 +2785,7 @@ anguishworst.com
 angularpoppyrobbing.com
 angvac.112.2o7.net
 anime44.us.intellitxt.com
+animecrush.net
 animecubed.us.intellitxt.com
 anjya.ujscdn.com
 anna.whatsupcams.com
@@ -2963,6 +2966,7 @@ api.verticalscope.com
 api.viafoura.co
 api.viglink.com
 api.vungle.com
+api.weglot.com
 api.widget.trengo.eu
 api.wipmania.com
 api.worldgravity.com
@@ -3192,6 +3196,7 @@ attemptsbetween.com
 attenhance.com
 atticwicket.com
 atwmcd.com
+atzonebd.com
 aud.pubmatic.com
 audev.zeit.de
 audiag.112.2o7.net
@@ -4235,6 +4240,7 @@ cdn.onscroll.com
 cdn.onthe.io
 cdn.opecloud.com
 cdn.optimizely.com
+cdn.optoutadvertising.com
 cdn.orangeclickmedia.com
 cdn.otnolatrnup.com
 cdn.p-n.io
@@ -4551,6 +4557,7 @@ clck.yandex.ru
 clcknads.pro
 clckysudks.com
 clearlightdigital.com
+clearonclick.com
 clenchedyouthmatching.com
 clerrrep.com
 clevernt.com
@@ -4600,6 +4607,7 @@ clientlog.portal.office.com
 clients.bluecava.com
 clilogs.windy.com
 clipfish.ivwbox.de
+clk.offershields.com
 clk.verblife-3.co
 clkads.com
 clkd.at
@@ -4672,9 +4680,11 @@ cnnglobal.122.2o7.net
 cns.av-studio.si
 cnstats.ru
 cnstrc.com
+cnt.nuvid.com
 cnt.sup.com
 cnt.tubeon.com
 cnt.tyxo.bg
+cnt.vivatube.com
 cnt.wetteronline.de
 cnt.xhamster.com
 cntr.finx.lt
@@ -5622,6 +5632,7 @@ dlvr.readserver.net
 dm.codeproject.com
 dm.fishmanmurph.com
 dm.hybrid.ai
+dmads.dailymotion.com
 dmbjbgiifpfo.com
 dmg.digitaltarget.ru
 dmmotion.com
@@ -6220,6 +6231,7 @@ eurts.com
 eus.rubiconproject.com
 euw-ice.360yield.com
 euw.adserver.snapads.com
+euw1.smartadserver.com
 euw2.smartadserver.com
 euweaj49.appmetrx.com
 eva2.csdn.net
@@ -6373,7 +6385,6 @@ feedbackws.icloud.com
 feeds.ibt.com
 feelophe.net
 felix.data.tm-awx.com
-felixcloutier.com
 feliz-web.data.tm-awx.com
 feliz.data.tm-awx.com
 fh-main.measure.agilemeasure.com
@@ -6420,6 +6431,7 @@ flagcounter.com
 flake.formr.io
 flankercerates.top
 flcrcyj.com
+flepquix.com
 fleraprt.com
 flipkart.d1.sc.omtrdc.net
 floatingads.madisonavenue.com
@@ -6651,6 +6663,7 @@ gemius.zoznam.sk
 generalmotors.112.2o7.net
 generousenjoyed.com
 genimages.xiti.com
+geniusdexchange.com
 genspot.iprom.net
 gentlynudegranny.com
 genuine-crash.com
@@ -6747,7 +6760,6 @@ gloaphoo.net
 global.proper.io
 globaladv.net
 globalspec.d2.sc.omtrdc.net
-globaltakeoff.net
 glochatuji.com
 glogger.stuff.com
 gloomwrite.com
@@ -6771,6 +6783,7 @@ gmxes.com
 gmxvmvptfm.com
 gnar.grammarly.com
 gnatpointed.com
+gnolia.com
 gntbcstglobal.112.2o7.net
 gntbcstkusa.112.2o7.net
 go-ctr-tracker.pub.24ur.si
@@ -6784,6 +6797,7 @@ go.automatad.com
 go.bbrdbr.com
 go.blcdog.com
 go.bluetrafficstream.com
+go.cuteab.com
 go.cz.bbelements.com
 go.deliverydom.com
 go.deliverymodo.com
@@ -6926,6 +6940,7 @@ gsn.chameleon.ad
 gstat.orange.fr
 gstaticadssl.l.google.com
 gsurihy.com
+gsznojgkyw.com
 gtm.stampenmedia.se
 gtrack.kueezrtb.com
 gtru.hit.gemius.pl
@@ -7239,6 +7254,7 @@ i.w.inmobi.com
 i.w55c.net
 i.wmgtr.com
 i1.pcstatic21.com
+i33.com
 i4rro6vlmonoe1q8hvlcx8en9dj.com
 i4u.us.intellitxt.com
 ia.idnes.cz
@@ -8926,6 +8942,7 @@ nexkrnphsfipi.buzz
 nextclick.pl
 nextlevel2014.sitescoutadserver.com
 nextoptim.com
+nexttads.com
 nexus.ensighten.com
 nfnetflixcom.112.2o7.net
 nfpasjc.d1.sc.omtrdc.net
@@ -8959,6 +8976,7 @@ njejmjetscom.112.2o7.net
 nk.pl
 nkredir.com
 nkyouvery.fun
+nkzfdaoyujgib.com
 nl.sitestat.com
 nl1.ero-advertising.com
 nmanateex.top
@@ -9677,6 +9695,7 @@ physorg.us.intellitxt.com
 pi.pardot.com
 pianistrefutationgoose.com
 pic247realm.kompass.com
+picadmedia.com
 picath.com
 picoh.xyz
 pictr.com
@@ -10085,6 +10104,7 @@ promisland.user.madbanner.ru
 promo-bc.com
 promo.20bet.partners
 promo.awempire.com
+promo.cam4pays.com
 promo.u-crypto.com
 promo.xcasino.com
 promodayz.com
@@ -10195,6 +10215,7 @@ pubs2-eu.creativecdn.com
 pubtags.addoor.net
 pubtrky.com
 puhtml.com
+puhuzdeynlnjx.online
 pulsar.ebay.com
 pulsar.ebay.de
 pulse-fra02.revdn.net
@@ -10310,6 +10331,7 @@ qvtcigr.com
 qwestfull.112.2o7.net
 qwrwhosailedbe.info
 qwvkksdj.com
+qxummanifgrjp.site
 qzfrmewdbzkcsf.com
 qzzzzzzzzzqq.com
 r-eu.tsyndicate.com
@@ -11454,6 +11476,7 @@ smile.captionquicksand.accountant
 smilered.com
 smkezc.com
 smmmafia.com
+smnyayzhv.com
 smoggystation.com
 smp.specificmedia.com
 smpop.icfcdn.com
@@ -11654,6 +11677,7 @@ ssp.streamrail.net
 ssp.virool.com
 ssp.zryydi.com
 ssqyuvavse.com
+sst.justetf.com
 sstatic1.histats.com
 sstats.adobe.com
 sstats.teenvogue.com
@@ -12204,6 +12228,7 @@ t.trafmag.com
 t.unblockia.com
 t.unbounce.com
 t.vi-serve.com
+t.yequka.my
 t.yunaga.xyz
 t.zqtk.net
 t1.clipkit.com
@@ -12235,6 +12260,7 @@ tag.aticdn.net
 tag.audience.acpm.fr
 tag.bounceexchange.com
 tag.contextweb.com
+tag.demandbase.com
 tag.digitaltarget.ru
 tag.email-attitude.com
 tag.heylink.com
@@ -12767,6 +12793,7 @@ traffic.acwebconnecting.com
 traffic.adxprts.com
 traffic.adxprtz.com
 traffic.buyservices.com
+traffic.cam4pays.com
 traffic.getmyads.com
 traffic.idmnet.pl
 traffic.incomeppc.com
@@ -12925,6 +12952,7 @@ udarem.com
 udc.yahoo.com
 udm.scorecardresearch.com
 udmserve.net
+udyvlcvsb.com
 udzpel.com
 ue.flipboard.com
 ue55qnkvwwmu-a.akamaihd.net
@@ -12967,6 +12995,7 @@ umekana.ru
 ums.adtech.de
 unagi-na.amazon.com
 unagi.amazon.de
+uncadyaewiajd.online
 unconf.adkmob.com
 undecliningestop.club
 under2given.com
@@ -13007,7 +13036,6 @@ uptimecdn.com
 urbae.com
 urban.adspirit.de
 urbanrentalmanagement.ca
-urednik.com
 uredy.top
 urhjoqudc.com
 urldelivery.com
@@ -13075,6 +13103,7 @@ uts.ngdata.com
 utubepwhml.com
 uuidksinc.net
 uv.pinkotri.com
+uyexajqrdpbqm.space
 uyrmpnojgzi.com
 uzluqqaoaw.net
 uzryxfiapfkojb.com
@@ -13836,6 +13865,7 @@ www.dfujqyjifvoe.com
 www.dgxmvglp.com
 www.dianomi.com
 www.displayvertising.com
+www.djfflcgkioyz.com
 www.dkbupulnfm.com
 www.dlfclcey.com
 www.dog-lives.xyz
@@ -13887,7 +13917,6 @@ www.fatalboy.pro
 www.fdbtvavxtfvpbx.com
 www.fdrptpyxchzjk.com
 www.feedgrabbr.com
-www.felixcloutier.com
 www.fhkfdgwtzueans.com
 www.fhpro.in
 www.fjbatbqiwpxydg.com
@@ -13938,6 +13967,7 @@ www.gsznojgkyw.com
 www.gtxfafvoohbc.com
 www.guvivqlbh.com
 www.gvmojhugkiud.com
+www.gwzynbrpzqtjkn.com
 www.gxfcbj.com
 www.heartynail.pro
 www.helltraffic.com
@@ -13969,6 +13999,8 @@ www.icjvfvoh.com
 www.icuazeczpeoohx.com
 www.icy-location.com
 www.idkyfrsbzesx.com
+www.idnwzmdo.com
+www.idxrcrvc.com
 www.ihqxhokndcfq.com
 www.ihstscptznir.com
 www.ildwicqrqazgjz.com
@@ -14016,6 +14048,7 @@ www.kbdadsfast.com
 www.kbnihnmrghgy.com
 www.kbzrszspknla.com
 www.kcehdslfcqva.com
+www.kecqbisxtvgo.com
 www.kehweuxmwwol.com
 www.kglmcsivtqcbj.com
 www.kgxnaenrozyuh.com
@@ -14040,6 +14073,7 @@ www.lansrv030.com
 www.lasagneandands.com
 www.launchbit.com
 www.lbaetmvw.com
+www.lbdcneidh.com
 www.lbfryfttoihl.com
 www.lcwfab1.com
 www.lcwfab2.com
@@ -14079,6 +14113,7 @@ www.mdwphtohwt.com
 www.meboayapb.com
 www.megdexchange.com
 www.mfhgehrnafra.com
+www.mfpqkvoaz.com
 www.mftracking.com
 www.mgrxsztbcfeg.com
 www.mjjjhfgqqpt.com
@@ -14222,6 +14257,7 @@ www.riiusmpebrims.com
 www.rivcash.com
 www.rkfodhkxmf.com
 www.rkvsbobyil.com
+www.rljnwvldhe.com
 www.rmcxyfqbm.com
 www.rnengage.com
 www.robycodbdvaaye.com
@@ -14401,6 +14437,7 @@ www.wishpond.com
 www.wizejdnlqwcb.com
 www.wlapdczzpceb.com
 www.wlbcqvral.com
+www.wmuomywxaouh.com
 www.wnmalshuld.com
 www.wnzmauurgol.com
 www.worldsbestcams.com

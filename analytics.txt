@@ -561,6 +561,7 @@ api.usercentrics.eu
 api.usercycle.com
 api.verticalscope.com
 api.viafoura.co
+api.weglot.com
 api.wipmania.com
 api.worldgravity.com
 api.xiti.com
@@ -1257,9 +1258,11 @@ cnn.sdk.beemray.com
 cnnglobal.122.2o7.net
 cnstats.ru
 cnstrc.com
+cnt.nuvid.com
 cnt.sup.com
 cnt.tubeon.com
 cnt.tyxo.bg
+cnt.vivatube.com
 cnt.wetteronline.de
 cnt.xhamster.com
 cntr.finx.lt
@@ -2170,6 +2173,7 @@ fitssheashasvs.info
 fl.reg.163.com
 flake.formr.io
 flcrcyj.com
+flepquix.com
 fleraprt.com
 flipkart.d1.sc.omtrdc.net
 floor.pbxai.com
@@ -4481,6 +4485,7 @@ ssl.mousestats.com
 ssm.codes
 ssp.rambler.ru
 ssp.zryydi.com
+sst.justetf.com
 sstatic1.histats.com
 sstats.adobe.com
 sstats.teenvogue.com
@@ -4836,6 +4841,7 @@ t.trafmag.com
 t.unblockia.com
 t.unbounce.com
 t.vi-serve.com
+t.yequka.my
 t.zqtk.net
 t1.clipkit.com
 t1.createsend1.com

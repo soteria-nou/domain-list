@@ -129,6 +129,7 @@ cdn.ketchjs.com
 cdn.klickly.com
 cdn.moengage.com
 cdn.onesignal.com
+cdn.optoutadvertising.com
 cdn.p-n.io
 cdn.privacy-mgmt.com
 cdn.pulpix.com
@@ -543,6 +544,7 @@ sv1-g011.us.intellitxt.com
 symbian-freak.us.intellitxt.com
 symbianone.us.intellitxt.com
 tacktech.uk.intellitxt.com
+tag.demandbase.com
 tagged.us.intellitxt.com
 talk.hyvor.com
 tastefulcelebs.us.intellitxt.com
