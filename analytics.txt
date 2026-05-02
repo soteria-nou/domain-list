@@ -819,6 +819,7 @@ brightcove.112.2o7.net
 broadsview.site
 brownshoe.112.2o7.net
 browser-intake-datadoghq.com
+browser-intake-datadoghq.eu
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com

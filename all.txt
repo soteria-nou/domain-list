@@ -3721,6 +3721,7 @@ bronze-tip.com
 brothersoft.us.intellitxt.com
 brownshoe.112.2o7.net
 browser-intake-datadoghq.com
+browser-intake-datadoghq.eu
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser.pipe.aria.microsoft.com
@@ -3908,6 +3909,7 @@ cache.celtra.com
 cache.ltvcms.com
 cache1.value-domain.com
 cackle.me
+cactusheadroomscaling.com
 cadence.112.2o7.net
 cadmus.script.ac
 cafemedia-d.openx.net
@@ -4478,7 +4480,6 @@ cgw1-237.hitbox.com
 cgw1-238.hitbox.com
 cgw1-239.hitbox.com
 chaipoksore.com
-chameleon.ad
 chamsoop.net
 chanmonitor.in
 channelintelligence.com
@@ -5010,6 +5011,7 @@ cruftexcision.xyz
 cruisecritic.d1.sc.omtrdc.net
 crumbs.robinhood.com
 crxcr2.com
+crxcra.com
 cryptohotinfo.com
 cryptoinfotop.com
 cryptotabbrowser.com
@@ -5407,7 +5409,6 @@ datemya.club
 dateoftheday.club
 dating-banners.com
 datoshop.engine.adglare.net
-dawirax.com
 db4zl9wffwnmb.cloudfront.net
 dbadk.nuggad.net
 dban.home.ch
@@ -6956,7 +6957,6 @@ gurgle.zdbb.net
 guru3d.us.intellitxt.com
 guruads.de
 gus.host
-guvivqlbh.com
 gvfkzyq.com
 gvmojhugkiud.com
 gw-services.vtrenz.net
@@ -7006,7 +7006,6 @@ hardocp.us.intellitxt.com
 hardwareanalysis.us.intellitxt.com
 hardwarezone.us.intellitxt.com
 harmony-central.us.intellitxt.com
-harrenmedianetwork.com
 hartattenuate.com
 hattepush.com
 hausgarten.de.intellitxt.com
@@ -9039,7 +9038,6 @@ nsclick.baidu.com
 nscontext.com
 nsfwadds.com
 nspmotion.com
-nssyawqyj.com
 nt.smartclick.net
 ntcompatible.us.intellitxt.com
 ntvpevnts.com
@@ -9048,6 +9046,7 @@ ntvpinp.com
 ntwkbc21.com
 nudespree.com
 nuevonoelmid.com
+nuggad.net
 nullsrefilliron.com
 nutattorneyjack.com
 nutiipwkk.com
@@ -10733,7 +10732,6 @@ rumds.wpdigital.net
 rumqrobuv.com
 run.admost.com
 runative-syndicate.com
-runicmaster.top
 runmibom.g02.ign.com
 ruptly-d.openx.net
 russellseemslept.com
@@ -10935,7 +10933,6 @@ s2768.t.eloqua.com
 s28.sitemeter.com
 s29.sitemeter.com
 s290.mxcdn.net
-s2block.com
 s2s.komoona.com
 s3.advarkads.com
 s3.atas.io
@@ -11435,7 +11432,6 @@ sm6.sitemeter.com
 sm7.sitemeter.com
 sm8.sitemeter.com
 sm9.sitemeter.com
-smachnakittchen.com
 smallfunnybears.com
 smallnetbuilder.us.intellitxt.com
 smart.idmnet.pl
@@ -12534,7 +12530,6 @@ top100.6hits.com
 top10binaryoption.net
 top25web.us.intellitxt.com
 topacity.info
-topcpmnetwork.com
 topdownloads.nl.intellitxt.com
 topkew.com
 toplist.cz
@@ -12574,7 +12569,6 @@ tr.pubnative.net
 tr.snapchat.com
 tr2.smarterhq.io
 tr5.myroitracking.com
-tr553.com
 trace.events
 trace.mediago.io
 trace.qq.com
@@ -12912,7 +12906,6 @@ twpasol.com
 txjdgm53.win
 ty0lm9uz.onet.pl
 tyfqjbuk.one
-tywzyhfliwdbu.com
 tz.ts.vindicosuite.com
 tzegilo.com
 tzgmnyuqcp.com
@@ -13255,7 +13248,6 @@ view.adbravotech.com
 view.ceros.com
 viewyentreat.guru
 vigraghe.net
-viiyhwln.com
 viiyutty.com
 vijcwykceav.com
 vikiislifx.xyz
@@ -14138,6 +14130,7 @@ www.nbcinrsnpbwsun.com
 www.nbcudigitaladops.com
 www.nbkaflrbqlkqx.com
 www.nbnefwuifvp.com
+www.ndkqmkozermzma.com
 www.nefrvjfkzus.com
 www.nerfherdersolo.com
 www.netvertising.be
@@ -14152,6 +14145,7 @@ www.nidmcptni.com
 www.njfqnenfifdy.com
 www.nklivofyjkbt.com
 www.nkzfdaoyujgib.com
+www.nlbeacjiogx.com
 www.nmhcroxspro.com
 www.nnbestmblotl.com
 www.npttech.com
@@ -14379,6 +14373,7 @@ www.tzgmnyuqcp.com
 www.udttmnper.com
 www.udyvlcvsb.com
 www.uhbixtfhwdtmd.com
+www.uhjzccaykdb.com
 www.uhqpnhorurueku.com
 www.ujgbihftmryof.com
 www.ujidhusjvmbfv.com
@@ -14752,11 +14747,9 @@ zawavnnukmha.com
 zc.merelsuvrou.qpon
 zcp.zwame.pt
 zd1.november-lax.com
-zdaptrksg.com
 zdbb.net
 zdstatic.speedtest.net
 zdwidget3-bs.sphereup.com
-zdxblxwjoees.com
 zeads.com
 zealotnetworks-d.openx.net
 zeegreen.net
