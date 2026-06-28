@@ -425,6 +425,7 @@ analytics.noction.com
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
 analytics.openload.co
+analytics.pangle-ads.com
 analytics.performable.com
 analytics.pnv.si
 analytics.porn-tube-club.com
@@ -1404,10 +1405,10 @@ cpx.golem.de
 cpx.smind.hr
 cpx.smind.si
 cpxl.golem.de
-cr_stats.upscore.com
 cr-frontend.weborama-tech.ru
 cr.acecounter.com
 cr3wc89sw3.global.ssl.fastly.net
+cr_stats.upscore.com
 cra.hum.works
 crain.d1.sc.omtrdc.net
 crashlyticsreports-pa.googleapis.com
@@ -2480,6 +2481,7 @@ hpe.tt.omtrdc.net
 hphqglobal.112.2o7.net
 hqx-qmp.quinstreet.com
 hr.hit.gemius.pl
+hsqtcuxfrglgq.site
 ht.pornhub.com
 ht.redtube.com
 ht.spankwire.com
@@ -2566,6 +2568,7 @@ in.effectivemeasure.net
 in.getclicky.com
 in.requestmetrics.com
 in.synapqueue.io
+inadsexchange.com
 incapsula.evyy.net
 incoming.telemetry.mozilla.org
 indiedays.spring-tns.net
@@ -2619,6 +2622,7 @@ ir-fr.amazon-adsystem.com
 ir-na.amazon-adsystem.com
 iris.tomshardware.com
 irishtimesgroup.112.2o7.net
+irjnfdvzzalpd.website
 issuu-d.openx.net
 istri.it
 it.112.2o7.net
@@ -2647,6 +2651,7 @@ joker.iprom.net
 joydorado.com
 jpmkbcgx-o.buzz
 js-eu1.hs-analytics.net
+js-eu1.hsadspixel.net
 js-webt-lol.9cache.com
 js.6dad.com
 js.agkn.com
@@ -2765,6 +2770,7 @@ lib.selfcampaign.com
 lib.trafit.com
 lib.vmweb.net
 librato-collector.genius.com
+libraweb-ttp2.tiktokw.eu
 libs.coremetrics.com
 libs.de.coremetrics.com
 licensing.bitmovin.com
@@ -3096,6 +3102,7 @@ mcc-tags.cisco.com
 mcclatchy.demdex.net
 mcclatchy.sc.omtrdc.net
 mcdote.com
+mcs-ie2.tiktokw.eu
 mcuwuxfuqb.com
 mdlbs.motor-talk.de
 mdstats.info
@@ -3204,6 +3211,7 @@ modularmental.com
 mojeigre.iprom.net
 mojsms.net
 moksoxos.com
+mon-i18n.tiktokv.com
 monarchracistsparkle.com
 mondelez.d3.sc.omtrdc.net
 mongo-good-server.ext.nile.works
@@ -5798,10 +5806,10 @@ zhanzhang.toutiao.com
 ziffdavisdesktoplinux.112.2o7.net
 ziffdavisenterprise.112.2o7.net
 ziffdavisglobal.112.2o7.net
-zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn509xlhdhyufqwrp-onion.siteintercept.qualtrics.com
 zn87b2gchqlbyp0jn-viacom.siteintercept.qualtrics.com
+zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
 zopim.com
 zor.livefyre.com
 zorwrite.com
