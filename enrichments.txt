@@ -107,6 +107,7 @@ cdn-ops.verloop.io
 cdn.adf.ly
 cdn.ampproject.org
 cdn.bitrix24.com
+cdn.by.wonderpush.com
 cdn.callbackhunter.com
 cdn.callibri.ru
 cdn.consentmanager.mgr.consensu.org
