@@ -258,6 +258,7 @@ adcz.hit.gemius.pl
 addfreestats.com
 addkt-d.openx.net
 adevents.neodatagroup.com
+adfstat.yandex.ru
 adhit.hit.stat.pl
 adlc-exchange.toast.com
 adlt.hit.gemius.pl
@@ -3075,6 +3076,7 @@ manning.postaffiliatepro.com
 mansfieldeffects.com
 manuretravelingaroma.com
 mapstats.blogflux.com
+market-baobab.yandex.ru
 marketing.contlo.com
 marketing.dropbox.com
 marketing.ecreativeworks.com
