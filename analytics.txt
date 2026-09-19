@@ -457,6 +457,7 @@ analytics.tmonews.com
 analytics.traderlink.com
 analytics.trendmicro.com
 analytics.unister.gmbh.de
+analytics.us.tiktok.com
 analytics.vecer.com
 analytics.vpsboard.com
 analytics.vyrl.co
@@ -497,6 +498,7 @@ ape-tagit.timeinc.net
 apetite.index.hr
 apex.go.sonobi.com
 api-2-0.spot.im
+api-abtest-cdn.learnings.ai
 api-analista.icons8.com
 api-http-lb.vadio.com
 api-id.midbound.ai
@@ -539,6 +541,7 @@ api.instabug.com
 api.intellimize.co
 api.keen.io
 api.lab.amplitude.com
+api.learnings.ai
 api.lever.co
 api.mixpanel.com
 api.myx.cz
@@ -1769,6 +1772,7 @@ drs2.veinteractive.com
 ds-aksb-a.akamaihd.net
 ds360.co
 dsa.csdata1.com
+dsp52.adplsr.com
 dsv2-lifebuzz-d.openx.net
 dtag01.webtrekk.net
 dtlilztwypawv.cloudfront.net
@@ -2087,6 +2091,7 @@ eurts.com
 eus.rubiconproject.com
 euweaj49.appmetrx.com
 eva2.csdn.net
+event-portal.dailyinnovation.biz
 event.adxpose.com
 event.inner-active.mobi
 event.wired.com
@@ -2438,6 +2443,7 @@ heise.ivwbox.de
 heise.met.vgwort.de
 heise01.webtrekk.net
 hello.staticstuff.net
+hermes-api.learnings.ai
 hetzner.piwikpro.com
 hewmjifrn4gway.com
 hexagon-analytics.com
@@ -3142,6 +3148,7 @@ medicaldevicelink.112.2o7.net
 medrx.telstra.com.au
 membershipimmunitysport.com
 mentorgraphics.122.2o7.net
+meowdokulink.onelink.me
 mercedesamg.d3.sc.omtrdc.net
 mercedezbenzusallc.tt.omtrdc.net
 merequartz.com
