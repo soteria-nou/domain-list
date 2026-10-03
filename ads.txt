@@ -513,7 +513,6 @@ ad.purepc.pl
 ad.pxlad.io
 ad.radio.si
 ad.reachlocal.com
-ad.realcastmedia.com
 ad.realist.gen.tr
 ad.reklamport.com
 ad.rich1.adbn.ru
@@ -1380,7 +1379,6 @@ ads.radiocapris.si
 ads.radiosarajevo.ba
 ads.rcs.it
 ads.reachlogicmedia.com
-ads.realcastmedia.com
 ads.realsrv.com
 ads.realtechnetwork.net
 ads.rebubbled.com
@@ -2092,6 +2090,7 @@ akdapi.com
 akftfiam.com
 akkmakpi.com
 al.gangwafriend.com
+alaphoid.com
 alas4kanmfa6a4mubte.com
 alfalt.adocean.pl
 alibestru.ru
@@ -3042,6 +3041,7 @@ coolbearsdaily54.com
 coosync.com
 copycarpenter.com
 core.ad20.net
+core.dreamserve.dev
 corn.honeytouch.bid
 correlationcocktailinevitably.com
 cotads.adscale.de
@@ -3976,6 +3976,7 @@ htl-cdn.adtng.com
 htl.bid
 htlb.casalemedia.com
 htlbid.com
+html-load.cc
 hts68934.com
 httpool.nuggad.net
 hu.slushedencaged.com
@@ -4332,6 +4333,7 @@ lduhtrp.net
 ldytvyqvj.com
 leadback.advertising.com
 leads.specificmedia.com
+learningsmt.onelink.me
 leftbedroom.com
 lehoacku.net
 lepinsar.com
@@ -4402,6 +4404,7 @@ lpm-lagardere.nuggad.net
 lpm-mondadori.nuggad.net
 lqtiwevsan.com
 lrcm.amgdgt.com
+lremsteo.net
 lrytaslt.adocean.pl
 lt.adocean.pl
 ltecwalahri.com
@@ -6446,6 +6449,7 @@ viraj-drm.com
 virallupdates.com
 visualtis.com
 vitalads.net
+vivodemisrentas.net
 vjtwcbqpmegd.com
 vkitfufickpy.com
 vknrfwwxhxaxupqp.pro

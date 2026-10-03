@@ -5173,6 +5173,7 @@ tracking.bodis.com
 tracking.callmeasurement.com
 tracking.cdiscount.com
 tracking.conversionlab.it
+tracking.diginetica.net
 tracking.esearchvision.com
 tracking.eu.antskre.com
 tracking.fahrrad.de

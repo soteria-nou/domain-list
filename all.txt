@@ -817,7 +817,6 @@ ad.pxlad.io
 ad.radio.si
 ad.rambler.ru
 ad.reachlocal.com
-ad.realcastmedia.com
 ad.realist.gen.tr
 ad.reklamport.com
 ad.rich1.adbn.ru
@@ -1189,6 +1188,7 @@ adnetwork.com.br
 adnetwork.net
 adnetxchange.com
 adnext.fr
+adnigma.com
 adnow.tech
 adnxs.com
 ado.pro-market.net
@@ -1726,7 +1726,6 @@ ads.radiocapris.si
 ads.radiosarajevo.ba
 ads.rcs.it
 ads.reachlogicmedia.com
-ads.realcastmedia.com
 ads.realsrv.com
 ads.realtechnetwork.net
 ads.rebubbled.com
@@ -1949,6 +1948,7 @@ ads16.focalink.com
 ads17.focalink.com
 ads18.focalink.com
 ads19.focalink.com
+ads2-adnow.com
 ads2.adverline.com
 ads2.auctionads.com
 ads2.blastro.com
@@ -1985,6 +1985,7 @@ ads23.focalink.com
 ads24.focalink.com
 ads25.focalink.com
 ads2srv.com
+ads3-adnow.com
 ads3.blastro.com
 ads3.monitor.hr
 ads33.adtelligent.com
@@ -2398,7 +2399,6 @@ adxsrver.com
 adxxx.info
 adxxx.me
 adyard.de
-adyea.com
 adyoulike.api.omnitagjs.com
 adyoulike.omnitagjs.com
 adyoz.com
@@ -2589,6 +2589,7 @@ akkmakpi.com
 aktrack.pubmatic.com
 al.gangwafriend.com
 alamut.iprom.si
+alaphoid.com
 alas4kanmfa6a4mubte.com
 alb.reddit.com
 albinoblacksheep.us.intellitxt.com
@@ -3673,6 +3674,7 @@ block.s2block.com
 blockadsnot.com
 blockedvideoss.xyz
 blockmetrics.com
+blog-hits.com
 blog.ivwbox.de
 blogad.com.tw
 blogads.com
@@ -4894,6 +4896,7 @@ coosync.com
 copycarpenter.com
 coral.condenastdigital.com
 core.ad20.net
+core.dreamserve.dev
 core.iprom.net
 coreroot.com
 corn.honeytouch.bid
@@ -7074,6 +7077,7 @@ hardwareanalysis.us.intellitxt.com
 hardwarezone.us.intellitxt.com
 harmony-central.us.intellitxt.com
 hartattenuate.com
+hats-47b.com
 hattepush.com
 hausgarten.de.intellitxt.com
 hawk.tomshardware.com
@@ -7255,6 +7259,7 @@ htl-cdn.adtng.com
 htl.bid
 htlb.casalemedia.com
 htlbid.com
+html-load.cc
 htmlmsnportal.112.2o7.net
 hts68934.com
 httpool.com
@@ -7980,6 +7985,7 @@ lead.adsender.us
 leadback.advertising.com
 leads.demandbase.com
 leads.specificmedia.com
+learningsmt.onelink.me
 lecjdleexhi.com
 leeenterprises.112.2o7.net
 leftbedroom.com
@@ -8357,6 +8363,7 @@ lpm-mondadori.nuggad.net
 lptag.liveperson.net
 lqtiwevsan.com
 lrcm.amgdgt.com
+lremsteo.net
 lrytaslt.adocean.pl
 ls.hit.gemius.pl
 ls.webmd.com
@@ -8841,6 +8848,7 @@ mssdk-va.tiktok.com
 mssg.me
 mswmwpapolloprod.122.2o7.net
 mt.9gag.com
+mtburn.com
 mtg.banneradministration.com
 mtg100008.112.2o7.net
 mtm.ntl.cloud
@@ -10456,6 +10464,7 @@ r.mradx.net
 r.nexeps.com
 r.openx.net
 r.remarketingpixel.com
+r.sascdn.com
 r.stygg.xyz
 r.teads.tv
 r.trwl1.com
@@ -10675,6 +10684,7 @@ revive.bocoup.com
 revive.mladipodjetnik.si
 revive.yelsterdigital.com
 revolvemockerycopper.com
+revsci.net
 rewardarium.com
 rewardsaffiliates.com
 rf.revolvermaps.com
@@ -10831,7 +10841,6 @@ rtst.122.2o7.net
 rtt.adrolays.de
 rtzbpsy.com
 ru-gmtdmp.mookie1.com
-rubigame.com
 rudy.adsnative.com
 ruglhiahxam.com
 rum-http-intake.logs.datadoghq.com
@@ -10979,7 +10988,6 @@ s.zkcdn.net
 s.zlink3.com
 s.zmctrack.net
 s0-greate.net
-s0.2mdn.net
 s0.ipstatp.com
 s06.flagcounter.com
 s07.flagcounter.com
@@ -12840,6 +12848,7 @@ tracking.bol.com
 tracking.callmeasurement.com
 tracking.cdiscount.com
 tracking.conversionlab.it
+tracking.diginetica.net
 tracking.esearchvision.com
 tracking.eu.antskre.com
 tracking.fahrrad.de
@@ -13361,6 +13370,7 @@ vice-publishers-cdn.vice.com
 vice-publishers.s3.amazonaws.com
 vicoteka.com
 vid.springserve.com
+vid4u.org
 vidasco.rotator.hadj7.adjuggler.net
 vidcpm.com
 video-ads-module.ad-tech.nbcuni.com
@@ -13410,6 +13420,7 @@ visor.sberbank.ru
 visualtis.com
 vitalads.net
 vitals.vercel-insights.com
+vivodemisrentas.net
 vixnixxer.com
 vjtwcbqpmegd.com
 vkitfufickpy.com
