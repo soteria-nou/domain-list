@@ -4025,6 +4025,7 @@ rss.xiti.com
 rssinterne.xiti.com
 rssxiti.xiti.com
 rst.pornyhd.com
+rstats.n26.com
 rt.analytics.anvato.net
 rt.applovin.com
 rt.fastly.com
@@ -4956,6 +4957,7 @@ telegraph.sdk.beemray.com
 telemetry.api.wmcdp.io
 telemetry.eyeo.com
 telemetry.jivosite.com
+telemetry.proton.me
 telemetry.tradingview.com
 telemetry.transcend.io
 telenorstartsiden.112.2o7.net

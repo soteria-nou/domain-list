@@ -3539,6 +3539,7 @@ bbnaut.ibillboard.com
 bbrdbr.com
 bbva.112.2o7.net
 bc.nxp.com
+bcajhqncvpgou.website
 bcbb.rubiconproject.com
 bcgame-bcallmain-mirror2.com
 bcprm.com
@@ -5136,6 +5137,7 @@ cvwr.hitbox.com
 cx.atdmt.com
 cxjptjkdgvqw.com
 cxnadcribh.com
+cxxjkmdjn.com
 cybersoftwaresolutions.122.2o7.net
 cybkit.com
 cynicalalmighty.com
@@ -5591,6 +5593,7 @@ devlogin.hitbox.com
 devnull.perfops.net
 devshed.us.intellitxt.com
 dewsburg.info
+dezacibesodexi.com
 df6pt2obl092n.cloudfront.net
 dfapvmql-q.global.ssl.fastly.net
 dff7tx5c2qbxc.cloudfront.net
@@ -5795,6 +5798,7 @@ dtrk.slimcdn.com
 du0pud0sdlmzf.cloudfront.net
 du8783wkf05yr.cloudfront.net
 dufibepe.com
+dugygysn.com
 duhtate.ru
 dularkqkeo.com
 dulcormutated.com
@@ -6207,6 +6211,7 @@ enterprise.hitbox.com
 entertai.ivwbox.de
 entertainment.msnbc.us.intellitxt.com
 entitlements.jwplayer.com
+enverkxou.com
 environmentals.tt.omtrdc.net
 eoredi.com
 ep.1a-ads.si
@@ -6880,6 +6885,7 @@ go.imkirh.com
 go.koten.zone
 go.lavastone.gq
 go.livemovies.tv
+go.marzaent.com
 go.mnaspm.com
 go.mobidowr.com
 go.mobiprotg.com
@@ -6898,6 +6904,7 @@ go.pushnative.com
 go.realvu.net
 go.reebr.com
 go.rmhfrtnd.com
+go.rmishe.com
 go.rmshqa.com
 go.rmzsglng.com
 go.schjmp.com
@@ -6948,7 +6955,6 @@ goodworldwide-d.openx.net
 google-analytics.com
 google-analytics.ga
 googleads.g.doubleclick.net
-googleads4.g.doubleclick.net
 googleadservicepixel.com
 googleadservices.com
 googlesyndication.com
@@ -7534,6 +7540,7 @@ inpp-ssp-trk.nxtpsh.com
 inpref.com
 input-drivers.us.intellitxt.com
 ins.techweb.com
+insbrvwfrcgb.com
 inserta.dognet.systems
 insight.adsrvr.org
 insight.torbit.com
@@ -7839,6 +7846,7 @@ kaminari.systems
 karma.mdpcdn.com
 karriere.oewabox.at
 kaskus.us
+kat.cr
 kbalertz.us.intellitxt.com
 kcart.alipay.com
 kd.bromalsbroke.top
@@ -8494,6 +8502,7 @@ markets.financialcontent.com
 markreptiloid.com
 marshalcurve.com
 martech.condenastdigital.com
+marzaent.com
 mas.nth.ch
 masachxzuz.com
 mashable.d2.sc.omtrdc.net
@@ -8952,6 +8961,7 @@ nadryvqnouzm.com
 naiwoalooca.net
 najdi.d3.sc.omtrdc.net
 nakanohito.jp
+namebrain.org
 namesakeoscilloscopemarquis.com
 nan46ysangt28eec.com
 nanouwho.com
@@ -9774,6 +9784,7 @@ peuru.com
 pezrphjl.com
 pfa.levexis.com
 pfiles.5min.com
+pgfjqiqeylqmc.online
 pglb.buzzfed.com
 pgrabprecomania.112.2o7.net
 ph2dwb.oloadcdn.net
@@ -9820,6 +9831,7 @@ pinprickplums.com
 piop7shm.com
 pipeaota.com
 pipedream.wistia.com
+pipefulx.com
 pipeschannels.com
 pippio.com
 pisarna.iprom.si
@@ -9997,7 +10009,6 @@ pl5163.putags.com
 pl6447009.puhtml.com
 pl6452454.puhtml.com
 placehold.it
-placeholder.com
 placement-prd.jwpltx.com
 planck.xiti.com
 planetamd64.us.intellitxt.com
@@ -10399,6 +10410,7 @@ qckclk.com
 qdlbdpsctalt.com
 qebpwkxjz.com
 qecposcefnjd.com
+qertewrt.com
 qeryz.com
 qezaznqixkxslm.com
 qfgtepw.com
@@ -10727,6 +10739,7 @@ rmgpostofficecoukprod.112.2o7.net
 rmgroyalmailcom.112.2o7.net
 rmhfrtnd.com
 rmhumi.com
+rmishe.com
 rms.nuggad.net
 rmsi.nuggad.net
 rmtckjzct.com
@@ -10798,6 +10811,7 @@ rss.xiti.com
 rssinterne.xiti.com
 rssxiti.xiti.com
 rst.pornyhd.com
+rstats.n26.com
 rsz.sk
 rt.analytics.anvato.net
 rt.applovin.com
@@ -10988,6 +11002,7 @@ s.zkcdn.net
 s.zlink3.com
 s.zmctrack.net
 s0-greate.net
+s0.2mdn.net
 s0.ipstatp.com
 s06.flagcounter.com
 s07.flagcounter.com
@@ -11728,6 +11743,7 @@ sr1.liveperson.net
 sra.s-9.us
 src.ebay-us.com
 src.litix.io
+srcsmrtgs.com
 srepdata.usatoday.com
 srowpxhaqzskt.com
 srv.adngin.com
@@ -12411,7 +12427,6 @@ tag.wknd.ai
 tag.yieldoptimizer.com
 tag1.adaptiveads.com
 tagan.adlightning.com
-tagcade.com
 tagged.us.intellitxt.com
 tagger.opecloud.com
 tagmanager.schneider-electric.com
@@ -12503,6 +12518,7 @@ telegraph.sdk.beemray.com
 telemetry.api.wmcdp.io
 telemetry.eyeo.com
 telemetry.jivosite.com
+telemetry.proton.me
 telemetry.tradingview.com
 telemetry.transcend.io
 telenorstartsiden.112.2o7.net
@@ -13420,6 +13436,8 @@ visor.sberbank.ru
 visualtis.com
 vitalads.net
 vitals.vercel-insights.com
+vitting.org
+vivefitcoffe.com
 vivodemisrentas.net
 vixnixxer.com
 vjtwcbqpmegd.com
@@ -13907,6 +13925,7 @@ www.asecxggulyrf.com
 www.avantlink.com
 www.avmjvrhqsmqsnh.com
 www.avsads.com
+www.avylshidkaggoj.com
 www.awlsqqofnkse.com
 www.bbkxmpgjwo.bid
 www.bdkundkfutc.com
@@ -13993,6 +14012,7 @@ www.crxcr2.com
 www.curlybottom.com
 www.cutestat.com
 www.cwchmb.com
+www.cxxjkmdjn.com
 www.cyzdyiccpwx.com
 www.da-ads.com
 www.dapkgviodzzj.com
@@ -14021,6 +14041,7 @@ www.drivenetwork.ru
 www.driverfix.com
 www.dsply.com
 www.dtnpyvmqqvvgq.com
+www.dugygysn.com
 www.dvtndeuthhggb.com
 www.dvtnrwppxk.com
 www.dwentymgplvrizqhieugzkozmqjxrxcyxeqdjvcbjmrhnkguwk.com
@@ -14045,6 +14066,7 @@ www.ekhwbzfks.com
 www.elephant-ads.com
 www.emg-network.com
 www.empirikanet.com
+www.enverkxou.com
 www.eoemyywmjx.com
 www.epyqerhah.com
 www.espace-plus.net
@@ -14107,6 +14129,7 @@ www.goat.cx
 www.goatse.ca
 www.good-lives.biz
 www.google-analytics.com
+www.googleadservices.com
 www.googlecommerce.com
 www.googleoptimize.com
 www.googletagmanager.com
@@ -14315,6 +14338,7 @@ www.nhynbqdf.com
 www.nidmcptni.com
 www.njfqnenfifdy.com
 www.nklivofyjkbt.com
+www.nkponiwka.com
 www.nkzfdaoyujgib.com
 www.nlbeacjiogx.com
 www.nmhcroxspro.com
@@ -14477,6 +14501,7 @@ www.sponsorads.de
 www.spot.im
 www.springboardplatform.com
 www.sqnwmwnwok.com
+www.sqxbkrmtgei.com
 www.srfhtrjzvf.com
 www.srowpxhaqzskt.com
 www.stack-sonar.com
@@ -14778,6 +14803,7 @@ xitiad6.xiti.com
 xitiv6.xiti.com
 xl.condyleboggart.com
 xl.topstat.com
+xl415.com
 xliirdr.com
 xlirdr.com
 xlivrdr.com
@@ -14816,7 +14842,6 @@ xmlclick.adzestocp.com
 xngqoc.com
 xob.miranus.com
 xoredi.com
-xouzmvlt.com
 xp.apple.com
 xp1.zedo.com
 xpicw.top
@@ -15008,3 +15033,4 @@ zybrdr.com
 zz.2.cqcounter.com
 zz.connextra.com
 zzamwyjmikk.com
+zzymvbnjepmly.website
